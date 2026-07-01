@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EasyNews — Últimas noticias en español</title>
+    <meta
+      name="description"
+      content="Portada con las últimas noticias en español de medios de todo el mundo, actualizada cada hora."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=Inter:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="wrap header-inner">
+        <div class="brand">
+          <span class="brand-mark" aria-hidden="true"></span>
+          <div>
+            <h1 class="brand-name">Easy<span>News</span></h1>
+            <p class="brand-tag">Últimas noticias en español, de todo el mundo</p>
+          </div>
+        </div>
+        <div class="header-meta">
+          <span id="updated" class="updated"></span>
+          <button id="refresh" class="btn-refresh" type="button" title="Actualizar">
+            <span class="refresh-icon" aria-hidden="true">↻</span>
+            <span>Actualizar</span>
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <div class="controls">
+      <div class="wrap controls-inner">
+        <label class="search" for="search">
+          <span class="search-icon" aria-hidden="true">⌕</span>
+          <input
+            id="search"
+            type="search"
+            placeholder="Buscar titulares o medios…"
+            autocomplete="off"
+          />
+        </label>
+        <div id="chips" class="chips" role="group" aria-label="Filtrar por país"></div>
+      </div>
+    </div>
+
+    <main class="wrap">
+      <p id="status" class="status">Cargando noticias…</p>
+      <section id="grid" class="grid" aria-live="polite"></section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrap">
+        <p>
+          EasyNews agrega titulares vía RSS. El contenido pertenece a cada medio;
+          haz clic para leer la nota en su sitio original.
+        </p>
+      </div>
+    </footer>
+
+    <script src="js/app.js" defer></script>
+  </body>
+</html>
