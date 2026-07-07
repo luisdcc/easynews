@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-07T21:04:45.507Z",
-  "count": 243,
+  "updatedAt": "2026-07-07T21:32:35.223Z",
+  "count": 258,
   "sources": [
     {
       "id": "20minutos",
@@ -63,6 +63,12 @@
       "countryLabel": "Colombia"
     },
     {
+      "id": "euronews",
+      "name": "Euronews Español",
+      "country": "INT",
+      "countryLabel": "Internacional"
+    },
+    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -113,6 +119,642 @@
   ],
   "items": [
     {
+      "id": "b288b7395413",
+      "title": "VÍDEO: Sánchez defiende en Ankara el compromiso de España con la OTAN tras las críticas de Trump a los aliados",
+      "link": "https://www.infobae.com/america/agencias/2026/07/07/video-sanchez-defiende-en-ankara-el-compromiso-de-espana-con-la-otan-tras-las-criticas-de-trump-a-los-aliados/",
+      "image": "https://www.infobae.com/resizer/v2/MECZEGBILNEIHEFTWC752AO7TY.jpg?auth=93174af639e3aaf6601866542b6bc4915ece3dbed1d3919636aa2b7d33927581&smart=true&width=1920&height=1260",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:30:46.000Z"
+    },
+    {
+      "id": "3cd3a2dd659a",
+      "title": "E.UU. lanza ataques contra Irán tras acusarlo de atacar barcos comerciales en Ormuz",
+      "link": "https://www.infobae.com/america/agencias/2026/07/07/euu-lanza-ataques-contra-iran-tras-acusarlo-de-atacar-barcos-comerciales-en-ormuz/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:30:38.000Z"
+    },
+    {
+      "id": "a35e14019b94",
+      "title": "Columbia Británica prepara acciones legales contra OpenAI por la matanza de Tumbler Ridge",
+      "link": "https://www.infobae.com/america/agencias/2026/07/07/columbia-britanica-prepara-acciones-legales-contra-openai-por-la-matanza-de-tumbler-ridge/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:30:21.000Z"
+    },
+    {
+      "id": "1c4ef384a135",
+      "title": "Alianza Atlético refuerza su delantera para Liga 1 2026: anunció las contrataciones de José María Ingratti y Jairo Molina",
+      "link": "https://www.infobae.com/peru/deportes/2026/07/07/alianza-atletico-refuerza-su-delantera-para-liga-1-2026-anuncio-las-contrataciones-de-jose-maria-ingratti-y-jairo-molina/",
+      "image": "https://www.infobae.com/resizer/v2/S7H4S7IRMBHP3MP5M7OYJ542OM.jpg?auth=467e13ff3ffae1aa1764f789a4a960cdf43fd6a7c023fc2433afd05869675f51&smart=true&width=1920&height=1080",
+      "snippet": "El área deportiva de la entidad sullanense abrochó las incorporaciones de ambos atacantes, quienes llegan libres desde Deportivo Riestra y Boyacá Chicó, respectivamente",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:30:20.000Z"
+    },
+    {
+      "id": "8b83087f4176",
+      "title": "El comercio exterior detrás del aire que climatiza hospitales y hogares",
+      "link": "https://www.infobae.com/movant/2026/07/06/el-comercio-exterior-detras-del-aire-que-climatiza-hospitales-y-hogares/",
+      "image": "https://www.infobae.com/resizer/v2/GSC6WPKNZND3BERVF5TS5OKGCU.jpg?auth=3f1ab8f5822141e8c8112748c8d5ca108a2dd3258ea672e27d99405899feb0c8&smart=true&width=1920&height=1080",
+      "snippet": "Manuel Mancebo, profesional de comercio internacional, explica cómo la tecnología importada, la inteligencia artificial y la logística marítima determinan hoy la operación del sect",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:30:19.000Z"
+    },
+    {
+      "id": "3f7b4e2ec751",
+      "title": "Suiza - Colombia : Mundial 2026, en directo | Los helvéticos salen más enchufados en la segunda parte",
+      "link": "https://elpais.com/america-colombia/2026-07-07/suiza-colombia-en-directo-partido-de-octavos-de-final-del-mundial-2026-en-vivo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/ZJI3TKPN6ZM7BHDMIFFK4N4CNA.jpg?auth=ba5062cc82263e448cd00d1a2b17a0b3460d79aeeff857ebf2337643b9045af9",
+      "snippet": "Suiza cede algo más el balón a los colombianos, pero hay ocasiones en ambas áreas | Los helvéticos han tenido tres acciones claras de gol, pero la más peligrosa la han tenido los d",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-07T21:29:52.000Z"
+    },
+    {
+      "id": "6306dbaf7c5d",
+      "title": "EEUU acusa de narcoterrorismo a Carlitos Rugrats, presunto líder criminal vinculado con Los Mayos del Cártel de Sinaloa",
+      "link": "https://www.infobae.com/mexico/2026/07/07/eeuu-acusa-de-narcoterrorismo-a-carlitos-rugrats-presunto-lider-criminal-vinculado-con-los-mayos-del-cartel-de-sinaloa/",
+      "image": "https://www.infobae.com/resizer/v2/XZHQLF7NB5DSTH6M2YLYY66LF4.jpg?auth=fcd8598e5d368c903a8128f8cabd9bfa5729fe63e7b376c84ebc72cd4a734409&smart=true&width=1280&height=720",
+      "snippet": "La Fiscalía del Distrito Sur de California presentó este martes siete cargos federales por diversos delitos contra la presunta cabeza de “Los Rugrats”",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:29:36.000Z"
+    },
+    {
+      "id": "1748031aa937",
+      "title": "Aura Cristina Geithner tiene abierta la posibilidad de volver a ser madre y contó detalles de su relación: “Tengo un colágeno”",
+      "link": "https://www.infobae.com/colombia/2026/07/07/aura-cristina-geithner-tiene-abierta-la-posibilidad-de-volver-a-ser-madre-y-conto-detalles-de-su-relacion-tengo-un-colageno/",
+      "image": "https://www.infobae.com/resizer/v2/SWOMP6ZCDVB6XOS577L6FCY2ZU.jpg?auth=a4fe14bbafbb94971005b2be6e79d597b73d4193141e0c9bbbaef1a0299f512b&smart=true&width=895&height=564",
+      "snippet": "La famosa aseguró en una entrevista que vive su presente amoroso sin presiones, aunque no cierra del todo la posibilidad de tener otro hijo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:29:12.000Z"
+    },
+    {
+      "id": "99245f144f2f",
+      "title": "Alejandro Duarte enfrenta en vivo a Diego Rebagliati por sus comentarios sobre su estilo como arquero: “La crítica es parte del fútbol”",
+      "link": "https://www.infobae.com/peru/deportes/2026/07/07/alejandro-duarte-enfrenta-en-vivo-a-diego-rebagliati-por-sus-comentarios-sobre-su-estilo-como-arquero-la-critica-es-parte-del-futbol/",
+      "image": "https://www.infobae.com/resizer/v2/HOX5BX7KUZF4VAHG6BE3KMKWPA.jpg?auth=a1aeb28339ccd8849627f3e0094cf01096c9fdbe803dfc0ca083506f93d28ded&smart=true&width=1920&height=979",
+      "snippet": "La discusión se dio durante una emisión de Fútbol satélite, cuando el guardameta de Alianza Lima rechazó una etiqueta repetida en el Apertura 2026 y afirmó que se difundieron afirm",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:28:57.000Z"
+    },
+    {
+      "id": "560440024669",
+      "title": "Cuánto cuesta la Volkswagen Taos en julio 2026",
+      "link": "https://www.lanacion.com.ar/autos/cuanto-cuesta-la-volkswagen-taos-en-julio-2026-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/BKIQXEIWPRDT7DU2CCWFW3F7DE.webp?auth=63171f33e1a89760914be6968c413229c286819d3b90efbd0b87638f0428d8eb&smart=true&width=1920&height=1152",
+      "snippet": "El SUV mediano de la automotriz alemana ya tiene sus nuevos precios para este séptimo mes del año",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:28:18.000Z"
+    },
+    {
+      "id": "bf6ae2b5b925",
+      "title": "Una automotriz japonesa ofrece sus autos en cuotas a tasa 0 y rebajas de hasta US$5000",
+      "link": "https://www.lanacion.com.ar/autos/una-automotriz-japonesa-ofrece-sus-autos-en-cuotas-a-tasa-0-y-rebajas-de-hasta-us5000-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/KQIJ24T3FFEKNLEMQ4M2WTXRYE.JPG?auth=41d2bc3db1127dc4ec4e08cd9ccedb8e8a892ba0f0d5c60753959ce8b8f82257&smart=true&width=6664&height=4443",
+      "snippet": "Honda viene de crecer en ventas frente a 2025 y se apalanca en la financiación para continuar en crecimiento en medio de un mercado con signos de retracción",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:28:14.000Z"
+    },
+    {
+      "id": "bf9367049cd5",
+      "title": "Un gremio le pide a Milei que declare asueto por el triunfo de Argentina: “Los trabajadores se lo merecen”",
+      "link": "https://www.lanacion.com.ar/politica/un-gremio-le-pide-a-milei-que-declare-asueto-por-el-triunfo-de-argentina-los-trabajadores-se-lo-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/23IYHATUGFEEPDFORPGJT7OVZU.jpg?auth=fbbb065777d493ec392ad0b9447218843019ed2747a7f3eecea7b976ef60299b&smart=true&width=2000&height=1333",
+      "snippet": "Los estatales de ATE reclamaron una medida como en Paraguay para que el mandatario libertario demuestre su “sentir nacional”",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:28:11.000Z"
+    },
+    {
+      "id": "b2e4508cfe04",
+      "title": "Qué significa la calcomanía de color rojo y amarillo en los autos y quiénes deben usarla",
+      "link": "https://www.lanacion.com.ar/autos/que-significa-la-calcomania-de-color-rojo-y-amarillo-en-los-autos-y-quienes-deben-usarla-nid05072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/U4UXIBGKWZGGHAGSK6ZVCLP7AA.jpeg?auth=44b775fe4f0185a32a388647c87b9dfd8a829020221c9bd3a245f2f191bc257a&smart=true&width=2000&height=1333",
+      "snippet": "Existe una provincia de la Argentina que regula el uso de esta chapa o calcomanía identificatoria: para qué sirve",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:28:10.000Z"
+    },
+    {
+      "id": "a4e588bb64d7",
+      "title": "Sport Huancayo oficializó el fichaje del paraguayo Juan José Giménez: ‘rojo matador’ se alista para el debut ante Alianza Lima",
+      "link": "https://www.infobae.com/peru/deportes/2026/07/07/sport-huancayo-oficializo-el-fichaje-del-paraguayo-juan-jose-gimenez-rojo-matador-se-alista-para-el-debut-ante-alianza-lima/",
+      "image": "https://www.infobae.com/resizer/v2/6DNIMWPDZFDPVBAJV3VWOQSWIE.jpg?auth=aa8d3fd31f3aaa13e3d055af4d5d2c9a686c82fc92d6b0ac20aad21e5f5fda8f&smart=true&width=1920&height=1113",
+      "snippet": "El conjunto huancaíno confirmó la llegada del extremo para reforzar su banda derecha en el segundo torneo del año con la mira puesta en mejorar su rendimiento en la segunda parte d",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:28:03.000Z"
+    },
+    {
+      "id": "65d63e209844",
+      "title": "Colombia vs. Suiza EN VIVO Mundial 2026: Juan Fernando Quintero ingresó al partido en Vancouver",
+      "link": "https://www.infobae.com/colombia/deportes/2026/07/07/colombia-vs-suiza-en-vivo-la-tricolor-se-juega-el-pase-a-los-cuartos-de-final-del-mundial-2026/",
+      "image": "https://www.infobae.com/resizer/v2/ZY5IYV3E6NCDVOOJ4OPSIR46AI.JPG?auth=904ba3127d1b75b3667f5e2cd51b1bb2b45ef53d3581b4303188e96c726d8ee2&smart=true&width=4793&height=3271",
+      "snippet": "Las dos selecciones luchan en el BC Place por un lugar entre los ocho mejores de la Copa de la FIFA y el ganador se medirá con Argentina",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:27:32.000Z"
+    },
+    {
+      "id": "a5990c5bdcd1",
+      "title": "Icetex abrió becas 2026 para posgrados y cursos en el exterior: oportunidades en cinco países para maestrías y formación avanzada",
+      "link": "https://www.infobae.com/colombia/2026/07/07/icetex-abrio-becas-2026-para-posgrados-y-cursos-en-el-exterior-oportunidades-en-cinco-paises-para-maestrias-y-formacion-avanzada/",
+      "image": "https://www.infobae.com/resizer/v2/SIQ5CF5IANFNXFTH3O5QKHXJHI.jpg?auth=241ef543e7a28913ced223648e5e55daeaacd2f95eb5372c352905c87a3ada88&smart=true&width=1920&height=1080",
+      "snippet": "La entidad divulgó opciones presenciales y en línea para profesionales y funcionarios, con apoyos parciales o totales en Portugal, España, México, Turquía y Singapur",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:27:26.000Z"
+    },
+    {
+      "id": "577e5fc06e96",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy martes 7 de julio: lluvias con descargas eléctricas en estas zonas de Nayarit, Colima, Jalisco, Michoacán y Guanajuato",
+      "link": "https://www.infobae.com/mexico/2026/07/07/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-martes-7-de-julio/",
+      "image": "https://www.infobae.com/resizer/v2/HURN5OXGHFCMZNFRZ3NHVCXOVM.png?auth=f6e95b15f433a36a9298e533d25bfd7b8ca8cca952c1f5d26591ee43c17b5973&smart=true&width=1671&height=940",
+      "snippet": "Sigue en tiempo real las actualizaciones del pronóstico del clima en los distintos estados de la República Mexicana",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:27:23.000Z"
+    },
+    {
+      "id": "db9739ddc4a1",
+      "title": "El Gobierno define los cambios en la Carta Orgánica del BCRA y avanza con un proyecto de “cierre” del Estado como en EEUU",
+      "link": "https://www.infobae.com/economia/2026/07/07/milei-se-reune-con-caputo-sturzenegger-y-bausili-en-olivos-para-definir-los-cambios-en-la-carta-organica-del-bcra/",
+      "image": "https://www.infobae.com/resizer/v2/K7NQ57ZAENBTZDOY5AM4VBVQT4.jpg?auth=09f7b2eefb9cac5ffa627c12686ebba8c344ba9ec8b2c3e36d598485aeb975c9&smart=true&width=1280&height=960",
+      "snippet": "El presidente Javier Milei anunció un encuentro con su equipo económico para ultimar los detalles del cambio del estatuto de la entidad monetaria y delinear los pormenores del “shu",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:27:14.000Z"
+    },
+    {
+      "id": "fea432ea60ec",
+      "title": "Enzo Fernández se quebró al hablar de Lionel Messi tras la victoria de Argentina: “Es nuestro mayor ejemplo”",
+      "link": "https://www.lanacion.com.ar/deportes/enzo-fernandez-se-quebro-al-hablar-de-lionel-messi-tras-la-victoria-de-argentina-es-nuestro-mayor-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HAFHRJX24NBTBNHZV3ATMLI644.jpg?auth=9269561747da9b9012bd6c92493cec52c7f74fe00492dc4eda72f80f4ab0b7d4&smart=true&width=1333&height=1000",
+      "snippet": "Después de la clasificación a los cuartos de final, el futbolista no pudo contener las lágrimas al referirse a Lionel Messi y destacó el liderazgo del capitán dentro del plantel",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:27:13.000Z"
+    },
+    {
+      "id": "4184a81f13c6",
+      "title": "Milei adelantó que el Gobierno trabaja en un proyecto de “shutdown” al estilo norteamericano",
+      "link": "https://www.lanacion.com.ar/politica/javier-y-karina-milei-hablaron-tras-la-remontada-y-el-triunfo-de-la-seleccion-argentina-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/I4NAOHFMZRCPJETEN7W4OPCY6E.jfif?auth=d318e5d504e151998aa722fd495b2f23912366cf085c5bde47e061538197ea03&smart=true&width=1280&height=960",
+      "snippet": "“Cuando te agotás el presupuesto, no se puede gastar más y se apaga el Estado”, adelantó el Presidente sobre una nueva iniciativa que impulsará",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:27:04.000Z"
+    },
+    {
+      "id": "d727439fb82a",
+      "title": "Juan Pablo Varillas remontó con autoridad y avanzó a octavos del Challenger de Bogotá: enfrentará al mexicano Luis Carlos Álvarez",
+      "link": "https://www.infobae.com/peru/deportes/2026/07/07/juan-pablo-varillas-remonto-con-autoridad-y-avanzo-a-octavos-del-challenger-de-bogota-enfrentara-al-mexicano-luis-carlos-alvarez/",
+      "image": "https://www.infobae.com/resizer/v2/6SIQMYULAND7VPR4LB7HT37KS4.png?auth=a28da4cfdf867bbefa48350b7836fb337aacbef063dc7e6f6f278f0496570d2c&smart=true&width=1920&height=1080",
+      "snippet": "En la altura de la capital colombiana, el peruano derrotó al brasileño Bruno Fernandez tras una notable reacción para firmar su segundo debut con victoria al hilo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:26:27.000Z"
+    },
+    {
+      "id": "22423889a520",
+      "title": "¿Cuánto cuesta una casa contenedor en julio 2026?",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/cuanto-cuesta-una-casa-contenedor-en-julio-2026-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/KZMWW66PLRGFBNXZYNOPUYCR6Y.jpeg?auth=a2cc64fa1ce174458bf3c620f8f254794eda5da786d30cdfa66ade9dceebf09c&smart=true&width=1280&height=960",
+      "snippet": "Se trata de un modelo de casa que está ganando popularidad; es transportable y sustentable porque recicla materiales",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:26:13.000Z"
+    },
+    {
+      "id": "c1f4615c57d3",
+      "title": "Quién está ganando el partido de Colombia vs. Suiza ahora: transmisión en vivo de octavos del Mundial 2026",
+      "link": "https://www.lanacion.com.ar/estados-unidos/a-que-hora-de-eeuu-juega-colombia-vs-suiza-hoy-en-vivo-el-partido-de-octavos-del-mundial-2026-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/6WZOKFL37JBQ3CAZP3R3JXTOKQ.png?auth=6c1bd718182e31e56406c66b09d1c88b96147d7701b79c1860a40f23a3b09faa&smart=true&width=880&height=586",
+      "snippet": "Cómo ver en vivo Colombia vs. Suiza por los octavos del Mundial 2026: hora en Estados Unidos, canales en inglés y español, y streaming disponible",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:25:59.000Z"
+    },
+    {
+      "id": "581796ad25c5",
+      "title": "Ucrania quiere fabricar los Patriot: el plan de Zelensky para frenar la ventaja aérea de Rusia depende ahora de Trump",
+      "link": "https://elcomercio.pe/mundo/europa/ucrania-quiere-fabricar-los-patriot-por-que-busca-la-autorizacion-de-estados-unidos-y-como-podria-cambiar-la-guerra-con-rusia-donald-trump-otan-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/IW5XT4BFFFFVNPMCTGWOJHYCO4.jpg?auth=e13c19ec3f2010fd91b41f50c00b760ef8aeff3b4db51211fc6e4e4c95135180&smart=true&width=1366&height=894",
+      "snippet": "La escasez de interceptores Patriot frente al aumento de los ataques rusos con misiles balísticos llevó a Volodymyr Zelensky a pedir a Estados Unidos autorización para fabricarlos ",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:25:38.000Z"
+    },
+    {
+      "id": "4c614c06b5a4",
+      "title": "Un auto que iba marcha atrás por Panamericana provocó un insólito accidente",
+      "link": "https://www.lanacion.com.ar/sociedad/un-auto-que-iba-marcha-atras-por-panamericana-provoco-un-insolito-accidente-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2QZRYYGEABEQPGI7CUM3EJ36JA.jpg?auth=8085c5ecc90f99524d7ed0294567b83505793fdfb3c901189788504b5b37c230&smart=true&width=1600&height=796",
+      "snippet": "El siniestro ocurrió sobre el kilómetro 40, sobre el ramal Campana, sentido hacia la Ciudad de Buenos Aires, en medio de los festejos por el triunfo de la Argentina; hay dos herido",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:24:12.000Z"
+    },
+    {
+      "id": "16a3fb88c3cd",
+      "title": "Ola polar: los electrodomésticos que menos energía consumen para calefaccionar la casa",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/ola-polar-los-electrodomesticos-que-menos-energia-consumen-para-calefaccionar-la-casa-nid04072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/5BX4MX3JNFGUXGHI5ECNTKGOA4.jpg?auth=615b25f0bff1afd7d3ceee90394126c411ff613ae7bdbd3673e13d17f2490e6d&smart=true&width=1200&height=800",
+      "snippet": "Especialistas comparten consejos para mantener la casa aislada de las bajas temperaturas",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:22:36.000Z"
+    },
+    {
+      "id": "b279fbbcf6b3",
+      "title": "La fotografía tiene un nuevo punto de encuentro: Falabella lanza su Club de la Fotografía",
+      "link": "https://www.latercera.com/branded/noticia/la-fotografia-tiene-un-nuevo-punto-de-encuentro-falabella-lanza-su-club-de-la-fotografia/",
+      "image": "https://www.latercera.com/resizer/v2/DLHM4C623BE65KWYKCJINTBUAQ.jpeg?auth=45d64bdce4ce77133a0bea26267a28d34b2b802b404069212936bcf0f5245cea&smart=true&width=1600&height=900",
+      "snippet": "En un contexto de creciente interés por la fotografía como hobby, herramienta creativa y forma de documentar experiencias, la compañía presentó una iniciativa que busca reunir a af",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-07T21:22:12.000Z"
+    },
+    {
+      "id": "487b9fbd5013",
+      "title": "La mansión de una manzana en zona norte y a pasos del río que esconde una historia de amantes",
+      "link": "https://www.lanacion.com.ar/propiedades/la-mansion-de-una-manzana-en-zona-norte-y-a-pasos-del-rio-que-esconde-una-historia-de-amantes-nid06072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/R3AYORM4JRFZJPRRST6A7AYPCQ.JPG?auth=4eeae1f681ab6b22d63f2092022610971d8a2cc30b92bb6dd9448c55dc62bb09&smart=true&width=2000&height=1336",
+      "snippet": "Epicentro de la vida social de principios del siglo pasado, esta propiedad del Tigre mezcla un halo tradicional, con prestaciones propias de la modernidad",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:22:05.000Z"
+    },
+    {
+      "id": "14d1e1d0770f",
+      "title": "“Como una zona de guerra”: Así trabajan los rescatistas de la misión argentina en la zona más afectada por el terremoto en Venezuela",
+      "link": "https://www.lanacion.com.ar/el-mundo/como-una-zona-de-guerra-asi-trabajan-los-rescatistas-de-la-mision-argentina-en-la-zona-mas-afectada-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/CIH26NVBPZHF3DMOKGHMYF7H4Y.jpeg?auth=d1d9b0696a5d76e981352cc4fc0c8054e60cf4b4f87c31ea38288fc8a907c72f&smart=true&width=1600&height=1200",
+      "snippet": "LA NACION acompañó durante una jornada al contingente argentino desplegado en Caraballeda, donde los militares combinan drones, perros rescatistas, plantas potabilizadoras y asiste",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:21:12.000Z"
+    },
+    {
+      "id": "f472b6228b96",
+      "title": "Compró una isla de Seychelles por solo US$273.000, la pudo vender por US$50 millones pero dijo que no",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/compro-una-isla-de-seychelles-por-solo-us273000-la-pudo-vender-por-us50-millones-pero-dijo-que-no-nid04072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YPYRZEOZZBHN5I6CZMNM5YH43M.jpg?auth=d1e8338aa7290d92d7745a23962e3979be1c6398fb0ccbd004ff478d8011b1c4&smart=true&width=1080&height=1350",
+      "snippet": "El dueño plantó más de 16.000 árboles autóctonos y liberó 120 tortugas en el territorio",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:21:08.000Z"
+    },
+    {
+      "id": "2ef5306b1c7d",
+      "title": "Alquileres: un departamento de dos ambientes en Núñez ya cuesta casi $1.000.000 por mes y es más caro que Palermo",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/alquileres-un-departamento-de-dos-ambientes-en-nunez-ya-cuesta-casi-1000000-por-mes-y-es-mas-caro-nid06072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/FNVQ2OD5ANGRRC4PGWRKOQ4SSY.JPG?auth=eb4e626399e40fa6cf90ed54ed111c6102e47072a80056be3c5b6552cc8c5d0b&smart=true&width=2000&height=1333",
+      "snippet": "Los valores de los alquileres publicados en los últimos 12 meses aumentaron 31,3% en CABA, el menor incremento interanual desde noviembre de 2019",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:20:38.000Z"
+    },
+    {
+      "id": "c61113350431",
+      "title": "Ver, Colombia-Suiza EN VIVO por Mundial 2026: empatan 0-0 en el BC Place Vancouver",
+      "link": "https://elcomercio.pe/deporte-total/colombia/colombia-vs-suiza-en-vivo-hoy-ver-transmision-del-partido-por-octavos-de-final-del-mundial-2026-via-gol-caracol-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/MQWZ6IGGENAEHFNK4IYZTG64AA.jpg?auth=bc68ae54d86d56b76eae9e192fc3369febf3e3130f6e00c052beda03cae92c27&smart=true&width=1200&height=839",
+      "snippet": "Colombia vs. Suiza EN VIVO HOY: ver transmisión del partido por octavos de final del Mundial 2026 desde el BC Place Vancouver",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:19:24.000Z"
+    },
+    {
+      "id": "88abe5954ac3",
+      "title": "Fenómeno de El Niño: estos son los sectores clave más expuestos y cuál es el impacto económico que se estima, ¿hay avances en prevención?",
+      "link": "https://elcomercio.pe/economia/dia-1/fenomeno-el-nino-los-sectores-mas-expuestos-al-impacto-economico-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/RVKTKLFJUBHC5AJVU3QC5PA3LM.JPG?auth=e6a2d0c1b707bbb22e6ba665acf475c37e8dcfbf3c9178fda3117a5f9b02923f&smart=true&width=6000&height=4000",
+      "snippet": "Las proyecciones de un fenómeno El Niño muy fuerte entre fines del 2026 e inicios del 2027 ya llevan a distintos sectores a activar planes de contingencia. Expertos advierten impac",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:19:24.000Z"
+    },
+    {
+      "id": "0cd5e96727f6",
+      "title": "Julio Velarde aceptó quedarse en el Banco Central de Reserva por 5 años más",
+      "link": "https://elcomercio.pe/economia/julio-velarde-acepta-quedarse-al-frente-del-bcr-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ZWWWS3M2DVFGZG3VP5W2PAJWB4.jpg?auth=245762fff4b679d52d6733bd0d70e21a7377ea11ac3b8929801a48e0f149a7df&smart=true&width=1280&height=853",
+      "snippet": "La presidenta electa Keiko Fujimori visitó a Velarde en la sede del BCR para pedirle que se quede un periodo más a cargo del ente monetario.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:18:51.000Z"
+    },
+    {
+      "id": "71c66f8367db",
+      "title": "📺 Canales de transmisión seguir partido Colombia vs. Suiza EN VIVO AHORA por el Mundial 2026 en Estados Unidos y México",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-juega-y-que-canal-transmite-colombia-vs-suiza-en-vivo-hoy-por-el-mundial-2026-en-estados-unidos-y-mexico-horarios-y-canales-tv-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/WZSU7OUOMBBKZKM3ZNPYR7Y4XI.png?auth=a3f76484ad72e6b45c3f0300a94e710cde30355b0ccb2016dfed75d801ca7463&smart=true&width=3600&height=2430",
+      "snippet": "Verifique a qué hora juega y qué canal transmite Colombia vs. Suiza en vivo hoy por el Mundial 2026. Revise la guía de horarios y canales de TV para Estados Unidos y México.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:18:15.000Z"
+    },
+    {
+      "id": "f2657dc04685",
+      "title": "📡 Cómo VER ahora partido Colombia vs. Suiza EN VIVO GRATIS por 8avos del Mundial 2026 vía transmisión TV abierta",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/como-mirar-colombia-vs-suiza-en-vivo-gratis-por-8avos-del-mundial-2026-en-tv-abierta-horarios-alineaciones-y-canales-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ZPP4FYB7KZFXHBOYMOO5UVET5Y.jpg?auth=c1c81867074eca2ed6b745ab25cf650345dc6a41ea77c40f2891f38f16a5017f&smart=true&width=2400&height=1620",
+      "snippet": "Consulta los horarios y canales para ver Colombia vs. Suiza EN VIVO y EN DIRECTO, por los octavos de final del Mundial de Fútbol 2026, este martes 7 de julio desde el BC Place de V",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:18:10.000Z"
+    },
+    {
+      "id": "e41c87df149b",
+      "title": "⭕ GOL Caracol EN VIVO GRATIS | Ver ahora partido Colombia vs. Suiza ONLINE por el Mundial 2026",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/vea-gol-caracol-en-vivo-gratis-seguir-partido-colombia-vs-suiza-online-en-tv-abierta-y-futbol-libre-por-mundial-2026-caracol-play-video-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/THEETMBE7RBK5GIFKGHQV5J4BQ.jpg?auth=551eeff493e663ca3eaa1cd71192a721a535df022e4b5f6a424c82be7bfb5df6&smart=true&width=2400&height=1620",
+      "snippet": "Sigue la señal GOL Caracol para ver el partido entre Colombia vs. Suiza EN VIVO y EN DIRECTO ONLINE hoy martes 7 de julio por octavos de final de la Copa Mundial 2026.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:18:05.000Z"
+    },
+    {
+      "id": "3b36a6caaf17",
+      "title": "🟡 Mire Canal RCN EN VIVO | Señal transmisión Colombia vs. Suiza GRATIS vía TV abierta",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/canal-rcn-en-vivo-futbol-libre-tv-senal-transmision-colombia-vs-suiza-gratis-via-tv-abierta-por-mundial-2026-rcn-television-video-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/LQXBSG22AVCLLKJE7UOVCCAXI4.jpg?auth=1977d6fd9eb18f628ae499c7a9230cb22cc1b50e94b979ff774de6834530e0ab&smart=true&width=2400&height=1620",
+      "snippet": "Transmisión oficial del Canal RCN EN VIVO para ver el partido Colombia vs. Suiza GRATIS hoy por los octavos de final del Mundial 2026 desde Vancouver, Canadá.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:18:00.000Z"
+    },
+    {
+      "id": "8232b295d4ff",
+      "title": "📱 Señal DIRECTV EN VIVO (DGo ONLINE) | Ver ahora Colombia vs. Suiza EN DIRECTO vía por Mundial 2026",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/senal-directv-en-vivo-dgo-online-futbol-libre-transmision-colombia-vs-suiza-en-directo-gratis-ahora-mundial-2026-video-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/UFTC3CMYQ5EXPIJVDBIQRVGL4Q.jpg?auth=f9df8eb08d7bc75f6b3903189ca78adf0eba5ff606648f7b02665907d07158ef&smart=true&width=2400&height=1620",
+      "snippet": "Señal de DIRECTV EN VIVO para ver Colombia vs. Suiza EN DIRECTO, este martes 7 de julio, por los octavos de final del Mundial 2026. Mira la transmisión de DSports y DGo online.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:17:53.000Z"
+    },
+    {
+      "id": "d97dd3ab983e",
+      "title": "🔴 ESPN EN VIVO GRATIS | Ver ahora transmisión Colombia vs. Suiza por Fútbol TV y Disney Plus Premium Online",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/espn-en-vivo-gratis-ver-ahora-transmision-colombia-vs-suiza-por-futbol-tv-y-disney-plus-premium-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/3JH2QEQQT5BSHOZN2Z2JCDRJNU.png?auth=d41543b076985c280383bfdbc7be99a75b7db7b04b4c0e89afde83c547f688e9&smart=true&width=3600&height=2430",
+      "snippet": "Ingrese a ESPN en vivo gratis y conozca dónde seguir el partido Colombia vs. Suiza por canales de fútbol TV y mediante la transmisión oficial de Disney Plus Premium online.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:17:48.000Z"
+    },
+    {
+      "id": "718c4281da92",
+      "title": "🏆 Telemundo Deportes EN VIVO GRATIS — seguir ahora juego Colombia vs. Suiza por Peacock Online",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/telemundo-deportes-en-vivo-gratis-como-ver-partido-colombia-vs-suiza-por-tv-abierta-y-futbol-peacock-online-mundial-2026-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/CHAHXM33EBBHBOX5JCAPRRPVJE.jpg?auth=583e3eedbfc74704bf4d56073cc01a61199eef7ec9299c2260a0dedb4d30e44c&smart=true&width=2400&height=1620",
+      "snippet": "Transmisión oficial de Telemundo Deportes EN VIVO y GRATIS del partido Colombia vs. Suiza hoy por los octavos de final del Mundial 2026.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:17:40.000Z"
+    },
+    {
+      "id": "65a9ca5de210",
+      "title": "Oficial, nueva ley “Daylighting” en California ya se aplica: qué cambia y cuándo pueden multarte con hasta $63",
+      "link": "https://elcomercio.pe/mag/usa/local-us/oficial-nueva-ley-daylighting-en-california-ya-se-aplica-que-cambia-y-cuando-pueden-multarte-con-hasta-63-ley-ab-413-nnda-nnni-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/EO74R6LSXBBLVLQZRBLQ4WUDM4.jpg?auth=91d4152366d526aafdb7d762d0ebb7939438b4203c2b863552840967abf1128d&smart=true&width=1200&height=810",
+      "snippet": "La nueva ley \"Daylighting\" ya está vigente en California y modifica las reglas para estacionar cerca de los cruces peatonales.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T21:15:28.000Z"
+    },
+    {
+      "id": "4ce63388aad4",
+      "title": "Retenes, confinamiento, amenazas y el homicidio de un adulto mayor, atribuidos al Eln, mantiene en alerta a comunidad de la zona rural de Dagua, Valle",
+      "link": "https://www.eltiempo.com/colombia/cali/retenes-confinamiento-amenazas-y-el-homicidio-de-un-adulto-mayor-en-la-alerta-de-la-comunidad-de-la-zona-rural-del-municipio-de-dagua-valle-3569727",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/05/6a23219eef7af.jpeg",
+      "snippet": "Todo empezó el pasado primero de julio, cuando la población fue testigo de lo que serían retenes ilegales en esta región del occidente del Valle.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-07T21:11:24.000Z"
+    },
+    {
+      "id": "164b07875f85",
+      "title": "La frescura de Palacio cala en la asfixiante ola de calor pamplonica",
+      "link": "https://www.abc.es/cultura/toros/siete-julio-fuente-ymbro-20260707185401-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/07/toros_asiron-U20609893533Zl-RijYdSmNMCl1GEG2v8y1njI-1200x840@diario_abc.jpg",
+      "snippet": "De pitada en pitada fue Joseba Asiron en el día grande de Pamplona. Pegó la espantada en la solemne misa y se marchó por la puerta de atrás de la Iglesia de San Lorenzo para irse d",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-07T21:11:21.000Z"
+    },
+    {
+      "id": "1e5151e293be",
+      "title": "¿Quiere ser veterinario por un día? Así es la iniciativa para aprender a cuidar animales rescatados en Manizales",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/quiere-ser-veterinario-por-un-dia-asi-es-la-iniciativa-para-aprender-a-cuidar-animales-rescatados-en-manizales-3569721",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/07/6a4d6a6b3f5b1.jpeg",
+      "snippet": "Niños y adolescentes participan en actividades que promueven la empatía y la tenencia responsable durante las vacaciones.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-07T21:09:26.000Z"
+    },
+    {
+      "id": "824a5f8f74b7",
+      "title": "Las 12 comunas de la RM con corte de luz programado para este miércoles",
+      "link": "https://www.latercera.com/servicios/noticia/las-12-comunas-de-la-rm-con-corte-de-luz-programado-para-este-miercoles-2/",
+      "image": "https://www.latercera.com/resizer/v2/Q6C5H6HYYZD6RHMZBTCY3EGYOE.jpg?auth=ef5a03043aad5a06f833ec590667254fc031db7961112629f1b7375e02198d44&smart=true&width=4784&height=3189",
+      "snippet": "Revisa a continuación el detalle con los sectores afectados y horarios de la interrupción del servicio, requerida para la realización de trabajos.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-07T21:07:21.000Z"
+    },
+    {
+      "id": "6e0b427abfeb",
+      "title": "Ezequiel Alemian: tres aventuras fuera de campo",
+      "link": "https://www.clarin.com/revista-n/ezequiel-alemian-aventuras-campo_0_WJbyl2Rz4Y.html",
+      "image": "https://www.clarin.com/img/2026/07/07/qHSasaZyO_1200x630__1.jpg",
+      "snippet": "El escritor Ezequiel Alemian publicó la excelente antología Artpress, una narración propia, el ensayo El trabajo de Rimbaud, y la traducción del epistolario del poeta francés.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:06:31.000Z"
+    },
+    {
+      "id": "64dfec0e4920",
+      "title": "Rionegro llegó a dos meses sin homicidios y un incremento de más del 600% en la incautación de estupefacientes en 2026",
+      "link": "https://www.eltiempo.com/colombia/medellin/rionegro-llego-a-dos-meses-sin-homicidios-y-un-incremento-de-mas-del-600-en-la-incautacion-de-estupefacientes-en-3569713",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/07/6a4d676806c9a.png",
+      "snippet": "Se consolidaron dos meses sin homicidios en la capital del Oriente de Antioquia. Se registraron 95 capturas en el mes de junio y 569 en el año.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-07T21:05:28.000Z"
+    },
+    {
+      "id": "2abc40906f6e",
+      "title": "En juego el último billete a cuartos; empate sin goles al descanso",
+      "link": "https://www.abc.es/deportes/futbol/mundial/suiza-colombia-directo-sigue-resultado-ganador-goles-20260707091434-di.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/07/luis-diaz-zakaria-suiza-colombia-U202329417855IAD-RRrBu2RKmeV7ObhUEzGp2hJ-1200x840@diario_abc.jpg",
+      "snippet": "Sigue en directo el Suiza - Colombia , con el resultado, goles y la última hora de cómo va el partido de octavos del Mundial 2026 hoy, martes 7 de julio.",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-07T21:04:30.000Z"
+    },
+    {
+      "id": "6e46924c7802",
+      "title": "Los últimos 15 minutos contra Egipto hay que guardarlos para siempre: ¿será cierto que Dios es argentino?",
+      "link": "https://www.clarin.com/deportes/ultimos-15-minutos-egipto-guardarlos-siempre-cierto-dios-argentino_0_BoZilIR0pz.html",
+      "image": "https://www.clarin.com/img/2026/07/07/JSa-G-NsU_1200x630__1.jpg",
+      "snippet": "Los nervios, la desolación, la esperanza y el desahogo. La victoria en Atlanta se sufrió y se festejó como nunca. Ganó la Selección y hoy, al menos, no hay grietas.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:03:46.000Z"
+    },
+    {
+      "id": "f8db140e1b92",
+      "title": "Por la suba del dólar, en junio aumentaron los depósitos en los bancos, pero bajaron los créditos en moneda extranjera",
+      "link": "https://www.clarin.com/economia/suba-dolar-junio-aumentaron-depositos-bancos-bajaron-creditos-moneda-extranjera_0_wCugMQJQCC.html",
+      "image": "https://www.clarin.com/img/2026/06/13/81MxGyJUF_1200x630__1.jpg",
+      "snippet": "Las cuentas en las entidades reflejaron los efectos de una mayor dolarización de los argentinos. Los depósitos en moneda extranjera, cerca de un récord",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:03:36.000Z"
+    },
+    {
+      "id": "1740cbd656c4",
+      "title": "\"Habla la faraona\", Mirtha Legrand festejó los memes que la hicieron protagonista ante Egipto y contó su charla con la madre de Messi",
+      "link": "https://www.clarin.com/fama/habla-faraona-mirtha-legrand-festejo-memes-hicieron-protagonista-egipto-hablo-madre-messi_0_XpCky1OnOA.html",
+      "image": "https://www.clarin.com/img/2026/07/07/BJ7ikAvyd_1200x630__1.jpg",
+      "snippet": "La diva contó en una entrevista su diálogo con Celia Cuccittini y relató sus emociones, de la risa por las redes al llanto por el triunfo de la Selección Argentina.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:03:36.000Z"
+    },
+    {
+      "id": "a20acd7b8c76",
+      "title": "Isapres ganaron $31 mil millones en el primer trimestre gracias a una baja en el gasto de licencias médicas",
+      "link": "https://www.latercera.com/pulso/noticia/isapres-ganaron-31-mil-millones-en-el-primer-trimestre-gracias-a-una-baja-en-el-gasto-de-licencias-medicas/",
+      "image": "https://www.latercera.com/resizer/v2/625O2S2N3NDCZAG33D7FZKBBGM.JPG?auth=c932cd0b7762cc94c7a495659c7f7b8ab7dd423995a63d86e7ea0aed3da101be&smart=true&width=4976&height=3392",
+      "snippet": "Este gasto que hicieron las siete isapres abiertas del sistema se redujo desde los $188.532 millones registrados en el primer trimestre de 2025, a $144.634 millones en los primeros",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-07T21:03:29.000Z"
+    },
+    {
       "id": "761b5fa5b36a",
       "title": "Sube a 100 el número de portugueses fallecidos por los terremotos en Venezuela",
       "link": "https://www.elnacional.com/2026/07/sube-a-100-el-numero-de-portugueses-fallecidos-por-los-terremotos-en-venezuela/",
@@ -125,52 +767,112 @@
       "isoDate": "2026-07-07T21:03:03.000Z"
     },
     {
-      "id": "76b224ff02ba",
-      "title": "¡Atención conductores de Florida! Confirman la Operation Southern Slow Down: en qué consiste, qué multarán y fechas confirmadas",
-      "link": "https://elcomercio.pe/mag/usa/local-us/se-confirmo-la-ejecucion-de-la-operation-southern-slow-down-en-florida-desde-cuando-en-que-consiste-y-que-multaran-estados-unidos-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/AT2UQCC54VC2JLLKMU6RJGL7FY.jpg?auth=afec72207319a63f7c52e584fd3ecca9f5038874dc506806a91303b220d5f2ef&smart=true&width=2400&height=1600",
-      "snippet": "Operation Southern Slow Down en Florida (13‑18 jul 2026): más patrullas y controles por exceso de velocidad. Consejos para evitar multas y viajar seguro.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T21:01:52.000Z"
-    },
-    {
-      "id": "e58311c884ab",
-      "title": "De desmaquillante a mascarilla capilar: 7 usos del aceite de coco en la rutina de belleza",
-      "link": "https://www.infobae.com/tendencias/2026/07/07/de-desmaquillante-a-mascarilla-capilar-7-usos-del-aceite-de-coco-en-la-rutina-de-belleza/",
-      "image": "https://www.infobae.com/resizer/v2/MT2WHVCUFVGVDJ4OI6PYP5T7HE.png?auth=7e64134dbd6f5dc93dd7245e75cbf950055839f5e9d4a96343bcbc8378d9933f&smart=true&width=2752&height=1536",
-      "snippet": "Ensayos clínicos y sitios de referencia internacional destacan a esta sustancia por sus propiedades hidratantes, aunque advierten que el uso excesivo puede obstruir poros y agravar",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "a9267063122a",
+      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, martes 07 de julio",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-martes-07-julio_0_5RMoTit1C3.html",
+      "image": "https://www.clarin.com/img/2020/09/07/X5kDqoBNP_1200x630__1.jpg",
+      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T21:00:27.000Z"
+      "isoDate": "2026-07-07T21:03:00.000Z"
     },
     {
-      "id": "54d8d9f7a1e0",
-      "title": "José Manuel Restrepo avisó que el empalme continuará pese a que se levantaron de la mesa y explicó qué es la “resistencia constitucional”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/jose-manuel-restrepo-aviso-que-el-empalme-continuara-pese-a-que-se-levantaron-de-la-mesa-y-explico-que-es-la-resistencia-constitucional/",
-      "image": "https://www.infobae.com/resizer/v2/6V3N6KVZ7JH4HDQGP6KIZJSVAE.jpg?auth=be3b43a3205d7c94b5f69ec9984b157c4762917a92bcabdce8aeabc11ba66069&smart=true&width=1920&height=1080",
-      "snippet": "A través de sus redes sociales, el vicepresidente electo de los colombianos reafirmó que continuarán con auditorías y análisis técnicos de la administración saliente, pese a la sus",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "6b957a27b227",
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, martes 07 de julio",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-martes-07-julio_0_Ofj9I2KT9X.html",
+      "image": "https://www.clarin.com/img/2020/09/07/KwJToH8X1_1200x630__1.jpg",
+      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T21:00:20.000Z"
+      "isoDate": "2026-07-07T21:02:00.000Z"
     },
     {
-      "id": "e009b3c6cd42",
-      "title": "Los expertos en psicología coinciden: las personas que caminan con las manos en los bolsillos activan una barrera frente al estrés",
-      "link": "https://elcomercio.pe/mag/respuestas/los-expertos-en-psicologia-coinciden-las-personas-que-caminan-con-las-manos-en-los-bolsillos-activan-una-barrera-frente-al-estres-nnda-nnni-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/4FEZH6QQWRAWZGYVMFGXV3ASGM.jpg?auth=39ba534024a5dcbb9fa66569a38034bcfad48000943f908c8ebfe5a6aeacb023&smart=true&width=1200&height=829",
-      "snippet": "Esta posición corporal ayuda a disminuir la tensión.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T21:00:18.000Z"
+      "id": "15e55fa5f491",
+      "title": "Los cruces del ministro Rabat y diputados de la oposición por reforma para ampliar retención de migrantes irregulares",
+      "link": "https://www.latercera.com/politica/noticia/los-cruces-del-ministro-rabat-y-diputados-de-la-oposicion-por-reforma-para-ampliar-retencion-de-migrantes-irregulares/",
+      "image": "https://www.latercera.com/resizer/v2/STGJ2BB24FEF3OEIJ42JDNDO6E.jpg?auth=20556c1a6770fde0482e8451aa9d579869ddfc942df2eb162eb3e16c989314ef&smart=true&width=5595&height=3730",
+      "snippet": "El titular de Justicia, en compañía de su par de Seguridad, Martín Arrau, asistió este martes a la Comisión de Constitución de la Cámara Baja para el inicio de la tramitación del p",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-07T21:01:51.000Z"
+    },
+    {
+      "id": "721160a7be4a",
+      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, martes 07 de julio",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-martes-07-julio_0_iQ0MFX4hwE.html",
+      "image": "https://www.clarin.com/img/2020/06/25/aJNU5isQk_1200x630__1.jpg",
+      "snippet": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:01:01.000Z"
+    },
+    {
+      "id": "b4b20497a2f5",
+      "title": "Hossam Hassan, seleccionador de Egipto, denuncia la labor arbitral contra Argentina: “No voy a ver más el Mundial”",
+      "link": "https://elpais.com/argentina/2026-07-07/hossam-hassan-seleccionador-de-egipto-denuncia-la-labor-arbitral-contra-argentina-no-voy-a-ver-mas-el-mundial.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/KBSNLAB2SJOLXDKQBDU3UJWLQI.jpg?auth=ee43e8586269d9641dc0b1a34f7f5ae2fe387b7943a093b77cd4a76690fb7877",
+      "snippet": "El técnico protesta por las decisiones del francés François Letexier mientras Lionel Scaloni ensalza la emoción de su equipo. “Si hay que perder, que sea así”, asegura",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-07T21:00:29.000Z"
+    },
+    {
+      "id": "c5cf8376825e",
+      "title": "Suiza puso paneles solares entre las vías del tren y el primer resultado sorprendió a los ingenieros",
+      "link": "https://www.clarin.com/internacional/suiza-puso-paneles-solares-vias-tren-primer-resultado-sorprendio-ingenieros_0_6shgFpzhDq.html",
+      "image": "https://www.clarin.com/img/2026/07/03/riC0krX1N_1200x630__1.jpg",
+      "snippet": "El proyecto aprovecha un espacio que hasta ahora permanecía sin uso. Tras un año de pruebas, no detectaron problemas en la circulación ferroviaria.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:00:26.000Z"
+    },
+    {
+      "id": "35ef79607c9a",
+      "title": "El Canal de la Muerte: el vertedero de cadáveres que refleja la violencia en Ecuador",
+      "link": "https://www.clarin.com/mundo/canal-muerte-vertedero-cadaveres-refleja-violencia-ecuador_0_sNiQlbKaX3.html",
+      "image": "https://www.clarin.com/img/2026/07/07/_Y9XRSivT_1200x630__1.jpg",
+      "snippet": "Cuando un ser querido desaparece, sus familiares suelen contactar hospitales, la morgue y la policía. Pero en un rincón de este país azotado por la violencia, lo habitual es buscar",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:00:26.000Z"
+    },
+    {
+      "id": "aa82394d7a9d",
+      "title": "Salud cerebral en el envejecimiento: los niveles de vitamina C están relacionados con el volumen de materia gris",
+      "link": "https://www.clarin.com/internacional/salud-cerebral-envejecimiento-niveles-vitamina-c-relacionados-volumen-materia-gris_0_NVbs77d9ge.html",
+      "image": "https://www.clarin.com/img/2026/06/25/cafKGCG5A_1200x630__1.jpg",
+      "snippet": "Un estudio realizado en adultos mayores encontró una relación entre los niveles de vitamina C en sangre y la estructura del cerebro. Qué descubrieron los investigadores sobre la ma",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-07T21:00:26.000Z"
+    },
+    {
+      "id": "d57f2348e4fa",
+      "title": "¿Qué es el galio y por qué China controla el metal clave para los chips?",
+      "link": "https://www.france24.com/es/programas/en-5-minutos/20260707-qu%C3%A9-es-el-galio-y-por-qu%C3%A9-china-controla-el-metal-clave-para-los-chips",
+      "image": "https://s.france24.com/media/display/55f4c02a-7959-11f1-a373-005056bf30b7/w:1024/p:16x9/WEB-PORTADA-02JUL-E5M.png",
+      "snippet": "En la guerra tecnológica entre China y Estados Unidos hay un protagonista del que apenas se habla: el galio. Este metal es esencial para fabricar chips de inteligencia artificial, ",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T21:00:05.000Z"
     },
     {
       "id": "dd74aa14a406",
@@ -185,124 +887,16 @@
       "isoDate": "2026-07-07T21:00:01.000Z"
     },
     {
-      "id": "54a9ceb2494a",
-      "title": "Camino al juicio oral: confirman el procesamiento de la exfiscal Fein por los desmanejos en la escena de la muerte de Nisman",
-      "link": "https://www.lanacion.com.ar/politica/camino-al-juicio-oral-confirman-el-procesamiento-de-la-exfiscal-fein-por-los-desmanejos-en-la-escena-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QSBT5XILQBFPJHEQOEBE2HMQFQ.JPG?auth=f45f66efd8fd8ecc3c76e747f3d978c476852f2965e96c283366d1252c862c60&smart=true&width=2000&height=1335",
-      "snippet": "La Cámara Federal la encontró responsable por la alteración de la escena, pero descartó el “encubrimiento agravado”, que tenía una pena mayor",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:59:59.000Z"
-    },
-    {
-      "id": "9875d1961dc9",
-      "title": "Cuáles son las bebidas que más afectan el esmalte dental, según un estudio",
-      "link": "https://www.infobae.com/salud/ciencia/2026/07/07/cuales-son-las-bebidas-que-mas-afectan-el-esmalte-dental-segun-un-estudio/",
-      "image": "https://www.infobae.com/resizer/v2/ZBEWFONI55AABBR3CSNJZXG7KQ.png?auth=54e72002688a79321ce33230d8b8bbd2742d675a84394c6cbf3545ae3120288a&smart=true&width=2752&height=1536",
-      "snippet": "El metaanálisis de PLOS ONE de 2025 confirmó que la exposición constante a líquidos ácidos impide que la saliva neutralice el entorno bucal, lo que acelera el desgaste. Cómo preven",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:59:55.000Z"
-    },
-    {
       "id": "12592b2c6580",
       "title": "El FMI marca un hito al nombrar a una argentina como su nueva economista jefe",
       "link": "https://www.latercera.com/pulso/noticia/el-fmi-marca-un-hito-al-nombrar-a-una-argentina-como-su-nueva-economista-jefe/",
-      "image": "https://www.latercera.com/resizer/v2/CMTMA6SM4NB3DCFFN2SAXLUH2Q.png?auth=3b499ed983f70f3f8770c3143429646ce49d1b46871321765e6c21117691343b&smart=true&width=1672&height=941",
+      "image": "https://www.latercera.com/resizer/v2/KSNN5OJ7WFGRVJOJGPGNZXQIV4.jpg?auth=4def7b2f295357bf64d2cd443dd80518f09d309df51512adb72da56a2e17785d&smart=true&width=1920&height=1080",
       "snippet": "Es la primera vez que el cargo recae en alguien de Latinoamérica. La experta forma parte del consejo asesor económico de Anthropic, firma dueña de la IA Claude, y en 2023 recibió l",
       "source": "La Tercera",
       "sourceId": "latercera",
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-07T20:59:51.000Z"
-    },
-    {
-      "id": "cc9aed83f626",
-      "title": "Una multitud festejó la victoria de Argentina en el Obelisco: fotos y videos",
-      "link": "https://www.infobae.com/sociedad/2026/07/07/una-multitud-festejo-la-victoria-de-argentina-en-el-obelisco-fotos-y-videos/",
-      "image": "https://www.infobae.com/resizer/v2/EJ3Y7DH22NF3FGZEKCHRUNLLSA.jpg?auth=685f2b3596dd12edb2f0980b51ec74fd7102f226cd088e8db6857f1f65d47768&smart=true&width=1920&height=1281",
-      "snippet": "Cientos de personas se juntaron en el centro de la Ciudad de Buenos Aires para celebrar la victoria de la selección ante Egipto por 3 a 2. El equipo de Scaloni clasificó a los cuar",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:59:24.000Z"
-    },
-    {
-      "id": "33e6c38b05f0",
-      "title": "Milei se reúne con Caputo, Sturzenegger y Bausili en Olivos para definir los cambios en la Carta Orgánica del BCRA",
-      "link": "https://www.infobae.com/economia/2026/07/07/milei-se-reune-con-caputo-sturzenegger-y-bausili-en-olivos-para-definir-los-cambios-en-la-carta-organica-del-bcra/",
-      "image": "https://www.infobae.com/resizer/v2/VW3YKXPALBAVTIINYCVDNALKRI.jpg?auth=59054e12062f97f2191eb2fc93d307c98f2664dee531ebfe6a00798fd6335abc&smart=true&width=1920&height=1080",
-      "snippet": "El presidente anunció un encuentro con su equipo económico para definir cambios el estatuto de la entidad monetaria. El Gobierno busca prohibir que financie al Tesoro mediante emis",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:59:02.000Z"
-    },
-    {
-      "id": "9fa535992ccb",
-      "title": "Diez mujeres asumen decanatos y direcciones regionales de la Universidad de Panamá",
-      "link": "https://www.infobae.com/panama/2026/07/07/diez-mujeres-asumen-decanatos-y-direcciones-regionales-de-la-universidad-de-panama/",
-      "image": "https://www.infobae.com/resizer/v2/I4ZUCJT32NBOHDAZGW3JLDE6U4.jpeg?auth=afdb3725c9a9d7a5d8b29074d92a3b66261bba7399e52ee0017e597d340ee1b8&smart=true&width=735&height=409",
-      "snippet": "A nivel nacional la inserción de las mujeres en la fuerza laboral continúa rezagada",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:58:54.000Z"
-    },
-    {
-      "id": "ad160131998d",
-      "title": "Alerta sobre la prostatitis en varones jóvenes y adultos: Minsa propone cambios clave para evitarla",
-      "link": "https://www.infobae.com/peru/2026/07/07/alerta-sobre-la-prostatitis-en-varones-jovenes-y-adultos-minsa-propone-cambios-clave-para-evitarla/",
-      "image": "https://www.infobae.com/resizer/v2/OAMLCDJZ7BG6VD2DWKUZPFYFXI.jpg?auth=cbc29966e491f449e263919d62314f4b0184ff7647616cc7a1f1f50fc5ee9d05&smart=true&width=4973&height=2797",
-      "snippet": "El Ministerio de Salud advierte que la prostatitis afecta a hombres entre 20 y 50 años y recomienda hábitos saludables para reducir el riesgo. La detección oportuna, la hidratación",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:58:48.000Z"
-    },
-    {
-      "id": "d42afb76a895",
-      "title": "César Hildebrandt: “No será difícil para Keiko Fujimori hallar tránsfugas dispuestos a todo y conversos repentinos”",
-      "link": "https://www.infobae.com/peru/2026/07/07/cesar-hildebrandt-no-sera-dificil-para-keiko-fujimori-hallar-transfugas-dispuestos-a-todo-y-conversos-repentinos/",
-      "image": "https://www.infobae.com/resizer/v2/E5U6MTXSXNHDLJPXDQJLXENHLE.jpg?auth=d70b840528e61ac0200881fa0131097a2333d3401c68fce0eec413625e71cfe4&smart=true&width=3756&height=2504",
-      "snippet": "El periodista vinculó el entorno de la mandataria electa con un reparto de cargos y advirtió sobre el uso de viejas prácticas para asegurar mayorías en el Congreso y controlar inst",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:58:38.000Z"
-    },
-    {
-      "id": "11a2fab13eb2",
-      "title": "Colombia vs. Suiza EN VIVO Mundial 2026: la Tricolor va al descanso sin goles en Vancouver",
-      "link": "https://www.infobae.com/colombia/deportes/2026/07/07/colombia-vs-suiza-en-vivo-la-tricolor-se-juega-el-pase-a-los-cuartos-de-final-del-mundial-2026/",
-      "image": "https://www.infobae.com/resizer/v2/TI4D5CDY4BAHNJU2MZZPZD2E3Y.JPG?auth=e4b9db5a92381e7ecbc2d5b256d540012bc31f52f1a52a95639e8fb3378221bc&smart=true&width=2773&height=1872",
-      "snippet": "Las dos selecciones luchan en el BC Place por un lugar entre los ocho mejores de la Copa de la FIFA y el ganador se medirá con Argentina",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:58:29.000Z"
-    },
-    {
-      "id": "adff2241eadc",
-      "title": "El Salvador busca posicionarse como destino de turismo religioso en Centroamérica",
-      "link": "https://www.infobae.com/el-salvador/2026/07/07/el-salvador-busca-posicionarse-como-destino-de-turismo-religioso-en-centroamerica/",
-      "image": "https://www.infobae.com/resizer/v2/JOCWVCIMP5FHTGR7WL6C2W3H3Y.jpg?auth=a6a515632fd0aa198d46cfcea0574803638bcab1e5d563748a4a2f7f26add369&smart=true&width=1920&height=1280",
-      "snippet": "La estrategia se presentó en el Congreso Turismo Religioso, con autoridades locales y especialistas internacionales, y plantea a San Salvador como punto de partida de recorridos te",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:58:11.000Z"
     },
     {
       "id": "e314d92a84b2",
@@ -315,330 +909,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-07-07T20:58:05.000Z"
-    },
-    {
-      "id": "324e047da2a6",
-      "title": "Lista de actores y personajes de “No tengo miedo”: quién es quién en el elenco de la nueva serie mexicana de Netflix",
-      "link": "https://elcomercio.pe/mag/fama/que-ver/no-tengo-miedo-actores-y-personajes-guia-del-elenco-de-la-serie-mexicana-de-netflix-im-not-afraid-cast-guide-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/I4N6W3USZJHD5O3LFPG5O2PF6Q.jpg?auth=2b05a9f18799262c8d1adccf0ab812672063b464c00fedeade3fa2f243d32a5f&smart=true&width=2400&height=1620",
-      "snippet": "Conoce al elenco completo de \"No tengo miedo\", la nueva serie mexicana de Netflix inspirada en la novela de Niccolò Ammaniti.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:57:50.000Z"
-    },
-    {
-      "id": "ba9841bac3e9",
-      "title": "Por qué es tan difícil saber si un animal siente empatía y qué propone la ciencia para resolverlo",
-      "link": "https://www.infobae.com/america/ciencia-america/2026/07/07/por-que-es-tan-dificil-saber-si-un-animal-siente-empatia-y-que-propone-la-ciencia-para-resolverlo/",
-      "image": "https://www.infobae.com/resizer/v2/5G4WK4LQANCP7GPM7N6FSLPPAQ.png?auth=6bd5d94fe24f5ccb802e263f4120826103d172e63bb43bc6939aed8ee8e1d253&smart=true&width=2752&height=1536",
-      "snippet": "Un equipo liderado por Albert Newen propone un marco con varias capas y pone a prueba interpretaciones habituales con casos en roedores, cánidos, córvidos y primates, donde la inte",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:57:22.000Z"
-    },
-    {
-      "id": "e4490bd8809e",
-      "title": "Nuevos gestos racistas de hinchas argentinos contra el streamer Speed durante el partido frente a Egipto",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/nuevos-gestos-racistas-de-hinchas-argentinos-contra-el-streamer-speed-durante-el-partido-frente-a-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/P6LSMINOTRHKNK3SMAOEITD4IU.png?auth=f35435283ec4a98df25b4d8a1688b5d70604b7368582cc018e82449c5e666f24&smart=true&width=1207&height=640",
-      "snippet": "El famoso youtuber, reconocido fanático de Cristiano Ronaldo, fue insultado desde la tribuna tras celebrar el fallo de Messi en el penal y gritar los goles del equipo africano",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:56:48.000Z"
-    },
-    {
-      "id": "71989698c84a",
-      "title": "Las principales frases de Messi tras el agónico triunfo de la Argentina frente a Egipto: “Se nos había puesto feo”",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/las-principales-frases-de-messi-tras-el-agonico-triunfo-de-la-argentina-frente-a-egipto-se-nos-habia-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QAEAXI3BZZCLTN4XTIMJVJ5JFM.jpg?auth=e211da827e4b3f57252e098281c282c149ffaf8dfa19be10fc8b6edfbc4340c0&smart=true&width=1200&height=800",
-      "snippet": "El capitán de la selección destacó la reacción del equipo luego de estar dos goles abajo, valoró el carácter y también hizo una autocrítica por el penal errado",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:56:42.000Z"
-    },
-    {
-      "id": "5ecef68502ea",
-      "title": "El XVII Congreso Centroamericano de Historia reunirá a especialistas de 15 países en El Salvador",
-      "link": "https://www.infobae.com/el-salvador/2026/07/07/el-xvii-congreso-centroamericano-de-historia-reunira-a-especialistas-de-15-paises-en-el-salvador/",
-      "image": "https://www.infobae.com/resizer/v2/3VAZJU25MVDPNHSFSI6OHGNE3Q.png?auth=c4d3549354673baafab4df09c41cab495f5a3c119527f9989a007f2df217a5d1&smart=true&width=2752&height=1536",
-      "snippet": "La cita académica se celebrará del 20 al 24 de julio de 2026 en la Universidad Centroamericana José Simeón Cañas, con especialistas que debatirán democracia, violencia, desarrollo ",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:56:12.000Z"
-    },
-    {
-      "id": "bf9367049cd5",
-      "title": "Un gremio le pide a Milei que declare asueto por el triunfo de Argentina: “Los trabajadores se lo merecen”",
-      "link": "https://www.lanacion.com.ar/politica/un-gremio-le-pide-a-milei-que-declare-asueto-por-el-triunfo-de-argentina-los-trabajadores-se-lo-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/23IYHATUGFEEPDFORPGJT7OVZU.jpg?auth=fbbb065777d493ec392ad0b9447218843019ed2747a7f3eecea7b976ef60299b&smart=true&width=2000&height=1333",
-      "snippet": "Los estatales de ATE reclamaron una medida como en Paraguay para que el mandatario libertario demuestre su “sentir nacional”",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:56:12.000Z"
-    },
-    {
-      "id": "801e9276bbf7",
-      "title": "Con Messi, la selección siempre tiene una vida más, y ahora mira el Mundial con la convicción de ser imbatible",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/con-messi-la-seleccion-siempre-tiene-una-vida-mas-y-ahora-mira-el-mundial-con-la-conviccion-de-ser-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TRPHOUXFXVGKTAMNLKAZMH2N2A.JPG?auth=7eaec41172beeaa60b9d17d401cd87cf984e14a5ddfebb7b85f9d74c83143d2c&smart=true&width=2500&height=1668",
-      "snippet": "Este equipo no entiende de finales lógicos; la histórica remontada ante Egipto confirma que será muy difícil quitarle la corona",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:55:59.000Z"
-    },
-    {
-      "id": "65076a07005b",
-      "title": "Los mensajes de las esposas de los jugadores de la selección argentina tras el triunfo ante Egipto",
-      "link": "https://www.lanacion.com.ar/deportes/los-mensajes-de-las-esposas-de-los-jugadores-de-la-seleccion-argentina-tras-el-triunfo-ante-egipto-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/6O6U2XPBKBAP3E2KJOQ22WW4I4.jpg?auth=6ec0fb2a97081b59b104f1f111a34bd92c35be7779c0c394aad0c21c600639df&smart=true&width=800&height=600",
-      "snippet": "Tras la agónica victoria por 3 a 2 que clasificó a la Scaloneta a los cuartos de final del Mundial 2026, las parejas de varios futbolistas se expresaron en redes sociales con emoti",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:55:28.000Z"
-    },
-    {
-      "id": "0e04fca23d5f",
-      "title": "“La cuarta estrella”: la letra completa de la canción que ilusiona y emociona a toda la Argentina",
-      "link": "https://www.lanacion.com.ar/deportes/la-cuarta-estrella-la-letra-completa-de-la-cancion-que-ilusiona-y-emociona-a-toda-la-argentina-nid20062026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TR2JGBVZ3RGQTCJS3IQPBUAW5A.JPG?auth=1f8db9d4ec1157c6e9f1fcd4df3d71c5a5b74c77d24a2655ec1c755a261b6635&smart=true&width=2000&height=1500",
-      "snippet": "El tema, escrito por un fanático durante su estadía en Estados Unidos, se consolidó rápidamente en los banderazos de la selección en el Mundial; busca capturar la mística de un equ",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:55:17.000Z"
-    },
-    {
-      "id": "2c44ced6ea12",
-      "title": "¿En qué canales TV GRATIS ver Colombia-Suiza EN VIVO por Mundial 2026?",
-      "link": "https://elcomercio.pe/deporte-total/colombia/a-que-hora-juega-colombia-vs-suiza-hoy-horario-canal-tv-y-donde-ver-partido-por-octavos-de-final-del-mundial-2026-con-luis-diaz-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/TXH6TIK32FAGPDH6SXBBEB7O3M.jpg?auth=815b45bbc1cb9bd398e9cdf8f695f06f9d3642afa6ac148805b1df23902576c7&smart=true&width=1600&height=900",
-      "snippet": "Revisa la hora del partido entre Colombia y Suiza desde el Estadio BC Place Vancouver, este martes 7 de julio por los octavos de final del Mundial 2026.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:55:06.000Z"
-    },
-    {
-      "id": "bd717987ec41",
-      "title": "“Estamos re locos”: Otamendi mostró la fiesta en el vestuario de la Argentina desde adentro",
-      "link": "https://www.lanacion.com.ar/deportes/estamos-re-locos-otamendi-mostro-la-fiesta-en-el-vestuario-de-la-argentina-desde-adentro-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/XZ2T3JNFNZACXOML5DPPIFXIYE.png?auth=a1ce15f89cb8371c73dec9992c27f6295d349969e72cf0c6b661f57451a2aea3&smart=true&width=527&height=362",
-      "snippet": "Como es costumbre, el defensor central mostró en sus redes sociales todos los detalles de la celebración de los jugadores en la intimidad; mirá el video",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:55:05.000Z"
-    },
-    {
-      "id": "064d1a09a671",
-      "title": "Colombia-Suiza EN VIVO: cómo va el partido por octavos de final del Mundial 2026",
-      "link": "https://elcomercio.pe/deporte-total/colombia/donde-ver-colombia-vs-suiza-en-vivo-gratis-hoy-por-mundial-2026-a-que-hora-juegan-hoy-y-en-que-canales-tv-transmiten-partido-online-streaming-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/6UJ54EKAPJC6TNX44WNR6G5QEE.jpg?auth=d6789dface8e6310e314e752fc4431969e9a404f2672f430a83bd15370c4f8da&smart=true&width=1600&height=900",
-      "snippet": "Consulta los canales de TV y plataformas online para ver el partido entre Colombia vs. Suiza el martes 7 de julio por los octavos de final del Mundial 2026 desde el Estadio BC Plac",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:55:02.000Z"
-    },
-    {
-      "id": "5f78cc007a71",
-      "title": "Los mejores memes de Scaloni tras la victoria épica contra Egipto",
-      "link": "https://www.lanacion.com.ar/deportes/los-mejores-memes-de-scaloni-tras-la-victoria-epica-contra-egipto-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/QUUHIHY775CMBDEMF7FEZHTKSA.jpg?auth=dc31c2f6d7b25314e3592f2d91bf3f4a262b51ed9bfe6f41910ef0093adb5f3f&smart=true&width=2000&height=1333",
-      "snippet": "El DT de la selección argentina vivió el partido de una forma muy especial y hasta gritó uno de los tres goles, lo que tomó por sorpresa a todos en redes sociales",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:54.000Z"
-    },
-    {
-      "id": "eaa8cf2cc0c0",
-      "title": "Videos: las calles de Buenos Aires festejan el triunfo épico de la Argentina",
-      "link": "https://www.lanacion.com.ar/deportes/videos-las-calles-de-buenos-aires-festejan-el-triunfo-epico-de-la-argentina-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/MRIYDBW6J5F33CDO6WRIESVUPA.png?auth=5c922ae3e74b2f7679b6a616ead45b9f8555227bf5aea6c53e0f72026f2de715&smart=true&width=2000&height=1333",
-      "snippet": "Luego de la épica victoria sobre Egipto en los octavos de final del Mundial, miles de hinchas salieron a las calles para celebrar a pesar de ser un martes por la tarde; mirá las im",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:44.000Z"
-    },
-    {
-      "id": "65fb54997076",
-      "title": "Petróleo de Texas cierra en 70,4 dólares, pero sube más luego que Estados Unidos revocara licencia de venta de crudo a Irán",
-      "link": "https://elcomercio.pe/economia/mundo/petroleo-de-texas-cierra-en-704-dolares-pero-sube-mas-luego-que-estados-unidos-revocara-licencia-de-venta-de-crudo-a-iran-l-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/5QOOPH5VMRGURODFU33P6PPGCE.jpg?auth=97492dcabdb62cdbf557bbbed0f890f531ce2a9f91ab4644f5d935eff5d9617c&smart=true&width=1260&height=705",
-      "snippet": "El petróleo intermedio de Texas (WTI, por sus siglas en inglés) cerró este martes con una subida del 2,8%, hasta 70,44 dólares el barril, pero se disparó en las operaciones posteri",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:54:39.000Z"
-    },
-    {
-      "id": "3464b1f96a90",
-      "title": "Mercados: las acciones bajaron y se acoplaron a la tendencia externa",
-      "link": "https://www.infobae.com/economia/2026/07/07/mercados-bajan-las-acciones-y-los-bonos-argentinos-que-se-acoplan-a-la-tendencia-externa/",
-      "image": "https://www.infobae.com/resizer/v2/RJ2K5436EVA2NNEVSL4KFPYVVA.JPG?auth=41904f002e0d89c5468157a7d107fe6e47a52ce2f6b670ea59863327cf413d27&smart=true&width=5500&height=3667",
-      "snippet": "Los índices de Wall Street cayeron hasta 1,2%, con mayor impacto en compañías tecnológicas. El S&P Merval también bajó 1,2% y los títulos públicos finalizaron mixtos",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:37.000Z"
-    },
-    {
-      "id": "83469f4bd3b8",
-      "title": "Fuerte reclamo de Pedro Sánchez al nuevo ministro de Defensa tras ausentarse de la sesión de empalme: “No es una cortesía”",
-      "link": "https://www.infobae.com/colombia/2026/07/07/fuerte-reclamo-de-pedro-sanchez-al-nuevo-ministro-de-defensa-tras-ausentarse-de-la-sesion-de-empalme-no-es-una-cortesia/",
-      "image": "https://www.infobae.com/resizer/v2/44P2PVW7GZENVN5AQUZJ6GTIRU.png?auth=84c187de128d35606f8bcf1895f9c6b8010e90fa3cd4e30e0cec5a2cd4b82a91&smart=true&width=1920&height=1080",
-      "snippet": "Pedro Sánchez aseguró que su equipo de trabajo está listo para reanudar el proceso de transición, suspendido por orden del presidente electo, Abelardo de la Espriella",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:34.000Z"
-    },
-    {
-      "id": "91c209903646",
-      "title": "Qué significa cruzar los brazos como hizo el DT de Egipto",
-      "link": "https://www.lanacion.com.ar/deportes/que-significa-cruzar-los-brazos-como-hizo-el-dt-de-egipto-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/DBRHOXSOUFHCVGNAPSPGU5IV6I.jpg?auth=154b9276286862237ce3ec7f74cefe797e0c311ea4bcac77106b7569015acb40&smart=true&width=576&height=367",
-      "snippet": "El entrenador Hossam Hassan hizo un gesto con los brazos cruzados durante el partido entre Argentina y Egipto y desató una fuerte polémica",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:30.000Z"
-    },
-    {
-      "id": "0272cd8fa535",
-      "title": "Quién es Mostafa Shobeir: dónde juega el arquero de Egipto que hizo sufrir a la Argentina",
-      "link": "https://www.lanacion.com.ar/deportes/quien-es-mostafa-shobeir-donde-juega-el-arquero-de-egipto-que-hizo-sufrir-a-la-argentina-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HF66NQDCKRHO5EMVRPW4G65ZL4.png?auth=464d912938105a086bba9114c20a87c8605324f1219944045f05cefe3bdef75e&smart=true&width=2000&height=1333",
-      "snippet": "El arquero del Al Ahly se mostró como una de las figuras de la selección egipcia en el Mundial y lo demostró atajándole un penal a Lionel Messi; conocé su historia",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:18.000Z"
-    },
-    {
-      "id": "d14595a05ffe",
-      "title": "Video: el emotivo llanto de Messi tras el épico triunfo de Argentina ante Egipto",
-      "link": "https://www.lanacion.com.ar/deportes/video-el-emotivo-llanto-de-messi-tras-el-epico-triunfo-de-argentina-ante-egipto-nid07072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/KFABLYZL3VCL7KACV5CYUJMQPI.JPG?auth=b4d3ccd9eadb2281076160947d05f73a4d613aefa145a94ce44a2c30ab1ed093&smart=true&width=2500&height=1667",
-      "snippet": "El capitán de la selección argentina no pudo contener las lágrimas luego de la agónica victoria y clasificación a los cuartos de final del Mundial",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:05.000Z"
-    },
-    {
-      "id": "877cfe200bf1",
-      "title": "Búsqueda de Lucas Gámez en Venezuela: realizan pruebas de sonido para detectar latidos del corazón del niño argentino",
-      "link": "https://www.lanacion.com.ar/el-mundo/busqueda-de-lucas-gamez-en-venezuela-realizan-pruebas-de-sonido-para-detectar-latidos-del-corazon-nid06072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TJ2TJJFPYRHR5G4HRBSNQ64TIY.jpg?auth=fd207ad5553bf35279d9246e9c92803fbbdc1d164ce525f9f3c841d15f0fe7a3&smart=true&width=1261&height=841",
-      "snippet": "Los rescatistas concentran los trabajos en dos sectores del edificio donde quedó atrapado tras los terremotos; días atrás detectaron calor corporal y la ubicación de un celular com",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:54:00.000Z"
-    },
-    {
-      "id": "8effeb970dae",
-      "title": "ESPN EN VIVO HOY - Colombia vs Suiza (0-0) | Transmisión del partido por Mundial 2026",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/video-espn-en-vivo-gratis-ver-futbol-libre-tv-partido-de-colombia-vs-suiza-hoy-online-por-mundial-2026-via-disney-plus-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/KIR4EN7AFRF7ZEVKTVRPDZYOAQ.jpg?auth=fd6d628e5f36daef2af96d72f07156b5885c0283c6257ae301b74371edd63abd&smart=true&width=1600&height=900",
-      "snippet": "ESPN EN VIVO ONLINE: ver transmisión del partido de Colombia vs. Suiza por octavos de final del Mundial 2026.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:53:56.000Z"
-    },
-    {
-      "id": "99ab60bdd3c7",
-      "title": "DIRECTV DGO EN VIVO HOY - Colombia vs Suiza (0-0) | Transmisión del partido por Mundial 2026",
-      "link": "https://elcomercio.pe/deporte-total/colombia/video-dgo-y-directv-en-vivo-gratis-donde-ver-colombia-vs-suiza-hoy-en-directo-por-mundial-2026-en-futbol-libre-tv-paramount-espn-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/6C6CTNOWUVE75C7XL3WPBEXGUI.jpg?auth=e68e760bc268a62c47eb6deb1a351955d6a399b9326ea0e5ca1a8e3351213db9&smart=true&width=1600&height=900",
-      "snippet": "Transmisión ofical de DirecTV (DGO) EN VIVO: sigue el partido de Colombia vs. Suiza ONLINE por televisión y streaming por octavos de final del Mundial 2026 desde BC Place Vancouver",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:53:53.000Z"
-    },
-    {
-      "id": "e99e3efe82eb",
-      "title": "RCN EN VIVO HOY - Colombia vs Suiza (0-0) | Transmisión del partido por Mundial 2026",
-      "link": "https://elcomercio.pe/deporte-total/colombia/video-rcn-en-vivo-gratis-ver-partido-colombia-vs-suiza-hoy-online-por-mundial-2026-rcn-tv-senal-en-directo-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/DDST5CPRWNAEHAW7O2AHK7BUV4.jpg?auth=d6b51fbe624bff820a79263c14419c7ac6ba8f1c4b88a1b9f4769e57416fe79a&smart=true&width=1600&height=900",
-      "snippet": "Transmisión ofical de RCN EN VIVO: sigue el partido de Colombia vs. Suiza ONLINE por televisión y streaming por octavos de final del Mundial 2026 desde BC Place Vancouver.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:53:51.000Z"
-    },
-    {
-      "id": "885b5dca35d5",
-      "title": "GOL Caracol EN VIVO HOY - Colombia vs Suiza (0-0) | Transmisión del partido por Mundial 2026",
-      "link": "https://elcomercio.pe/deporte-total/colombia/video-gol-caracol-en-vivo-gratis-donde-ver-colombia-vs-suiza-online-por-mundial-2026-senal-caracol-tv-en-directo-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/WA35RJB3CVH5NDEJG7ZUH4U3M4.jpg?auth=b042d658d8cc8e72bc53f1042f146a9a08dbff68ce8fe975679d9e7467be232b&smart=true&width=1600&height=900",
-      "snippet": "Transmisión ofical de Gol Caracol EN VIVO: sigue el partido de Colombia vs. Suiza ONLINE por televisión y streaming por dieciseisavos del Mundial 2026 desde el BC Place Vancouver.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:53:48.000Z"
-    },
-    {
-      "id": "b8f091141922",
-      "title": "John Kelvin se bautiza en iglesia cristiana: “Siempre es posible volver a empezar”",
-      "link": "https://elcomercio.pe/tvmas/farandula/john-kelvin-se-bautiza-en-iglesia-cristiana-siempre-es-posible-volver-a-empezar-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/RIS5S2XMSRBCLIK7LLSFKQVCGI.jpg?auth=570282365a20120b8ac92aaeabd617debcd490341d454ad3b81c231b29fab77c&smart=true&width=1214&height=800",
-      "snippet": "El cantante compartió imágenes del evento religioso y publicó un mensaje de fe días después de que Dalia Durán presentara nuevas denuncias en su contra.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:52:39.000Z"
-    },
-    {
-      "id": "c61113350431",
-      "title": "Ver, Colombia-Suiza EN VIVO por Mundial 2026: empatan 0-0 en el BC Place Vancouver",
-      "link": "https://elcomercio.pe/deporte-total/colombia/colombia-vs-suiza-en-vivo-hoy-ver-transmision-del-partido-por-octavos-de-final-del-mundial-2026-via-gol-caracol-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/MQWZ6IGGENAEHFNK4IYZTG64AA.jpg?auth=bc68ae54d86d56b76eae9e192fc3369febf3e3130f6e00c052beda03cae92c27&smart=true&width=1200&height=839",
-      "snippet": "Colombia vs. Suiza EN VIVO HOY: ver transmisión del partido por octavos de final del Mundial 2026 desde el BC Place Vancouver",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-07T20:52:21.000Z"
     },
     {
       "id": "baec811902d3",
@@ -663,6 +933,18 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-07T20:50:37.000Z"
+    },
+    {
+      "id": "2577ef23ec32",
+      "title": "Torta caprese: paso a paso",
+      "link": "https://www.abc.es/recetasderechupete/torta-caprese-el-pastel-de-chocolate-y-almendra-que-queda-humedo-por-dentro/171946/",
+      "image": null,
+      "snippet": "",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-07T20:49:56.000Z"
     },
     {
       "id": "71fe42f8e48a",
@@ -725,11 +1007,11 @@
       "isoDate": "2026-07-07T20:45:27.000Z"
     },
     {
-      "id": "58d9e63e2d1d",
-      "title": "Delcy Rodríguez designa nuevas autoridades del Seniat y Pequiven",
+      "id": "e2aaa71f5e37",
+      "title": "Designan a Román Maniglia superintendente del Seniat y a José David Cabello presidente de Pequiven",
       "link": "https://www.elnacional.com/2026/07/delcy-rodriguez-designa-nuevas-autoridades-del-seniat-y-pequiven/",
       "image": null,
-      "snippet": "Estos ajustes, orientados a la modernización tributaria y al fortalecimiento de la industria petroquímica, ocurren en un contexto de incertidumbre política por la extensión del int",
+      "snippet": "Maniglia ha ocupado cargos en el área económica del gobierno, entre ellos la presidencia del Banco de Venezuela y responsabilidades vinculadas al sistema financiero y la economía d",
       "source": "El Nacional",
       "sourceId": "elnacional",
       "country": "VE",
@@ -761,18 +1043,6 @@
       "isoDate": "2026-07-07T20:43:40.000Z"
     },
     {
-      "id": "31835c324169",
-      "title": "Suiza - Colombia : Mundial 2026, en directo | Partido de toma y daca en Vancouver",
-      "link": "https://elpais.com/america-colombia/2026-07-07/suiza-colombia-en-directo-partido-de-octavos-de-final-del-mundial-2026-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZJI3TKPN6ZM7BHDMIFFK4N4CNA.jpg?auth=ba5062cc82263e448cd00d1a2b17a0b3460d79aeeff857ebf2337643b9045af9",
-      "snippet": "Suiza cede algo más el balón a los colombianos, pero hay ocasiones en ambas áreas | Los helvéticos han tenido dos acciones claras de gol, pero la más peligrosa la han tenido los de",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-07T20:43:36.000Z"
-    },
-    {
       "id": "d80f576bb08c",
       "title": "Guerrero detalla que “prácticamente el 90% de las municipalidades del país” están en vías de tener al día plan de seguridad",
       "link": "https://www.latercera.com/nacional/noticia/guerrero-detalla-que-practicamente-el-90-de-las-municipalidades-del-pais-estan-en-vias-de-tener-al-dia-plan-de-seguridad/",
@@ -795,30 +1065,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T20:42:23.000Z"
-    },
-    {
-      "id": "164b07875f85",
-      "title": "La frescura de Palacio cala en la asfixiante ola de calor pamplonica",
-      "link": "https://www.abc.es/cultura/toros/siete-julio-fuente-ymbro-20260707185401-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/07/toros_asiron-U20609893533Zl-RijYdSmNMCl1GEG2v8y1njI-1200x840@diario_abc.jpg",
-      "snippet": "De pitada en pitada fue Joseba Asiron en el día grande de Pamplona. Pegó la espantada en la solemne misa y se marchó por la puerta de atrás de la Iglesia de San Lorenzo para irse d",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-07T20:38:07.000Z"
-    },
-    {
-      "id": "ddbf70e68c93",
-      "title": "Defensoría de la Niñez reúne a especialistas para aportar a debate sobre Responsabilidad Penal Adolescente en el Congreso",
-      "link": "https://www.latercera.com/nacional/noticia/defensoria-de-la-ninez-reune-a-especialistas-para-aportar-a-debate-sobre-responsabilidad-penal-adolescente-en-el-congreso/",
-      "image": "https://www.latercera.com/resizer/v2/4ZZF6POZDFHHHFPZTPFEDHYCU4.jpg?auth=3ef2e8242696158822b7b346d7a0fefa4a4cd02c48a9028ae739c67612281104&smart=true&width=1376&height=768",
-      "snippet": "El gobierno anunció que esta semana presentará indicaciones a un proyecto que modifica la actual ley para \"endurecer\" la normativa. \"Las decisiones que adopte el Estado deben basar",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-07T20:36:04.000Z"
     },
     {
       "id": "16d793f58e65",
@@ -855,6 +1101,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T20:32:16.000Z"
+    },
+    {
+      "id": "521965961701",
+      "title": "México exporta 242,903 mdd a EU entre enero y mayo; mantiene máximos pese a incertidumbre",
+      "link": "https://expansion.mx/economia/2026/07/07/mexico-exportaciones-estados-unidos-record-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/b4fb3c3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa5%2F77%2F17fea76d4c01aa70eb7eefb3aa88%2Fmexico-es-lider-en-en-exportaciones-a-estados-unidos-a-pesar-de-la-incertidumbre-por-el-t-mec-con-242-903-mdd.jpeg",
+      "snippet": "El secretario de Economía, Marcelo Ebrard, atribuye el buen desempeño a la fortaleza de las cadenas productivas entre México y Estados Unidos.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T20:31:07.000Z"
     },
     {
       "id": "970ad5b9be19",
@@ -941,76 +1199,28 @@
       "isoDate": "2026-07-07T20:23:41.000Z"
     },
     {
-      "id": "e963b59dab33",
-      "title": "El desahogo de Lionel Messi tras el triunfo ante Egipto: “No es fácil levantar un 0-2; volvimos a sufrir mucho”",
-      "link": "https://www.latercera.com/el-deportivo/noticia/el-desahogo-de-messi-tras-el-triunfo-ante-egipto-no-es-facil-levantar-un-0-2-este-grupo-no-baja-los-brazos-nunca/",
-      "image": "https://www.latercera.com/resizer/v2/74TVZPRMXNAPTNVJKS7IB26KVI.jpg?auth=32d3bf3722fd961ab0ca7aeb097ebc11f553162ba4323c91e53c34a92f6eb327&smart=true&width=2048&height=1365",
-      "snippet": "El rosarino destacó la reacción de la Albiceleste para remontar el marcador contra el conjunto africano y así sellar la clasificación a cuartos de final del Mundial.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-07T20:22:06.000Z"
+      "id": "dfcd74d06d79",
+      "title": "Un tercer petrolero sufre un ataque en el estrecho de Ormuz, alerta una agencia marítima",
+      "link": "http://es.euronews.com/2026/07/07/tercer-petrolero-sufre-ataque-estrecho-ormuz-segun-agencia-maritima",
+      "image": null,
+      "snippet": "Una agencia marítima británica informó de ataques contra tres petroleros en el estrecho de Ormuz este martes. La agencia marítima UKMTO investiga los incidentes y ha aconsejado a l",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T20:17:29.000Z"
     },
     {
-      "id": "ee0b093a3953",
-      "title": "Juicio por Loan: el testigo que habló sobre el botín enterrado, la huella y las naranjas sin madurar",
-      "link": "https://www.clarin.com/policiales/juicio-loan-testigo-hablo-botin-enterrado-huella-naranjas-madurar_0_0kK4RIcM2D.html",
-      "image": "https://www.clarin.com/img/2024/07/12/rTQxKZbBJ_1200x630__1.jpg",
-      "snippet": "Diego \"Huevo\" Peña, uno de los primos del nene desaparecido en el paraje El Algarrobal, dio detalles de lo que vio y escuchó los primeros días del caso. Para los investigadores, el",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:20:09.000Z"
-    },
-    {
-      "id": "e17bbdcd5db6",
-      "title": "El técnico de Egipto habló de \"injusticia\" y de la \"presión\" que Argentina ejerció sobre el árbitro",
-      "link": "https://www.clarin.com/deportes/tecnico-egipto-hablo-injusticia-presion-argentina-ejercio-arbitro_0_isqzsORaCr.html",
-      "image": "https://www.clarin.com/img/2026/07/07/HhHEyGRWK_1200x630__1.jpg",
-      "snippet": "Hossam Hassan se quejó del VAR por el gol anulado y un penal no revisado. \"Fuimos mejores pero el resultado se vio influenciado por factores externos\".",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:19:49.000Z"
-    },
-    {
-      "id": "6771411ad93b",
-      "title": "Benjamín, el hijo de Enzo Fernández, y la imagen más tierna en medio de la locura de Argentina vs Egipto",
-      "link": "https://www.clarin.com/deportes/benjamin-hijo-enzo-fernandez-imagen-tierna-medio-locura-argentina-vs-egipto_0_v2FWrWI2Gk.html",
-      "image": "https://www.clarin.com/img/2026/07/07/nn-eNxjNj_1200x630__1.jpg",
-      "snippet": "Su papá fue el héroe de la tarde en Atlanta, marcando el 3-2 que marcó la clasificación. En la tribuna, su familia festejó con todo la victoria, y el hijito del crack fue tendencia",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:14:17.000Z"
-    },
-    {
-      "id": "11d5a269a385",
-      "title": "Messi, tras la épica remontada ante Egipto: \"Volvimos a sufrir muchísimo, pero esto es un Mundial\"",
-      "link": "https://www.clarin.com/deportes/messi-epica-remontada-egipto-volvimos-sufrir-muchisimo-mundial_0_AQdcmzQgaK.html",
-      "image": "https://www.clarin.com/img/2026/07/07/zYWEY9Jav_1200x630__1.jpg",
-      "snippet": "Lo primero que dijo el diez cuando terminó el drama. Messi hizo un gol y una asistencia para dar vuelta el 0-2. En el primer tiempo le atajaron un penal.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:13:41.000Z"
-    },
-    {
-      "id": "7965ac55c3cd",
-      "title": "I Want to Hold your Hand: la canción que une a Paul McCartney con Taylor Swift y que el músico no tocaba hace 60 años",
-      "link": "https://www.latercera.com/culto/noticia/i-want-to-hold-your-hand-la-cancion-que-une-a-paul-mccartney-con-taylor-swift-y-que-el-musico-no-tocaba-hace-60-anos/",
-      "image": "https://www.latercera.com/resizer/v2/W32UNC7V3NC67D5E3CTX4GOA4Y.jpg?auth=79cb8c16a2067cc54e9e118a18777c133cc7721f1c82cadb1371f0427caec426&smart=true&width=1800&height=1200",
-      "snippet": "A pesar del secretismo que rodeó el matrimonio de la estrella del pop, se sabe que tuvo una aparición del ex Beatle, quien interpretó el memorable sencillo que le dio su primer núm",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-07T20:12:18.000Z"
+      "id": "403cf9b76a39",
+      "title": "¿De cuánto es la fortuna de Lionel Messi, el astro argentino que va por su segundo Mundial?",
+      "link": "https://expansion.mx/tendencias/2026/07/07/de-cuanto-es-la-fortuna-de-lionel-messi",
+      "image": "https://cdn-3.expansion.mx/dims4/default/59786a1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F32%2F49%2Fce1d6d9c4951ac7482c927d660bb%2Flioneel-messi-fortuna.jpeg",
+      "snippet": "Contratos históricos, un acuerdo vitalicio con Adidas y una cartera de inversiones explican cómo Lionel Messi construyó una de las mayores fortunas del deporte.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T20:16:59.000Z"
     },
     {
       "id": "0ce10da254de",
@@ -1023,18 +1233,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T20:11:31.000Z"
-    },
-    {
-      "id": "406b20aa415b",
-      "title": "Con 1.160 metros de longitud y aguas cristalinas, esta es una de las mejores playas de España para el verano",
-      "link": "https://www.clarin.com/internacional/1160-metros-longitud-aguas-cristalinas-mejores-playas-espana-verano_0_Uz8w2Wk01k.html",
-      "image": "https://www.clarin.com/img/2026/06/29/j3_bMQdNx_1200x630__1.jpg",
-      "snippet": "Ubicada en el Parque Natural de Cabo de Gata-Níjar, conserva un paisaje prácticamente intacto y un acceso que ayuda a preservar su estado natural. Por qué este rincón del litoral e",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T20:11:24.000Z"
     },
     {
       "id": "8a6611404a82",
@@ -1061,18 +1259,6 @@
       "isoDate": "2026-07-07T20:09:49.000Z"
     },
     {
-      "id": "67b7166df244",
-      "title": "En juego el último billete a cuartos; Suiza pierde a Manzambi",
-      "link": "https://www.abc.es/deportes/futbol/mundial/suiza-colombia-directo-sigue-resultado-ganador-goles-20260707091434-di.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/07/luis-diaz-zakaria-suiza-colombia-U202329417855IAD-RRrBu2RKmeV7ObhUEzGp2hJ-1200x840@diario_abc.jpg",
-      "snippet": "Sigue en directo el Suiza - Colombia , con el resultado, goles y la última hora de cómo va el partido de octavos del Mundial 2026 hoy, martes 7 de julio.",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-07T20:09:21.000Z"
-    },
-    {
       "id": "fdc71072f76c",
       "title": "Chile desarma célula del Tren de Aragua en cuatro regiones y detienen a más de 30 personas",
       "link": "https://www.elnacional.com/2026/07/chile-desarma-celula-del-tren-de-aragua-en-cuatro-regiones-y-detienen-a-mas-de-30-personas/",
@@ -1095,6 +1281,18 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-07-07T20:08:09.000Z"
+    },
+    {
+      "id": "7ef25ada8791",
+      "title": "Argentina logra una remontada épica ante Egipto y pasa a cuartos de final",
+      "link": "http://es.euronews.com/2026/07/07/argentina-logra-remontada-epica-ante-egipto-pasa-cuartos-de-final",
+      "image": null,
+      "snippet": "La Albiceleste perdía por 0-2 a 11 minutos del final, pero remontó y ganó 3-2 en el descuento. Messi falló un penalti en la primera parte y se redimió en la segunda al marcar el em",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T20:06:00.000Z"
     },
     {
       "id": "facbaec3244a",
@@ -1121,23 +1319,23 @@
       "isoDate": "2026-07-07T20:01:00.000Z"
     },
     {
-      "id": "d40e66970935",
-      "title": "Fonasa desembolsó 20 mil millones de pesos durante el primer trimestre en tratamientos de alto costo judicializados",
-      "link": "https://www.latercera.com/nacional/noticia/fonasa-desembolso-20-mil-millones-de-pesos-durante-el-primer-trimestre-en-tratamientos-de-alto-costo-judicializados/",
-      "image": "https://www.latercera.com/resizer/v2/MOXKT2O4IZD6FFBWQRJLRRACNI.jpg?auth=a0275bf4fd34c3ad3b32cfb1d09a6902bac8a1d0bab02a881c7c1963bfc1d546&smart=true&width=1200&height=800",
-      "snippet": "Aunque la Corte Suprema revirtió la tendencia y ahora rechaza los recursos que buscan financiamientos, el Estado sigue pagando tratamientos. En ese sentido, expertos, pacientes y p",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-07T20:00:00.000Z"
+      "id": "2f63a074a20d",
+      "title": "La IA no provoca una \"caída generalizada\" del empleo, según la OCDE",
+      "link": "https://expansion.mx/tecnologia/2026/07/07/la-ia-no-provoca-caida-generalizada-empleo-segun-ocde",
+      "image": "https://cdn-3.expansion.mx/dims4/default/3eac636/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbd%2F23%2F953efc424badb823e9f27755106f%2Fia-empleos-istock.jpg",
+      "snippet": "La organización descartó que el mayor uso de la inteligencia artificial haya debilitado el mercado laboral, aunque advirtió que la IA generativa podría estar complicando el ingreso",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T20:00:55.000Z"
     },
     {
       "id": "edfcc3f04143",
       "title": "De un cuartel de la PDI al estadio de Melipilla: los 11 proyectos urbanos abandonados en la RM en vías de ser recuperados",
       "link": "https://www.latercera.com/nacional/noticia/de-un-cuartel-de-la-pdi-al-estadio-de-melipilla-los-11-proyectos-urbanos-abandonados-en-la-rm-en-vias-de-ser-recuperados/",
       "image": "https://www.latercera.com/resizer/v2/NG6KR3D2DZHTHLOBMPXDXXRW3A.jpeg?auth=6f1bb015f650bc948af92dd12f26c26e2f8389d9264ed2f3707153b9a2742f85&smart=true&width=1387&height=636",
-      "snippet": "El Estadio La Montura de San Miguel, el Polideportivo de La Granja, el Centro Cultural de Huechuraba y un Cesfam de Renca son parte de los proyectos que la Gobernación Metropolitan",
+      "snippet": "El Estadio La Montura de San Miguel, el Polideportivo de La Granja, el Centro Cultural de Huechuraba y un Cesfam de Renca son parte de los proyectos que el Gobierno Regional Metrop",
       "source": "La Tercera",
       "sourceId": "latercera",
       "country": "CL",
@@ -1181,18 +1379,6 @@
       "isoDate": "2026-07-07T19:52:02.000Z"
     },
     {
-      "id": "92535d33b304",
-      "title": "El alocado festejo de los famosos tras el agónico triunfo de la Selección Argentina",
-      "link": "https://www.clarin.com/fama/alocado-festejo-famosos-agonico-triunfo-seleccion-argentina_0_VXLqAFa8rE.html",
-      "image": "https://www.clarin.com/img/2026/07/07/ySKJ-Q69h_1200x630__1.jpg",
-      "snippet": "Decenas de celebridades celebraron el triunfo frente a Egipto en el Mundial 2026. De Pampita a La China Suárez y Wanda Nara, las fotos y videos de los festejos.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T19:50:16.000Z"
-    },
-    {
       "id": "10c2bbabe479",
       "title": "Renzo Prieto, ex preso político: \"Volví al país para ayudar, colaborar y dar un abrazo a nuestra gente\"",
       "link": "https://www.elnacional.com/2026/07/renzo-prieto-ex-preso-politico-volvi-al-pais-para-ayudar-colaborar-y-dar-un-abrazo-a-nuestra-gente/",
@@ -1203,18 +1389,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-07-07T19:48:53.000Z"
-    },
-    {
-      "id": "1ac56c68a8ff",
-      "title": "Los futbolistas de Argentina festejaron el triunfo contra Egipto con sus familias y un exfutbolista se quebró al aire viendo las imágenes",
-      "link": "https://www.clarin.com/deportes/futbolistas-argentina-festejaron-triunfo-egipto-familias-exfutbolista-quebro-aire-viendo-imagenes_0_8f9wSDtYNs.html",
-      "image": "https://www.clarin.com/img/2026/07/07/3JlqCZzg__1200x630__1.jpg",
-      "snippet": "El 3-2 se sufrió como nunca, pero después llegó la clasificación y el alivio. Julián Álvarez se abrazó con su hijito nacida en enero, a pura ternura. Gustavo Lombardi, de TyC Sport",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T19:46:30.000Z"
     },
     {
       "id": "2dfb380aebd2",
@@ -1253,30 +1427,6 @@
       "isoDate": "2026-07-07T19:42:00.000Z"
     },
     {
-      "id": "e9acbe8b80ef",
-      "title": "El Zico egipcio explotó contra el árbitro y denunció que el Mundial 2026 está \"dirigido\" para Argentina",
-      "link": "https://www.clarin.com/deportes/zico-egipcio-exploto-arbitro-denuncio-mundial-2026-dirigido-argentina_0_DQc4aN4Chn.html",
-      "image": "https://www.clarin.com/img/2026/07/07/4PU660jD0_1200x630__1.jpg",
-      "snippet": "El autor de uno de los goles de Egipto se desahogó tras el dramático partido de octavos. Fue quien convirtió el tanto invalidado por una falta a Lisandro Martínez.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T19:41:00.000Z"
-    },
-    {
-      "id": "0bb1500c2ae8",
-      "title": "Con la voz quebrada, Javier Milei contó cómo vivió la remontada argentina junto a su hermana Karina: \"Es una muestra de que no hay que bajar nunca los brazos\"",
-      "link": "https://www.clarin.com/politica/milei-conto-vivio-remontada-argentina-junto-hermana-karina-muestra-bajar-brazos_0_x1RxTbWxoe.html",
-      "image": "https://www.clarin.com/img/2026/04/29/Pfv7dFrFO_1200x630__1.jpg",
-      "snippet": "Con su voz afectada, afónica, el Presidente habló con Alejandro Fantino tras el agónico triunfo de la Selección. \"Hubo que gritar un poco. Sufrí como la reputa madre\", se sinceró.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T19:40:39.000Z"
-    },
-    {
       "id": "704c491c43c1",
       "title": "Juez suspendió auditoría de la Supersalud a la Alcaldía de Medellín; la entidad había denunciado al alcalde Federico Gutiérrez por obstrucción",
       "link": "https://www.eltiempo.com/colombia/medellin/juez-suspendio-auditoria-de-la-supersalud-a-la-alcaldia-de-medellin-la-entidad-habia-denunciado-al-alcalde-federico-gutierrez-por-obstruccion-3569691",
@@ -1287,18 +1437,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-07-07T19:40:26.000Z"
-    },
-    {
-      "id": "0d531b22c5cf",
-      "title": "El 1x1 de Argentina vs Egipto en el Mundial 2026: Paredes la gran figura, los que tienen que levantar y la leyenda que continúa",
-      "link": "https://www.clarin.com/deportes/1x1-argentina-vs-egipto-mundial-2026-paredes-gran-figura-levantar-leyenda-continua_0_otNbW0W4WZ.html",
-      "image": "https://www.clarin.com/img/2026/07/07/pQyhSlOUe_1200x630__1.jpg",
-      "snippet": "El volante de Boca jugó muy bien pero además con un corte suyo comenzó la jugada del gol de la victoria. También se destacaron Cuti Romero, Enzo Fernández, Lionel Messi y los ingre",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-07T19:37:43.000Z"
     },
     {
       "id": "c5639d1ab56d",
@@ -1325,6 +1463,18 @@
       "isoDate": "2026-07-07T19:36:40.000Z"
     },
     {
+      "id": "7860e85d26a1",
+      "title": "Hungría transforma sus medios públicos tras acusaciones de propaganda y falta de pluralidad",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/hungria-transforma-medios-publicos-acusaciones-propaganda-falta-pluralidad",
+      "image": null,
+      "snippet": "El organismo estatal que gestiona los principales medios públicos húngaros informó de que su nuevo director general interino, Horváth András, y el equipo provisional nombrado por é",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T19:34:21.000Z"
+    },
+    {
       "id": "e84130af17cb",
       "title": "Aarón Palacio, el más listo y fresco entre un sopor de mansos en Pamplona",
       "link": "https://www.elmundo.es/cultura/toros/san-fermin/2026/07/07/6a4cc30be9cf4a0b7b8b45af.html",
@@ -1349,6 +1499,18 @@
       "isoDate": "2026-07-07T19:28:31.000Z"
     },
     {
+      "id": "1edfcf5aeadd",
+      "title": "Vacaciones 2026: ¿qué es la TUA y cuáles son los aeropuertos donde más se paga en México?",
+      "link": "https://expansion.mx/tendencias/2026/07/07/aeropuertos-mexico-tua-mas-cara-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/c64c524/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F98%2F34%2F3f61f9d548239599f78ac4d3664d%2Fvolaris-viva-alianza-reto-competencia-rutas.jpeg",
+      "snippet": "Si tienes pensado salir de viaje, recuerda que la TUA es una tarifa obligatoria en todos los aeropuertos del país.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T19:27:19.000Z"
+    },
+    {
       "id": "605027efb5f6",
       "title": "Messi saca a Argentina otra vez del sarcófago ante las protestas de un valeroso Egipto",
       "link": "https://www.elmundo.es/deportes/futbol/mundial-de-futbol/2026/07/07/6a4d46a621efa029218b458d.html",
@@ -1359,6 +1521,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T19:26:40.000Z"
+    },
+    {
+      "id": "ee190f7f0503",
+      "title": "Sánchez llega solo a la cumbre de la OTAN, entre la hostilidad de Trump y el recelo de sus socios",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/sanchez-llega-solo-a-la-cumbre-de-la-otan-entre-la-hostilidad-de-trump-y-el-recelo-de-sus-",
+      "image": null,
+      "snippet": "Pedro Sánchez viaja a Ankara sin Begoña Gómez, a quien el juez ha impedido acudir, para una cumbre marcada por la presión de Trump sobre el gasto militar y las dudas europeas sobre",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T19:23:51.000Z"
     },
     {
       "id": "95eeccabfa7e",
@@ -1397,6 +1571,18 @@
       "isoDate": "2026-07-07T19:14:14.000Z"
     },
     {
+      "id": "21719761539c",
+      "title": "El presidente electo de Colombia acusa a Petro de impulsar un golpe de Estado",
+      "link": "http://es.euronews.com/2026/07/07/presidente-electo-colombia-acusa-petro-impulsar-golpe-de-estado",
+      "image": null,
+      "snippet": "Abelardo de la Espriella, presidente electo de Colombia, acusó este martes al mandatario saliente, Gustavo Petro, de intentar \"un golpe de Estado\" tras negarse a reconocer su victo",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T19:13:42.000Z"
+    },
+    {
       "id": "a47aafa5e353",
       "title": "Feijóo tiende puentes a los empresarios vascos: respeto a las \"foralidades\" y dureza con el \"cáncer\" del absentismo laboral",
       "link": "https://www.elmundo.es/espana/2026/07/07/6a4d40c6e85ecea4598b45a5.html",
@@ -1409,8 +1595,8 @@
       "isoDate": "2026-07-07T19:11:02.000Z"
     },
     {
-      "id": "a74a94e54e38",
-      "title": "Descanso en Vancouver: Suiza y Colombia empatan sin goles en un partido gris",
+      "id": "5cf2d25c4566",
+      "title": "Suiza pide penalti en los primeros compases del segundo tiempo, pero Colombia se libra",
       "link": "https://www.20minutos.es/deportes/futbol/suiza-colombia-mundial-2026-directo-goles-marcador-ultima-hora-los-octavos-final_7011880_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/07/6a4d4c5bca0950-42085704.jpeg",
       "snippet": "El vencedor de este duelo se mide en cuartos de final a Argentina, que horas antes derrotó a Egipto en una remontada cargada de controversia.",
@@ -1431,18 +1617,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T19:09:08.000Z"
-    },
-    {
-      "id": "c61e2abcca6e",
-      "title": "Argentina se abona a la agonía: remonta un 0-2 y ya está en cuartos",
-      "link": "https://www.abc.es/deportes/futbol/mundial/argentina-egipto-20260707191941-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/07/151034r-RpGUQ4iO0WDBwZduSlbAq5L-1200x840@diario_abc.jpg",
-      "snippet": "Pidió oxígeno ante Cabo Verde y duplicó la bombona frente a Egipto. Argentina sigue viva en el Mundial, pero estuvo muchos minutos fuera. Remontada agónica ante la selección africa",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-07T19:08:42.000Z"
     },
     {
       "id": "c7c87bb30c1f",
@@ -1505,6 +1679,30 @@
       "isoDate": "2026-07-07T18:46:20.000Z"
     },
     {
+      "id": "ba4dc42f7f6f",
+      "title": "Abelardo de la Espriella acusa a Gustavo Petro de intentar un \"golpe de Estado\"",
+      "link": "https://expansion.mx/mundo/2026/07/07/abelardo-de-la-espriella-acusa-a-gustavo-petro-de-intentar-un-golpe-de-estado",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7bc3eaf/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F37%2F1e%2F606698664d968d4c4a4016b92ed4%2Fgustavo-petro-abelardo-de-la-espriella.jpg",
+      "snippet": "La transición del poder en Colombia, que deberá concretarse en un mes, transcurre entre tensiones entre el actual mandatario, de izquierda, y el presidente electo, de extrema derec",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T18:43:35.000Z"
+    },
+    {
+      "id": "4e7a76de9787",
+      "title": "Resultados del examen UNAM 2026: cuándo salen y qué hacer si eres aceptado",
+      "link": "https://expansion.mx/carrera/2026/07/07/cuando-salen-los-resultados-unam-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/54934ec/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3b%2F35%2F6a7677bf4ad5a864e52e07806e83%2Fconvocatoria-licenciaturas-unam-2026.jpg",
+      "snippet": "La universidad confirmó cuándo podrán consultarse los resultados del concurso de licenciatura y reiteró el llamado a evitar páginas o servicios que prometan alterar el proceso de a",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T18:41:28.000Z"
+    },
+    {
       "id": "49de1a8af164",
       "title": "Gaspard Estrada: \"Decisión judicial pone en una encrucijada el discurso político de Le Pen\"",
       "link": "https://www.france24.com/es/video/20260707-gaspard-estrada-decisi%C3%B3n-judicial-pone-en-una-encrucijada-el-discurso-pol%C3%ADtico-de-le-pen",
@@ -1515,6 +1713,18 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-07T18:38:27.000Z"
+    },
+    {
+      "id": "29ce9dff8407",
+      "title": "Capeco advierte que el fenómeno de El Niño pone en riesgo la economía y evidencia el retraso en obras de prevención",
+      "link": "https://elcomercio.pe/economia/peru/capeco-advierte-que-el-fenomeno-el-nino-pone-en-riesgo-la-economia-y-evidencia-el-retraso-en-obras-de-prevencion-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/OCUNUGPB4ZDJJCL3WBBGYERA2A.png?auth=fbcc48afc9908a356dcc94106d86f1e252f17c366bf2d225bd51f28dcd4c189b&smart=true&width=1039&height=681",
+      "snippet": "El Perú enfrenta un escenario de alta vulnerabilidad ante la posible intensificación del Fenómeno El Niño, situación que podría afectar el crecimiento económico, el desempeño del s",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T18:37:31.000Z"
     },
     {
       "id": "508830c3706d",
@@ -1529,6 +1739,30 @@
       "isoDate": "2026-07-07T18:37:00.000Z"
     },
     {
+      "id": "529e4a7d8866",
+      "title": "La ultraderechista Le Pen se presentará a las elecciones presidenciales en Francia pese a la condena",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/la-ultraderechista-le-pen-anuncia-que-se-presenta-a-las-elecciones-presidenciales-en-franc",
+      "image": null,
+      "snippet": "La intervención de Marine Le Pen en el informativo de las ocho de 'TF1' era muy esperada, tras el fallo del Tribunal de Apelación de París en el caso de los asistentes parlamentari",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T18:31:37.000Z"
+    },
+    {
+      "id": "9499dd8b12d7",
+      "title": "Uruguay advierte a la UE: ratificar Mercosur o perder Sudamérica frente a China",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/uruguay-advierte-a-la-ue-ratificar-mercosur-o-perder-sudamerica-frente-a-china",
+      "image": null,
+      "snippet": "En una entrevista exclusiva con Euronews, el ministro de Asuntos Exteriores de Uruguay, Mario Lubetkin, analiza el acuerdo de Mercosur, las opciones políticas del país y los intent",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T18:30:23.000Z"
+    },
+    {
       "id": "b320febb917f",
       "title": "Inclusión y dignidad para una familia en Cartagena: Distrito construirá vivienda a niña invidente que inspiró a su curso a aprender lenguaje braille",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/inclusion-y-dignidad-para-una-familia-en-cartagena-distrito-construira-vivienda-a-nina-invidente-que-inspiro-a-su-curso-a-aprender-lenguaje-braille-3569631",
@@ -1539,6 +1773,18 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-07-07T18:26:48.000Z"
+    },
+    {
+      "id": "1aa785cd87f4",
+      "title": "CRT deja en manos de los operadores el éxito del registro telefónico",
+      "link": "https://expansion.mx/empresas/2026/07/07/crt-responsabiliza-telcel-att-operadoras-exito-registro",
+      "image": "https://cdn-3.expansion.mx/dims4/default/446e6b5/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe9%2F49%2F00252f71493894d83ed98850a8db%2F2-telefono-889548-ofertas-fraudulentas-de-trabajo-impreso.jpeg",
+      "snippet": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán p",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T18:18:21.000Z"
     },
     {
       "id": "856c0bcd2a90",
@@ -1563,6 +1809,18 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-07T18:14:32.000Z"
+    },
+    {
+      "id": "2f6eb62ceff5",
+      "title": "El Comité Olímpico Internacional suaviza las restricciones a los deportistas rusos",
+      "link": "http://es.euronews.com/2026/07/07/el-comite-olimpico-internacional-suaviza-las-restricciones-a-los-deportistas-rusos",
+      "image": null,
+      "snippet": "Los deportistas rusos que buscan volver a competir a nivel internacional podrán hacerlo siempre que cumplan los requisitos antidopaje pertinentes, según anunció el COI.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T18:12:24.000Z"
     },
     {
       "id": "9d8f97d6e768",
@@ -1613,6 +1871,18 @@
       "isoDate": "2026-07-07T18:05:00.000Z"
     },
     {
+      "id": "6d0ab9665d49",
+      "title": "Geely tiene 52 satélites en órbita: ¿por qué una automotriz china creó su propia constelación?",
+      "link": "https://expansion.mx/empresas/2026/07/07/geely-52-satelites-orbita-por-que-creo-propia-constelacion",
+      "image": "https://cdn-3.expansion.mx/dims4/default/721d775/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa4%2Fbb%2F8d2f22134eb9b04e8375a9b2c576%2Fgeely-52-satelites-orbita-por-que-creo-propia-constelacion.jpeg",
+      "snippet": "Lo que comenzó como una apuesta de movilidad terminó llevando a la compañía a un terreno donde pocas marcas del sector tienen presencia.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T18:02:47.000Z"
+    },
+    {
       "id": "572d742425a5",
       "title": "A días de la reversión de la vía Cartagena-Barranquilla, crece presión para suspender cobro en seis peajes sin estudios que lo justifiquen",
       "link": "https://www.eltiempo.com/colombia/barranquilla/a-dias-de-la-reversion-de-la-via-cartagena-barranquilla-crece-presion-para-suspender-cobro-en-seis-peajes-sin-estudios-que-lo-justifiquen-3569634",
@@ -1625,6 +1895,30 @@
       "isoDate": "2026-07-07T18:01:00.000Z"
     },
     {
+      "id": "93df6dd0cf5b",
+      "title": "Los nombres de usuario de WhatsApp desatan alertas por fraude y suplantación",
+      "link": "https://expansion.mx/tecnologia/2026/07/07/nombres-usuario-whatsapp-alertas-fraude-suplantacion",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e18d3e3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F45%2Ffb%2F334ffd884bebae170e8cede8f943%2Fwhatsapp-etiquetas-usuario-nombre-ciberseguridad.jpg",
+      "snippet": "Lo que Meta presenta como una nueva capa de protección para sus más de 3,000 millones de usuarios ya provocó cuestionamientos regulatorios y advertencias de expertos sobre nuevos r",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T18:00:38.000Z"
+    },
+    {
+      "id": "ebd7eafe8a24",
+      "title": "Detienen a activistas tibetanos frente a la Embajada china en Nueva Delhi",
+      "link": "http://es.euronews.com/video/2026/07/07/detienen-a-activistas-tibetanos-frente-a-la-embajada-china-en-nueva-delhi",
+      "image": null,
+      "snippet": "La Policía detiene a activistas del Congreso de la Juventud Tibetana durante una protesta 'Free Tibet' ante la Embajada china en Nueva Delhi el siete de julio de 2026.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T17:59:01.000Z"
+    },
+    {
       "id": "57f5965be677",
       "title": "Comité Olímpico Internacional levanta temporalmente las sanciones a Rusia",
       "link": "https://www.dw.com/es/comité-olímpico-internacional-levanta-temporalmente-las-sanciones-a-rusia/a-77868107?maca=spa-rss-sp-all-1122-rdf",
@@ -1635,6 +1929,30 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-07T17:57:00.000Z"
+    },
+    {
+      "id": "5e0015c58d76",
+      "title": "El Parlamento Europeo inicia el proceso para ilegalizar el partido europeo de AfD",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/el-parlamento-europeo-inicia-el-proceso-para-ilegalizar-el-partido-europeo-de-afd",
+      "image": null,
+      "snippet": "Europa de Naciones Soberanas afronta ahora un proceso que podría retirarle su condición de partido político europeo y su financiación. Eurodiputados ultraderechistas de otros grupo",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T17:54:41.000Z"
+    },
+    {
+      "id": "6d2b122e7bee",
+      "title": "TV Azteca es declarada oficialmente en concurso mercantil para reestructurar su deuda financiera",
+      "link": "https://expansion.mx/empresas/2026/07/07/tv-azteca-es-declarada-oficialmente-concurso-mercantil",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6b8622c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F70%2F44%2F90db02f2454aa0c613baf8811571%2F2-tv-azteca942518-instalaciones-tv-azteca-impreso-1.jpeg",
+      "snippet": "La empresa tendrá hasta un año para negociar con sus acreedores bajo la supervisión de un conciliador, como parte de un proceso para reorganizar sus pasivos y fortalecer su estruct",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T17:51:33.000Z"
     },
     {
       "id": "2e0d23cc9d41",
@@ -1661,16 +1979,16 @@
       "isoDate": "2026-07-07T17:50:06.000Z"
     },
     {
-      "id": "7946d46aa441",
-      "title": "Chocó resiste feroz ofensiva aérea y terrestre del Eln: autoridades revelan que ya van 53 ataques en seis días",
-      "link": "https://www.eltiempo.com/colombia/otras-ciudades/choco-resiste-feroz-ofensiva-aerea-y-terrestre-del-eln-autoridades-revelan-que-ya-van-53-ataques-en-seis-dias-3569669",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/07/6a4d38c0e35c0.jpeg",
-      "snippet": "Las tropas militares derribaron tres drones y habilitaron el tránsito por las vías hacia Antioquia y Risaralda tras superar bloqueos con explosivos.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-07T17:41:33.000Z"
+      "id": "46ad30ca1e3f",
+      "title": "DeepSeek desarrolla su propio chip de IA y muestra que China ya no depende de Nvidia",
+      "link": "https://expansion.mx/tecnologia/2026/07/07/deepseek-desarrolla-chip-de-ia-no-depende-de-nvidia",
+      "image": "https://cdn-3.expansion.mx/dims4/default/ca83446/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fde%2F48%2Fc35d58de4aeab94f4b9e640792bf%2F2-deepseek-000-36wg3dc.jpeg",
+      "snippet": "El proyecto busca disminuir la dependencia de la startup china de Nvidia y Huawei, en un movimiento que refleja la nueva competencia por controlar la infraestructura de la intelige",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T17:35:47.000Z"
     },
     {
       "id": "028f46b68b36",
@@ -1733,16 +2051,28 @@
       "isoDate": "2026-07-07T17:20:05.000Z"
     },
     {
-      "id": "b41708831c90",
-      "title": "Atención: Federación Nacional de Departamentos respalda a Abelardo de la Espriella y exige proteger toda la información del empalme",
-      "link": "https://www.eltiempo.com/colombia/atencion-federacion-nacional-de-departamentos-respalda-a-abelardo-de-la-espriella-y-exige-proteger-toda-la-informacion-del-empalme-3569663",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/01/6a454a3c970e0.r_d.1455-748-0.jpeg",
-      "snippet": "Fedepartamentos exige proteger toda la información del Gobierno durante el empalme entre el Gobierno saliente y el presidente electo.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-07T17:19:25.000Z"
+      "id": "6a6c5897d0ae",
+      "title": "México recupera lugar en el top 10 de la IED mundial, aunque el nearshoring pierde brillo",
+      "link": "https://expansion.mx/economia/2026/07/07/mexico-inversion-extranjera-nearshoring-unctad",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9951a44/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8d%2F4d%2F195adf0343c7b383a07103130c4e%2Fmexico-top-10-inversion-extranjera.jpeg",
+      "snippet": "Pese al crecimiento de la inversión extranjera, la UNCTAD considera que la incertidumbre comercial sigue frenando decisiones de inversión en nuevas plantas en el país.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T17:14:16.000Z"
+    },
+    {
+      "id": "b9c140cefcfa",
+      "title": "Nigel Farage dimite como diputado tras las acusaciones fiscales contra su partido",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/nigel-farage-dimite-como-diputado-tras-acusaciones-fiscales-contra-partido-reform-uk",
+      "image": null,
+      "snippet": "El partido Reform UK (Reformar Reino Unido) ha avanzado con fuerza en las encuestas, pero su líder se ha visto envuelto en varias polémicas relacionadas con sus finanzas en los últ",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T17:10:20.000Z"
     },
     {
       "id": "1ad0b62a7d59",
@@ -1757,16 +2087,16 @@
       "isoDate": "2026-07-07T17:09:48.000Z"
     },
     {
-      "id": "c1a1d0bfaf60",
-      "title": "Barranquilla | Violento asesinato contra hombre de 74 años que estaba dentro de un billar en La Luz: autoridades indagan posible trasfondo extorsivo",
-      "link": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-violento-asesinato-contra-hombre-de-74-anos-que-estaba-dentro-de-un-billar-en-la-luz-autoridades-indagan-posible-trasfondo-extorsivo-3569645",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/07/6a4d2f3dbf25d.png",
-      "snippet": "El crimen ocurrió en el establecimiento de razón social Billares Los Almendros, ubicado en la calle 17 con carrera 22, en el suroriente de la ciudad.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-07T17:01:00.000Z"
+      "id": "de9d7ae2cb45",
+      "title": "Veolia anuncia adquisición de la chilena Energías Industriales para reforzar apuesta en biomasa",
+      "link": "https://www.latercera.com/pulso/noticia/veolia-anuncia-adquisicion-de-la-chilena-energias-industriales-para-reforzar-apuesta-en-biomasa/",
+      "image": "https://www.latercera.com/resizer/v2/ZTAGBDB7KJBOZENH6RJIZ3M7Q4.jpeg?auth=bb17679cee490becdc6a63b00c8740cc09b6dbed96da63317e53a10e5d4a058a&smart=true&width=1368&height=911",
+      "snippet": "Veolia dijo que con esta operación integra a su red un sistema de 13 calderas industriales distribuidas en 9 plantas in situ a lo largo de Chile.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-07T17:09:35.000Z"
     },
     {
       "id": "a83ce9082e34",
@@ -1829,6 +2159,18 @@
       "isoDate": "2026-07-07T16:41:41.000Z"
     },
     {
+      "id": "6907708a53ac",
+      "title": "El Mundial no está vaciando las oficinas, pero está obligando a las empresas a ser más flexibles",
+      "link": "https://expansion.mx/carrera/2026/07/07/mundial-2026-no-dispara-ausentismo-laboral-mexico",
+      "image": "https://cdn-3.expansion.mx/dims4/default/712d767/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F10%2F0b%2Ff7fd296b4b0080130466108fb176%2Fel-mundial-no-esta-vaciando-las-oficinas-pero-esta-obligando-a-las-empresas-a-ser-mas-flexibles.jpeg",
+      "snippet": "Las empresas enfrentan más retardos, permisos y menor concentración que faltas injustificadas durante el Mundial, según especialistas en recursos humanos.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T16:37:31.000Z"
+    },
+    {
       "id": "9cd771f109f5",
       "title": "El funcionario chino condenado a muerte por aceptar US$325 millones en sobornos",
       "link": "https://www.bbc.com/mundo/articles/cg4wdvneqgdo?at_medium=RSS&at_campaign=rss",
@@ -1865,6 +2207,18 @@
       "isoDate": "2026-07-07T16:23:48.000Z"
     },
     {
+      "id": "35d72b0abd09",
+      "title": "Trump reaviva su exigencia de que Estados Unidos controle Groenlandia",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/trump-reaviva-su-exigencia-de-que-estados-unidos-controle-groenlandia",
+      "image": null,
+      "snippet": "A su llegada a la cumbre de la OTAN, el presidente de Estados Unidos afirma que Dinamarca no ha invertido lo suficiente en la seguridad del territorio ártico.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T16:08:54.000Z"
+    },
+    {
       "id": "b74526e95f18",
       "title": "\"Deambula por la cancha como un abuelo\": las críticas a Cristiano Ronaldo tras la eliminación de Portugal del Mundial",
       "link": "https://www.bbc.com/mundo/articles/cr5j9886ggqo?at_medium=RSS&at_campaign=rss",
@@ -1877,16 +2231,28 @@
       "isoDate": "2026-07-07T16:08:06.000Z"
     },
     {
-      "id": "56e225457d0c",
-      "title": "¿Por qué miles de haitianos podrían ser deportados de Estados Unidos?",
-      "link": "https://www.france24.com/es/programas/migrantes/20260707-por-qu%C3%A9-miles-de-haitianos-podr%C3%ADan-ser-deportados-de-estados-unidos",
-      "image": "https://s.france24.com/media/display/1673f108-7a14-11f1-b6d7-005056bfb2b6/w:1024/p:16x9/WEB-PORTADA-MIG-06JUL.png",
-      "snippet": "Una decisión de la Corte Suprema de Estados Unidos ha permitido al gobierno de Donald Trump definir el futuro del Estatus de Protección Temporal (TPS), dejando en la incertidumbre ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
+      "id": "939598a3735d",
+      "title": "Bajas médicas en Europa: cómo cambian el salario y las prestaciones según el país",
+      "link": "http://es.euronews.com/my-europe/2026/07/07/bajas-medicas-en-europa-como-cambian-el-salario-y-las-prestaciones-segun-el-pais",
+      "image": null,
+      "snippet": "Mientras Alemania endurece las bajas médicas para reducir el absentismo, así se comparan las prestaciones, los salarios y los certificados por enfermedad en los principales países ",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
       "country": "INT",
       "countryLabel": "Internacional",
-      "isoDate": "2026-07-07T15:57:28.000Z"
+      "isoDate": "2026-07-07T16:00:36.000Z"
+    },
+    {
+      "id": "3f3573de0684",
+      "title": "EURONEWS HOY | Las noticias del martes 7 de julio: La OTAN se rearma ante el repliegue de EE.UU.",
+      "link": "http://es.euronews.com/2026/07/07/euronews-hoy-las-noticias-del-lunes-7-de-julio-la-otan-se-rearma-ante-el-repliegue-de-eeuu",
+      "image": null,
+      "snippet": "La OTAN avala un gasto récord en Defensa ante el repliegue de EE.UU. en Europa, un proyectil alcanza a un carguero en el estrecho de Ormuz, explotan varias bombas cerca del hotel d",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-07T16:00:33.000Z"
     },
     {
       "id": "b26d153addf3",
@@ -1961,6 +2327,18 @@
       "isoDate": "2026-07-07T15:17:21.000Z"
     },
     {
+      "id": "72692829eb91",
+      "title": "La presión de Trump sobre la FIFA desafía las reglas del deporte y la diplomacia",
+      "link": "https://expansion.mx/mundo/2026/07/07/ni-fifa-escapa-caprichos-trump-tarjeta-roja-balogun",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9524d48/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fee%2F3d%2F13cae98b431b82d68fda9c7e10fa%2Fdonald-trump.jpeg",
+      "snippet": "La intervención para favorecer a Estados Unidos vuelve a cuestionar la autonomía de la FIFA y refleja un patrón que también marca la relación comercial y diplomática con sus socios",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-07T15:04:14.000Z"
+    },
+    {
       "id": "57670ef13be6",
       "title": "Renuncia, cese fulminante o simple adiós: estos entrenadores se van en la Copa del Mundo",
       "link": "https://www.dw.com/es/renuncia-cese-fulminante-o-simple-adiós-estos-entrenadores-se-van-en-la-copa-del-mundo/a-77862691?maca=spa-rss-sp-all-1122-rdf",
@@ -1997,6 +2375,18 @@
       "isoDate": "2026-07-07T14:53:26.000Z"
     },
     {
+      "id": "5fe1d5d55cb1",
+      "title": "Alonso Segura, presidente del Consejo Fiscal, sobre permanencia de Velarde en el BCR: “Decisión dejará tranquilos a los inversionistas”",
+      "link": "https://elcomercio.pe/economia/peru/alonso-segura-presidente-del-consejo-fiscal-sobre-permanencia-de-velarde-en-el-bcr-decision-dejara-tranquilo-a-los-inversionistas-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/HUR4BTWNYRCPFO77IPHZHFYHFE.jpg?auth=2f7d3083c0187005373a600cc8009fb6d186fb9e9eaf8bc41f8a02321f0bd1d5&smart=true&width=1732&height=1155",
+      "snippet": "Alonso Seguro, presidente del Consejo de Fiscal, se refirió a la decisión de solicitar la permanencia de Julio Velarde por un periodo adicional al frente del Banco Central de Reser",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-07T14:53:01.000Z"
+    },
+    {
       "id": "d0396a438534",
       "title": "Un tribunal en Francia rebaja la pena a Marine Le Pen y abre la puerta para que se presente a las elecciones presidenciales usando un brazalete electrónico",
       "link": "https://www.bbc.com/mundo/articles/cvg7wnvp9jno?at_medium=RSS&at_campaign=rss",
@@ -2009,18 +2399,6 @@
       "isoDate": "2026-07-07T14:43:03.000Z"
     },
     {
-      "id": "ce78cd21ec00",
-      "title": "Partidos del Mundial hoy 7 de julio: Argentina vs. Egipto, ¿en dónde ver todos los encuentros?",
-      "link": "https://expansion.mx/tendencias/2026/07/07/que-partidos-del-mundial-transmitiran-tv-abierta-7-julio",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e7a0e85/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2Fb4%2F78acf2e64703aa674b8236eeddff%2Fque-partidos-del-mundial-transmitiran-tv-abierta-7-julio.jpg",
-      "snippet": "Consulta los horarios, sedes, canales de transmisión y el panorama de las selecciones que buscan avanzar en los octavos de la Copa Mundial de la FIFA 2026.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T14:22:33.000Z"
-    },
-    {
       "id": "d8698a7eb0ee",
       "title": "Alemania toma medidas para atajar récord de bajas laborales",
       "link": "https://www.dw.com/es/alemania-toma-medidas-para-atajar-récord-de-bajas-laborales/a-77857157?maca=spa-rss-sp-all-1122-rdf",
@@ -2031,18 +2409,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-07T14:19:00.000Z"
-    },
-    {
-      "id": "8de17c1425f7",
-      "title": "La insólita respuesta de senadora a Kylian Mbappé: “No te metas con Paraguay, acá metimos preso a Ronaldinho”",
-      "link": "https://www.latercera.com/el-deportivo/noticia/la-insolita-respuesta-de-la-senadora-paraguaya-a-kylian-mbappe-soy-de-una-epoca-en-la-que-era-comun-decir-negros-de-m/",
-      "image": "https://www.latercera.com/resizer/v2/JIXBAFBDCJA7BPJF3UNF3OZZTA.png?auth=4a9ec72acc02b54767f03d7111840f02ec8698ea654614904b4024946cc022f6&smart=true&width=1920&height=1080",
-      "snippet": "Celeste Amarilla continúa el controversial intercambio con el delantero de la selección gala.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-07T14:11:30.000Z"
     },
     {
       "id": "8dcc0a7170e5",
@@ -2105,18 +2471,6 @@
       "isoDate": "2026-07-07T12:53:37.000Z"
     },
     {
-      "id": "c126c0a192ac",
-      "title": "México tiene un sistema eléctrico cada vez más vulnerable",
-      "link": "https://expansion.mx/podcasts-expansion/expansion-daily/2026/07/07/mexico-tiene-sistema-electrico-cada-vez-mas-vulnerable",
-      "image": "https://cdn-3.expansion.mx/dims4/default/cf52518/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F34%2Fba%2Fa9cad7d64e1d81c43bf027729bd4%2F27-daily-web-creditosia.jpg",
-      "snippet": "Las interrupciones del servicio eléctrico muestran que el incremento sostenido de la demanda está retando al sistema. Escucha sobre este y otros temas en Expansión Daily.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T12:15:23.000Z"
-    },
-    {
       "id": "3d7b3063126d",
       "title": "La OTAN pacta una \"revolución de defensa\" con nuevas compras multimillonarias y proyectos conjuntos para calmar a Trump",
       "link": "https://www.20minutos.es/internacional/otan-pacta-ankara-una-revolucion-defensa-con-compras-multimillonarias-proyectos-conjuntos-para-calmar-trump_7011655_0.html",
@@ -2127,102 +2481,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T12:09:18.000Z"
-    },
-    {
-      "id": "f280eecc93ea",
-      "title": "El otro Mundial que México ha jugado",
-      "link": "https://expansion.mx/opinion/2026/07/07/el-otro-mundial-que-mexico-ha-jugado",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6bce462/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa4%2Fec%2F9184e3e74950bb92d6677c7bd469%2F6-afp-20260705-b9bz39l-v1-midres-mexicofblwc2026fans.jpeg",
-      "snippet": "Las grandes potencias entienden desde hace años que la reputación nacional no es un subproducto de las políticas públicas, es una política pública en sí misma.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T12:06:27.000Z"
-    },
-    {
-      "id": "3d930f0f327a",
-      "title": "El Mundial de futbol como un examen de marketing",
-      "link": "https://expansion.mx/opinion/2026/07/07/el-mundial-de-futbol-como-un-examen-de-marketing",
-      "image": "https://cdn-3.expansion.mx/dims4/default/209cb60/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F56%2Fb5%2F621c45114313be5a63c1930a785b%2F3-afp-20260611-b6ra9pl-v1-midres-fblwc2026match01mexrsafans.jpeg",
-      "snippet": "En un año donde la IA ya forma parte de la rutina, la pregunta no es qué tanto automatiza una marca, sino qué tan humana logra seguir siendo cuando compite por atención, confianza ",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T12:05:36.000Z"
-    },
-    {
-      "id": "0850573f9a0d",
-      "title": "Tu mejor cliente podría no ser humano, ¿estás preparado?",
-      "link": "https://expansion.mx/opinion/2026/07/07/tu-mejor-cliente-podria-no-ser-humano-estas-preparado",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b8533f7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F18%2F8f%2Fb2ce255a42b582906560e4d99f09%2Fgettyimages-453488580.jpeg",
-      "snippet": "El diseño de producto, la experiencia de usuario y la optimización constante de los recorridos de compra dejaron de ser detalles operativos para convertirse en capacidades estratég",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T12:04:37.000Z"
-    },
-    {
-      "id": "e46cee044ce7",
-      "title": "La reinvención del talento junior: cómo frenar la inminente \"crisis de sucesión\" corporativa",
-      "link": "https://expansion.mx/opinion/2026/07/07/la-reinvencion-del-talento-junior-como-frenar-la-inminente-crisis-de-sucesion-corporativa",
-      "image": "https://cdn-3.expansion.mx/dims4/default/012e46c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff3%2F61%2F92f5d35e468aad1ffd93023334eb%2Fgettyimages-2212589169.jpeg",
-      "snippet": "El ecosistema corporativo sufre de una paradoja. Por un lado, empresas exigen perfiles \"junior\" con años de experiencia; por el otro, relegan a nuevos profesionales a tareas monóto",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T12:03:10.000Z"
-    },
-    {
-      "id": "2906ffb6eeca",
-      "title": "Mientras EU revisa el T-MEC, Taiwán y Vietnam ya superan a México en su déficit comercial",
-      "link": "https://expansion.mx/economia/2026/07/07/taiwan-vietnam-desplazan-mexico-deficit-comercial-eu",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e08cf22/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff2%2F35%2Fbceb56b64ea1ae5f46a4a659c79f%2Fmexico-pierde-su-lugar-como-principal-problema-comercial-de-eu-taiwan-y-vietnam-lo-superan-el-deficit.jpeg",
-      "snippet": "Taiwán elevó 55% y Vietnam 29% su saldo negativo con EU entre enero y abril, mientras el de México disminuyó 2%, de acuerdo con datos de la Oficina del Censo.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T11:55:51.000Z"
-    },
-    {
-      "id": "55f4eac32024",
-      "title": "El fin del videojuego físico obliga al retail a reinventar su negocio",
-      "link": "https://expansion.mx/tecnologia/2026/07/07/el-fin-del-videojuego-fisico-obliga-al-retail-a-reinventar-su-negocio",
-      "image": "https://cdn-3.expansion.mx/dims4/default/aff6cfe/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0d%2Fc2%2F559ff4aa47eaaa33d4618eb6ce4c%2Fvideojuegos-fisicos-gameplanet.jpeg",
-      "snippet": "Las tiendas especializadas buscan compensar la caída del software con accesorios, coleccionables y otros productos para sostener sus ingresos.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T11:55:27.000Z"
-    },
-    {
-      "id": "bcefe1fc1989",
-      "title": "La presión de Trump sobre la FIFA desafía las reglas del deporte y la diplomacia",
-      "link": "https://expansion.mx/mundo/2026/07/07/la-presion-de-trump-sobre-la-fifa-desafia-las-reglas-del-deporte-y-la-diplomacia",
-      "image": "https://cdn-3.expansion.mx/dims4/default/9524d48/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fee%2F3d%2F13cae98b431b82d68fda9c7e10fa%2Fdonald-trump.jpeg",
-      "snippet": "La intervención para favorecer a Estados Unidos vuelve a cuestionar la autonomía de la FIFA y refleja un patrón que también marca la relación comercial y diplomática con sus socios",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T11:55:14.000Z"
-    },
-    {
-      "id": "e41584b8acf6",
-      "title": "Las revisiones anuales del T-MEC elevan la incertidumbre para la inversión energética",
-      "link": "https://expansion.mx/empresas/2026/07/07/las-revisiones-anuales-del-t-mec-elevan-la-incertidumbre-para-la-inversion-energetica",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c1ae054/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F15%2F5c%2F08e7bb3d492287b2aa3c20000e1f%2Finversiones-energeticas-pueden-no-concretarse-por-incertidumbre-con-t-mec.jpeg",
-      "snippet": "La reforma energética de 2024 busca atraer capital privado, pero proyectos con horizontes de hasta 30 años dependerán de reglas sujetas a evaluación constante.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T11:54:30.000Z"
     },
     {
       "id": "5e09d3bc633b",
@@ -2669,18 +2927,6 @@
       "isoDate": "2026-07-07T03:31:38.000Z"
     },
     {
-      "id": "461003bf4bd6",
-      "title": "Gianni Infantino, un presidente de la FIFA que ha pasado de becario de LaLiga a protagonizar el bochorno de Balogun",
-      "link": "https://elpais.com/deportes/mundial-futbol/2026-07-07/gianni-infantino-un-presidente-de-la-fifa-que-ha-pasado-de-becario-de-laliga-a-protagonizar-el-bochorno-de-balogun.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VY57VVU6GNKALMP7K4HFX3SARY.jpg?auth=34d7c60b6fd8dabe31f7e419f94af5e045cb5488bb57149c1070b53e90f1cda4",
-      "snippet": "El máximo mandatario del fútbol mundial vivió en Madrid tres meses antes de pasar a protagonizar los sorteos de la Champions y mucho antes de convertirse en uno de los grandes amig",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-07T03:30:01.000Z"
-    },
-    {
       "id": "ec3c007a7224",
       "title": "Bélgica humilla a EE.UU. en respuesta a las trampas de Trump e Infantino",
       "link": "https://www.lavanguardia.com/deportes/futbol/mundial-2026/20260707/11586220/seleccion-belga-humilla-locales-respuesta-trampas-trump-e-infantino.html",
@@ -2691,42 +2937,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T02:40:22.000Z"
-    },
-    {
-      "id": "ec13d65256ae",
-      "title": "Toyota trasladará producción de Tacoma de México a Texas",
-      "link": "https://expansion.mx/empresas/2026/07/06/toyota-trasladara-produccion-tacoma-de-mexico-a-texas",
-      "image": "https://cdn-3.expansion.mx/dims4/default/75dfb7a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F59%2F70%2F321f016a4199984764aab0b12ad4%2Fimg-2911.jpeg",
-      "snippet": "La empresa precisó que el traslado de la producción de Tacoma desde Baja California hacia San Antonio se realizará durante los próximos cuatro años.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T01:10:55.000Z"
-    },
-    {
-      "id": "bbd1cd67242e",
-      "title": "Biométricos en bancos buscan ayudar a 17 millones de adultos mayores, pero persistirán fricciones",
-      "link": "https://expansion.mx/economia/2026/07/06/bancos-mexico-datos-biometricos-cuidar-adultos-mayores",
-      "image": "https://cdn-3.expansion.mx/dims4/default/4ab7d2d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F60%2Fa9%2Fecfd10ad4222b68e1aa568e4201b%2F2-gettyimages-1216825584.jpeg",
-      "snippet": "El uso de biometría busca que los bancos identifiquen plenamente a sus clientes luego de que las reclamaciones por fraude aumentaron 18% en lo que va del año; también implicará des",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T00:25:47.000Z"
-    },
-    {
-      "id": "1f1f21742b27",
-      "title": "Así le fue a Cristiano Ronaldo en Mundiales: goles, asistencias y hasta dónde llegó el portugués",
-      "link": "https://expansion.mx/tendencias/2026/07/06/asi-le-fue-cristiano-ronaldo-en-mundiales-goles-asistencias",
-      "image": "https://cdn-3.expansion.mx/dims4/default/dc142ba/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffa%2F36%2F8eba7ab64b63a00c174fb48026f5%2F4-cristiano-ronaldo-gettyimages-2284946233.jpeg",
-      "snippet": "CR7 dejó un gran legado después de una brillante trayectoria con la selección portuguesa, incluyendo récords en Copas del Mundo.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-07T00:09:20.000Z"
     },
     {
       "id": "40807e044cae",
@@ -2813,18 +3023,6 @@
       "isoDate": "2026-07-05T06:58:20.000Z"
     },
     {
-      "id": "446f869e7fe3",
-      "title": "Sé parte de la fiesta olímpica de LA28 sin ser atleta: cómo aplicar para voluntario en los Juegos Olímpicos y Paralímpicos",
-      "link": "https://elcomercio.pe/mag/usa/local-us/se-parte-de-la-fiesta-olimpica-de-la28-sin-ser-atleta-como-aplicar-como-voluntario-en-los-juegos-olimpicos-y-paralimpicos-los-angeles-2028-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/WP4FMXB4TND6HHGZLSWIRJJKGY.jpg?auth=cff6f354df71fa920244049a8d445a8181831fdd06b53d18754cb6e2270a44ac&smart=true&width=1200&height=810",
-      "snippet": "Ser parte del voluntariado de LA28 te permitirá trabajar codo a codo con personas de distintos países, apoyar en áreas clave de la organización y convertirte en uno de los rostros ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-05T05:01:11.000Z"
-    },
-    {
       "id": "6586eff9a10e",
       "title": "‘Nosotras somos la manada’: diez años de la violación grupal de Sanfermines",
       "link": "https://www.lavanguardia.com/vida/20260705/11584353/manada-diez-anos-violacion-grupal-sanfermines.html",
@@ -2835,18 +3033,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-05T04:00:00.000Z"
-    },
-    {
-      "id": "f388f5919e56",
-      "title": "El documento financiero que puede convertir tu sueño de residencia permanente en una aprobación o en un “no” de USCIS",
-      "link": "https://elcomercio.pe/mag/usa/local-us/el-documento-financiero-que-puede-salvar-o-hundir-tu-tramite-de-green-card-por-ajuste-de-estatus-formulario-i864-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/EEO2XADSHRAM7HGFWP5J53V5WY.jpg?auth=01519e44037992432a8874e4235d315da630370cac9f8aa4a4b72f790ff32af8&smart=true&width=1200&height=809",
-      "snippet": "Aunque muchos se concentran en llenar bien sus papeles migratorios, este documento económico del patrocinador suele ser el verdadero filtro: si no cumple los requisitos, tu sueño d",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-05T03:48:42.000Z"
     },
     {
       "id": "8e2c0003c1f3",
@@ -3017,11 +3203,11 @@
       "isoDate": "2022-06-09T16:34:00.000Z"
     },
     {
-      "id": "0671c8cac8a7",
-      "title": "¡Final del primer tiempo! Colombia empata 0-0 con Suiza e intenta tímidamente pasar a cuartos de final del Mundial, donde espera Argentina",
+      "id": "51fb574b5e0c",
+      "title": "Lucho Díaz ataca y alienta a la afición, pero Colombia sigue empatada 0-0 con Suiza en el Mundial",
       "link": "https://www.bbc.co.uk/mundo/live/cj6gg4g8y1et?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39a3/live/14219a20-7a43-11f1-bc29-738b6960c215.jpg",
-      "snippet": "Colombia busca ser la última selección en clasificar de la fase de octavos. La selección de Messi logró hoy una remontada épica contra Egipto: iba perdiendo por dos tantos y lo dio",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebe9/live/4a530780-7a4a-11f1-8540-110da73337d9.jpg",
+      "snippet": "Antes de este partido, Argentina logró una remontada épica contra Egipto: iba perdiendo por dos tantos y lo dio vuelta en el final del partido, que terminó 3-2. Ahora los de Messi ",
       "source": "BBC Mundo",
       "sourceId": "bbcmundo",
       "country": "INT",
