@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-08T06:44:15.709Z",
-  "count": 258,
+  "updatedAt": "2026-07-08T06:56:14.565Z",
+  "count": 244,
   "sources": [
     {
       "id": "20minutos",
@@ -63,12 +63,6 @@
       "countryLabel": "Colombia"
     },
     {
-      "id": "euronews",
-      "name": "Euronews Español",
-      "country": "INT",
-      "countryLabel": "Internacional"
-    },
-    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -119,76 +113,304 @@
   ],
   "items": [
     {
-      "id": "0d396ae5c6c0",
-      "title": "La Asamblea Nacional de Ecuador aprobó una ley para agilizar los procesos de extradición contra los miembros de bandas criminales",
-      "link": "https://www.infobae.com/america/america-latina/2026/07/08/la-asamblea-nacional-de-ecuador-aprobo-una-ley-para-agilizar-los-procesos-de-extradicion-contra-los-miembros-de-bandas-criminales/",
-      "image": "https://www.infobae.com/resizer/v2/NIRTY5EGBZUGOWUQSEPR2RLXDQ.jpg?auth=7d4e25fa34e9af6e20b54537343de160264d4a4e9a0e174e0c81b2d9dd959606&smart=true&width=800&height=533",
-      "snippet": "El objetivo de la reforma es convertir la medida en una herramienta eficaz para combatir el crimen organizado mediante la cooperación internacional. Ahora, el documento fue remitid",
+      "id": "14510bb2fd79",
+      "title": "Sonsoles Ónega: «Desayuno café y avena, que me permite estar tranquila hasta el almuerzo»",
+      "link": "https://www.abc.es/gente/sonsoles-onega-anos-desayuno-mananas-cafe-avena-20260708175504-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/07/08/entr-kYg-RjLgTeAFU8ZY1sKnC1scAcP-1200x840@diario_abc.jpg",
+      "snippet": "Es desayuno es una de las comidas más importante del día para muchas personas. Ya sea dulce o salado, los nutricionistas coinciden en que puede ayudarnos saciarnos lo suficiente co",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:52:44.000Z"
+    },
+    {
+      "id": "b8ac00f9de05",
+      "title": "Sorteo de La Tinka: conoce el Pozo Millonario de hoy, miércoles 8 de julio y cómo jugar",
+      "link": "https://elcomercio.pe/respuestas/loterias/la-tinka-hoy-miercoles-8-de-julio-en-vivo-resultados-del-ultimo-sorteo-y-jugada-ganadora-tinkanet-pozo-millonario-loteria-si-o-si-boliyapa-intralot-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/P2PDULRGC5AOLLE26PLTAL4OKY.png?auth=adf2d61dab76c4093c306099c44d91951d6a57dc0ab6ad46b27d8e1914ec5749&smart=true&width=1200&height=700",
+      "snippet": "La Tinka EN VIVO: resultados y sorteo del miércoles 8 de julio que tiene un Pozo Millonario de S/18′515,404. Revisa también la bolilla del Sí o Sí.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-08T06:52:36.000Z"
+    },
+    {
+      "id": "b4ce1223f620",
+      "title": "Confirmado, ya se distribuyen los nuevos billetes de 100 dólares con la firma de Donald Trump: cuándo estarán en bancos, cajeros automáticos y tiendas",
+      "link": "https://elcomercio.pe/mag/usa/local-us/confirmado-ya-se-distribuyen-los-nuevos-billetes-de-100-dolares-con-la-firma-de-donald-trump-cuando-estaran-en-bancos-cajeros-automaticos-y-tiendas-nnda-nnlt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/YA5X4OKQLFEU5EGWS2TFV6KROU.jpg?auth=a8167bcd54aada228a35fc3230ee37d5a9ed2bccc1727d53a21639ac4d8a4c97&smart=true&width=2400&height=1620",
+      "snippet": "El Tesoro inició la impresión en junio y la circulación será gradual: algunos billetes ya están en la calle y se ampliará su presencia durante el verano.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-08T06:50:59.000Z"
+    },
+    {
+      "id": "53e3e98f1af8",
+      "title": "Dinamarca repite que Groenlandia \"no está en venta\" tras otra amenaza de Trump y dice que \"defenderá cada centímetro\" de la OTAN",
+      "link": "https://www.20minutos.es/internacional/dinamarca-repite-que-groenlandia-no-esta-venta-tras-otra-amenaza-trump-dice-que-defendera-cada-centimetro-otan_7011965_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/08/6a4df149b0e0a0-71760579.r_d.1525-481-10000.jpeg",
+      "snippet": "\"Necesitamos que todos respeten nuestra integridad territorial y nuestra soberanía\", ha insistido Frederiksen a su llegada a la cumbre de la OTAN en Ankara.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:49:26.000Z"
+    },
+    {
+      "id": "f2bab3ac72cb",
+      "title": "La batería de Miguel Ángel Blanco y el monopatín de Echevarría serán Memoria de las Víctimas",
+      "link": "https://www.abc.es/espana/madrid/bateria-miguel-angel-blanco-monopatin-echevarria-memoria-20260707013816-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/07/memorial-victimas2-Ro6yE4EtR4WP3jJJoSqUXcN-1200x840@diario_abc.jpg",
+      "snippet": "La Comunidad de Madrid tiene un compromiso pendiente con las víctimas del terrorismo: abrir un Centro de Memoria destinado a reflexionar y a recordar una realidad que marcó para si",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:49:23.000Z"
+    },
+    {
+      "id": "27409d9d4bb9",
+      "title": "Messi escribe el Mundial: al capitán eterno todavía le quedan historias por contar",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/messi-tras-el-sufrido-triunfo-ante-egipto-este-grupo-no-baja-los-brazos-nunca-nid07072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HLKGQ4KSIRDTVCFNACDFSPVP4Y.JPG?auth=fd2e0498c22e39639ff3cde1f4243373f49dd0ed7f1340df3d064aa7c80ad034&smart=true&width=2057&height=1371",
+      "snippet": "El 10 de la selección argentina volvió a sumar otra página de gloria; más récords y una actuación inolvidable para lograr el pase a cuartos de final del Mundial 2026",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:48:57.000Z"
+    },
+    {
+      "id": "a78d44ca91f2",
+      "title": "Incautaron más de 11 mil atados ilegales de cigarrillos en Tierra del Fuego provenientes de Chile",
+      "link": "https://www.infobae.com/sociedad/policiales/2026/07/08/incautaron-mas-de-11-mil-atados-ilegales-de-cigarrillos-en-tierra-del-fuego-provenientes-de-chile/",
+      "image": "https://www.infobae.com/resizer/v2/U6EPNKU4C5HQXHEJJXFOFS3RQQ.jpg?auth=9a75fa72398962e9a06961a8645a154a8d2a5b9d7eac50bcf520825e791c33f7&smart=true&width=1820&height=954",
+      "snippet": "Los efectivos hallaron un vehículo abandonado con la mercadería en las inmediaciones del Hito XIII cerca de la frontera",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:39:06.000Z"
+      "isoDate": "2026-07-08T06:48:53.000Z"
     },
     {
-      "id": "619a9d776f5b",
-      "title": "Magaly Medina cuestiona que Cachaza haga canje para sus aros de matrimonio: “¿Él no puede comprarlos?”",
-      "link": "https://www.infobae.com/peru/2026/07/08/magaly-medina-cuestiona-que-cachaza-haga-canje-para-sus-aros-de-matrimonio-el-no-puede-comprarlos/",
-      "image": "https://www.infobae.com/resizer/v2/MI327HIKWZDZTMHJCJTGC4MBZA.jpg?auth=046acc883575597ef273e35ec31c56ce7819faed237b8012bdf0665f05cf22d0&smart=true&width=1090&height=606",
-      "snippet": "La conductora cuestionó que Carol Reali gestione sus aros matrimoniales con una joyería mientras alista su casamiento con André Bankoff, justo en una etapa marcada por la mudanza a",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:38:58.000Z"
-    },
-    {
-      "id": "091541ecd339",
-      "title": "La ley de nietos desborda a Exteriores con “60 toneladas de documentos”: habrá beneficiados que no obtendrán la nacionalidad española antes de morir",
-      "link": "https://www.infobae.com/espana/2026/07/08/la-ley-de-nietos-desborda-a-exteriores-con-60-toneladas-de-papeleo-habra-beneficiados-que-no-obtendran-la-nacionalidad-espanola-antes-de-morir/",
-      "image": "https://www.infobae.com/resizer/v2/D3ZUHJ4MGBAA3GPVNX5DXWHMKE.jpeg?auth=0e65df630573a6822b4c45b22ce34bfbec409f8e496ae18d19269fcee061c8a2&smart=true&width=1194&height=672",
-      "snippet": "Sindicatos y asociaciones de diplomáticos critican que el servicio consular lidiará con una avalancha de peticiones con las mismas plantillas que en el año 2000",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:36:46.000Z"
-    },
-    {
-      "id": "8a12a3ec8749",
-      "title": "Muere un emigrante mexicano en Houston por disparos del ICE",
-      "link": "http://es.euronews.com/2026/07/08/muere-un-emigrante-mexicano-en-houston-por-disparos-del-ice",
+      "id": "7df0cf10cbb9",
+      "title": "Los toros Cebada Gago protagonizan un rápido segundo encierro con un herido por asta",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/08/los-toros-cebada-gago-protagonizan-un-rapido-segundo-encierro-con-un-herido-por-asta/",
       "image": null,
-      "snippet": "Lorenzo Salgado Araujo llevaba unos 35 años en Estados Unidos, según su familia, y se suma a una lista creciente de personas asesinadas a manos de los agentes migratorios en la seg",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T06:36:21.000Z"
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:47:36.000Z"
     },
     {
-      "id": "908f66a34071",
+      "id": "cc4ee458a929",
+      "title": "Un trasladado al hospital por cornada en el brazo en el segundo encierro de Sanfermines",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/08/un-trasladado-al-hospital-por-cornada-en-el-brazo-en-el-segundo-encierro-de-sanfermines/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:47:19.000Z"
+    },
+    {
+      "id": "30b7c834af27",
+      "title": "Detenido en Ordes (A Coruña) por un delito continuado de incendio forestal intencionado",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/08/detenido-en-ordes-a-coruna-por-un-delito-continuado-de-incendio-forestal-intencionado/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:47:03.000Z"
+    },
+    {
+      "id": "a119972ff7d4",
+      "title": "Caída de la natalidad: solo el 46% de los argentinos considera muy importante tener hijos",
+      "link": "https://www.infobae.com/tendencias/2026/07/08/caida-de-la-natalidad-solo-el-46-de-los-argentinos-considera-muy-importante-tener-hijos/",
+      "image": "https://www.infobae.com/resizer/v2/XTRO3ODRIRG2POOBR6ZFRGN5JQ.jpg?auth=0c35bd75c8c29d0886868a78a06a0ed1c6cf5f4e29bf365ef6a8316868a8c2dd&smart=true&width=1456&height=816",
+      "snippet": "El derrumbe de los nacimientos responde a una transformación cultural profunda. En una década, la proporción de quienes consideran la maternidad y paternidad como parte central de ",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:54.000Z"
+    },
+    {
+      "id": "96008d6e1d1f",
+      "title": "Se restablece la circulación en la línea férrea entre Extremadura y Sevilla",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/08/se-restablece-la-circulacion-en-la-linea-ferrea-entre-extremadura-y-sevilla/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:47.000Z"
+    },
+    {
+      "id": "d1016286c99b",
+      "title": "Rusia afirma haber atacado una empresa militar en Kiev que fabricaba piezas para misiles",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/rusia-afirma-haber-atacado-una-empresa-militar-en-kiev-que-fabricaba-piezas-para-misiles/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:29.000Z"
+    },
+    {
+      "id": "9f2f659498a4",
+      "title": "El economista Gustavo Reija impulsa extender trayectorias laborales: “En sociedades que envejecen, prolongar la vida laboral no es una carga sino una oportunidad”",
+      "link": "https://www.infobae.com/generacion-silver/2026/07/08/el-economista-gustavo-reija-impulsa-extender-trayectorias-laborales-en-sociedades-que-envejecen-prolongar-la-vida-laboral-no-es-una-carga-sino-una-oportunidad/",
+      "image": "https://www.infobae.com/resizer/v2/GVADCEAXDJDJJCCLWZH5TFS2TM.png?auth=1a27db4a5e3899eb7cbe2cdf260bfe240bab7a781e7f461f3010344be5651dbf&smart=true&width=2752&height=1536",
+      "snippet": "El especialista vinculó el debate con proyecciones de la OCDE sobre crecimiento y dependencia de la vejez, y sostuvo que sumar trabajadores con experiencia puede mejorar la product",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:26.000Z"
+    },
+    {
+      "id": "931440d9369a",
+      "title": "Restablecida la circulación de trenes Zafra-Sevilla tras solucionar la incidencia entre Llerena y Guadalcanal",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/restablecida-la-circulacion-de-trenes-zafra-sevilla-tras-solucionar-la-incidencia-entre-llerena-y-guadalcanal/",
+      "image": "https://www.infobae.com/resizer/v2/CW3MW57BGFBPRFABE4CGLZM6AE.jpg?auth=777fc18948c21db8df5fe9e59fa4b725258bf781dbd848c10951355d54f4762d&smart=true&width=1920&height=1440",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:20.000Z"
+    },
+    {
+      "id": "42268de516cd",
+      "title": "Sibiga insiste ante Consejo OTAN-Ucrania que su país necesita más ayuda en defensa aérea",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/sibiga-insiste-ante-consejo-otan-ucrania-que-su-pais-necesita-mas-ayuda-en-defensa-aerea/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:13.000Z"
+    },
+    {
+      "id": "ca8c761229d5",
+      "title": "Rutte entiende la decepción de Trump con la OTAN pero replica que Europa ya invierte el 4% en defensa",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/rutte-entiende-la-decepcion-de-trump-con-la-otan-pero-replica-que-europa-ya-invierte-el-4-en-defensa/",
+      "image": "https://www.infobae.com/resizer/v2/BML7CYMTLZGDPJCXV2DZ6LQUAE.jpg?auth=e640a186562ca900d3693957d74aa540cd2604e279ccbe5c8981cb8156d8fbea&smart=true&width=1920&height=1299",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:46:02.000Z"
+    },
+    {
+      "id": "cd23b8de01ba",
+      "title": "Kuwait condena ataques iraníes y \"se reserva\" el derecho de tomar \"las medidas necesarias\"",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/kuwait-condena-ataques-iranies-y-se-reserva-el-derecho-de-tomar-las-medidas-necesarias/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:45:56.000Z"
+    },
+    {
+      "id": "68cadc2c8ea5",
+      "title": "Terelu Campos se rompe al hablar de Carlo Costanzia y lanza un duro reproche a Laura Matamoros",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/terelu-campos-se-rompe-al-hablar-de-carlo-costanzia-y-lanza-un-duro-reproche-a-laura-matamoros/",
+      "image": "https://www.infobae.com/resizer/v2/D4MTCPAGRNHU3B2H63GXV4WAAU.jpg?auth=d70d182928c7938e779403ece4cab3efd43466b13e288dfcacf71b6b86118f04&smart=true&width=1920&height=1440",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:45:44.000Z"
+    },
+    {
+      "id": "bd05ac53c89e",
+      "title": "Hungría considera que Ucrania es víctima de Rusia, pero no le mandará armas",
+      "link": "https://www.infobae.com/america/agencias/2026/07/08/hungria-considera-que-ucrania-es-victima-de-rusia-pero-no-le-mandara-armas/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:45:37.000Z"
+    },
+    {
+      "id": "079c6be652e5",
+      "title": "Tres toreros a la conquista de Pamplona, donde «no se entienden los sanfermines sin el toro»",
+      "link": "https://www.abc.es/cultura/toros/tres-toreros-conquista-pamplona-entienden-sanfermines-toro-20260708191257-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/08/0D7459B4-C5BA-419E-A76A-3D32244B0145-RyvuV5aWTtCKGg25lEpXHqK-1200x840@diario_abc.JPEG",
+      "snippet": "La renovación del escalafón está cada vez más cerca, y no hay más que mirar el cartel de este miércoles en Pamplona . Tres toreros jóvenes, que cada uno llega por un camino distint",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:45:17.000Z"
+    },
+    {
+      "id": "164b07875f85",
+      "title": "La frescura de Palacio cala en la asfixiante ola de calor pamplonica",
+      "link": "https://www.abc.es/cultura/toros/siete-julio-fuente-ymbro-20260707185401-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/07/toros_asiron-U20609893533Zl-RijYdSmNMCl1GEG2v8y1njI-1200x840@diario_abc.jpg",
+      "snippet": "De pitada en pitada fue Joseba Asiron en el día grande de Pamplona. Pegó la espantada en la solemne misa y se marchó por la puerta de atrás de la iglesia de San Lorenzo para irse d",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:44:39.000Z"
+    },
+    {
+      "id": "803013064017",
+      "title": "Los Cebada Gago dejan el primer herido por asta de toro en un rápido encierro",
+      "link": "https://www.abc.es/cultura/toros/cebada-gago-dejan-primer-herido-asta-toro-20260708083613-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/08/1514476622-RLlMYEO5TXX5gzKrTFkOIdI-1200x840@diario_abc.JPG",
+      "snippet": "Segundo día de encierros en San Fermín 2026 con los toros de Cebada Gago protagonizando la celebración sobre los adoquines de Pamplona. Los animales de esta ganadería, considerada ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:41:55.000Z"
+    },
+    {
+      "id": "f2991cdfc23d",
+      "title": "Los contactos de Leire Díez con altos cargos abren la vía para imputar al PSOE",
+      "link": "https://www.abc.es/espana/contactos-leire-altos-cargos-psoe-acercan-imputacion-20260707014348-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/07/1512554030-RNttGsUNsXagJSuaUa4Jn9M-1200x840@diario_abc.jpg",
+      "snippet": "Los próximos días serán claves para que la Fiscalía Anticorrupción decida si pide al juez de la Audiencia Nacional, Santiago Pedraz, que impute al PSOE como persona jurídica por la",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-08T06:39:22.000Z"
+    },
+    {
+      "id": "22fd4563a09e",
       "title": "Incidentes en Córdoba: robaron una joyería, hubo disturbios y más de 40 detenidos en los festejos por el triunfo de Argentina",
-      "link": "https://www.lanacion.com.ar/sociedad/incidentes-en-cordoba-robaron-una-joyeria-hubo-disturbios-y-mas-de-40-detenidos-en-los-festejos-por-nid08072026/",
+      "link": "https://www.lanacion.com.ar/seguridad/incidentes-en-cordoba-robaron-una-joyeria-hubo-disturbios-y-mas-de-40-detenidos-en-los-festejos-por-nid08072026/",
       "image": "https://resizer.glanacion.com/resizer/v2/225KY7DGOJBO5KBG4LK2WQMYWU.png?auth=46e7c375592f7bd87c16940317ed1e40e88618f3d544de6148e8d6a1a9b9d961&smart=true&width=651&height=523",
-      "snippet": "Diferentes hechos de violencia y delincuencia se registraron en la ciudad de Córdoba tras la clasificación de la Albiceleste a los cuartos de final del Mundial 2026",
+      "snippet": "Diferentes hechos de violencia y delincuencia se registraron en la capital cordobesa tras la clasificación de la Albiceleste a los cuartos de final del Mundial 2026",
       "source": "La Nación",
       "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-08T06:34:17.000Z"
-    },
-    {
-      "id": "6e8a6556eb12",
-      "title": "El musical de Dolly Parton llega a Broadway para su 81 cumpleaños",
-      "link": "http://es.euronews.com/cultura/2026/07/08/el-musical-de-dolly-parton-llega-a-broadway-para-su-81-cumpleanos",
-      "image": null,
-      "snippet": "El musical original Dolly: A True Original Musical se estrenará en Nueva York en diciembre, Parton lo describe como un sueño hecho realidad.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T06:33:35.000Z"
     },
     {
       "id": "c3cb132628f0",
@@ -203,30 +425,6 @@
       "isoDate": "2026-07-08T06:32:31.000Z"
     },
     {
-      "id": "7aa6434409b9",
-      "title": "Trasladado al hospital un herido por asta de toro en la carrera de los Cebada Gago",
-      "link": "https://www.abc.es/cultura/toros/encierro-san-fermin-directo-heridos-ganaderia-ultima-hora-pamplona-hoy-20260708181231-di.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/07/fqwer-kUZG-U30639950357FwB-1200x840@diario_abc.jpg",
-      "snippet": "Sigue en directo el segundo encierro de San Fermín , con la última hora de lo que ocurra en Pamplona hoy.",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-08T06:32:19.000Z"
-    },
-    {
-      "id": "cc665abfb213",
-      "title": "Chicharito Hernández y Piccolo de Dragon Ball dedican emotivos mensajes a Hormiga González",
-      "link": "https://www.infobae.com/mexico/deportes/2026/07/08/chicharito-hernandez-y-piccolo-de-dragon-ball-dedican-emotivos-mensajes-a-hormiga-gonzalez/",
-      "image": "https://www.infobae.com/resizer/v2/IQRMIKB4JREOTPIIE7LXTG6CN4.png?auth=bd0e44580eefa8029272e9af987f19f5447888f650d59159d8be21e5cddf80a0&smart=true&width=1920&height=1080",
-      "snippet": "Tras la dramática eliminación de México en el Mundial 2026, el goleador de Chivas soltó en llanto, conmoviendo a miles de aficionados y referentes",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:32:12.000Z"
-    },
-    {
       "id": "f8361bd237c7",
       "title": "Las ciudades de Texas donde bajaron los precios del alquiler, según Trump",
       "link": "https://www.lanacion.com.ar/estados-unidos/texas/las-ciudades-de-texas-donde-bajaron-los-precios-del-alquiler-segun-trump-nid08072026/",
@@ -237,126 +435,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-08T06:32:00.000Z"
-    },
-    {
-      "id": "44080b8beabd",
-      "title": "El ejercicio puede evitar atracones de nicotina y ayudar a los fumadores a dejar el hábito",
-      "link": "https://www.infobae.com/salud/2026/07/08/el-ejercicio-puede-evitar-atracones-de-nicotina-y-ayudar-a-los-fumadores-a-dejar-el-habito/",
-      "image": "https://www.infobae.com/resizer/v2/YWIXCM7XFBFRJB7BFVABYTKMZ4.jpg?auth=ebd29b65ac32336af2df5f09e9ceed2192238ea226e66f6c57bc282e8fbd8144&smart=true&width=1200&height=800",
-      "snippet": "Healthday Spanish",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:31:37.000Z"
-    },
-    {
-      "id": "4b114b816c82",
-      "title": "El hígado graso aumenta las probabilidades del cáncer de colon más mortal, según un estudio",
-      "link": "https://www.infobae.com/salud/2026/07/08/el-higado-graso-aumenta-las-probabilidades-del-cancer-de-colon-mas-mortal-segun-un-estudio/",
-      "image": "https://www.infobae.com/resizer/v2/A6ZS2HOO75EVHKF2SHTY7LNDMQ.jpg?auth=7e927876ccb470994b4fb87eaa2c0acece5cd6a7086f3eaa918838e0c8051739&smart=true&width=1200&height=675",
-      "snippet": "Healthday Spanish",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:31:19.000Z"
-    },
-    {
-      "id": "aeb05891e91d",
-      "title": "La vitamina C intravenosa podría mejorar la recuperación de pacientes con traumatismo",
-      "link": "https://www.infobae.com/salud/2026/07/08/la-vitamina-c-intravenosa-podria-mejorar-la-recuperacion-de-pacientes-con-traumatismo/",
-      "image": "https://www.infobae.com/resizer/v2/A5S34OTR6JFHFODLJIQK5XTWSI.jpg?auth=d3f9e65c290ad9e962627aa833c8bf9c2c2d7da11f4fd0fae113a1a9ffc2740e&smart=true&width=1200&height=825",
-      "snippet": "Healthday Spanish",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:31:01.000Z"
-    },
-    {
-      "id": "da8e20a6647b",
-      "title": "Precio de la gasolina en España 2026: las tarifas más altas y más bajas hoy",
-      "link": "https://www.infobae.com/espana/2026/07/08/precio-de-la-gasolina-en-espana-2026-las-tarifas-mas-altas-y-mas-bajas-hoy/",
-      "image": "https://www.infobae.com/resizer/v2/SMOZMNPD6VEF3KKKI7H4A3ELBU.png?auth=6191bbefafc6e36f724433c63e312fd47a9f9b819c71b17dacba76383a0d91a4&smart=true&width=5000&height=3333",
-      "snippet": "Aquí está la lista de los precios más baratos de las gasolinas y también los más caros en distintas ciudades de España",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:49.000Z"
-    },
-    {
-      "id": "39b5b0864a3e",
-      "title": "El primer ministro búlgaro advierte de una posible escalada nuclear rusa en Ucrania",
-      "link": "https://www.infobae.com/america/agencias/2026/07/08/el-primer-ministro-bulgaro-advierte-de-una-posible-escalada-nuclear-rusa-en-ucrania/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:44.000Z"
-    },
-    {
-      "id": "f2fd6b2399e6",
-      "title": "La cirugía para perder peso aumenta el riesgo de alcoholismo, según un estudio.",
-      "link": "https://www.infobae.com/salud/2026/07/08/la-cirugia-para-perder-peso-aumenta-el-riesgo-de-alcoholismo-segun-un-estudio/",
-      "image": "https://www.infobae.com/resizer/v2/ZZTTWUS5F5GEDA7GGMALVQ4EE4.jpg?auth=3080495a2b0938ad428469a84395a28011afa2ddf5f9eca4db82d2c9963a6a7d&smart=true&width=1200&height=800",
-      "snippet": "Healthday Spanish",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:43.000Z"
-    },
-    {
-      "id": "33dabb6e25b5",
-      "title": "La RD del Congo eleva a 580 el número de muertos y a 1.708 los casos confirmados de ébola",
-      "link": "https://www.infobae.com/america/agencias/2026/07/08/la-rd-del-congo-eleva-a-580-el-numero-de-muertos-y-a-1708-los-casos-confirmados-de-ebola/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:28.000Z"
-    },
-    {
-      "id": "0dd3455fcc54",
-      "title": "Estudio del 'Comprador Secreto' de GLP-1 detecta lagunas en la prescripción en línea",
-      "link": "https://www.infobae.com/salud/2026/07/08/estudio-del-comprador-secreto-de-glp-1-detecta-lagunas-en-la-prescripcion-en-linea/",
-      "image": "https://www.infobae.com/resizer/v2/RZZF5P3NPFDSJPZAKPUDDY73ZE.jpg?auth=93e0be9673072fced8f97e08b5dcd6cc09bc3399bac83f4cd8839236490ef40c&smart=true&width=1200&height=800",
-      "snippet": "Healthday Spanish",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:25.000Z"
-    },
-    {
-      "id": "d813119310df",
-      "title": "César Montes estaría a una firma de regresar a la Liga MX con este equipo, según reportes",
-      "link": "https://www.infobae.com/mexico/deportes/2026/07/08/cesar-montes-estaria-a-una-firma-de-regresar-a-la-liga-mx-con-este-equipo-segun-reportes/",
-      "image": "https://www.infobae.com/resizer/v2/EQG4NFC4LNEDRN3Y6AVUN36FQU.png?auth=61d307df4c4000e5b1c3191466c7aad5d90a902d4605f17de124991ee727f0be&smart=true&width=1920&height=1080",
-      "snippet": "La directiva cementera estaría intensificando gestiones por el capitán de la Selección Mexicana tras su participación en el Mundial 2026",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:24.000Z"
-    },
-    {
-      "id": "7c1fa4574cf7",
-      "title": "Falcao aclara que sus palabras fueron tergiversadas: “Mis declaraciones no hacían referencia a la Selección Colombia”",
-      "link": "https://www.infobae.com/colombia/2026/07/08/falcao-aclara-que-sus-palabras-fueron-tergiversadas-mis-declaraciones-no-hacian-referencia-a-la-seleccion-colombia/",
-      "image": "https://www.infobae.com/resizer/v2/YQWUEJTQJFEIBLGBXIK4QB4V6Q.jpg?auth=5a729299c2d5ed8e65330dc11efa0e28b4db902ee8b847315c79eaa03428dc5e&smart=true&width=2048&height=1638",
-      "snippet": "El delantero precisó que sus recientes comentarios estaban enfocados en la transformación de las divisiones formativas y la estructura del fútbol colombiano, y no en el desempeño d",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:30:14.000Z"
     },
     {
       "id": "f3ddc6c887f7",
@@ -407,16 +485,16 @@
       "isoDate": "2026-07-08T06:27:06.000Z"
     },
     {
-      "id": "0d1b63818c1b",
-      "title": "Los 5 grandes riesgos que amenazan la economía mundial en la segunda mitad de 2026",
-      "link": "http://es.euronews.com/business/2026/07/08/los-principales-riesgos-economicos-globales-a-vigilar-en-la-segunda-mitad-de-2026",
-      "image": null,
-      "snippet": "Tras seis meses marcados por la guerra, un shock petrolero y un frenético negocio de la IA, economistas advierten de que el resto del año depende de una cadena de riesgos, con la f",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T06:20:54.000Z"
+      "id": "c6e8b331107e",
+      "title": "Crece la tensión en Medio Oriente: Irán lanzó una represalia masiva tras los bombardeos de Estados Unidos",
+      "link": "https://www.clarin.com/deportes/crece-tension-medio-oriente-iran-lanzo-represalia-masiva-bombardeos-estados-unidos_0_Lwsq8dYIuO.html",
+      "image": "https://www.clarin.com/img/2026/06/01/2hT7rO3bX_1200x630__1.jpg",
+      "snippet": "Fue luego de que Washington bombardeara objetivos militares y revocara las licencias que permitían determinadas ventas de petróleo de Teherán. Teherán dijo que atacó decenas de ins",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:18:01.000Z"
     },
     {
       "id": "0fb4f82751e4",
@@ -455,23 +533,11 @@
       "isoDate": "2026-07-08T06:12:13.000Z"
     },
     {
-      "id": "4fab5c19316e",
-      "title": "Madrid detecta un 70% de fraude en las pruebas de edad a menas frente al 39% nacional",
-      "link": "http://es.euronews.com/my-europe/2026/07/08/madrid-detecta-un-70-de-fraude-en-las-pruebas-de-edad-a-menas-frente-al-39-nacional",
-      "image": null,
-      "snippet": "Un solo hospital y hasta ocho meses de demora explican por qué la región concentra más del doble de fraudes que el resto de España.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T06:09:55.000Z"
-    },
-    {
       "id": "c8dd1205c2f4",
       "title": "Dinamarca advierte a Trump de que defenderá \"cada centímetro\" de Groenlandia si EEUU invade su territorio: \"Somos un Estado soberano\"",
       "link": "https://www.elmundo.es/internacional/2026/07/08/6a4de9ade85ece67678b459d.html",
       "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/08/17834909376866.jpg",
-      "snippet": "La primera ministra Frederiksen insiste en que la isla \"no está en venta\" y espera que \"todos los aliados respeten el derecho del pueblo groenlandés a la autodeterminación\" Leer",
+      "snippet": "La primera ministra Frederiksen insiste en que la isla \"no está en venta\" y Rutte afirma que el presidente estadounidense \"tiene toda la razón al señalar que China y Rusia están ga",
       "source": "El Mundo",
       "sourceId": "elmundo",
       "country": "ES",
@@ -491,18 +557,6 @@
       "isoDate": "2026-07-08T06:07:42.000Z"
     },
     {
-      "id": "180804946502",
-      "title": "El Reino Unido inaugura su primer parque temático con vikingos, caballeros y espectáculos en vivo",
-      "link": "http://es.euronews.com/viajes/2026/07/08/vikingos-victorianos-y-buitres-abre-en-julio-el-primer-parque-historico-en-vivo-del-reino",
-      "image": null,
-      "snippet": "La nueva atracción, Kynren – The Storied Lands, relata historias reales y ficticias de la historia de Inglaterra en espectáculos y experiencias inmersivas.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T06:00:59.000Z"
-    },
-    {
       "id": "1c9d4760a70e",
       "title": "Tyler Tolbert, de los Reales, iguala récord de MLB con hits en 12 turnos seguidos",
       "link": "https://www.clarin.com/estados-unidos/tyler-tolbert-de-los-reales-iguala-record-de-mlb-con-hits-en-12-turnos-seguidos_0_wbmxMGukBD.html",
@@ -513,6 +567,18 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-08T06:00:05.000Z"
+    },
+    {
+      "id": "675fca3852c8",
+      "title": "Como nunca la vimos. Las fotos más emotivas de la princesa Kate en su inspiradora hazaña que duró 24 horas",
+      "link": "https://www.lanacion.com.ar/revista-hola/como-nunca-la-vimos-las-fotos-mas-emotivas-de-la-princesa-kate-en-su-inspiradora-hazana-que-duro-24-nid08072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/4PF3XJAAKFBV3MSB3D6FKMHSKQ.jpg?auth=822865743d5a09eb2941bb48e0d7130c5081460a9c9d097cf68ee6bc50752fcc&smart=true&width=2000&height=1333",
+      "snippet": "Para concientizar sobre el cáncer de mama y recaudar fondos, la princesa de Gales cumplió el Desafío de las Tres Cumbres",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-08T06:00:00.000Z"
     },
     {
       "id": "a8c671afc177",
@@ -532,18 +598,6 @@
       "link": "https://www.lanacion.com.ar/revista-hola/muy-contenta-chule-von-wernich-presento-su-disco-rodeada-de-su-familia-y-amigos-famosos-y-con-una-nid08072026/",
       "image": "https://resizer.glanacion.com/resizer/v2/RDYGJK3KOZBF5FX5LXG6R77H7A.jpg?auth=cbaeec9c9034cb67da4ee826f91c17d6fb631a5c37ee6dc3255635fcd655bf39&smart=true&width=2000&height=1333",
       "snippet": "La cita fue en un espacio de Recoleta, entre tapas y tragos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T06:00:00.000Z"
-    },
-    {
-      "id": "675fca3852c8",
-      "title": "Como nunca la vimos. Las fotos más emotivas de la princesa Kate en su inspiradora hazaña que duró 24 horas",
-      "link": "https://www.lanacion.com.ar/revista-hola/como-nunca-la-vimos-las-fotos-mas-emotivas-de-la-princesa-kate-en-su-inspiradora-hazana-que-duro-24-nid08072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/4PF3XJAAKFBV3MSB3D6FKMHSKQ.jpg?auth=822865743d5a09eb2941bb48e0d7130c5081460a9c9d097cf68ee6bc50752fcc&smart=true&width=2000&height=1333",
-      "snippet": "Para concientizar sobre el cáncer de mama y recaudar fondos, la princesa de Gales cumplió el Desafío de las Tres Cumbres",
       "source": "La Nación",
       "sourceId": "lanacion",
       "country": "AR",
@@ -647,18 +701,6 @@
       "isoDate": "2026-07-08T05:48:52.000Z"
     },
     {
-      "id": "5619911dc3a8",
-      "title": "«Estudié Medicina, pero cobrando 32 euros la hora me compensa trabajar en la obra»",
-      "link": "https://www.abc.es/recreo/nerea-albanila-espanola-australia-estudie-medicina-cobrando-20260708164426-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/07/08/newspaint-1783433425102-1200x840-RaYkixMH5Zkrvcnrfz6ChSK-1200x840@diario_abc.jpg",
-      "snippet": "Nerea siempre había creído que la Medicina era el único sitio en el que encajaba, pues suponía el equilibrio entre ciencia y trato humano. Entró en la carrera convencida de que ser",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-08T05:48:37.000Z"
-    },
-    {
       "id": "e8ffadf1adef",
       "title": "Pan de quiosco",
       "link": "https://www.abc.es/espana/madrid/pan-quiosco-20260707010819-nt.html",
@@ -681,30 +723,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-08T05:44:58.000Z"
-    },
-    {
-      "id": "8af4e4d5d5da",
-      "title": "¿Qué es Dmocracia?: La nueva marca de ropa del Gobierno que promociona Marina Rivers en el Congreso",
-      "link": "http://es.euronews.com/my-europe/2026/07/08/que-es-dmocracia-la-nueva-marca-de-ropa-del-gobierno-que-promociona-marina-rivers",
-      "image": null,
-      "snippet": "Dmocracia, la marca urbana del Gobierno para promover valores democráticos entre jóvenes, desata críticas por su elevado coste. La campaña se enmarca en las celebraciones de '50 añ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:43:17.000Z"
-    },
-    {
-      "id": "36ab0cf250f5",
-      "title": "Egipto denuncia a la FIFA por el arbitraje tras la polémica remontada de Argentina en el Mundial",
-      "link": "http://es.euronews.com/2026/07/08/argentina-sufre-ante-egipto-3-2-que-protesta-ante-la-fifa-por-las-decisiones-de-arbitros",
-      "image": null,
-      "snippet": "Los vigentes campeones remontaron un 0-2 en los minutos finales para imponerse 3-2 a Egipto y citarse en cuartos con Suiza, verdugo de Colombia en los penaltis. La eliminación egip",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:42:44.000Z"
     },
     {
       "id": "13c10324ef99",
@@ -731,66 +749,6 @@
       "isoDate": "2026-07-08T05:38:58.000Z"
     },
     {
-      "id": "d2c89f9b7e3d",
-      "title": "La OTAN hace un informe optimista de los gastos militares para aplacar a Trump",
-      "link": "https://www.abc.es/internacional/previa-sesion-plenaria-cumbre-otan-20260707223533-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/07/07/cumbre-RQcwKn6bKnuirz28sSRll6N-1200x840@diario_abc.JPG",
-      "snippet": "La OTAN ha publicado un resumen sobre los gastos de defensa de los países aliados en el que demuestra que los europeos y Canadá han seguido las indicaciones acordadas por la Alianz",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-08T05:38:48.000Z"
-    },
-    {
-      "id": "c76677a193ec",
-      "title": "Demandan a Bélgica por vulnerar los derechos humanos ante la peor contaminación por PFAS de Europa",
-      "link": "http://es.euronews.com/2026/07/08/demandan-a-belgica-por-vulnerar-derechos-humanos-con-el-peor-nivel-de-pfas-en-europa",
-      "image": null,
-      "snippet": "La ONG ambiental ClientEarth sostiene que las autoridades belgas no han actuado pese a saber desde hace años que los niveles eran altos.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:36:56.000Z"
-    },
-    {
-      "id": "2dd6b7dded5a",
-      "title": "Las bragas de Rosalía para celebrar la victoria de España en el Mundial",
-      "link": "https://www.abc.es/estilo/moda/bragas-rosalia-celebrar-victoria-espana-mundial-20260707125026-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/07/07/apertura-bragas-rosalia-RKMM2qxTxfPKFyNl8y7qaNN-1200x840@diario_abc.jpg",
-      "snippet": "Rosalía continúa recorriendo el mundo con su LUX Tour , que en su reciente parada en Estados Unidos la ha llevado a Oakland, donde la catalana ha vuelto a sorprender a todos sus se",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-08T05:36:54.000Z"
-    },
-    {
-      "id": "4bc72f0fc165",
-      "title": "La exdirectora de la Agencia Tributaria se duele por «los complicados tiempos que nos está tocando vivir»",
-      "link": "https://www.abc.es/economia/directora-agencia-tributaria-lamenta-complicados-tiempos-tocado-20260707171153-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/07/07/Marisol%20Tania%20Sieira-RJXp2n4klZmx0i1j7nOJW0M-1200x840@diario_abc.jpg",
-      "snippet": "La ya ex directora general de la Agencia Tributaria, Soledad Fernández Doctor, ha dirigido este martes una carta a sus colaboradores a modo de despedida una vez que el Consejo de M",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-08T05:36:29.000Z"
-    },
-    {
-      "id": "787ff03840ae",
-      "title": "México investiga si EE.UU. violó su soberanía al capturar al narco El 'Mayo' Zambada del Cártel de Sinaloa",
-      "link": "https://www.abc.es/internacional/mexico-investiga-eeuu-violo-soberania-capturar-narco-20260707170436-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/07/07/1507632344-kEUF-U30699672709NzC-1200x840@diario_abc.jpg",
-      "snippet": "México ha iniciado una investigación para determinar si Estados Unidos violó su soberanía nacional durante la operación para capturar al histórico narco Ismael 'El Mayo' Zambada , ",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-08T05:36:02.000Z"
-    },
-    {
       "id": "cc6eff7ca35a",
       "title": "Rutte dice que Europa es \"una plataforma de poder\" para EEUU y quita importancia a que Trump reabra el órdago a Groenlandia",
       "link": "https://www.20minutos.es/internacional/rutte-dice-que-europa-es-una-plataforma-poder-para-eeuu-quita-importancia-que-trump-reabra-ordago-groenlandia_7011936_0.html",
@@ -801,30 +759,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-08T05:29:51.000Z"
-    },
-    {
-      "id": "25d91a561079",
-      "title": "EE.UU. bombardea más de 80 objetivos en Irán y dispara el riesgo de una escalada en Oriente Medio",
-      "link": "http://es.euronews.com/2026/07/08/eeuu-lanza-nuevos-ataques-contra-iran-tras-el-ataque-a-buques-en-el-estrecho-de-ormuz",
-      "image": null,
-      "snippet": "Baréin, sede de la Quinta Flota de la Marina de EE.UU., hizo sonar el miércoles por la mañana las sirenas de alerta de misiles. Irán advierte a Washington de que tomará todas las m",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:22:37.000Z"
-    },
-    {
-      "id": "0f621f014c1a",
-      "title": "El inesperado regreso de los fotomatones: por qué la generación digital se rinde a lo analógico",
-      "link": "http://es.euronews.com/cultura/2026/07/08/cuando-se-corre-la-cortina-la-libertad-es-absoluta-magia-y-misterio-de-los-viejos-fotomato",
-      "image": null,
-      "snippet": "Tras el centenario de los primeros fotomatones, 'Euronews Culture' charla con los aficionados que los restauran y conservan en un mundo hambriento de lo analógico.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:20:54.000Z"
     },
     {
       "id": "1e8b98180819",
@@ -842,7 +776,7 @@
       "id": "cf0facdb4782",
       "title": "Segundo encierro de San Fermín: unos Cebada Gago compactos crean tensión y dan la primera cornada",
       "link": "https://www.20minutos.es/navarra/segundo-encierro-san-fermin-hoy-directo-toros-heridos-ultimas-noticias-los-impredecibles-cebada-gago-toman-pamplona_7011670_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/08/6a4dec3b66fa07-79477690.jpeg",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/08/6a4df36dc67789-75598306.png",
       "snippet": "Tres asistencias, una por asta de toro en un brazo y dos contusionados, el balance del segundo de los encierros de Sanfermines 2026.",
       "source": "20minutos",
       "sourceId": "20minutos",
@@ -899,6 +833,30 @@
       "isoDate": "2026-07-08T05:10:00.000Z"
     },
     {
+      "id": "09749fb3f279",
+      "title": "Trump levanta las sanciones a Turquía tras reunirse con Erdogan en el marco de la OTAN",
+      "link": "https://www.france24.com/es/video/20260708-trump-levanta-las-sanciones-a-turqu%C3%ADa-tras-reunirse-con-erdogan-en-el-marco-de-la-otan",
+      "image": "https://s.france24.com/media/display/2ec2fca8-7a88-11f1-b442-005056a97e36/w:1024/p:16x9/ES-20260707-190437-190637-CS.jpg",
+      "snippet": "En Ankara, en el marco de la cumbre de la OTAN, el presidente de Estados Unidos, Donald Trump, se reunió con su homólogo turco, Recep Tayyip Erdogan, y destacó las buenas relacione",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-08T05:09:13.000Z"
+    },
+    {
+      "id": "eab558065833",
+      "title": "Estados Unidos lanza ataques contra Irán tras ofensiva en el estrecho de Ormuz",
+      "link": "https://www.france24.com/es/video/20260708-estados-unidos-lanza-ataques-contra-ir%C3%A1n-tras-ofensiva-en-el-estrecho-de-ormuz",
+      "image": "https://s.france24.com/media/display/7b3e768e-7a88-11f1-b4e7-005056bfb2b6/w:1024/p:16x9/ES-20260707-203139-203309-CS.jpg",
+      "snippet": "El Comando Central del Ejército de Estados Unidos informó que llevó a cabo \"una serie de poderosos ataques\" contra Irán, en respuesta a las ofensivas que, horas antes, la República",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-08T05:09:09.000Z"
+    },
+    {
       "id": "33d91152e8d8",
       "title": "EEUU bombardea Irán después de que tres buques fueran alcanzados en Ormuz y Teherán responde con ataques a bases americanas en Kuwait y Bahréin",
       "link": "https://www.elmundo.es/internacional/2026/07/07/6a4d728ae4d4d8f8658b45a9.html",
@@ -923,6 +881,18 @@
       "isoDate": "2026-07-08T05:06:50.000Z"
     },
     {
+      "id": "47309d65f97c",
+      "title": "Le Pen confirma su candidatura a las presidenciales francesas tras el fallo en apelación",
+      "link": "https://www.france24.com/es/video/20260708-le-pen-confirma-su-candidatura-a-las-presidenciales-francesas-tras-el-fallo-en-apelaci%C3%B3n",
+      "image": "https://s.france24.com/media/display/891b8b5c-7a7e-11f1-938a-005056bfb2b6/w:1024/p:16x9/ES-20260707-183305-183502-CS.jpg",
+      "snippet": "Tras la sentencia en apelación, Marine Le Pen confirmó el 7 de julio que será la candidata de Agrupación Nacional en las próximas elecciones presidenciales y anunció que recurrirá ",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-08T05:06:09.000Z"
+    },
+    {
       "id": "04e710adf50d",
       "title": "'Con la sobretasa a la seguridad se logró recaudar 20 mil millones de pesos, lo que ha sido invertido en todos los municipios', gobernadora de Sucre",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/con-la-sobretasa-a-la-seguridad-se-logro-recaudar-20-mil-millones-de-pesos-lo-que-ha-sido-invertido-en-todos-los-municipios-gobernadora-de-sucre-3569784",
@@ -945,6 +915,18 @@
       "country": "PE",
       "countryLabel": "Perú",
       "isoDate": "2026-07-08T05:05:00.000Z"
+    },
+    {
+      "id": "9d2e5f2508dc",
+      "title": "Clínicas improvisadas en Venezuela para hacer frente a la emergencia tras el doble terremoto",
+      "link": "https://www.france24.com/es/video/20260708-cl%C3%ADnicas-improvisadas-en-venezuela-para-hacer-frente-a-la-emergencia-tras-el-doble-terremoto",
+      "image": "https://s.france24.com/media/display/e69b3daa-7a7d-11f1-9f39-005056bfb2b6/w:1024/p:16x9/ES-20260707-161317-161457-CS.jpg",
+      "snippet": "Tras los terremotos que sacudieron La Guaira el pasado 24 de junio, un restaurante de McDonald’s en Caraballeda fue adaptado como un centro de atención temporal para responder a la",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-08T05:04:57.000Z"
     },
     {
       "id": "8eb73adfe2dc",
@@ -983,6 +965,30 @@
       "isoDate": "2026-07-08T05:03:00.000Z"
     },
     {
+      "id": "ecc7ad939c71",
+      "title": "México: Sheinbaum exige a EE. UU. aclarar si el FBI participó en la captura de \"El Mayo\" Zambada",
+      "link": "https://www.france24.com/es/video/20260708-m%C3%A9xico-sheinbaum-exige-a-ee-uu-aclarar-si-el-fbi-particip%C3%B3-en-la-captura-de-el-mayo-zambada",
+      "image": "https://s.france24.com/media/display/ba478d4a-7a7c-11f1-95b3-005056a90284/w:1024/p:16x9/ES-20260707-161118-161245-CS.jpg",
+      "snippet": "El Gobierno de México, encabezado por Claudia Sheinbaum, exigió a Estados Unidos aclarar si el FBI participó en el operativo que culminó con el traslado del líder del Cartel de Sin",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-08T05:02:59.000Z"
+    },
+    {
+      "id": "fe8f940fe9c9",
+      "title": "Farage renuncia a su escaño y buscará la reelección en Parlamento británico",
+      "link": "https://www.france24.com/es/video/20260708-farage-renuncia-a-su-esca%C3%B1o-y-buscar%C3%A1-la-reelecci%C3%B3n-en-parlamento-brit%C3%A1nico",
+      "image": "https://s.france24.com/media/display/9cc3d70c-7a7b-11f1-890f-005056bfb2b6/w:1024/p:16x9/ES-20260707-160850-161053-CS.jpg",
+      "snippet": "Tras semanas de enfrentar acusaciones por presuntas irregularidades en la declaración de millonarias donaciones de patrocinadores, el líder de la ultraderecha británica, Nigel Fara",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-08T05:02:24.000Z"
+    },
+    {
       "id": "b8bc61e743a6",
       "title": "Presidente Balcázar sobre Pedro Castillo: “Tengo varios días para esperar si se presenta un indulto”",
       "link": "https://elcomercio.pe/politica/presidente-balcazar-tengo-varios-dias-para-esperar-si-se-presenta-un-indulto-en-favor-de-pedro-castillo-entrevista-noticia/",
@@ -1007,18 +1013,6 @@
       "isoDate": "2026-07-08T05:01:20.000Z"
     },
     {
-      "id": "fefad5e5e5a7",
-      "title": "Keiko Fujimori acredita a sus equipos de transferencia ante ministerios: ¿Quiénes son los técnicos y políticos a los que ha recurrido?",
-      "link": "https://elcomercio.pe/politica/keiko-fujimori-acredita-a-sus-equipos-de-transferencia-ante-ministerios-quienes-son-los-tecnicos-y-politicos-a-los-que-ha-recurrido-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/ELK4WXOI4ZHARHCTDE3O6VLLYQ.jfif?auth=5df66614ff571cfa931fa9791293f0e5d81dd0dccf985f7756d884f0a7b32e10&smart=true&width=1280&height=853",
-      "snippet": "A tres semanas para que jure como nueva presidenta de la República, Keiko Fujimori continúa moldeando su primer Gabinete Ministerial y también con una serie de reuniones virtuales ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-08T05:01:00.000Z"
-    },
-    {
       "id": "d8aa81652e2f",
       "title": "Horóscopo de hoy, 8 de julio: estas son las predicciones más precisas para tu signo",
       "link": "https://elcomercio.pe/luces/vida-social/horoscopo-de-hoy-8-de-julio-estas-son-las-predicciones-mas-precisas-para-tu-signo-noticia/",
@@ -1031,52 +1025,28 @@
       "isoDate": "2026-07-08T05:01:00.000Z"
     },
     {
-      "id": "d1dff91577a5",
-      "title": "Por qué el verano alpino es una de las tendencias de viaje más frescas de Europa",
-      "link": "http://es.euronews.com/viajes/2026/07/08/por-que-el-verano-alpino-es-una-de-las-tendencias-de-viaje-mas-frescas-de-europa",
-      "image": null,
-      "snippet": "Según datos de Google Trends, el interés de búsqueda en el Reino Unido por \"alpine summer\" ha aumentado un 82 % interanual, con viajeros que buscan vacaciones de montaña para sus e",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
+      "id": "ae934524c98c",
+      "title": "OTAN firma contratos multimillonarios para reforzar su industria de defensa",
+      "link": "https://www.france24.com/es/video/20260708-otan-firma-contratos-multimillonarios-para-reforzar-su-industria-de-defensa",
+      "image": "https://s.france24.com/media/display/a7c4bb7c-7a7a-11f1-9fe0-005056bfb2b6/w:1024/p:16x9/ES-20260707-143645-143828-CS.jpg",
+      "snippet": "Los países de la OTAN firmaron en Ankara una serie de contratos multimillonarios para impulsar la compra y producción de armamento, en una ceremonia que marca un nuevo paso en el f",
+      "source": "France 24 Español",
+      "sourceId": "france24",
       "country": "INT",
       "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:00:59.000Z"
+      "isoDate": "2026-07-08T05:00:25.000Z"
     },
     {
-      "id": "89ce00a312e5",
-      "title": "Alemania encuentra la clave para ahorrar en electricidad: energía solar con baterías domésticas",
-      "link": "http://es.euronews.com/2026/07/08/alemanes-instalan-baterias-para-protegerse-de-subidas-de-los-combustibles-fosiles",
-      "image": null,
-      "snippet": "\"Los consumidores han comprobado hasta qué punto las baterías son útiles y rentables, sobre todo junto con sistemas solares, bombas de calor y vehículos eléctricos\".",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
+      "id": "da8f2cfbde0a",
+      "title": "Francia reafirma su apoyo al nuevo Gobierno sirio durante su histórica visita a Damasco",
+      "link": "https://www.france24.com/es/video/20260708-francia-reafirma-su-apoyo-al-nuevo-gobierno-sirio-durante-su-hist%C3%B3rica-visita-a-damasco",
+      "image": "https://s.france24.com/media/display/b11447ca-7a79-11f1-86df-005056a90284/w:1024/p:16x9/ES-20260707-143405-143609-CS.jpg",
+      "snippet": "El presidente de Francia, Emmanuel Macron, se reunió con su homólogo sirio, Ahmed al-Shaara, en la primera visita de un jefe de Estado de Europa occidental a Siria desde la caída d",
+      "source": "France 24 Español",
+      "sourceId": "france24",
       "country": "INT",
       "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:00:42.000Z"
-    },
-    {
-      "id": "92ee6e17fc2a",
-      "title": "Un análisis de sangre identifica un patrón hormonal exclusivo de la endometriosis",
-      "link": "http://es.euronews.com/salud/2026/07/08/un-analisis-de-sangre-identifica-un-patron-hormonal-exclusivo-de-la-endometriosis",
-      "image": null,
-      "snippet": "Un nuevo análisis de sangre podría detectar un patrón hormonal exclusivo de la endometriosis y abrir la puerta a diagnósticos más rápidos de una enfermedad que hoy tarda hasta 12 a",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T05:00:31.000Z"
-    },
-    {
-      "id": "c562017a8b1a",
-      "title": "Tony Robbins, experto en crecimiento personal: “La mente busca lo que está mal”",
-      "link": "https://www.lanacion.com.ar/lifestyle/tony-robbins-experto-en-crecimiento-personal-la-mente-busca-lo-que-esta-mal-nid08072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZSD6ZJLJWRFSJD5EEV5H2BJGDE.png?auth=30dd67e63a95ff9ead25b936b7e38f9bdb8e4289d367bbe72c9df2f2f511dbbe&smart=true&width=1200&height=800",
-      "snippet": "El conferencista analizó cómo el ego y la atención centrada en uno mismo impactan en la salud emocional; propuso la gratitud como herramienta inmediata",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T05:00:00.000Z"
+      "isoDate": "2026-07-08T04:58:58.000Z"
     },
     {
       "id": "3ab2a34c846c",
@@ -1089,18 +1059,6 @@
       "country": "PE",
       "countryLabel": "Perú",
       "isoDate": "2026-07-08T04:54:20.000Z"
-    },
-    {
-      "id": "cd33486b5dbd",
-      "title": "¡Atención, Lima! Corte de luz HOY, 8 de julio: Revisa los horarios y distritos afectados",
-      "link": "https://elcomercio.pe/respuestas/a-que-hora/corte-de-luz-en-lima-y-callao-revisa-los-distritos-y-horarios-afectados-del-6-al-8-de-julio-tdpe-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/BBSCWRTHUNH2ROFHCA2VKTYXA4.png?auth=ed2074221f85d7e9d586146397fed153ad9168b0f9119d231dbb52784dd8b28a&smart=true&width=1300&height=800",
-      "snippet": "Pluz Energía informó sobre nuevas interrupciones programadas del servicio eléctrico en distintos distritos de Lima y Callao. Revisa las zonas afectadas, los horarios y la duración ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-08T04:52:50.000Z"
     },
     {
       "id": "86fee8f9577e",
@@ -1137,18 +1095,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-08T04:35:00.000Z"
-    },
-    {
-      "id": "ec59b0cf6e20",
-      "title": "Europa se prepara para otra ola de calor: así quiere enfriar sus ciudades sin aire acondicionado",
-      "link": "http://es.euronews.com/2026/07/08/llega-mas-calor-extremo-pueden-los-rios-de-europa-sustituir-el-aire-acondicionado",
-      "image": null,
-      "snippet": "\"La climatización urbana centralizada ofrece beneficios claros a las ciudades que buscan proteger la salud pública y reducir las emisiones\".",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T04:30:26.000Z"
     },
     {
       "id": "06b892d99f57",
@@ -1263,18 +1209,6 @@
       "title": "Clima hoy en Ciudad Guayana, Venezuela: el pronóstico del tiempo para este miércoles 8 julio de 2026",
       "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-guayana-venezuela-pronostico-tiempo-miercoles-8-julio-2026_0_4VqLDSHF87.html",
       "image": "https://www.clarin.com/img/2025/04/30/IwtFsKZTQ_1200x630__1.jpg",
-      "snippet": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-08T03:39:43.000Z"
-    },
-    {
-      "id": "044f6fb32b1e",
-      "title": "Clima hoy en Ciudad de Bolívar, Venezuela: el pronóstico del tiempo para este miércoles 8 julio de 2026",
-      "link": "https://www.clarin.com/informacion-general/clima-hoy-ciudad-bolivar-venezuela-pronostico-tiempo-miercoles-8-julio-2026_0_NyEceSIS0s.html",
-      "image": "https://www.clarin.com/img/2025/04/30/TVpsiwPVQ_1200x630__1.jpg",
       "snippet": "El pronóstico extendido durante la jornada. ¿Cómo estará el cielo? ¿Cuál es la probabilidad de lluvias?",
       "source": "Clarín",
       "sourceId": "clarin",
@@ -1727,30 +1661,6 @@
       "isoDate": "2026-07-08T00:33:32.000Z"
     },
     {
-      "id": "b7da5b3e539c",
-      "title": "Informe de Boston: Argentina clasifica a cuartos de final",
-      "link": "https://www.france24.com/es/video/20260708-informe-de-boston-argentina-clasifica-a-cuartos-de-final",
-      "image": "https://s.france24.com/media/display/55fe1676-7a61-11f1-bfcf-005056bf30b7/w:1024/p:16x9/ES-20260707-131205-131448-CS.jpg",
-      "snippet": "Argentina aseguró su pase a los cuartos de final tras una sorprendente remontada en los últimos minutos de juego. La albiceleste anotó para terminar 3-2 frente a Egipto en los octa",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T00:32:37.000Z"
-    },
-    {
-      "id": "48a633ca4ee7",
-      "title": "Marine Le Pen anuncia que se presentará a las elecciones presidenciales francesas de 2027",
-      "link": "https://www.france24.com/es/video/20260708-marine-le-pen-anuncia-que-se-presentar%C3%A1-a-las-elecciones-presidenciales-francesas-de-2027",
-      "image": "https://s.france24.com/media/display/4d1b1fd8-7a55-11f1-953f-005056bfb2b6/w:1024/p:16x9/ES-20260707-132747-134326-CS.jpg",
-      "snippet": "La líder de la ultraderecha francesa, Marine Le Pen, anunció este 7 de julio en una entrevista que se presentará como candidata en las elecciones presidenciales de 2027. Asimismo, ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T00:31:56.000Z"
-    },
-    {
       "id": "8d979e37531c",
       "title": "La furia y la desolación de Egipto tras su repentina derrota ante Argentina en los últimos minutos en los octavos del Mundial",
       "link": "https://www.bbc.com/mundo/articles/ce8jkz4zmmdo?at_medium=RSS&at_campaign=rss",
@@ -1799,18 +1709,6 @@
       "isoDate": "2026-07-08T00:23:34.000Z"
     },
     {
-      "id": "b893fa40f6b3",
-      "title": "Una mujer sospechosa del atentado de Mónaco ha sido hallada muerta a tiros cerca de Kiev",
-      "link": "https://www.france24.com/es/europa/20260708-una-mujer-sospechosa-del-atentado-de-m%C3%B3naco-ha-sido-hallada-muerta-a-tiros-cerca-de-kiev",
-      "image": "https://s.france24.com/media/display/07ea394c-7a07-11f1-a789-005056bfb2b6/w:1024/p:16x9/000-B96E363.jpg",
-      "snippet": "El cadáver de la mujer ucraniana sospechosa de haber colocado un paquete bomba en Mónaco la semana pasada fue hallado cerca de Kiev, según informó el 7 de julio el periódico local ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-08T00:22:05.000Z"
-    },
-    {
       "id": "806d616e494a",
       "title": "Suiza es más efectiva en los penales y Colombia lamenta su oportunidad perdida",
       "link": "https://elpais.com/america-colombia/2026-07-07/suiza-es-mas-efectivo-en-los-penales-y-colombia-lamenta-su-oportunidad-perdida.html",
@@ -1833,18 +1731,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-07-08T00:01:00.000Z"
-    },
-    {
-      "id": "1d79435062d8",
-      "title": "Con su recurso de casación, ésta es la arriesgada apuesta de Marine Le Pen",
-      "link": "https://www.france24.com/es/europa/20260707-con-su-recurso-de-casaci%C3%B3n-%C3%A9sta-es-la-arriesgada-apuesta-de-marine-le-pen",
-      "image": "https://s.france24.com/media/display/b7f864f0-7a4b-11f1-85bf-005056a90284/w:1024/p:16x9/000-B9JM829-1.jpg",
-      "snippet": "Tras la sentencia en apelación, Marine Le Pen confirmó el 7 de julio que será la candidata de Agrupación Nacional a las elecciones presidenciales, al tiempo que decidió recurrir an",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-07T23:53:45.000Z"
     },
     {
       "id": "469ae94bffd1",
@@ -1943,18 +1829,6 @@
       "isoDate": "2026-07-07T23:24:45.000Z"
     },
     {
-      "id": "68529a4b9c9c",
-      "title": "Suiza eliminó en los penales a Colombia y enfrentará a Argentina en cuartos del Mundial",
-      "link": "https://www.france24.com/es/deportes/20260707-suiza-elimin%C3%B3-en-los-penales-a-colombia-y-enfrentar%C3%A1-a-argentina-en-cuartos-del-mundial",
-      "image": "https://s.france24.com/media/display/72f24660-7a59-11f1-8627-005056bfb2b6/w:1024/p:16x9/2026-07-07T230722Z-1503563944-UP1EM771RPUMW-RTRMADP-3-SOCCER-WORLDCUP-SWI-COL.jpg",
-      "snippet": "El conjunto europeo avanzó por 4-3 en una definición desde los doce pasos, luego de igualar 0-0 contra el combinado cafetero. En un duelo parejo, los sudamericanos coquetearon con ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-07T23:23:42.000Z"
-    },
-    {
       "id": "ed217b30b033",
       "title": "Gobernador de La Guaira informó que 600 apartamentos podrán ser recuperados tras evaluación de daños",
       "link": "https://www.elnacional.com/2026/07/gobernador-de-la-guaira-informo-que-600-apartamentos-podran-ser-recuperados-tras-evaluacion-de-danos/",
@@ -2027,18 +1901,6 @@
       "isoDate": "2026-07-07T23:04:50.000Z"
     },
     {
-      "id": "f01b78d7f9ba",
-      "title": "Procesarán en Argentina a la exfiscal que investigó la muerte de Alberto Nisman",
-      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260707-procesar%C3%A1n-en-argentina-a-la-exfiscal-que-investig%C3%B3-la-muerte-de-alberto-nisman",
-      "image": "https://s.france24.com/media/display/063bdc84-f941-11ee-a83a-005056a90284/w:1024/p:16x9/AP19365674702138.jpg",
-      "snippet": "La exfiscal que revisó la escena en la que fue encontrado el cadáver de Nisman, Viviana Fein, deberá responder a acusaciones de que no preservó adecuadamente las evidencias, por de",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-07T23:04:19.000Z"
-    },
-    {
       "id": "5d7ef92c124e",
       "title": "Netflix firma acuerdos para impulsar videos de formato corto en su plataforma",
       "link": "https://www.elnacional.com/2026/07/netflix-firma-acuerdos-para-impulsar-videos-de-formato-corto-en-su-plataforma/",
@@ -2061,18 +1923,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T22:57:38.000Z"
-    },
-    {
-      "id": "98ea7f99e7bb",
-      "title": "Mundial 2026: Suiza domina en los penales a Colombia y clasifica a cuartos de final",
-      "link": "https://www.france24.com/es/minuto-a-minuto/20260707-mundial-2026-suiza-domina-en-los-penales-a-colombia-y-clasifica-a-cuartos-de-final",
-      "image": null,
-      "snippet": "",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-07T22:52:07.000Z"
     },
     {
       "id": "dbc648490443",
@@ -2145,18 +1995,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-07T22:30:00.000Z"
-    },
-    {
-      "id": "cccd481c84ec",
-      "title": "EE. UU. confirma \"poderosos ataques\" contra Irán, revoca licencias y los mercados reaccionan",
-      "link": "https://www.france24.com/es/medio-oriente/20260707-ee-uu-confirma-poderosos-ataques-contra-ir%C3%A1n-en-respuesta-a-ofensivas-contra-buques-comerciales",
-      "image": "https://s.france24.com/media/display/b0d8e15a-7a4f-11f1-a337-005056a90284/w:1024/p:16x9/2026-07-07T191614Z-1043438909-RC2R4LAN4FM4-RTRMADP-3-IRAN-CRISIS-MISSILES-HORMUZ.jpg",
-      "snippet": "El Comando Central del ejército estadounidense informó que ha llevado a cabo \"una serie de poderosos ataques contra Irán\", como forma de imponer elevados costes por las ofensivas q",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-07T22:23:24.000Z"
     },
     {
       "id": "ad4f088162c1",
@@ -2265,18 +2103,6 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-07-07T21:46:48.000Z"
-    },
-    {
-      "id": "401a21256dc2",
-      "title": "El incendio de La Bisbal (Girona) se da por controlado tras arrasar 2.200 hectáreas",
-      "link": "https://www.20minutos.es/cataluna/incendio-bisbal-girona-se-da-por-controlado-tras-arrasar-2-200-hectareas_7011908_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/03/6a480149d6e204-91009003.jpeg",
-      "snippet": "Barcelona, 7 jul (EFE).- Los Bomberos de la Generalitat han dado por controlado el incendio que se declaró el pasado viernes en La Bisbal d'Empordà, en Girona, tras quemar una supe",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-07T21:38:11.000Z"
     },
     {
       "id": "fb13b17027cb",
@@ -3011,8 +2837,8 @@
       "isoDate": "2026-07-06T12:24:34.000Z"
     },
     {
-      "id": "2d229534b2f6",
-      "title": "La ola de calor aviva los incendios con principales focos en Cataluña, León y Picos de Europa",
+      "id": "f7b93937bb32",
+      "title": "El incendio de Sentmenat sigue descontrolado con focos secundarios \"masivos\" mientras en León levantan el confinamiento a 60 vecinos",
       "link": "https://www.20minutos.es/nacional/incendios-espana-directo-un-amplio-dispositivo-trabaja-para-mantener-perimetro-incendio-castellon_7010836_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/07/6a4d3a898d6254-15937912.png",
       "snippet": "Última hora sobre la evolución de los incendios en España.",
@@ -3023,8 +2849,8 @@
       "isoDate": "2026-07-06T05:29:17.000Z"
     },
     {
-      "id": "43d66448ed09",
-      "title": "Así está el cuadro y así serán los cruces del Mundial 2026: ya decididas todas las eliminatorias de cuartos de final",
+      "id": "a8136da02119",
+      "title": "Así serán los cruces del Mundial 2026: la victoria de Suiza cierra los octavos",
       "link": "https://www.20minutos.es/deportes/futbol/asi-esta-cuadro-asi-seran-los-cruces-mundial-2026-francia-marruecos-los-primeros-meterse-cuartos-final_7007268_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/08/6a4d83940696e7-85072603.jpeg",
       "snippet": "Los octavos del Mundial 2026 dejaron la clasificación para cuartos de final de Marruecos, Francia, España, Bélgica, Inglaterra, Noruega, Argentina y Suiza.",
