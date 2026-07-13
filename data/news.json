@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-13T21:03:34.790Z",
-  "count": 243,
+  "updatedAt": "2026-07-13T21:22:37.327Z",
+  "count": 257,
   "sources": [
     {
       "id": "20minutos",
@@ -63,6 +63,12 @@
       "countryLabel": "Colombia"
     },
     {
+      "id": "euronews",
+      "name": "Euronews Español",
+      "country": "INT",
+      "countryLabel": "Internacional"
+    },
+    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -113,6 +119,414 @@
   ],
   "items": [
     {
+      "id": "114e2df34e96",
+      "title": "¿Carlos Espá será el canciller de Keiko Fujimori? Excandidato responde a los rumores tras reunirse con Fuerza Popular",
+      "link": "https://www.infobae.com/peru/2026/07/13/carlos-espa-sera-el-canciller-de-keiko-fujimori-excandidato-responde-a-los-rumores-tras-reunirse-con-fuerza-popular/",
+      "image": "https://www.infobae.com/resizer/v2/77FFPOQZSFBILKIFPY2V67ZBM4.png?auth=ee1b062f8d071b7412f77eabb6d487e5fccbc351640dfdd129d4e35c6604f2ab&smart=true&width=1920&height=1080",
+      "snippet": "El líder de Sí Creo evitó confirmar si asumirá la Cancillería tras una conversación privada con la presidenta electa, y aseguró que todo ciudadano debe estar dispuesto a servir al ",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:21:24.000Z"
+    },
+    {
+      "id": "8485f9856545",
+      "title": "Por esto la esposa del exdirector de Pemex le otorgó el perdón tras denunciarlo por violencia vicaria",
+      "link": "https://www.infobae.com/mexico/2026/07/13/por-esto-la-esposa-del-exdirector-de-pemex-le-otorgo-el-perdon-tras-denunciarlo-por-violencia-vicaria/",
+      "image": "https://www.infobae.com/resizer/v2/2JQB7KGCPZATBGBP2EU7IBXYIQ.png?auth=12a63a1875dfeb64eadaa96aaa20e23ae589721ce710ef75ae9c2b5af77da34f&smart=true&width=1920&height=1080",
+      "snippet": "Aunque María Felicia Jiménez pidió detener las investigaciones para proteger a su familia, la jueza determinó que el proceso por violencia familiar debe continuar al tratarse de un",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:21:04.000Z"
+    },
+    {
+      "id": "eff160ce271b",
+      "title": "Estudiantes de Jalisco pagarán sólo 5 pesos en el transporte público, sin excepciones",
+      "link": "https://www.infobae.com/mexico/2026/03/12/estudiantes-de-jalisco-pagaran-solo-5-pesos-en-el-transporte-publico-sin-excepciones/",
+      "image": "https://www.infobae.com/resizer/v2/5H6IJYJSFFCRFIWFS727YZYE6I.jpg?auth=f92cb790ec99e843fb5aba6a8b8d0f1516f2097d975dc40ee39d338caf7b8b09&smart=true&width=1456&height=816",
+      "snippet": "El gobernador Pablo Lemus aseguró que el mayor interés es facilitar que miles de jóvenes permanezcan en las aulas y trasladen por cinco pesos a cualquier destino educativo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:20:35.000Z"
+    },
+    {
+      "id": "f4d37669939a",
+      "title": "Estas son las claves que explican el crecimiento del automovilismo mexicano",
+      "link": "https://www.infobae.com/america/inhouse/2026/04/15/estas-son-las-claves-que-explican-el-crecimiento-del-automovilismo-mexicano/",
+      "image": "https://www.infobae.com/resizer/v2/MR2SNGRWANA5RE2DLKQJFNN2SY.jpg?auth=9a80d02a0f6d5d85261983b9187a120d966e416531cf899527e05667437d3596&smart=true&width=1456&height=816",
+      "snippet": "Con el respaldo de Grupo Andrade, el automovilismo mexicano suma protagonismo apoyando a jóvenes pilotos y consolidando campeonatos como NASCAR México Series y Copa TC2000",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:20:17.000Z"
+    },
+    {
+      "id": "54c4017b5f91",
+      "title": "En medio del clima mundialista, Milei expuso los detalles de la reforma del Banco Central ante legisladores libertarios",
+      "link": "https://www.infobae.com/politica/2026/07/13/en-medio-del-clima-mundialista-milei-reune-a-los-legisladores-libertarios-para-avanzar-con-la-reforma-del-banco-central/",
+      "image": "https://www.infobae.com/resizer/v2/FAGBSQE7YNAU3O3WUT7YGB4LKQ.jpg?auth=3bf6b9a2c050734ea1d8ea1b3f87a285b11f47b6eda226a6af54467f3f716af6&smart=true&width=1600&height=1068",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:20:04.000Z"
+    },
+    {
+      "id": "4f1bbb5a6c50",
+      "title": "Niñas y niños de Jalisco podrán viajar gratis en transporte público, entérate cómo",
+      "link": "https://www.infobae.com/mexico/2026/04/15/ninas-y-ninos-de-jalisco-podran-viajar-gratis-en-transporte-publico-enterate-como/",
+      "image": "https://www.infobae.com/resizer/v2/2A7UK72RSRA67BPD7VFUCFNJHY.jpg?auth=14503ef4427ca6ccdc1338abe855909a48ead662ee0ab6d17eec1b665f8a8199&smart=true&width=1920&height=1080",
+      "snippet": "La iniciativa estatal ofrece dos viajes diarios gratis en transporte público para alumnos de escuelas públicas. Te contamos cómo acceder y los beneficios que aporta",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:19:49.000Z"
+    },
+    {
+      "id": "9001913114e3",
+      "title": "Presidenta encargada de Venezuela nombra a Félix Plasencia como nuevo canciller - Clone",
+      "link": "https://www.infobae.com/arc-support/2026/07/13/presidenta-encargada-de-venezuela-nombra-a-felix-plasencia-como-nuevo-canciller-clone/",
+      "image": null,
+      "snippet": "CARACAS, 13 jul (Reuters) - La presidenta encargada de Venezuela, Delcy Rodríguez, anunció el lunes que designó al enviado de Venezuela ante Estados Unidos para un nuevo cargo como",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:19:46.000Z"
+    },
+    {
+      "id": "680322f76579",
+      "title": "Descubren en Tailandia un dinosaurio gigante de cuello largo de hace 150 millones de años",
+      "link": "https://www.infobae.com/america/ciencia-america/2026/07/13/descubren-en-tailandia-un-dinosaurio-gigante-de-cuello-largo-de-hace-150-millones-de-anos/",
+      "image": "https://www.infobae.com/resizer/v2/U5SUDMNOC5DPHFOKR72NTP5NTA.jpg?auth=8fd4c2f54e540e0dc8755e32ad7d889c66325bfd9d6837f449418754e8562fda&smart=true&width=1950&height=1286",
+      "snippet": "La vértebra fue encontrada en la Formación Phu Kradung y permitió a los científicos documentar el hallazgo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:19:10.000Z"
+    },
+    {
+      "id": "11355324b757",
+      "title": "¿Cuándo se celebra el Día del Niño en Chile este 2026?",
+      "link": "https://www.latercera.com/servicios/noticia/cuando-se-celebra-el-dia-del-nino-en-chile-este-2026/",
+      "image": "https://www.latercera.com/resizer/v2/IHDB5G5NMNDDVDKDLGIXLM33AY.jpg?auth=3b92cdf68a8401e46ea9f1e257020b999e9ab3e12cf3d923abc34f0ec825806e&smart=true&width=5668&height=3784",
+      "snippet": "El festejo dedicado a los más pequeños de la familia llega en el segundo semestre del año.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T21:19:08.000Z"
+    },
+    {
+      "id": "fd0ec284522d",
+      "title": "Eclipse solar total agosto 2026: ¿Desde dónde podrá verse en México?",
+      "link": "https://www.infobae.com/mexico/2026/07/13/eclipse-solar-total-agosto-2026-desde-donde-podra-verse-en-mexico/",
+      "image": "https://www.infobae.com/resizer/v2/ABEOJW7ZHBCPZJ6AEBHWIA3UWE.jpg?auth=9f049cb9b480bc3290bfe2a60fff2506adf1cbef66910e589047cc59b1fd15c2&smart=true&width=1920&height=1280",
+      "snippet": "El eclipse solar total más esperado de la década tendrá transmisiones en vivo que permitirán acercar el fenómeno a millones de personas en todo el mundo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:18:45.000Z"
+    },
+    {
+      "id": "ef5d0183c60d",
+      "title": "Buques de la Marina de México arriban a La Guaira con insumos humanitarios para Venezuela",
+      "link": "https://www.infobae.com/mexico/2026/07/13/buques-de-la-marina-de-mexico-arriban-a-la-guaira-con-insumos-humanitarios-para-venezuela/",
+      "image": "https://www.infobae.com/resizer/v2/PWB7ZNP6UNDP5KKGSHMRYJZK7Q.jpg?auth=ac8bf02c648fc43b11985577bd49104b0a7f377cd70c295d789beff2bf74916c&smart=true&width=650&height=380",
+      "snippet": "SRE y Marina informan que el cargamento llega tras una travesía de ocho días desde Veracruz",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:18:33.000Z"
+    },
+    {
+      "id": "487555d0f630",
+      "title": "EEUU va por cadena perpetua para Ismael “El Mayo” Zambada y la confiscación de 15 mil millones de dólares",
+      "link": "https://www.infobae.com/mexico/2026/07/13/eeuu-va-por-cadena-perpetua-para-ismael-el-mayo-zambada-y-la-confiscacion-de-15-mil-millones-de-dolares/",
+      "image": "https://www.infobae.com/resizer/v2/PZ55NHUNRRCOTA7MAV2VTRCOKE.JPG?auth=d12c5544494f67e2659f30d53a7de2f9540f2813552293df1bd3dc1c24046eb6&smart=true&width=4000&height=2667",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:18:28.000Z"
+    },
+    {
+      "id": "8a1d3838146f",
+      "title": "Quiroz cierra la puerta a una baja del impuesto a los combustibles: “Nunca ha estado sobre la mesa de negociación”",
+      "link": "https://www.latercera.com/pulso/noticia/quiroz-cierra-la-puerta-a-una-baja-del-impuesto-a-los-combustibles-nunca-ha-estado-sobre-la-mesa-de-negociacion/",
+      "image": "https://www.latercera.com/resizer/v2/SEHVEVPCEVDORLSWBWXXTTAMVQ.jpeg?auth=19a841ab1aab88fa91a8a7458e67b240e29470f8043bfee707a7fa517aedebbc&smart=true&width=711&height=400",
+      "snippet": "“La responsabilidad fiscal está por sobre cualquier pequeño arreglo o que alguien quiera una cosa o quiera otra. Esto es algo serio\", dijo el ministro de Hacienda ante la propuesta",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T21:18:17.000Z"
+    },
+    {
+      "id": "ef93db465464",
+      "title": "De Monterrey al espacio: el talento en ingeniería que apunta a la NASA",
+      "link": "https://www.infobae.com/america/inhouse/2025/10/20/de-monterrey-al-espacio-el-talento-en-ingenieria-que-apunta-a-la-nasa/",
+      "image": "https://www.infobae.com/resizer/v2/W6IYBVUZGJEUBJKHEKVKAR22R4.jpg?auth=ad3b5024708134ab179e9035ef7110ccb18036a19e75aa0d139b21b474cb6da8&smart=true&width=1472&height=816",
+      "snippet": "Experiencias internacionales en la NASA y Michigan impulsan a estudiantes de ingeniería",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:17:51.000Z"
+    },
+    {
+      "id": "464781659a90",
+      "title": "“Pregúntenle a su pareja”: Tilsa Lozano rompe silencio tras detención de Jackson Mora",
+      "link": "https://elcomercio.pe/videos/entretenimiento/preguntenle-a-su-pareja-tilsa-lozano-rompe-silencio-tras-detencion-de-jackson-mora-nnav-redes-sociales-farandula-video-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/OES2JLLKF5GIHD3KLBZJXJTATQ.jpg?auth=937d4fe435365331147c575036746c1abccf256ff6e404d25c72a84b5b5afcbd&smart=true&width=1920&height=1080",
+      "snippet": "La exmodelo aseguró que recién se enteró de la prisión preventiva dictada contra su exesposo cuando fue consultada por la prensa. Además, señaló: “no tengo nada que opinar” y sostu",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T21:17:43.000Z"
+    },
+    {
+      "id": "f9703085a6cf",
+      "title": "Estas son las habilidades blandas que distinguen a los líderes en ingeniería",
+      "link": "https://www.infobae.com/america/inhouse/2025/10/13/estas-son-las-habilidades-blandas-que-distinguen-a-los-lideres-en-ingenieria/",
+      "image": "https://www.infobae.com/resizer/v2/2643BOWBVNC3XHAYWB3V53ELQU.jpg?auth=67070788d034c59d26f392721c072028bb1ef3a7a32dfd06f43d9f0737199bdb&smart=true&width=1456&height=816",
+      "snippet": "La excelencia en ingeniería está marcada por la combinación de rigor académico y una formación humanista",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:17:35.000Z"
+    },
+    {
+      "id": "f68d7d71523f",
+      "title": "Bolaños defiende la regulación de la UE sobre redes sociales: \"Permite recuperar el poder\"",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/13/bolanos-defiende-la-regulacion-de-la-ue-sobre-redes-sociales-permite-recuperar-el-poder/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:17:30.000Z"
+    },
+    {
+      "id": "c31c6348b9a4",
+      "title": "Estados Unidos sanciona al Ministerio de Turismo de Cuba y a nueve entidades estatales",
+      "link": "https://www.elnacional.com/2026/07/estados-unidos-sanciona-al-ministerio-de-turismo-de-cuba-y-a-nueve-entidades-estatales/",
+      "image": null,
+      "snippet": "Las nuevas restricciones de la administración Trump apuntan a las fuentes de financiamiento clave de la isla, afectando a agencias de comercio exterior, importadoras de combustible",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-07-13T21:14:13.000Z"
+    },
+    {
+      "id": "8563b4927a00",
+      "title": "Tras 50 años, el teatro Aula Magna del Liceo Manuel de Salas reabre sus puertas como cine",
+      "link": "https://www.latercera.com/culto/noticia/tras-50-anos-el-teatro-aula-magna-del-liceo-manuel-de-salas-reabre-sus-puertas-como-cine/",
+      "image": "https://www.latercera.com/resizer/v2/CZPBIXYV2NAD7MTVZGN22YVF2Q.jpg?auth=2c0bab47863fd56c4669df4d9968540d85506e5ba6ff39791737ccd100d65238&smart=true&width=3000&height=2000",
+      "snippet": "El recinto estuvo cerrado tras el golpe militar y esta semana reabre sus puertas como sala de cine, alzándose como un importante foco cultural en la comuna de Ñuñoa.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T21:14:08.000Z"
+    },
+    {
+      "id": "6632f74322ec",
+      "title": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
+      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ES57WS2LKBARPCU3KYN4226UT4.JPG?auth=c5022842cac78d068a6baa8838667db28a23e2ceee151e2d968018aee256b203&smart=true&width=2000&height=1318",
+      "snippet": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:14:00.000Z"
+    },
+    {
+      "id": "3f064d89f30b",
+      "title": "Canales para ver Francia vs. España: horarios del partido por semifinal del Mundial 2026",
+      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/en-que-canales-tv-transmiten-francia-vs-espana-en-vivo-gratis-hoy-por-semifinal-mundial-2026-a-que-hora-juegan-y-donde-ver-partido-online-streaming-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/BBJ2GPVWPFG5RM7KW2RDKPHBU4.jpg?auth=ecb35df395dbd66e3b2b3b7dec0f546aceff3b37989cca3e542c19725f0def88&smart=true&width=1600&height=900",
+      "snippet": "Consulta los canales de TV y plataformas online para ver el partido entre Francia vs. España el martes 14 de julio por la semifinal del Mundial 2026 desde el Estadio Dallas.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T21:13:17.000Z"
+    },
+    {
+      "id": "70801d2ecccd",
+      "title": "La historia menos conocida de Sam Neill: se reencontró con su hijo mayor 25 años después de darlo en adopción",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/la-historia-menos-conocida-de-sam-neill-se-reencontro-con-su-hijo-25-anos-despues-de-darlo-en-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/WZV7U3QCXBADLAWDWWCUSHESKI.png?auth=3452ef1f1dffcd8f21de2b1102e17233ce2127d4e7f6b12392f25b19c9c78fbe&smart=true&width=2000&height=1333",
+      "snippet": "Mucho antes de su muerte, el actor de Jurassic Park habló sobre este capítulo tan íntimo de su vida; cómo fue el reencuentro con Andrew y cómo reconstruyó el vínculo después de más",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:13:15.000Z"
+    },
+    {
+      "id": "c7ec4b387303",
+      "title": "Milei reunió a sus legisladores en la Casa Rosada: hubo camisetas de la Selección y un mate para la campaña por la reelección",
+      "link": "https://www.lanacion.com.ar/politica/milei-reunio-a-sus-legisladores-en-la-casa-rosada-hubo-camisetas-de-la-seleccion-y-un-mate-para-la-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2YUXRINKXFGKHM7BP4QPWIF6WU.jpeg?auth=a9adb385318f39d3161e4603c5e0ea019444d0cbebb594918721e757385f6897&smart=true&width=1280&height=854",
+      "snippet": "El encuentro se extendió más dos horas y media; el Presidente explicó a los diputados y senadores de LLA el proyecto para reformar la carta orgánica del Banco Central",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:13:13.000Z"
+    },
+    {
+      "id": "7bb33454ab03",
+      "title": "Temblor en Colombia hoy, lunes 13 de julio: consulta los últimos sismos vía el SGC",
+      "link": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-via-el-sgc-y-ultimos-sismos-del-13-y-14-de-julio-epicentro-hora-y-magnitud-servicio-geologico-colombiano-santander-co-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/72U76FKAJFBDBKCMVSIUM7IK5A.png?auth=5d27bff1c9bea464663afcd944f589ad7d8ebfcd80e1995ccc3557b4d905e212&smart=true&width=1200&height=700",
+      "snippet": "Temblor en Colombia EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Servicio Geológico Colombiano (SGC).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T21:13:11.000Z"
+    },
+    {
+      "id": "828121b54f22",
+      "title": "Grupo El Comercio y América Multimedia impulsan la instalación de 250 atrapanieblas que beneficiarán a 1.200 familias en Villa María del Triunfo",
+      "link": "https://elcomercio.pe/lima/sucesos/grupo-el-comercio-y-america-multimedia-impulsan-la-instalacion-de-250-atrapanieblas-que-beneficiaran-a-1200-familias-en-villa-maria-del-triunfo-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/C5HZ4RZCL5HS3D5V4PAE72MTPQ.jpg?auth=900ff30cf8b661c43656253f1d22519867654b9eb740bb915c697df7418216e0&smart=true&width=1600&height=1067",
+      "snippet": "",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T21:12:32.000Z"
+    },
+    {
+      "id": "6d1d6ae060df",
+      "title": "Cambiar cinco hábitos podría mejorar la salud cerebral: el mayor estudio en América Latina aporta una prueba clave",
+      "link": "https://www.lanacion.com.ar/sociedad/cambiar-cinco-habitos-podria-mejorar-la-salud-cerebral-el-mayor-estudio-en-latinoamerica-aporta-una-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/PIKZALS3XRAEHL5S2XHW2IMSQQ.jpg?auth=dfe709dd62d86ad7e1c886e46ef830dd9ae2d2b2ea163f5c779c01b235d12ed8&smart=true&width=800&height=533",
+      "snippet": "Liderado por la argentina Lucía Crivelli, siguió a 1065 personas de 11 países y mostró que una intervención multidominio mejoró la función cognitiva un 55% más que las recomendacio",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:12:08.000Z"
+    },
+    {
+      "id": "095e6944833a",
+      "title": "Cocinaba en el restaurante familiar, pero la amistad con un cliente especial lo llevó a ser uno de los DJs más bailados",
+      "link": "https://www.lanacion.com.ar/que-sale/cocinaba-en-el-restaurante-familiar-pero-la-amistad-con-un-cliente-especial-lo-llevo-a-ser-uno-de-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/5JUGST5EGNHBNJLWOVZOAY4ZDU.jpg?auth=ed401c90520e6ec33556ed9176283588991d3d712c08756be16cdd99c3872f0c&smart=true&width=1080&height=1350",
+      "snippet": "La música electrónica lo acompañaba desde chico, pero el salto llegó cuando empezó a seguir de cerca las noches de Javier Zuker; hoy combina vinilos, fiestas privadas, producción m",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:11:26.000Z"
+    },
+    {
+      "id": "afcac6aed700",
+      "title": "Por qué Escocia apoya a Argentina contra Inglaterra en el Mundial: el conmovedor hilo se viralizó en X",
+      "link": "https://www.lanacion.com.ar/deportes/por-que-escocia-apoya-a-argentina-contra-inglaterra-en-el-mundial-el-conmovedor-hilo-se-viralizo-en-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/4RE3I4JCYRF4TEOZ7Z2JGPECWU.png?auth=229e0aa335c1afc4923d08f310fae4e209b9dddcb712d6ca9c57615785f64054&smart=true&width=526&height=346",
+      "snippet": "En la previa al partido por las semifinales, en redes sociales destacaron un vínculo futbolístico entre los países que se remonta a 130 años atrás; mirá de qué se trata",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:10:54.000Z"
+    },
+    {
+      "id": "7441bc93c4a6",
+      "title": "De Santos Lugares al Carnaval de Venecia, jugó en River pero eligió otro escenario para disfrutar: “La pelota se toca con el alma”",
+      "link": "https://www.lanacion.com.ar/lifestyle/de-santos-lugares-al-carnaval-de-venecia-jugo-en-river-pero-eligio-otro-escenario-para-disfrutar-la-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7BL22KQAYVHPNK65NNZMFEQPL4.JPG?auth=bec4c3d9498b6f4bc138ec8a954de2804389500b50947240d1fa66c647cbf32f&smart=true&width=1600&height=1200",
+      "snippet": "Mencho Sosa transformó la pelota en lenguaje universal, fusiona fútbol, circo y teatro en un viaje que lo llevó por más de 35 países, del semáforo al Carnaval de Venecia",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:09:49.000Z"
+    },
+    {
+      "id": "863d4eaf5444",
+      "title": "¿Viene otro boom de megaproyectos mineros? Las iniciativas en trámite ambiental que anticipan otro ciclo alto",
+      "link": "https://www.latercera.com/mineria/noticia/viene-otro-boom-de-megaproyectos-mineros-las-iniciativas-en-tramite-ambiental-que-anticipan-otro-ciclo-alto/",
+      "image": "https://www.latercera.com/resizer/v2/FVVKW53ENZG7HCHN7IKKA2AW34.jpg?auth=6543548ac84bb3229a8a7ff6792064105f1a18f7e76daf07d9b11f54cdc1a8fd&smart=true&width=2048&height=1152",
+      "snippet": "Solo en el primer semestre han ingresado al Servicio de Evaluación Ambiental (SEA) inversiones por US$19 mil millones, lo que supera el total anual de cada uno de los últimos 10 añ",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T21:08:47.000Z"
+    },
+    {
+      "id": "375eb010f070",
+      "title": "Comités del Senado se reunirán este martes para definir si votan la megarreforma esa jornada o el miércoles",
+      "link": "https://www.latercera.com/politica/noticia/comites-del-senado-se-reuniran-este-martes-para-definir-si-votar-la-megarreforma-esa-jornada-o-el-miercoles/",
+      "image": "https://www.latercera.com/resizer/v2/XQGAPRLV5JFWJJ3AWAH4Y44AKU.webp?auth=032d86c3be7596cbaa2282e912833c85405643bbf45740a577a7ad93d6a73e31&smart=true&width=1600&height=1067",
+      "snippet": "El plazo original para su votación es el miércoles 15 de julio, posterior a la cuenta pública de la Cámara Alta.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T21:08:10.000Z"
+    },
+    {
+      "id": "659a4ba85bfa",
+      "title": "Cuáles son los nuevos restaurantes argentinos recomendados por la Guía Michelin",
+      "link": "https://www.lanacion.com.ar/sabado/cuales-son-los-nuevos-restaurantes-argentinos-recomendados-por-la-guia-michelin-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DVDUMJGQ4JFRHMFTEQXSOZEVSU.JPG?auth=56e17e8c6db4b4645b19a17acb14da26f8ae0c649c462d25f1705a9595fd079c&smart=true&width=2000&height=1332",
+      "snippet": "Se suman cuatro restaurantes con 1 estrella y dos entre los recomendados por relación precio-calidad",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:07:46.000Z"
+    },
+    {
+      "id": "a4ba51927316",
+      "title": "Inmigrantes con antecedentes penales podrán renovar el permiso de residencia",
+      "link": "https://www.abc.es/espana/supremo-rechaza-anule-automaticamente-permiso-residencia-antecedentes-20260713122944-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/13/1503828824-RLzpfwBTCEtCNfsTnS3MOaO-1200x840@diario_abc.jpg",
+      "snippet": "El Tribunal Supremo ha dictado este lunes una sentencia con la que modifica la valoración de los antecedentes penales de las personas extranjeras que quieran residir o trabajar en ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-13T21:06:14.000Z"
+    },
+    {
+      "id": "38f91e3df65c",
+      "title": "Se pararon los relojes en una miurada que no se comió a nadie",
+      "link": "https://www.abc.es/cultura/toros/miura-pamplona-20260713222952-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/13/manuel7-R4mrZWSkXy6aOmFDQISYy2M-1200x840@diario_abc.jpg",
+      "snippet": "Imponía la corrida de Miura en los Corrales del Gas. Tremenda su fachada, con alguna mirada que atemorizaba por su viva expresión. Largo su cuello, que estiraban como si quisieran ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-13T21:03:35.000Z"
+    },
+    {
       "id": "fce0ba3624a0",
       "title": "Petróleo sube más de 9% impulsado por los vientos de guerra en Irán",
       "link": "https://www.elnacional.com/2026/07/petroleo-sube-mas-de-9-impulsado-por-los-vientos-de-guerra-en-iran/",
@@ -125,88 +539,64 @@
       "isoDate": "2026-07-13T21:03:21.000Z"
     },
     {
-      "id": "709c29e55c23",
-      "title": "Más allá de “Solo Leveling”: los otros animes que Netflix quiere llevar al formato live-action",
-      "link": "https://elcomercio.pe/mag/fama/que-ver/ademas-de-solo-leveling-los-otros-animes-con-proyectos-live-action-que-prepara-netflix-series-y-peliculas-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/YCP4EX2PTBCQTJIEESRAWQOVO4.jpg?auth=7eee763e8de96cc58909d82a3ae9485a4b3ac991fc3dc5fc096ca6bfc7386fe9&smart=true&width=2400&height=1620",
-      "snippet": "Netflix no se queda solo en \"Solo Leveling\": repasamos el avance real de otros animes que la plataforma busca llevar a series o películas live-action ahora.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T21:00:19.000Z"
-    },
-    {
-      "id": "42a684dec62d",
-      "title": "Números ganadores del Powerball: mira los resultados del sorteo jackpot del 13 de julio 2026 con premio mayor de 478 millones de dólares",
-      "link": "https://elcomercio.pe/mag/usa/loterias/numeros-ganadores-del-powerball-mira-los-resultados-del-sorteo-jackpot-del-13-de-julio-2026-con-premio-mayor-de-478-millones-de-dolares-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/EVGVGHCWR5H2ZD5I2HFMX62S2U.png?auth=667fde3e38f50e6b837410b02a9c9c79395411cfd24376cf65a778afabb0affc&smart=true&width=3600&height=2430",
-      "snippet": "Revise los números ganadores del Powerball y los resultados oficiales del sorteo jackpot del 13 de julio de 2026, con un premio mayor acumulado de 478 millones de dólares.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T21:00:00.000Z"
-    },
-    {
-      "id": "862fbaeba2d2",
-      "title": "Precio del Dólar en México hoy, lunes 13 de julio 2026: a cuánto cerró el USD en MXN (Pesos mexicanos)",
-      "link": "https://elcomercio.pe/mag/respuestas/mx/precio-del-dolar-en-mexico-hoy-lunes-13-de-julio-2026-cuanto-esta-el-usd-en-mxn-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/RYTYJPEKFVB5RNEPMO3QZJFQ4I.png?auth=eb2f60416b94947c770bf4f8488a1526c9840520f7a2aa2db89580d44387b13f&smart=true&width=3600&height=2430",
-      "snippet": "Verifique el precio del dólar en México hoy, lunes 13 de julio de 2026. Conozca el tipo de cambio oficial del USD en MXN y el valor de compra y venta en bancos de México.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T21:00:00.000Z"
-    },
-    {
-      "id": "79c09f9ee1ed",
-      "title": "Partidos de hoy, lunes 13 de julio del 2026: horarios y canales TV para ver fútbol EN VIVO",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/partidos-de-hoy-lunes-13-de-julio-del-2026-resultados-programacion-horarios-canales-tv-y-donde-ver-futbol-en-vivo-online-streaming-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/TDTRYMLPERFF5CUCPT4MH6SHJI.png?auth=baf17465de0e74660638ed08b4b60136452ebcea7c6422107538ec549864563f&smart=true&width=1600&height=900",
-      "snippet": "Partidos de hoy, lunes 13 de julio del 2026: revisa la programación completa del Fútbol En vivo que se juega en el día.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T20:59:50.000Z"
-    },
-    {
-      "id": "627a72d1e650",
-      "title": "Los últimos viajes de los congresistas al extranjero antes de que llegue el Parlamento bicameral",
-      "link": "https://elcomercio.pe/politica/congreso/congreso-viajes-congresistas-salhuana-jeri-patricia-juarez-los-ultimos-viajes-los-congresistas-al-extranjero-antes-de-que-llegue-el-parlamento-bicameral-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/5WRIM3EH2BDQ7B3N4GZH5B5VZ4.png?auth=16aae30cb9f4ffa0c344ab7d4fa1fc6616213c8b3decd47bf7c896f370b6571f&smart=true&width=1160&height=660",
-      "snippet": "A pocos días de que el Congreso dé paso al al regreso del Senado este 28 de julio, se registró una intensa actividad de viajes internacionales y nacionales cuyo gasto asciende a S/",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T20:59:14.000Z"
-    },
-    {
-      "id": "af71a41602df",
-      "title": "Los indecisos y el voto blanco y viciado suman casi la tercera parte de electores en Lima",
-      "link": "https://elcomercio.pe/politica/elecciones/los-indecisos-y-el-voto-blanco-y-viciado-suman-casi-la-tercera-parte-de-electores-en-lima-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/V3YCZPWTINCFXNIQA7FZZMV45Q.png?auth=0dd57625f626558c90340ff915dc96edc197876e5efc9482737add4f79ba4ddd&smart=true&width=1160&height=660",
-      "snippet": "A menos de tres meses para las elecciones regionales y municipales, los indecisos (16,3%) y los que están a favor de votar en blanco o viciado (15,3) en los comicios para la alcald",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T20:58:56.000Z"
-    },
-    {
-      "id": "da858e4a0ea7",
-      "title": "El deporte, la hidratación correcta y la pasión brillan en el Gran Giro Electrolit 2025 Guadalajara",
-      "link": "https://www.infobae.com/mexico/2025/08/08/el-deporte-la-hidratacion-correcta-y-la-pasion-brillan-en-el-gran-giro-electrolit-2025-guadalajara/",
-      "image": "https://www.infobae.com/resizer/v2/6IH5FJBJ5BCB7N7VJJHM4VQNUA.jpg?auth=680723a1f40a13baca6b54a4b7fdeba6402a9ec47155aaea9383e1cc34a1fe0f&smart=true&width=1920&height=1080",
-      "snippet": "La edición 2025 reunió a ciclistas de alto nivel e impulsó el mensaje sobre la importancia de hábitos saludables y el consumo adecuado de líquidos y electrolitos en el deporte",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "6014321a679d",
+      "title": "Los aliados de Ucrania aumentan la presión sobre Rusia con un fuerte respaldo militar a Kiev",
+      "link": "https://www.lanacion.com.ar/el-mundo/los-aliados-de-ucrania-aumentan-la-presion-sobre-rusia-con-un-fuerte-respaldo-militar-a-kiev-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7EVGCUNRINA43BOJ66P5ROAILA.jpg?auth=60fae9d232d8945fc40997e8c22a0bb8554b2baa0b8a9902819ed9040a3f8183&smart=true&width=2000&height=1333",
+      "snippet": "El bloque europeo y sus socios recibieron a Zelensky en la capital francesa con mayores aportes para la defensa aérea, nuevas sanciones a Moscú y un plan de paz que contempla garan",
+      "source": "La Nación",
+      "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:58:20.000Z"
+      "isoDate": "2026-07-13T21:03:00.000Z"
+    },
+    {
+      "id": "f3790cc1d785",
+      "title": "Preocupación en el mercado: una empresa del negocio de la carne acumula más de $3000 millones en cheques rechazados",
+      "link": "https://www.lanacion.com.ar/economia/campo/preocupacion-en-el-mercado-una-empresa-del-negocio-de-la-carne-acumula-mas-de-3000-millones-en-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DVOPJNQG65H5NMCF6BOPRBQ5N4.png?auth=6b6d84d4aa68095cc3401f828b8be82636be58ac94c02e8468ab718dc96a9fd4&smart=true&width=650&height=370",
+      "snippet": "Se trata de Argentine Young Bull, de Pilar; el frigorífico Tresnal, proveedor de esa firma, dice que ahora tiene todos los cheques rechazados, aunque en el sector indican que los e",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:02:39.000Z"
+    },
+    {
+      "id": "3309a106293b",
+      "title": "Luciano Spena, nutricionista de la selección argentina: “Hay que gestionar cuándo comer mal, necesitan esa felicidad”",
+      "link": "https://www.lanacion.com.ar/deportes/luciano-spena-nutricionista-de-la-seleccion-argentina-hay-que-gestionar-cuando-comer-mal-necesitan-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/JIIDRKECKVAK5O3Q6LC2L2EZPA.jpg?auth=54b479aea5ca1161980bf082afc718599f35043aaf25c0f7daa5d1ad1c99e5b2&smart=true&width=2000&height=1333",
+      "snippet": "El profesional detrás de la dieta de los campeones del mundo explica cómo combina el rigor de la nutrición de elite con el factor emocional de los platos tradicionales; el rol clav",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T21:01:01.000Z"
+    },
+    {
+      "id": "244e07248b50",
+      "title": "Ministro Rabat entrega detalles del proyecto de Responsabilidad Parental: “El procedimiento no busca sancionar a los padres”",
+      "link": "https://www.latercera.com/politica/noticia/ministro-rabat-entrega-detalles-del-proyecto-de-responsabilidad-parental-ante-comision-de-la-camara/",
+      "image": "https://www.latercera.com/resizer/v2/4YRLWK3VW5HKHPR53AXFJKRLQU.jpg?auth=399007072db165992d55dfbbf4660cf182b500af74fd3e1bcc5916a94260b77a&smart=true&width=1280&height=854",
+      "snippet": "A modo general, los parlamentarios de la comisión de Familia de la Cámara destacaron y valoraron el carácter preventivo de la iniciativa, aunque surgieron algunas dudas, una de ell",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T21:00:23.000Z"
+    },
+    {
+      "id": "6fbbc51e181c",
+      "title": "Revés para el bolsonarismo: la Justicia le prohíbe a Flávio Bolsonaro visitar a su padre en prisión en plena campaña",
+      "link": "https://www.lanacion.com.ar/el-mundo/reves-para-el-bolsonarismo-la-justicia-le-prohibe-a-flavio-bolsonaro-visitar-a-su-padre-en-prision-nid13072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/BDHL6KQ5ZBESHNVVI7AS53J7HE.jpg?auth=a9ad81d763e4df788570c443d7f8e13bfb7e4a89a62337406ef90e0313936c60&smart=true&width=5472&height=3648",
+      "snippet": "El candidato había leído una carta del expresidente en redes sociales; el freno judicial llega en un momento de paridad en los sondeos con Luiz Inacio Lula da Silva",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T20:59:18.000Z"
     },
     {
       "id": "5ac992b09f58",
@@ -218,127 +608,19 @@
       "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:58:01.000Z"
+      "isoDate": "2026-07-13T20:59:03.000Z"
     },
     {
-      "id": "a55040b6711f",
-      "title": "Colesterol: los seis alimentos que ayudan a prevenirlo y en qué cantidades hay que consumirlos",
-      "link": "https://www.lanacion.com.ar/sociedad/colesterol-los-seis-alimentos-que-ayudan-a-prevenirlo-y-en-que-cantidades-hay-que-consumirlos-nid12072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/F2LP7Y7TTZC57EW6R2RDFHN3PI.png?auth=826a259ba92b29ab66790bdc62ca0a37e92000ea250fd188fdfb5b9cf66173d5&smart=true&width=619&height=396",
-      "snippet": "El cardiólogo Jorge Tartaglione visitó los estudios de LN+, donde además recomendó la ingesta de estatinas; cómo controlar los niveles y qué riesgos pueden reducirse con una dieta ",
+      "id": "6743129cf6e2",
+      "title": "Gabriel Rolón, psicólogo: “Ese momento donde lo que fuiste, lo que querés ser y lo que temés coexisten es irrepetible siempre”",
+      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-ese-momento-donde-lo-que-fuiste-lo-que-queres-ser-y-lo-que-temes-coexisten-nid12072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/EBB775GXJBEBPITJYQO7JBSQ6Q.jpg?auth=ccc94620f482f824c0f4c825418c45b3b2970894be28b7bdfcb7167e87376c74&smart=true&width=2000&height=1333",
+      "snippet": "El reconocido psicoanalista indagó en la construcción de la plenitud y de las situaciones en las que la persona construye en sí misma un espacio capaz de albergar algún tipo de fel",
       "source": "La Nación",
       "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:58:00.000Z"
-    },
-    {
-      "id": "237318d1a50d",
-      "title": "Un antojo que cruza fronteras: este es el restaurante que lleva el sabor chilango al AICM",
-      "link": "https://www.infobae.com/america/inhouse/2025/08/23/un-antojo-que-cruza-fronteras-este-es-el-restaurante-que-lleva-el-sabor-chilango-al-aicm/",
-      "image": "https://www.infobae.com/resizer/v2/KEPS4CSE4ND2FG675V2N6NRFCE.jpg?auth=d5c71734505b73007dab96e09f79ca324beb55e002e957ef886ae789462d28c5&smart=true&width=1920&height=1080",
-      "snippet": "Encontrar una comida auténtica y memorable en el Aeropuerto Internacional de la Ciudad de México ya no es solo una ilusión para los viajeros",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:57:54.000Z"
-    },
-    {
-      "id": "3ff9f4adafc2",
-      "title": "Tradición, creatividad y música en vivo: el congreso y festival que transformaron a Puebla en la capital gastronómica de América Latina",
-      "link": "https://www.infobae.com/america/inhouse/2025/09/25/tradicion-creatividad-y-musica-en-vivo-el-congreso-y-festival-que-transformaron-a-puebla-en-la-capital-gastronomica-de-america-latina/",
-      "image": "https://www.infobae.com/resizer/v2/3IOIW5RP2FBKTNTIMXWU44IIFU.jpg?auth=e601ce1faedef07144f7ce80392b19e17af0590d746110db5ed82c3a5a01c86e&smart=true&width=1920&height=1080",
-      "snippet": "Durante cuatro días, chefs, productores y jóvenes talentos compartieron experiencias y saberes en un ambiente de colaboración y celebración que proyectó nuevas alianzas para la reg",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:57:42.000Z"
-    },
-    {
-      "id": "7118f0f05d67",
-      "title": "Científicos registran por primera vez un episodio de expansión del fondo marino en el océano Índico",
-      "link": "https://www.infobae.com/america/ciencia-america/2026/07/13/cientificos-registran-por-primera-vez-un-episodio-de-expansion-del-fondo-marino-en-el-oceano-indico/",
-      "image": "https://www.infobae.com/resizer/v2/GBCM6AB6XFBJBDRF6Y3OTCYXDU.png?auth=c4a0b7cc1395f92160316c192b19283e08849374340c0f0c5f079b327a4226e0&smart=true&width=2752&height=1536",
-      "snippet": "Un equipo obtuvo datos inéditos gracias a instrumentos capaces de medir movimientos y actividad sísmica con precisión",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:56:56.000Z"
-    },
-    {
-      "id": "8e1f9126b9ec",
-      "title": "Conoce la ASUS ProArt P16, la laptop diseñada para estudiantes y profesionales de la creación audiovisual",
-      "link": "https://www.infobae.com/america/inhouse/2025/11/10/conoce-la-asus-proart-p16-la-laptop-disenada-para-estudiantes-y-profesionales-de-la-creacion-audiovisual/",
-      "image": "https://www.infobae.com/resizer/v2/KWRBGXCD5VH3JPOTHODQ4OGSTI.jpg?auth=b539077d1118d60d2a28f7b3ec51b64b2ed7f5ca8a5f9c46368e77b3d0a8332c&smart=true&width=1920&height=1080",
-      "snippet": "La combinación de portabilidad y herramientas inteligentes abre nuevas posibilidades para quienes buscan producir desde cualquier lugar, elevando la calidad de los contenidos audio",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:56:51.000Z"
-    },
-    {
-      "id": "38ed77474924",
-      "title": "El Congreso vuelve a suspender el debate del crédito suplementario y la gratificación CAS queda sin resolver por segunda vez",
-      "link": "https://www.infobae.com/peru/2026/07/13/el-congreso-vuelve-a-suspender-el-debate-del-credito-suplementario-y-la-gratificacion-cas-queda-sin-resolver-por-segunda-vez/",
-      "image": "https://www.infobae.com/resizer/v2/CDDGOZG24JGLHEUOLGBXSXZDEE.png?auth=f4fdfb1087dacd95ff1e0c306c45449916cd9a4b5ea51285b1ec7a1bd5701592&smart=true&width=2752&height=1536",
-      "snippet": "El pleno de la Comisión Permanente volverá a reunirse el martes 14 de julio al mediodía, luego de que no se completara la revisión de los pedidos de incorporación presentados el ju",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:56:19.000Z"
-    },
-    {
-      "id": "5358490c88f8",
-      "title": "¿Por qué las motos eléctricas conquistan Querétaro? Beneficios y modelos que ya puedes probar",
-      "link": "https://www.infobae.com/america/inhouse/2025/08/29/por-que-las-motos-electricas-conquistan-queretaro-beneficios-y-modelos-que-ya-puedes-probar/",
-      "image": "https://www.infobae.com/resizer/v2/NZ7X5PRSZNC6RCPKDY4266UODU.jpg?auth=f2f6ba2b9493aa9f81afbe886aeb0691b2848fed0558fbc3344b5fbac5415cc8&smart=true&width=1920&height=1080",
-      "snippet": "La circulación de motocicletas eléctricas va en aumento, beneficios ambientales, economía y nuevas tecnologías están cambiando la experiencia movilidad",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:56:19.000Z"
-    },
-    {
-      "id": "6632f74322ec",
-      "title": "Javier Milei y sus medidas, en vivo: se reactiva la agenda parlamentaria y empiezan a delimitarse las elecciones 2027",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-se-reactiva-la-agenda-parlamentaria-y-empiezan-a-delimitarse-las-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ES57WS2LKBARPCU3KYN4226UT4.JPG?auth=c5022842cac78d068a6baa8838667db28a23e2ceee151e2d968018aee256b203&smart=true&width=2000&height=1318",
-      "snippet": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:56:17.000Z"
-    },
-    {
-      "id": "8e2372674dbf",
-      "title": "Cómo la globalización está redefiniendo la confianza en los casinos en línea",
-      "link": "https://www.infobae.com/america/inhouse/2025/09/10/como-la-globalizacion-esta-redefiniendo-la-confianza-en-los-casinos-en-linea/",
-      "image": "https://www.infobae.com/resizer/v2/CXHCTKMFJRCAZDAJ2OROKI76GY.jpg?auth=acaad584bd429e9eada45e7cb1f24396746ef29daf3050d0eb417df5afc146df&smart=true&width=1456&height=816",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:56:01.000Z"
-    },
-    {
-      "id": "a2028c08f069",
-      "title": "Alerta para comunidades del Pacífico en Colombia: nivel del mar podría aumentar desproporcionadamente entre el 13 y el 21 de julio",
-      "link": "https://www.infobae.com/america/medio-ambiente/2026/07/13/alerta-para-comunidades-del-pacifico-en-colombia-nivel-del-mar-podria-aumentar-desproporcionadamente-entre-el-13-y-el-21-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/JFVF5QE255FD3MA5NOGDRC3AAU.jpg?auth=cf2a03980db546b0ab9ba36005a16531b233590fc5ffec354e1dd2e4c764679a&smart=true&width=1280&height=854",
-      "snippet": "Buenaventura, Tumaco y Bahía Solano registrarán un ascenso acelerado del nivel del mar, asociado a mareas altas y corrientes marinas intensas",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:55:52.000Z"
+      "isoDate": "2026-07-13T20:59:00.000Z"
     },
     {
       "id": "dde1b1e9546f",
@@ -353,112 +635,16 @@
       "isoDate": "2026-07-13T20:54:34.000Z"
     },
     {
-      "id": "628e35a5622a",
-      "title": "El dólar bajó por segundo día y borró toda la suba que acumulaba en julio",
-      "link": "https://www.infobae.com/economia/2026/07/13/el-dolar-bajo-por-segundo-dia-y-borro-toda-la-suba-que-acumulaba-en-julio/",
-      "image": "https://www.infobae.com/resizer/v2/WT6OJM54MRHUVH5HVLMWQ3OBC4.jpg?auth=dec0137ab528271067ad09941d0188ea4cffc8ffce7dde661e6549a84c434cfc&smart=true&width=1456&height=816",
-      "snippet": "El mayorista cedió a $1.482, el mismo precio del 30 de junio, y al público en el Banco Nación cedió a $1.505 para la venta",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:53:44.000Z"
-    },
-    {
-      "id": "01cd332590ba",
-      "title": "¿Qué está pasando en el Metro y Metrobús de la CDMX hoy 13 de julio? Se reporta retraso en línea 1 del Metrobús",
-      "link": "https://www.infobae.com/mexico/2026/07/13/que-esta-pasando-en-el-metro-y-metrobus-hoy-13-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/K2KJONNRCZA4ZJK52ERMCAER34.jpg?auth=8661f4d5f87617f4bcf2a3d516f38401ae53e0be70ad20b1a1eb334076cadc80&smart=true&width=1280&height=720",
-      "snippet": "Información y actualización del servicio de transporte público en la capital este lunes en vivo minuto a minuto",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:53:32.000Z"
-    },
-    {
-      "id": "edc2b9f71b29",
-      "title": "Vodanovic (PS) reafirma que recurrirán al Tribunal Constitucional por invariabilidad en megarreforma",
+      "id": "0a2c8e7a554b",
+      "title": "Vodanovic (PS) y aprobación de megarreforma en Comisión de Hacienda: “Hemos tratado de suavizar algunos de sus efectos”",
       "link": "https://www.latercera.com/politica/noticia/vodanovic-ps-reafirma-que-recurriran-al-tribunal-constitucional-por-invariabilidad-en-megarreforma/",
       "image": "https://www.latercera.com/resizer/v2/URFFVV7MNNCJHFMBZNHXJIKZVE.jpg?auth=8992e9b422870f216722e885a2ff0b63268d1c5960353b90496aa4fa3fb9d6ff&smart=true&width=1600&height=1066",
-      "snippet": "Además, la senadora también confirmó que irán al TC respecto de algunas otras normas medioambientales.",
+      "snippet": "La senadora confirmó que irán al TC respecto de algunas otras normas medioambientales y por invariabilidad.",
       "source": "La Tercera",
       "sourceId": "latercera",
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-13T20:53:29.000Z"
-    },
-    {
-      "id": "c47727295d3f",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy lunes 13 de julio: Onda tropical 18 al sur; zona de baja presión aumenta a 70% probabilidad de desarrollo ciclónico",
-      "link": "https://www.infobae.com/mexico/2026/07/13/en-vivo-clima-en-cdmx-y-resto-de-mexico-hoy-13-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/RV4UZ74TFZGMVPK5W7XCEVQMRQ.png?auth=b8309c31c2ddb0c58bd7f6004d64f5e7c0c0117cce98954cb455fd9ba4a506bf&smart=true&width=1536&height=1024",
-      "snippet": "Sigue en tiempo real las actualizaciones del pronóstico del clima en los distintos estados de la República Mexicana",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:53:25.000Z"
-    },
-    {
-      "id": "a61c6db87a71",
-      "title": "Meta recortó el 10% de su plantilla por la IA, pero 4 meses después su fundador admitió que la aceleración no llegó",
-      "link": "https://www.infobae.com/estados-unidos/2026/07/13/meta-recorto-el-10-de-su-plantilla-por-la-ia-pero-4-meses-despues-su-fundador-admitio-que-la-aceleracion-no-llego/",
-      "image": "https://www.infobae.com/resizer/v2/PGVEUVKPKZFBHAL6OX5DQ5PSXA.png?auth=6a4e14da41a083d4ada479a351ea3fb5fe40bfed3bec978a6e17c1daf96ce61f&smart=true&width=2752&height=1536",
-      "snippet": "Mark Zuckerberg reconoció que la reestructuración no generó los resultados esperados, mientras la compañía proyecta gastar USD 145.000 millones en infraestructura. El problema se e",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:53:24.000Z"
-    },
-    {
-      "id": "4bdfd290cee9",
-      "title": "Buscarán ser los mejores del mundo en sus oficios: quiénes son los cinco argentinos que competirán en Shanghái",
-      "link": "https://www.infobae.com/sociedad/2026/07/13/buscaran-ser-los-mejores-del-mundo-en-sus-oficios-quienes-son-los-cinco-argentinos-que-competiran-en-shanghai/",
-      "image": "https://www.infobae.com/resizer/v2/K2NMYYE3MREUTGIUXM3VBS4LEE.jpg?auth=198b311d08120d26c77f0a68412273e00418645682fb0eb941e9e8724ee6c764&smart=true&width=1920&height=1080",
-      "snippet": "Detrás de la clasificación hay historias de esfuerzo, formación y vocación. Dos de los integrantes de la delegación compartieron en Infobae a la Tarde el recorrido que los llevó a ",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:53:20.000Z"
-    },
-    {
-      "id": "9cf5ce134878",
-      "title": "Skanska: un juicio icónico en el que el propio gerente sueco le puso un número a la coima",
-      "link": "https://www.lanacion.com.ar/economia/skanska-un-juicio-iconico-en-el-que-el-propio-gerente-sueco-le-puso-un-numero-a-la-coima-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/KB4YFC7CTZFT7EY7JX6VUCZTLI.jpg?auth=ff727b64c00491c381bba10f2e3eb6a18ffa47f0b64b36bda15c0c035ae4d21d&smart=true&width=2000&height=1333",
-      "snippet": "Fue el primer gran escándalo de corrupción del kirchnerismo; más allá de la condena, el expediente entregó un mapa de cómo funcionó el negocio de la obra pública en la Argentina",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:52:29.000Z"
-    },
-    {
-      "id": "f893124a0acc",
-      "title": "Hallan muerto a Rob Dieperink, el árbitro que quedó fuera del Mundial tras una denuncia desestimada",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/hallan-muerto-a-rob-dieperink-el-arbitro-que-quedo-fuera-del-mundial-2026-tras-una-denuncia-desestimada-de-abuso-sexual-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/P4RM7YQ5AZCTREOFD7RV2GD7FE.jpg?auth=6b34425af680fa713d2ecc7c29325153f8cfb213888eaa83300d8fa3e87d16c0&smart=true&width=1200&height=800",
-      "snippet": "Rob Dieperink, árbitro neerlandés excluido del Mundial 2026 tras una denuncia posteriormente desestimada, fue hallado muerto. Las autoridades investigan el caso.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T20:52:12.000Z"
-    },
-    {
-      "id": "3309a106293b",
-      "title": "Luciano Spena, nutricionista de la selección argentina: “Hay que gestionar cuándo comer mal, necesitan esa felicidad”",
-      "link": "https://www.lanacion.com.ar/deportes/luciano-spena-nutricionista-de-la-seleccion-argentina-hay-que-gestionar-cuando-comer-mal-necesitan-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/JIIDRKECKVAK5O3Q6LC2L2EZPA.jpg?auth=54b479aea5ca1161980bf082afc718599f35043aaf25c0f7daa5d1ad1c99e5b2&smart=true&width=2000&height=1333",
-      "snippet": "El profesional detrás de la dieta de los campeones del mundo explica cómo combina el rigor de la nutrición de elite con el factor emocional de los platos tradicionales; el rol clav",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:51:45.000Z"
     },
     {
       "id": "5481c3caec32",
@@ -473,54 +659,6 @@
       "isoDate": "2026-07-13T20:50:35.000Z"
     },
     {
-      "id": "4674aa0eee57",
-      "title": "Polémica ley en Japón que propone impedir que las mujeres accedan al trono",
-      "link": "https://www.lanacion.com.ar/el-mundo/la-polemica-ley-en-japon-que-propone-impedir-que-las-mujeres-accedan-al-trono-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/VI4KQBRWWZDKRNVCQRRVPGROKI.png?auth=6df527a91cab07c48580c07efd44633ddbf79d86a29a4f9d795c21b367f1f5f2&smart=true&width=2000&height=1333",
-      "snippet": "La Cámara Baja del Parlamento nipón dio luz verde a una modificación en la Ley Imperial para blindar cualquier intención de que una princesa se convierta en reina de la dinastía má",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:50:17.000Z"
-    },
-    {
-      "id": "cc6069e87ba7",
-      "title": "Temblor en Venezuela hoy, lunes 13 de julio: epicentro, magnitud y hora",
-      "link": "https://elcomercio.pe/respuestas/venezuela/temblor-hoy-en-venezuela-en-vivo-intensidad-epicentro-y-magnitud-del-ultima-sismo-reportado-el-13-y-14-de-julio-de-2026-segun-el-funvisis-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/ZN3VXICMWZFDZL3SYPNPMB5S2Y.png?auth=81cf774ff2c62880c5c6f46710c758650404a92ad9828d7f9e621b849b697b34&smart=true&width=1200&height=700",
-      "snippet": "Temblor en Venezuela HOY EN VIVO: último sismo de julio, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (Funvisis).",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T20:48:55.000Z"
-    },
-    {
-      "id": "1e5fc0bb096f",
-      "title": "Condenas de hasta siete años de prisión en el primer juicio por la “mafia de los contenedores”",
-      "link": "https://www.lanacion.com.ar/politica/condenas-de-hasta-7-anos-de-prision-en-el-primer-juicio-por-la-mafia-de-los-contenedores-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/W7GBSCZQXJF3JBJ4JYDQSDBZFA.jpg?auth=d95455c6b25e0f440dc0cc58422bea6021e48d98b5f89e439fc73b27db3709cf&smart=true&width=2000&height=1333",
-      "snippet": "Hay 12 personas que fueron sentenciadas; traían ropa de China y la declaraban como carbonato de calcio",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:48:47.000Z"
-    },
-    {
-      "id": "a0bad075dae3",
-      "title": "Cuándo se juegan los próximos partidos del Mundial 2026 en EE.UU.",
-      "link": "https://www.lanacion.com.ar/estados-unidos/que-partidos-se-juegan-en-eeuu-hoy-domingo-12-de-julio-por-el-mundial-2026-nid12072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/X6H44BRHQBGABG74MLKUKNZXQ4.jpg?auth=29ea15b7cae9224e563aabf976cacecb5aacbbae4fb40efcd18657142e0b2344&smart=true&width=2000&height=1333",
-      "snippet": "Consulta qué partidos y cuándo se juegan en EE.UU. por el Mundial 2026 y por qué el domingo 12 de julio no habrá actividad oficial tras cuartos.",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:48:08.000Z"
-    },
-    {
       "id": "f73aeddc5772",
       "title": "Puede causar muerte súbita cardiaca: ISP alerta por producto conocido como “Royal Honey” o “miel afrodisiaca”",
       "link": "https://www.latercera.com/nacional/noticia/puede-causar-muerte-subita-cardiaca-isp-alerta-por-productos-conocidos-como-royal-honey-o-miel-afrodisiaca/",
@@ -533,112 +671,16 @@
       "isoDate": "2026-07-13T20:46:58.000Z"
     },
     {
-      "id": "b5a2c5a2501c",
-      "title": "“Pelotorta”, cantitos y una estampita muy especial: así celebró Mirtha Legrand el triunfo de la Selección",
-      "link": "https://www.lanacion.com.ar/espectaculos/personajes/pelotorta-cantitos-y-una-estampita-muy-especial-asi-celebro-mirtha-legrand-el-triunfo-de-la-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/INUVYE2BI5BUBASI2BL54JJXHQ.jpg?auth=2dcbd702945d4ef9b5984b75e1779585b9e928055723c57e7342abf7c87e9cf9&smart=true&width=1220&height=983",
-      "snippet": "Como cada semana, la conductora reunió a su círculo más íntimo para su clásica merienda dominical en su casa de Barrio Parque; en esta oportunidad, la velada se tiño de celeste y b",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:46:52.000Z"
-    },
-    {
-      "id": "92961e6eb77b",
-      "title": "Aportó más de US$1600 millones: pronostican que seguirá el auge de un cultivo que es sensación en el país y el mundo",
-      "link": "https://www.lanacion.com.ar/economia/campo/aporto-mas-de-us1600-millones-pronostican-que-seguira-el-auge-de-un-cultivo-que-es-sensacion-en-el-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/BOEB7GUVKBBONDQQ57NIJCZPLU.jpg?auth=a0df9e8fbe1854ef1a3f88b243ca012dc679d728db1c728754871ec579f4f7ea&smart=true&width=1080&height=810",
-      "snippet": "El complejo girasol registró durante el período enero-mayo de 2026 una suba interanual del 126,1%",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:46:39.000Z"
-    },
-    {
-      "id": "802fa7e94d65",
-      "title": "El Banco Central hizo hoy la mayor compra de dólares de los últimos 45 días",
-      "link": "https://www.lanacion.com.ar/economia/el-banco-central-hizo-hoy-la-mayor-compra-de-dolares-de-los-ultimos-45-dias-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/IIWTPFNGIJGMTJBBVHRFDER4ZQ.JPG?auth=5495d4f1740324982c8fef813d088207a1cc563d27a5bc0f0804f75bb1619c78&smart=true&width=2000&height=1333",
-      "snippet": "Sumó US$280 millones; se quedó con US$56 de cada US$100 negociados, aprovechando la baja del billete",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:46:16.000Z"
-    },
-    {
-      "id": "4bd2adaea795",
-      "title": "Mercados: subió el petróleo y cayeron los activos argentinos tras una nueva escalada en Medio Oriente",
-      "link": "https://www.lanacion.com.ar/economia/dolar/mercados-sube-el-petroleo-y-caen-los-activos-argentinos-tras-una-nueva-escalada-en-medio-oriente-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EJQCI2D4RVGHTFPYORKRQLWU7M.JPG?auth=e6abaa6d003fc6c1d893dc18c2f4e27340dfcfc795ed42ed1836fe951d941ee9&smart=true&width=6000&height=4000",
-      "snippet": "La tensión entre Estados Unidos e Irán impulsó el precio del crudo; el riesgo país subió ligeramente, mientras que los bonos y acciones operaron en terreno negativo",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:46:04.000Z"
-    },
-    {
-      "id": "7b7d5d6a507f",
-      "title": "Temblor en México hoy, lunes 13 de julio: epicentro del último sismo",
-      "link": "https://elcomercio.pe/respuestas/mexico/temblor-hoy-en-mexico-en-vivo-intensidad-epicentro-y-magnitud-del-ultima-sismo-reportado-el-13-y-14-de-julio-de-2026-segun-el-ssn-servicio-sismologico-nacional-mexico-cdmx-mx-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/FC2QOJZ7V5EA3EA7G4DKB2UV2A.png?auth=81e92e7236e48a7e714ead91a434a7210bb8e51ea479c167929ffb53d619d03b&smart=true&width=1200&height=700",
-      "snippet": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-13T20:45:57.000Z"
-    },
-    {
-      "id": "daac8c1024fc",
-      "title": "Una provincia impulsa una ley para permitir la venta formal de carne de jabalí, una especie que llegó a una zona muy turística",
-      "link": "https://www.lanacion.com.ar/economia/campo/una-provincia-impulsa-una-ley-para-permitir-la-venta-formal-de-carne-de-jabali-una-especie-que-llego-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/XEZSMRGTIVFC5JLRLXQPYR7D5M.png?auth=8c19b84e0bfe0133f71848fed658e4f3e23d85dad25f89f211f4de3a63b55b85&smart=true&width=2000&height=1333",
-      "snippet": "Se trata de una iniciativa de Río Negro que también incluye el ciervo",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:45:56.000Z"
-    },
-    {
-      "id": "27abc41b4a5a",
-      "title": "Mundial 2026, en vivo: Francia y España se preparan para abrir los cruces de semifinales",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/mundial-2026-en-vivo-francia-y-espana-se-preparan-para-abrir-los-cruces-de-semifinales-nid13072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/PEO4EAU44FHI3MFWBI626ZLEAI.jpg?auth=c9762762dd4fdc34708e26fb881161b075170625043111024fcc05a4eb44d2f8&smart=true&width=2000&height=1333",
-      "snippet": "Las últimas noticias de la selección argentina, declaraciones de los jugadores y entrenadores y reacciones sobre los partidos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T20:45:00.000Z"
-    },
-    {
-      "id": "38f91e3df65c",
-      "title": "Se pararon los relojes en una miurada que no se comió a nadie",
-      "link": "https://www.abc.es/cultura/toros/miura-pamplona-20260713222952-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/13/manuel7-R4mrZWSkXy6aOmFDQISYy2M-1200x840@diario_abc.jpg",
-      "snippet": "Imponía la corrida de Miura en los Corrales del Gas. Tremenda su fachada, con alguna mirada que atemorizaba por su viva expresión. Largo su cuello, que estiraban como si quisieran ",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-13T20:42:38.000Z"
-    },
-    {
-      "id": "5184350fc645",
-      "title": "Il Cileno: el filme que junta al director de Mil Pedazos y los productores de Denominación de Origen",
-      "link": "https://www.latercera.com/culto/noticia/il-cileno-el-filme-que-junta-al-director-de-mil-pedazos-y-los-productores-de-denominacion-de-origen/",
-      "image": "https://www.latercera.com/resizer/v2/4NRDMSWSMJFTBMO32425KED6FQ.jpg?auth=5612079a63d7d2f3bf21f7f91c9c389be974453f6530afa0afebca8526a5acac&smart=true&width=1400&height=933",
-      "snippet": "La 79° edición del Festival de Locarno acogerá el estreno mundial del nuevo largometraje de Sergio Castro San Martín. Basada en hechos reales, la cinta sigue a un militante chileno",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:42:29.000Z"
+      "id": "a8cd2d83a817",
+      "title": "Marcas de street style también aprovecharon el Mundial 2026 para impulsar ventas",
+      "link": "https://expansion.mx/empresas/2026/07/13/panam-new-era-marcas-colecciones-mundial-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/82aa3af/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F19%2F2b%2F34a93bc447bba2e6e8d512caf5b4%2Fpanam-coleccion-mundial.jpeg",
+      "snippet": "Estas marcas encontraron un espacio en el street style y en la moda casual, ofreciendo productos con precios más accesibles y diseños orientados al uso cotidiano.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T20:46:11.000Z"
     },
     {
       "id": "0e66f1653ffe",
@@ -653,16 +695,16 @@
       "isoDate": "2026-07-13T20:41:42.000Z"
     },
     {
-      "id": "e2cb8fd6407e",
-      "title": "Country Road Sessions: la energía musical de Nashville aterriza otra vez en Chile",
-      "link": "https://www.latercera.com/culto/noticia/country-road-sessions-la-energia-musical-de-nashville-aterriza-otra-vez-en-chile/",
-      "image": "https://www.latercera.com/resizer/v2/IB364O3DJBGM7ALRJH5QATQY24.jpg?auth=e650dbdcbb28b3b71eda2172f7d5caf0dfb570613f526897ef8b1506aa6df9a3&smart=true&width=7928&height=5288",
-      "snippet": "El evento ya se realizó con éxito en enero pasado y -a través de destacados músicos- intenta tejer un puente entre Nashville, la capital mundial del country, y Chile.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:41:16.000Z"
+      "id": "ed9562e82491",
+      "title": "Harry Kane calentó la previa de Inglaterra vs. Argentina por el Mundial 2026: \"Será un partido muy especial\"",
+      "link": "https://www.clarin.com/deportes/harry-kane-calento-previa-inglaterra-vs-argentina-mundial-2026-partido-especial_0_SBAMtyYvI3.html",
+      "image": "https://www.clarin.com/img/2026/07/13/nd8nHf8KQ_1200x630__1.jpg",
+      "snippet": "El capitán inglés palpitó la semifinal contra la Selección Nacional. Juegan este miércoles a las 16 en el Mercedes-Benz Stadium de Atlanta.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T20:39:33.000Z"
     },
     {
       "id": "68d408081fd6",
@@ -677,6 +719,18 @@
       "isoDate": "2026-07-13T20:36:07.000Z"
     },
     {
+      "id": "70e1d60bb6de",
+      "title": "El dólar bajó cinco pesos y el Banco Central compró US$ 280 millones en un día",
+      "link": "https://www.clarin.com/economia/dolar-pesos-banco-central-compro-us-280-millones-dia_0_0wP8Zwvajr.html",
+      "image": "https://www.clarin.com/img/2022/11/17/zUt4WS9Cm_1200x630__1.jpg",
+      "snippet": "El monto prácticamente iguala lo que la autoridad monetaria se había llevado en las seis primeras ruedas del mes. El tipo de cambio minorista cerró en $ 1.405.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T20:34:28.000Z"
+    },
+    {
       "id": "19085bb7f010",
       "title": "Comisión de Hacienda despacha a la sala del Senado la megarreforma: invariabilidad tributaria por tramos y tasa corporativa en 23%",
       "link": "https://www.latercera.com/pulso/noticia/comision-de-hacienda-del-senado-despacha-a-la-sala-la-megarreforma/",
@@ -687,6 +741,18 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-13T20:32:25.000Z"
+    },
+    {
+      "id": "2a917f3367b3",
+      "title": "Salvador Dalí dejó una frase sobre la locura que todavía define su genio: “La única diferencia entre un loco y yo...”",
+      "link": "https://www.clarin.com/internacional/salvador-dali-dejo-frase-locura-todavia-define-genio-unica-diferencia-loco_0_1V7BNwIpQR.html",
+      "image": "https://www.clarin.com/img/2026/07/03/z1LPgwLVfZ_1200x630__1.jpg",
+      "snippet": "El pintor convirtió la provocación en una parte inseparable de su obra y su figura. Una cita breve condensa la frontera que trazó entre el delirio y la creación.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T20:30:03.000Z"
     },
     {
       "id": "59ea7d9d17b1",
@@ -701,28 +767,16 @@
       "isoDate": "2026-07-13T20:21:34.000Z"
     },
     {
-      "id": "1f98e3f80710",
-      "title": "En gira en Medio Oriente por la ONU: Bachelet hace gesto por rol mediador de Pakistán en guerra entre Irán e Israel",
-      "link": "https://www.latercera.com/politica/noticia/en-gira-en-medio-oriente-por-la-onu-bachelet-hace-gesto-por-rol-mediador-de-pakistan-en-guerra-entre-iran-e-israel/",
-      "image": "https://www.latercera.com/resizer/v2/CQYYMW3X5JGXDDVJ3ODBRG6RWQ.jpg?auth=32e5ee1c466a423bfb881da09d9a23402d35a9d378754c6b65fb4385b8e55661&smart=true&width=3500&height=2333",
-      "snippet": "La exmandataria, en su intención de convertirse en la favorita en la carrera por la Secretaría General, continúa con acercamientos a las 15 naciones del Consejo de Seguridad del or",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:20:47.000Z"
-    },
-    {
-      "id": "a9941a896547",
-      "title": "Las familias perfectas y otras criaturas mitológicas: un relato de Irene Vallejo",
-      "link": "https://www.latercera.com/culto/noticia/las-familias-perfectas-y-otras-criaturas-mitologicas-un-relato-de-irene-vallejo/",
-      "image": "https://www.latercera.com/resizer/v2/KBLPGYGRU5A2NPEICDB2OMOGMA.jpeg?auth=6118e98f12dd34fb2acba6947dab97b15236ebabba114d42ae5f5fdecec5dfc8&smart=true&width=1267&height=845",
-      "snippet": "Educar –como crecer– significa tomar decisiones, equivocarse casi siempre, acertar a veces.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:20:21.000Z"
+      "id": "b9e59c442e0f",
+      "title": "Los servicios diferenciales del San Martín y Sarmiento ahora paran en estaciones del Oeste",
+      "link": "https://www.clarin.com/zonales/servicios-diferenciales-san-martin-sarmiento-ahora-paran-estaciones-oeste_0_0DuWL9kKmH.html",
+      "image": "https://www.clarin.com/img/2026/07/03/papm4Q6Me_1200x630__1.jpg",
+      "snippet": "Trenes Argentinos habilitó las estaciones de Sáenz Peña y José C. Paz del servicio Retiro-Junín. Y las de Morón y Moreno para el trayecto que hace Once-Bragado. Aunque el boleto es",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T20:19:47.000Z"
     },
     {
       "id": "544b9f999416",
@@ -737,28 +791,28 @@
       "isoDate": "2026-07-13T20:19:40.000Z"
     },
     {
-      "id": "d9adf1e5dc6e",
-      "title": "Contraloría detecta irregularidades en gestión de la Usach en liceos a su cargo y formulará reparos",
-      "link": "https://www.latercera.com/nacional/noticia/contraloria-detecta-irregularidades-en-gestion-de-la-usach-en-liceos-a-su-cargo-y-formulara-reparos/",
-      "image": "https://www.latercera.com/resizer/v2/2KSHMJYCHFEMTGZNDR5GH5JDYI.jpg?auth=0a80dde86f04f20ea1ffc6411902454d45d8968c5ccfc0fe6988da6a04eef479&smart=true&width=1168&height=751",
-      "snippet": "Dentro de las situaciones identificadas existen conflictos de interés, pagos sin respaldo, gastos ajenos al funcionamiento de los establecimientos y la existencia de una especialid",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:18:47.000Z"
+      "id": "6166ee3153d6",
+      "title": "Crece la preocupación por la presencia de perros cazadores en campos del norte bonaerense y piden intervención de la Provincia",
+      "link": "https://www.clarin.com/rural/crece-preocupacion-presencia-perros-cazadores-campos-norte-bonaerense-piden-intervencion-provincia_0_Nxi8XGf9gY.html",
+      "image": "https://www.clarin.com/img/2026/07/13/gCFLdbdSN_1200x630__1.jpg",
+      "snippet": "La irrupción de grupos de cazadores que ingresan ilegalmente a los campos con jaurías de galgos preocupa a los productores. Afirman que hay maltrato animal, además de violación de ",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-13T20:17:48.000Z"
     },
     {
-      "id": "2e2e287812b6",
-      "title": "Carabineros abre nuevas ofertas de trabajo para civiles con sueldos de hasta $1,8 millones",
-      "link": "https://www.latercera.com/servicios/noticia/carabineros-abre-nuevas-ofertas-de-trabajo-para-civiles-con-sueldos-de-hasta-18-millones/",
-      "image": "https://www.latercera.com/resizer/v2/6PWOOARZ6JDBFAWYI2YEXPH6IQ.jpg?auth=153e7f2819e88a204b49544d456482683cb37063109a20dfe4aca4a615d8628a&smart=true&width=1200&height=800",
-      "snippet": "La institución mantiene habilitado el proceso con el que se busca cubrir vacantes en diversas áreas. Revisa a continuación los puestos disponibles y cómo postular.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:16:27.000Z"
+      "id": "4008f1e473db",
+      "title": "EE.UU. estrecha el cerco sobre Cuba con sanciones al Ministerio de Turismo y a 9 empresas estatales",
+      "link": "http://es.euronews.com/2026/07/13/eeuu-estrecha-el-cerco-sobre-cuba-con-sanciones-al-turismo-y-a-9-empresas-estatales",
+      "image": null,
+      "snippet": "El Departamento de Estado incluye en su lista de sanciones al Ministerio de Turismo y a 9 entidades estatales vinculadas al comercio exterior, el combustible, los servicios y los m",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T20:14:31.000Z"
     },
     {
       "id": "695b1327a10d",
@@ -807,18 +861,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-13T20:12:00.000Z"
-    },
-    {
-      "id": "766d3fc868cb",
-      "title": "Kast cancela gira a Tarapacá para enfocarse en la respuesta del gobierno ante pronósticos de lluvias y vientos en el país",
-      "link": "https://www.latercera.com/politica/noticia/kast-cancela-gira-a-tarapaca-para-enfocarse-en-la-respuesta-del-gobierno-ante-pronosticos-de-lluvias-y-vientos-en-el-pais/",
-      "image": "https://www.latercera.com/resizer/v2/T25GDAOC6FHOTCXALTLRV2FA6A.jpg?auth=eb2ef3a411336291717ffc01cc7baf1822e07cff20cb27b6a51c32cbe1e62541&smart=true&width=1280&height=854",
-      "snippet": "El itinerario contemplaba una visita a Colchane y su participación en la festividad de La Tirana.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T20:11:58.000Z"
     },
     {
       "id": "5339e153b1f2",
@@ -929,6 +971,30 @@
       "isoDate": "2026-07-13T19:59:50.000Z"
     },
     {
+      "id": "e6a8d12dd22b",
+      "title": "Amparo mantiene detenido el avance de la terminal de licuefacción Amigo GNL",
+      "link": "https://expansion.mx/empresas/2026/07/13/amparo-frena-avance-amigo-gnl-sonora",
+      "image": "https://cdn-3.expansion.mx/dims4/default/25a98dc/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7a%2Fb9%2Fe24089614bc89c24b7b9a83fd7c5%2F7-petroleo-gettyimages-2267056715.jpeg",
+      "snippet": "La suspensión definitiva otorgada dentro de un juicio de amparo impide, en tanto no exista una resolución de fondo, que el proyecto avance en su construcción.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T19:58:44.000Z"
+    },
+    {
+      "id": "1078cfe8ce90",
+      "title": "Los hutíes atacan un aeropuerto de Arabia Saudí tras los bombardeos sobre Saná",
+      "link": "http://es.euronews.com/2026/07/13/los-huties-atacan-un-aeropuerto-de-arabia-saudi-tras-los-bombardeos-sobre-sana",
+      "image": null,
+      "snippet": "Los rebeldes hutíes lanzaron misiles y drones contra el aeropuerto saudí de Abha en represalia por los bombardeos sobre el aeropuerto de Saná. La ONU alerta del riesgo de una nueva",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T19:53:40.000Z"
+    },
+    {
       "id": "8c3f95a99e87",
       "title": "¿No hay RIGI para las pymes?",
       "link": "https://www.clarin.com/opinion/rigi-pymes_0_9fPnyicwbm.html",
@@ -941,8 +1007,8 @@
       "isoDate": "2026-07-13T19:52:53.000Z"
     },
     {
-      "id": "5420b0e5676a",
-      "title": "Tas subir más de un 5% la semana pasada, la soja continuó con su carrera alcista en Chicago",
+      "id": "c4af837a73db",
+      "title": "Tas subir más de un 5% en una semana, la soja continuó con su carrera alcista en Chicago",
       "link": "https://www.clarin.com/rural/tas-subir-5-semana-pasada-soja-continuo-carrera-alcista-chicago_0_2X65oyQcSU.html",
       "image": "https://www.clarin.com/img/2025/03/06/bRLswpm2U_1200x630__1.jpg",
       "snippet": "Nuevas compras de mercadería estadounidense por parte de China impulsaron los precios, junto a malas condiciones climáticas en Norteamérica y la suba del aceite por la guerra en Me",
@@ -963,42 +1029,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-13T19:51:00.000Z"
-    },
-    {
-      "id": "9a35cc97f1c2",
-      "title": "Julio De Vido sumó su quinta condena por corrupción: de cuánto podría ser la pena total de prisión",
-      "link": "https://www.clarin.com/politica/julio-vido-sumo-quinta-condena-corrupcion-podria-pena-total-prision_0_8WKi5ADCWB.html",
-      "image": "https://www.clarin.com/img/2025/12/29/kTp1rZuVA_1200x630__1.jpg",
-      "snippet": "Recibió este lunes cinco años de prisión por el caso Skanska. Se suma a otras condenas de cuatro y tres años por corrupción durante el kirchnerismo. Solo tiene firme la de la trage",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T19:50:51.000Z"
-    },
-    {
-      "id": "b549ba2b924d",
-      "title": "Blindaje internacional para la apertura económica",
-      "link": "https://www.clarin.com/opinion/blindaje-internacional-apertura-economica_0_bhrjDargLI.html",
-      "image": "https://www.clarin.com/img/2026/03/21/KSualk2k5_1200x630__1.jpg",
-      "snippet": "¿Quién construye una fábrica o invierte en una explotación minera si imagina que las condiciones pueden cambiar en el próximo ciclo electoral?",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T19:50:23.000Z"
-    },
-    {
-      "id": "3e9898d2a8b6",
-      "title": "La ficción de la OTAN y las angustias europeas",
-      "link": "https://www.clarin.com/opinion/ficcion-otan-angustias-europeas_0_Dz8i102e61.html",
-      "image": "https://www.clarin.com/img/2025/10/01/ce5Xv-7KO_1200x630__1.jpg",
-      "snippet": "Toda comunidad política descansa sobre imágenes compartidas que orientan la acción de sus miembros y delimitan el campo de lo políticamente pensable.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T19:47:36.000Z"
     },
     {
       "id": "4096800a91e0",
@@ -1023,18 +1053,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-13T19:46:28.000Z"
-    },
-    {
-      "id": "5aa8bf165854",
-      "title": "Franco Armani se despidió entre lágrimas de River: \"Jamás imaginé esta historia tan hermosa\"",
-      "link": "https://www.clarin.com/deportes/franco-armani-despidio-lagrimas-river-jamas-imagine-historia-hermosa_0_xNE3pLOmml.html",
-      "image": "https://www.clarin.com/img/2026/07/13/KlirIHbof_1200x630__1.jpg",
-      "snippet": "El Pulpo anunció oficialmente que se despide del club.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T19:45:18.000Z"
     },
     {
       "id": "a75eeae1569d",
@@ -1121,16 +1139,16 @@
       "isoDate": "2026-07-13T19:34:19.000Z"
     },
     {
-      "id": "f779d579f421",
-      "title": "Doce estados buscan bloquear la compra de Warner Bros. Discovery por parte de Paramount por presuntas prácticas antimonopolio",
-      "link": "https://www.clarin.com/estados-unidos/doce-estados-buscan-bloquear-compra-warner-bros-discovery-parte-paramount-presuntas-practicas-antimonopolio_0_MYoCldfQKO.html",
-      "image": "https://www.clarin.com/img/2026/07/13/Hni0ObtVa_1200x630__1.jpg",
-      "snippet": "Las empresas rechazan las acusaciones y aseguran que la fusión fortalecerá su posición frente a las plataformas de streaming.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-13T19:33:22.000Z"
+      "id": "c19df3d8b016",
+      "title": "Nuevo hallazgo arqueológico en Egipto: una tumba de 3.000 años arroja luz sobre la época faraónica",
+      "link": "http://es.euronews.com/cultura/2026/07/13/hallazgo-arqueologico-egipto-tumba-3000-anos-epoca-faraonica",
+      "image": null,
+      "snippet": "Las inscripciones con el nombre de Basar lo representan realizando rituales de culto a varias divinidades y sentado junto a su esposa ante una mesa de ofrendas, en escenas que ilus",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T19:30:43.000Z"
     },
     {
       "id": "0bde6b8149c4",
@@ -1143,6 +1161,54 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-07-13T19:30:18.000Z"
+    },
+    {
+      "id": "037ae6854d4e",
+      "title": "Termómetro económico: cómo reaccionó el mercado peruano al ruido electoral del 2021 y 2026, ¿qué pasará el resto del año?",
+      "link": "https://elcomercio.pe/ecdata/termometro-economico-como-reacciono-el-mercado-peruano-al-ruido-electoral-del-2021-y-2026-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/F3F2RWZJ55GNLLG2PDJT46GFA4.png?auth=23be1bf318273c46add8199199c101b87f2de5106c15abef7c1849ee904b454f&smart=true&width=1920&height=1080",
+      "snippet": "A diferencia de la histórica fuga de capitales que vivió el país en la segunda vuelta electoral del 2021, el balotaje del 2026 impactó en menor medida sobre los indicadores financi",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T19:28:52.000Z"
+    },
+    {
+      "id": "fef6cbcc820d",
+      "title": "Crédito suplementario en espera: proyecto del Ejecutivo ahora se debatirá este lunes 13, ¿qué plantearon incluir los congresistas?",
+      "link": "https://elcomercio.pe/economia/credito-suplementario-en-espera-proyecto-del-ejecutivo-entra-a-cuarto-intermedio-en-la-comision-permanente-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/PQIWCD56MNG7ZM7XYUVM4NTXPY.jpg?auth=f8d57db097e3571391fd340a132fc30e73fa03ce3568679a7055d89f4aaba928&smart=true&width=1200&height=800",
+      "snippet": "El proyecto de ley se volvería a debatir a las 9 p.m. en el Congreso. Parlamentarios plantearon la inclusión de obras a la iniciativa del Ejecutivo.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T19:28:21.000Z"
+    },
+    {
+      "id": "e354996dc559",
+      "title": "María Julia Aybar, de Hunt Oil: “Hemos firmado un acuerdo de entendimiento con Venezuela para evaluar posibilidades de desarrollo en petróleo”",
+      "link": "https://elcomercio.pe/economia/peru/venezuela-maria-julia-aybar-hemos-firmado-un-acuerdo-de-entendimiento-con-venezuela-para-evaluar-posibilidades-de-desarrollo-en-petroleo-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/Z3KMXOLBL5A77IZDK2MFRGXFGA.jpg?auth=1796d5ecc84f48d47e30bb0b010d2f39ce292eda7efb1174016c722896b3131d&smart=true&width=1067&height=1600",
+      "snippet": "Hunt Oil expande sus operaciones al país llanero, pero sigue comprometida con la inversión gasífera en el Perú, manifiesta la country manager de la petrolera estadounidense en nues",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-13T19:27:40.000Z"
+    },
+    {
+      "id": "4471306d7eef",
+      "title": "La mayoría de la UE apoya vetar las importaciones de los asentamientos israelíes",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/la-prohibicion-total-del-comercio-con-asentamientos-israelies-logra-mas-apoyo-en-la-ue",
+      "image": null,
+      "snippet": "La mayoría de los ministros de Exteriores de la UE respaldó avanzar hacia un veto comercial a los asentamientos israelíes y defendió que las nuevas restricciones puedan aprobarse p",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T19:27:10.000Z"
     },
     {
       "id": "b3f6a6bcb6ef",
@@ -1169,6 +1235,18 @@
       "isoDate": "2026-07-13T19:21:34.000Z"
     },
     {
+      "id": "7decba175bef",
+      "title": "Hijo de Héctor Llaitul deberá cumplir casi 16 años de cárcel como responsable de dos ataques incendiarios en La Araucanía",
+      "link": "https://www.latercera.com/nacional/noticia/hijo-de-hector-llaitul-debera-cumplir-casi-16-anos-de-carcel-como-responsable-de-dos-ataques-incendiarios-en-la-araucania/",
+      "image": "https://www.latercera.com/resizer/v2/UNO7QCHMLRBN7FKAGRBYFAVY2Y.jpg?auth=87954a34259050839c2746f180a9317e14b439ca3aa3d61b7b451de5612df4d8&smart=true&width=900&height=600",
+      "snippet": "Pelantaro Llaitul Pezoa y otros cuatro integrantes de la CAM fueron condenados como autores de los delitos consumados de incendio reiterado, hurto en concurso con secuestro simple ",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-13T19:20:16.000Z"
+    },
+    {
       "id": "cb01817c2b94",
       "title": "El Niño trae un fuerte impacto económico en América Latina",
       "link": "https://www.elnacional.com/2026/07/el-nino-trae-un-fuerte-impacto-economico-en-america-latina/",
@@ -1191,6 +1269,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-13T19:17:50.000Z"
+    },
+    {
+      "id": "95ca41514669",
+      "title": "Waze aprovechará la IA para llevarte a la gasolinera más barata",
+      "link": "https://expansion.mx/tecnologia/2026/07/13/waze-ia-gasolinera-mas-barata",
+      "image": "https://cdn-3.expansion.mx/dims4/default/731f0ea/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F39%2Ff8%2F4af050594033b8a51622e04499c7%2Fwaze-ia-gasolineras-baratas.jpg",
+      "snippet": "La plataforma de navegación está implementando nuevas funciones y además de encontrar la mejor gasolinera cerca de ti, también aporta mejores rutas para trayectos en motocicleta.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T19:15:10.000Z"
     },
     {
       "id": "e41a578dd9ae",
@@ -1217,6 +1307,18 @@
       "isoDate": "2026-07-13T19:11:33.000Z"
     },
     {
+      "id": "76a418700b9a",
+      "title": "Reino Unido se suma al préstamo de 90.000 millones euros de la UE para Ucrania con un aporte \"justo\"",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/reino-unido-se-suma-al-prestamo-de-90000-millones-euros-de-la-ue-para-ucrania-con-un-aport",
+      "image": null,
+      "snippet": "Londres participará en el préstamo extraordinario de la UE para cubrir las necesidades financieras y militares de Ucrania en 2026 y 2027. El acuerdo permitirá además a Kiev adquiri",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T19:11:03.000Z"
+    },
+    {
       "id": "384338454368",
       "title": "El miedo continúa: sobrevivientes del terremoto aún temen volver a sus hogares en Caracas",
       "link": "https://www.elnacional.com/2026/07/el-miedo-continua-sobrevivientes-del-terremoto-aun-temen-volver-a-sus-hogares-en-caracas/",
@@ -1241,16 +1343,16 @@
       "isoDate": "2026-07-13T19:02:55.000Z"
     },
     {
-      "id": "f52a6d8b02c7",
-      "title": "¿Hay terremotos cada 30 años en Venezuela? Esto dice la ciencia",
-      "link": "https://www.elnacional.com/2026/07/hay-terremotos-cada-30-anos-en-venezuela-esto-dice-la-ciencia/",
-      "image": null,
-      "snippet": "Melchor Centeno Graü, pionero de la sismología venezolana, recomendó en 1940 que se estudie la devastación y la estabilidad del terreno después de una catástrofe para saber cómo re",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-07-13T18:56:01.000Z"
+      "id": "8c6b52458ccc",
+      "title": "El boleto más caro para la final del Mundial 2026 cuesta lo mismo que el enganche de una casa en México",
+      "link": "https://expansion.mx/tendencias/2026/07/13/cuanto-cuesta-boleto-mas-caro-final-del-mundial-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/141aeda/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4f%2F35%2Fa86552434c4397b6b67f14e477bd%2F2-afp-20260701-b8v32vx-v1-highres-fblwc2026match79mexecu.jpeg",
+      "snippet": "El paquete más exclusivo de FIFA Hospitality cuesta alrededor de medio millón de pesos, una cifra que equivale al enganche de una casa en México.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T18:47:27.000Z"
     },
     {
       "id": "befb5b6cfd4f",
@@ -1325,6 +1427,18 @@
       "isoDate": "2026-07-13T18:32:05.000Z"
     },
     {
+      "id": "16d8bdae0d97",
+      "title": "Cómo cambiarte de Afore en 2026 paso a paso y cuáles ofrecen los mejores rendimientos",
+      "link": "https://expansion.mx/finanzas-personales/2026/07/13/como-cambiarte-de-afore-en-2026-paso-a-paso",
+      "image": "https://cdn-3.expansion.mx/dims4/default/fcd02ac/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7c%2F6c%2F81d5dc0042ca954d67833f7ad3cb%2F3-afore-20191127182400407012016-mg-8149.jpeg",
+      "snippet": "Elegir una Afore es una de las decisiones más importantes para el futuro de un trabajador, pues tendrá una carga importante al momento de su retiro.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T18:29:18.000Z"
+    },
+    {
       "id": "8f672a5a1d88",
       "title": "Sam Neill, estrella de 'Jurassic Park' fallece a sus 78 años",
       "link": "https://www.france24.com/es/video/20260713-sam-neill-estrella-de-jurassic-park-fallece-a-sus-78-a%C3%B1os",
@@ -1383,6 +1497,18 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-13T18:18:18.000Z"
+    },
+    {
+      "id": "d58b1e238e3f",
+      "title": "2 muertos y 5 heridos graves tras el choque de un camión cisterna cerca de Benahavís",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/2-muertos-y-5-heridos-graves-tras-el-choque-de-un-camion-cisterna-en-benahavis",
+      "image": null,
+      "snippet": "El siniestro, ocurrido en la AP-7 a la altura de Benahavís, dejó además cinco heridos graves y movilizó al Infoca para evitar que el fuego se extendiera a la vegetación cercana.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T18:06:58.000Z"
     },
     {
       "id": "8f563b0718a7",
@@ -1517,16 +1643,28 @@
       "isoDate": "2026-07-13T17:39:19.000Z"
     },
     {
-      "id": "295929f0388b",
-      "title": "El juez decreta prisión domiciliaria para Marius Borg con tobillera electrónica",
-      "link": "https://www.abc.es/gente/juez-decreta-prision-domiciliaria-marius-borg-tobillera-20260713142148-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/07/13/U599613_001-RBueb5dWgaEf8XAIKC5F6HO-1200x840@diario_abc.jpg",
-      "snippet": "Marius Borg Høiby ingresó en prisión preventiva el día anterior a que comenzase su juicio, a principios del pasado mes de febrero, por riesgo de reincidencia. Siete semanas más tar",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-13T17:29:45.000Z"
+      "id": "afdbdb5c798d",
+      "title": "Los vehículos más robados en México: los modelos favoritos de los ladrones y dónde ocurren más casos",
+      "link": "https://expansion.mx/empresas/2026/07/13/autos-mas-robados-en-mexico-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e8cb79f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F33%2F51%2F07d67b1c4f918d46fbe91a685202%2Fautos-mas-robados-en-mexico-2026.png",
+      "snippet": "Más allá del número total de casos, los datos revelan diferencias importantes por tipo de vehículo, modalidad del robo y lugar donde ocurre.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T17:32:14.000Z"
+    },
+    {
+      "id": "0163ff882845",
+      "title": "Europa crea una coalición antibalística para reforzar su defensa frente a Rusia",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/9-paises-europeos-y-ucrania-forman-una-coalicion-antimisiles-balisticos",
+      "image": null,
+      "snippet": "Los diez países firmantes y Ucrania impulsan una coalición para desarrollar capacidades antibalísticas ante el aumento de las amenazas sobre Europa, una iniciativa que definen como",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T17:28:12.000Z"
     },
     {
       "id": "c68777e642ce",
@@ -1553,6 +1691,18 @@
       "isoDate": "2026-07-13T17:20:00.000Z"
     },
     {
+      "id": "bc6135f9a858",
+      "title": "Economistas y premios Nobel piden crear nuevas políticas ante el impacto económico de la IA",
+      "link": "https://expansion.mx/tecnologia/2026/07/13/premios-nobel-piden-crear-politicas-impacto-economico-ia",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1fe444a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc3%2F99%2F8f451542430e9ec070e6687f1823%2Flos-bancos-otro-sector-que-la-inteligencia-artificial-esta-transformando.jpg",
+      "snippet": "La carta, respaldada por 15 premios Nobel y especialistas de OpenAI, Anthropic y Google, sostiene que las instituciones actuales no están preparadas para enfrentar los cambios econ",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T17:16:40.000Z"
+    },
+    {
       "id": "71e6a474be18",
       "title": "El juez Peinado requiere a Begoña Gómez que \"acredite\" que usó el pasaporte para viajar a Londres por la graduación de su hija",
       "link": "https://www.elmundo.es/espana/2026/07/13/6a55197be85ecea06e8b457d.html",
@@ -1563,6 +1713,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-13T17:14:41.000Z"
+    },
+    {
+      "id": "282c752064b3",
+      "title": "Volkswagen estudia recortar otros 50,000 puestos de trabajo en todo el mundo",
+      "link": "https://expansion.mx/empresas/2026/07/13/volkswagen-recortar-50-000-puestos-de-trabajo",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9498a15/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd6%2F6b%2Faebccfef4f3eb7b9dc0172a4cce8%2Fimg-8284.jpeg",
+      "snippet": "El director ejecutivo de Volkswagen, Oliver Blume, afirmó que la empresa necesita reducir sus costos fijos para recuperar competitividad y advirtió que el peso de los gastos labora",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T17:05:12.000Z"
     },
     {
       "id": "f3c9daa9fdcb",
@@ -1649,6 +1811,18 @@
       "isoDate": "2026-07-13T16:49:52.000Z"
     },
     {
+      "id": "ec2f96f9e352",
+      "title": "El costo invisible que está frenando a las empresas mexicanas",
+      "link": "https://expansion.mx/bespoke-ad/2026/07/13/el-costo-invisible-que-esta-frenando-a-las-empresas-mexicanas",
+      "image": "https://cdn-3.expansion.mx/dims4/default/18a0f93/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F55%2Fda%2Fdd20eae649409b3f1fa4fea1e0d2%2Fevidence-technology-erp-productividad.png",
+      "snippet": "Evidence Technology advierte que la ineficiencia operativa representa un gasto silencioso que, además de afectar la productividad, limita el acceso a tecnologías como la inteligenc",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T16:47:36.000Z"
+    },
+    {
       "id": "a8642b1f2d34",
       "title": "¿Por qué aumenta la tensión entre Costa de Marfil y Burkina Faso?",
       "link": "https://www.france24.com/es/programas/reporteros/20260713-por-qu%C3%A9-aumenta-la-tensi%C3%B3n-entre-costa-de-marfil-y-burkina-faso",
@@ -1659,6 +1833,42 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-13T16:45:48.000Z"
+    },
+    {
+      "id": "fb269aade1bb",
+      "title": "Muere una mujer tras lanzarse al vacío huyendo de un incendio en su piso en Barcelona",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/fallece-barcelona-lanzarse-vacio-huyendo-incendio",
+      "image": null,
+      "snippet": "La víctima murió tras saltar desde un cuarto piso al intentar huir de las llamas que asolaban su residencia. Otras cinco personas resultaron heridas. El edificio no ha sufrido daño",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:41:54.000Z"
+    },
+    {
+      "id": "02e66429ca81",
+      "title": "Trump ordena un nuevo bloqueo naval a Irán y exige una tasa del 20% en el estrecho de Ormuz",
+      "link": "http://es.euronews.com/2026/07/13/trump-restablece-el-bloqueo-de-eeuu-y-exige-una-tasa-del-20-al-trafico-por-hormuz",
+      "image": null,
+      "snippet": "Estados Unidos impone una tasa del 20% a los buques que naveguen por el estrecho de Ormuz, mientras se desata el mayor intercambio de ataques con Irán desde la tregua de abril.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:38:09.000Z"
+    },
+    {
+      "id": "f96bf04c8e09",
+      "title": "Portugal envía 8,7 toneladas de medicamentos a Venezuela tras los terremotos",
+      "link": "http://es.euronews.com/salud/2026/07/13/avion-portugues-lleva-medicamentos-a-venezuela",
+      "image": null,
+      "snippet": "La carga incluye más de ocho toneladas de medicamentos para las víctimas de los dos seísmos del 24 de junio. El vuelo marca el regreso de las conexiones aéreas entre ambos países, ",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:32:06.000Z"
     },
     {
       "id": "748e200d80e9",
@@ -1721,6 +1931,30 @@
       "isoDate": "2026-07-13T16:07:31.000Z"
     },
     {
+      "id": "67f27deed706",
+      "title": "El polémico vídeo de un exministro polaco entregando ayuda a soldados rusos",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/impactante-video-un-exviceministro-polaco-entrega-botiquines-a-soldados-rusos-y-pide-apoya",
+      "image": null,
+      "snippet": "Krzysztof Tołwiński, exviceministro de Hacienda del Gobierno polaco de Ley y Justicia (PiS), difundió un vídeo grabado en Bielorrusia en el que entrega botiquines a soldados rusos ",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:03:43.000Z"
+    },
+    {
+      "id": "106b3fbf2174",
+      "title": "Detenidas 4 personas por introducir 46.000 toneladas de residuos ilegales de Francia en España",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/detenidas-enterrar-espana-miles-toneladas-residuos-toxicos-franceses",
+      "image": null,
+      "snippet": "Cuatro personas han sido detenidas en una operación conjunta de la Guardia Civil, la Gendarmería francesa y Europol por introducir ilegalmente en España al menos 46.000 toneladas d",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:02:32.000Z"
+    },
+    {
       "id": "8bd271562253",
       "title": "FIFA debatirá una posible expansión del Mundial a 64 equipos",
       "link": "https://www.dw.com/es/fifa-debatirá-una-posible-expansión-del-mundial-a-64-equipos/a-77939483?maca=spa-rss-sp-all-1122-rdf",
@@ -1731,6 +1965,30 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-13T16:02:00.000Z"
+    },
+    {
+      "id": "2ea4978a416d",
+      "title": "El comercio de aletas de tiburón se desploma en la UE mientras Bruselas analiza su prohibición total",
+      "link": "http://es.euronews.com/my-europe/2026/07/13/comercio-aletas-tiburon-desploma-ue-mientras-bruselas-analiza-prohibicion",
+      "image": null,
+      "snippet": "España es con diferencia el mayor exportador europeo, según un estudio realizado por el International Fund for Animal Welfare (IFAW) entre 2003 y 2020. Según el estudio, durante es",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:00:33.000Z"
+    },
+    {
+      "id": "f20999888eb2",
+      "title": "Últimas noticias | 13 julio 2026 - Tarde",
+      "link": "http://es.euronews.com/video/2026/07/13/ultimas-noticias-13-julio-2026-tarde",
+      "image": null,
+      "snippet": "Ponte al día con las noticias más importantes de Europa y el mundo este 13 julio 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-13T16:00:24.000Z"
     },
     {
       "id": "6063c0d51cf4",
@@ -1767,6 +2025,30 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-13T15:42:43.000Z"
+    },
+    {
+      "id": "77caba4b637c",
+      "title": "Tras 100 partidos del Mundial 2026: los gigantes caídos, las sorpresas y los favoritos al título",
+      "link": "https://expansion.mx/tendencias/2026/07/13/mundial-2026-balance-100-partidos-y-semifinales",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d250c2b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fcb%2F65%2F2a89b8de42e4953f2900783e6c8f%2Ffrancia-paraguay-mbape.jpg",
+      "snippet": "El primer Mundial con 48 selecciones entra en su tramo definitivo tras ofrecer partidos memorables, eliminaciones inesperadas y un escenario abierto para definir al próximo campeón",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T15:37:05.000Z"
+    },
+    {
+      "id": "22dfce943e50",
+      "title": "EU cobrará una tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
+      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-una-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6bca8f0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F0a%2Fa792d6fc45e3ac9b5e6fa20c2844%2Fpor-que-fracaso-negociacion-iran-estados-unidos.jpeg",
+      "snippet": "\"El Estrecho de Ormuz está ABIERTO y permanecerá ABIERTO, con o sin Irán\" aseguró Donald Trump, en referencia a ese paso marítimo por donde circula cerca de 20% del crudo mundial e",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T15:32:24.000Z"
     },
     {
       "id": "23fde1670194",
@@ -1829,6 +2111,18 @@
       "isoDate": "2026-07-13T15:09:41.000Z"
     },
     {
+      "id": "7e9ab5f7c951",
+      "title": "¿Qué partidos de semifinales del Mundial 2026 van por TV abierta y cuándo se juegan?",
+      "link": "https://expansion.mx/tendencias/2026/07/13/partidos-semifinal-mundial-2026-pasan-tv-abierta",
+      "image": "https://cdn-3.expansion.mx/dims4/default/beaf8ce/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F41%2F37%2Fef7f563944eba9f687254bebf1f1%2Fpartidos-semifinal-mundial-2026-pasan-tv-abierta.jpg",
+      "snippet": "Cuatro selecciones permanecen con vida y ya conocen el camino que deberán recorrer para acercarse a la final del torneo.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-07-13T15:08:48.000Z"
+    },
+    {
       "id": "9f3e71129524",
       "title": "Mediaset promociona ya el regreso de la prueba de 'El Rosco' a Telecinco: así es el primer 'teaser'",
       "link": "https://www.20minutos.es/television/mediaset-ya-promociona-regreso-rosco-telecinco_7014059_0.html",
@@ -1839,18 +2133,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-13T14:50:03.000Z"
-    },
-    {
-      "id": "c2a050b05549",
-      "title": "Trump afirma que EE.UU. restablecerá el bloqueo del estrecho de Ormuz e impondrá un arancel del 20% sobre la carga",
-      "link": "https://www.latercera.com/mundo/noticia/trump-afirma-que-estados-unidos-restablecera-el-bloqueo-del-estrecho-de-ormuz-e-impondra-un-arancel-del-20-sobre-la-carga/",
-      "image": "https://www.latercera.com/resizer/v2/TA4J37ZMBZAIVLCK3Z6OFECMOM.JPG?auth=510a53ff6a8572b0c4da301927ac87edc0a00c618e3b30d4bded05c5c1f6da4b&smart=true&width=900&height=602",
-      "snippet": "El diario The New York Times informó que el mandatario estadounidense había notificado formalmente al Congreso que habían reanudado los combates con Irán.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-13T14:49:57.000Z"
     },
     {
       "id": "f02992299bd8",
@@ -2057,18 +2339,6 @@
       "isoDate": "2026-07-13T12:05:45.000Z"
     },
     {
-      "id": "828065c06203",
-      "title": "Nos entregamos al algoritmo a cambio de la comunidad",
-      "link": "https://expansion.mx/opinion/2026/07/13/nos-entregamos-al-algoritmo-a-cambio-de-la-comunidad",
-      "image": "https://cdn-3.expansion.mx/dims4/default/395756a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd6%2F49%2F00e3c2de4c0498439d74550153d2%2Ftu-proxima-compra-ya-es-guiada-por-la-inteligencia-artificial-asi-es-impacto-de-la-ia-en-el-marketing-digital.jpg",
-      "snippet": "La digitalización no sólo es una herramienta: también es refugio y coraza. Una forma de mostrar quiénes somos, mientras muchos encuentros físicos se volvieron incómodos, agotadores",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-13T12:05:19.000Z"
-    },
-    {
       "id": "e01ebc934bf9",
       "title": "El Supremo permite que los familiares de inmigrantes nacionalizados puedan obtener el permiso de residencia aunque tengan antecedentes penales",
       "link": "https://www.elmundo.es/espana/2026/07/13/6a54bb0e21efa085708b45af.html",
@@ -2079,54 +2349,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-13T11:59:23.000Z"
-    },
-    {
-      "id": "88bd1ecef49b",
-      "title": "La falta de un documento frena el acceso al empleo de los refugiados en México",
-      "link": "https://expansion.mx/mundo/2026/07/13/obstaculos-para-personas-refugiadas-empleo",
-      "image": "https://cdn-3.expansion.mx/dims4/default/0757f7f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2F42%2Fdd6c5cb64e918dadee81d75cc0b5%2Fempleo-personas-refugiadas.jpeg",
-      "snippet": "La suspensión de la Tarjeta de Visitante por Razones Humanitarias dificulta que miles de solicitantes de asilo accedan a un empleo formal, servicios bancarios y otros derechos en M",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-13T11:55:56.000Z"
-    },
-    {
-      "id": "e9353fe12cd9",
-      "title": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
-      "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6bc2e0d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F30%2Fc4%2F174afc39402289170041194ac977%2F13a169bf-5f2d-4a2b-91e4-9514f088b1a9.jpeg",
-      "snippet": "La primera sucesión en la historia de la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento e",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-13T11:55:52.000Z"
-    },
-    {
-      "id": "3acf58acb7c9",
-      "title": "Todos hablan de la crisis de la RAM, pero la siguiente batalla de la IA será por la fibra óptica",
-      "link": "https://expansion.mx/tecnologia/2026/07/13/fibra-optica-siguiente-lista-crisis-chips-ram",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a85436d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F0a%2F07%2F78cf8b3e45ddb292f25a966d73cc%2Fia-fibra-optica-reto.jpg",
-      "snippet": "Mientras chips y memoria concentran la atención, los centros de datos para IA aceleran la demanda de fibra óptica, clave para conectar miles de GPU y sostener su crecimiento.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-13T11:55:23.000Z"
-    },
-    {
-      "id": "8a7d128edfb7",
-      "title": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
-      "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
-      "image": "https://cdn-3.expansion.mx/dims4/default/90f5cb6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2Fc0%2Fcfa54c7744f594bf1560095252ac%2Finversion-extranjera-manufactura-mexico.jpeg",
-      "snippet": "México ganó terreno en las inversiones manufactureras de China y Corea del Sur, mientras mantuvo su relevancia industrial para Estados Unidos, Japón y la Unión Europea.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-13T11:55:14.000Z"
     },
     {
       "id": "eb7b6257f165",
@@ -2633,54 +2855,6 @@
       "isoDate": "2026-07-12T21:46:02.000Z"
     },
     {
-      "id": "ac255f31feea",
-      "title": "El número de muertos por los sismos en Venezuela sube a casi 4,500 personas",
-      "link": "https://expansion.mx/mundo/2026/07/12/el-numero-de-muertos-por-los-sismos-en-venezuela-sube-a-casi-4-500-personas",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a58bd53/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F96%2Fd6%2Fc420ae61474d9befba30308fba63%2Fvenezuela-sismos-damnificados.jpg",
-      "snippet": "Gran parte de la población damnificada aún duerme en tiendas de campaña en parques, estadios o plazas en La Guaira y en Caracas, las regiones más afectadas.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-12T21:34:41.000Z"
-    },
-    {
-      "id": "1e4261dd9474",
-      "title": "Irán anuncia cierre del estrecho de Ormuz y bombardea el Golfo en respuesta a ataques de EU",
-      "link": "https://expansion.mx/mundo/2026/07/12/iran-anuncia-cierre-del-estrecho-de-ormuz-y-bombardea-el-golfo-en-respuesta-a-ataques-de-eu",
-      "image": "https://cdn-3.expansion.mx/dims4/default/0e54164/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F03%2F7a%2F3b13377745f2a2a296b2ad733a9a%2Firan-cierra-estrecho-de-ormuz.jpg",
-      "snippet": "Los Guardianes de la Revolución anuncian que el paso marítimo seguirá cerrado hasta nuevo aviso, pero Washington afirma que la circulación continua.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-12T20:37:12.000Z"
-    },
-    {
-      "id": "fca21d576952",
-      "title": "Muere Lindsey Graham, uno de los grandes defensores de Trump y de Israel, a los 71 años",
-      "link": "https://expansion.mx/mundo/2026/07/12/muere-lindsay-graham-uno-de-los-grandes-defensores-de-trump",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6275440/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbb%2F12%2F964ba7da4ba79ca6ed900d47c1dd%2Fmuere-lindsey-graham-defensor-trump.jpg",
-      "snippet": "El político republicano, conocido por su trabajo en política exterior, falleció después de una enfermedad repentina y breve, de acuerdo con su oficina.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-12T18:31:10.000Z"
-    },
-    {
-      "id": "52e93ee8586c",
-      "title": "Nu ya es banco: clientes pierden beneficio fiscal, pero ganan productos",
-      "link": "https://expansion.mx/finanzas-personales/2026/07/12/nu-ya-es-banco-clientes-pierden-beneficio-fiscal-pero-ganan-productos",
-      "image": "https://cdn-3.expansion.mx/dims4/default/29b5e1c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe1%2Ff5%2F9f4d1981439b8b5d56a501cea0da%2F1-nu.jpeg",
-      "snippet": "Al convertirse en banco, los clientes perderán la exención del ISR sobre su dinero invertido, pero analistas advierten que el beneficio de más productos lo compensará.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-12T13:48:29.000Z"
-    },
-    {
       "id": "42ac84d9614a",
       "title": "El auge de la femosfera: las mujeres que renuncian al romance y buscan hombres de \"alto valor\"",
       "link": "https://www.bbc.com/mundo/articles/c14yr2ye3p8o?at_medium=RSS&at_campaign=rss",
@@ -2717,18 +2891,6 @@
       "isoDate": "2026-07-12T09:16:23.000Z"
     },
     {
-      "id": "72a39a4d2400",
-      "title": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
-      "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
-      "image": "https://cdn-3.expansion.mx/dims4/default/25c5523/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd8%2Fab%2Fea21d5f7485d9b3c90fe432b891b%2Fcuanto-cuesta-la-bateria-de-un-carro-electrico.png",
-      "snippet": "Detrás del componente más importante de un vehículo eléctrico hay materiales estratégicos, procesos industriales complejos y costos que, en algunos casos, superan el valor del Olin",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-12T06:30:27.000Z"
-    },
-    {
       "id": "4e6352f7c69a",
       "title": "Consulta toda la información aquí",
       "link": "https://www.bbc.com/mundo/articles/c3v25v922k4o?at_medium=RSS&at_campaign=rss",
@@ -2751,30 +2913,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-12T04:00:00.000Z"
-    },
-    {
-      "id": "f6359d6eae69",
-      "title": "Así quedaron las semifinales del Mundial 2026: ¿cuándo se juegan y si van por TV abierta?",
-      "link": "https://expansion.mx/tendencias/2026/07/11/semifinales-mundial-2026-fechas-horarios-tv-abierta",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6ecfd90/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F87%2F42%2Fd40f6a24433eaef10334321b674b%2Fsemifinales-mundial-2026.png",
-      "snippet": "Francia, España, Inglaterra y Argentina ya están entre las cuatro mejores selecciones del Mundial 2026. Consulta los horarios de las semifinales, dónde verlas y cuándo se jugará la",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-12T03:46:22.000Z"
-    },
-    {
-      "id": "6d55a46b5259",
-      "title": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5f6c90b/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe3%2F28%2Fc698f99a40c3a7b0f5ff7a2c00b8%2Faramco-petrolera-arabe-2.jpeg",
-      "snippet": "Su poder financiero supera al de muchas economías nacionales y explica por qué Arabia Saudita apuesta por expandir su influencia a través del deporte.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-07-11T21:39:46.000Z"
     },
     {
       "id": "e12532a38ae5",
@@ -2801,64 +2939,100 @@
       "isoDate": "2026-07-10T22:17:56.000Z"
     },
     {
-      "id": "f3b35fd71199",
-      "title": "Netflix, Disney y Youtube interesados en adquirir los derechos del Mundial 2030 y 2034 en Estados Unidos por US$2.000 millones",
-      "link": "https://elcomercio.pe/economia/mundo/netflix-disney-y-youtube-interesados-en-adquirir-los-derechos-del-mundial-2030-y-2034-en-estados-unidos-por-us2000-millones-l-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/BKN7AFEDNFDW5APUO74DTAEYKM.jpg?auth=3f7c4052090185a49d208579f6665e8df3cbf2da799e3a6155622d8696c123f9&smart=true&width=992&height=661",
-      "snippet": "Netflix, Disney y YouTube, están interesados en adquirir los derechos de transmisión en Estados Unidos del Mundial 2030 y 2034, informó CNBC. Según fuentes familiarizadas con el as",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-09T21:44:49.000Z"
-    },
-    {
-      "id": "5ff3e3798696",
-      "title": "¿Otorgarán aguinaldo de S/300 en julio? Conoce los requisitos para el cobro dispuesto por el Gobierno por Fiestas Patrias",
-      "link": "https://elcomercio.pe/economia/peru/otorgaran-aguinaldo-de-s300-en-julio-conoce-los-requisitos-para-el-cobro-dispuesto-por-el-gobierno-por-fiestas-patrias-l-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/YRSABXRRPVDGHDJJLH5TTXQLP4.jpg?auth=ea3fd05e87f4c12c0b598e08ee37d756f9a8f34d5d4dc5e493774dbca64adb63&smart=true&width=580&height=330",
-      "snippet": "El Ministerio de Economía y Finanzas (MEF) estableció las disposiciones reglamentarias para el otorgamiento del aguinaldo por Fiestas Patrias a los trabajadores públicos, fijado ha",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-09T21:03:48.000Z"
-    },
-    {
-      "id": "f4ad4e2fb2e3",
-      "title": "Patrimonio administrado por fondos mutuos alcanza cifra récord de S/64.000 millones al cierre del primer semestre del 2026",
-      "link": "https://elcomercio.pe/economia/peru/patrimonio-administrado-por-fondos-mutuos-alcanza-cifra-record-de-s64000-millones-al-cierre-del-primer-semestre-del-2026-l-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/VKJAUQXZFRG7RFK3SD5FZLHQ6Q.jpeg?auth=fe95bc3a0449fa9e2d29def3ea623c710750c843e060f1fa8f417d6af1ffad1f&smart=true&width=4896&height=3264",
-      "snippet": "La industria de fondos mutuos en Perú registró un crecimiento de 9,41% durante la primera mitad de 2026, alcanzando un patrimonio administrado superior a los S/64. 000 millones, in",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-09T19:48:56.000Z"
-    },
-    {
-      "id": "a66927a1ad12",
-      "title": "Consejo Fiscal advierte mayores riesgos para la sostenibilidad fiscal ante propuesta de crédito suplementario",
-      "link": "https://elcomercio.pe/economia/peru/consejo-fiscal-advierte-mayores-riesgos-para-la-sostenibilidad-fiscal-ante-propuesta-de-credito-suplementario-l-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/YBWVFDYCY5H73OBNDZV7UEKOCQ.jpg?auth=3935a789f8b795948e676eb75ed731d4f28fda2f8cafa78f302157b4af4fd549&smart=true&width=1600&height=1066",
-      "snippet": "El Consejo Fiscal (CF) ha emitido un informe de opinión técnica e independiente, en la que expresa su preocupación por la situación actual y las perspectivas macrofiscales del país",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-09T18:27:13.000Z"
-    },
-    {
-      "id": "e1a35d655270",
-      "title": "IAB MIXX Awards 2026: revive las mejores postales que dejó la premiación | GALERÍA",
-      "link": "https://elcomercio.pe/economia/iab-mixx-awards-2026-revive-las-mejores-postales-que-dejo-la-premiacion-ganadores-colegio-de-ingenieros-del-peru-galeria-noticia/",
-      "image": null,
+      "id": "83c63829554c",
+      "title": "Cyber Wow: 54% de usuarios frena la compra impulsiva y prioriza la investigación previa",
+      "link": "https://elcomercio.pe/economia/peru/cyber-wow-54-de-usuarios-frena-la-compra-impulsiva-y-prioriza-la-investigacion-previa-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/2EPWZEHYIFBR5LLVM2SEKEHURE.png?auth=569a854a4de92eecde17be83b16e45cfefc93dc14a0503ab646c718423a748bb&smart=true&width=1280&height=720",
       "snippet": "",
       "source": "El Comercio",
       "sourceId": "elcomercio",
       "country": "PE",
       "countryLabel": "Perú",
-      "isoDate": "2026-07-09T18:05:41.000Z"
+      "isoDate": "2026-07-10T20:20:13.000Z"
+    },
+    {
+      "id": "bbe93774646a",
+      "title": "BCR: expectativas de inflación a 12 meses disminuye a 2,83% en junio de 2026",
+      "link": "https://elcomercio.pe/economia/peru/bcr-expectativas-de-inflacion-a-12-meses-disminuye-a-283-en-junio-de-2026-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/DAXDEUELKVCYRD34KHOVDGIGHE.jpg?auth=55bf404d9341d0cad1a5ab82cf15e02e59d9521a66da2e5550a9feebfbfbb3fb&smart=true&width=1200&height=800",
+      "snippet": "El Banco Central de Reserva (BCR) indicó que la expectativa de inflación a 12 meses de los analistas económicos y del sistema financiero se redujo de 2,89% en mayo a 2,83% en junio",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-10T19:22:22.000Z"
+    },
+    {
+      "id": "7b2a4d1bb937",
+      "title": "Indecopi ordena retiro y destrucción de lote de leche limpiadora facial Milk Cleanser por presencia de una bacteria",
+      "link": "https://elcomercio.pe/economia/peru/indecopi-ordena-retiro-y-destruccion-de-lote-de-leche-limpiadora-facial-milk-cleanser-por-presencia-de-una-bacteria-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/HSRYRWSABZG65EAKXPAHZT5NNM.jpg?auth=2b0e2fd2c5bf521ad66ab8132733823835dcc90b4962af2edcc466f23371de00&smart=true&width=1200&height=800",
+      "snippet": "",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-10T18:28:34.000Z"
+    },
+    {
+      "id": "130d75ec2580",
+      "title": "Gratificación por Fiestas Patrias: 5 estrategias para usar este ingreso en la compra de un departamento",
+      "link": "https://elcomercio.pe/economia/peru/gratificacion-por-fiestas-patrias-5-estrategias-para-usar-este-ingreso-en-la-compra-de-un-departamento-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/DLMMJ26FZZGN3EJNCUXKJWS7KA.jpg?auth=82e556705a97b25457c3f2014ea23572397d82f8c5a696cfe4b8509c41df65c4&smart=true&width=5000&height=3337",
+      "snippet": "Antes del 15 de julio, las empresas del régimen privado deben depositar la gratificación por Fiestas Patrias a sus trabajadores, un beneficio que este año alcanzará a más de cuatro",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-10T14:27:11.000Z"
+    },
+    {
+      "id": "e90a86aef18d",
+      "title": "BCP habilita Bloqueo de Emergencias en agencias para proteger el dinero ante el robo del celular a cualquier hora",
+      "link": "https://elcomercio.pe/economia/peru/bcp-habilita-bloqueo-de-emergencias-en-agencias-para-proteger-el-dinero-ante-el-robo-del-celular-a-cualquier-hora-l-bcp-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/DKK64W52VJHR7IFQ2UAMPTBOP4.jpg?auth=f8b535c8eb3ed48ceb06dae734c0e3fc14c7089ededf1ac4c09d7d6b29a8e971&smart=true&width=1500&height=1001",
+      "snippet": "El BCP anunció una nueva actualización de su solución Bloqueo de Emergencia, que ahora permitirá a los clientes bloquear inmediatamente todas sus tarjetas afiliadas al banco en Age",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-10T13:56:38.000Z"
+    },
+    {
+      "id": "46a9dd9b28c2",
+      "title": "BCRP mantiene la tasa de interés de referencia en 4,25% y reafirma vigilancia sobre la inflación",
+      "link": "https://elcomercio.pe/economia/bcrp-mantiene-la-tasa-de-interes-de-referencia-en-425-y-reafirma-vigilancia-sobre-la-inflacion-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/MITU6RNVNJGBPPHMGGGX3UUMFA.jpg?auth=0102509e015392a70a1c6e500ba5c98760e8a1dca4696e1b2e5c7ed415c7ce4f&smart=true&width=1200&height=800",
+      "snippet": "El Banco Central de Reserva del Perú decidió mantener en 4,25% la tasa de interés de referencia al considerar que las expectativas de inflación permanecen dentro del rango meta y q",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-09T23:53:34.000Z"
+    },
+    {
+      "id": "61713a9547f3",
+      "title": "MEF acredita que el crédito suplementario siempre contó con sustento técnico y preserva sostenibilidad fiscal",
+      "link": "https://elcomercio.pe/economia/peru/mef-acredita-que-el-credito-suplementario-siempre-conto-con-sustento-tecnico-y-preserva-sostenibilidad-fiscal-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/WKKPJAIMKNHPTLNI2YDKUULAUI.jpg?auth=9fb0e5c11e96c15e8b9527db4054e71623fb6cff1cd73616110b331ec12b090f&smart=true&width=1200&height=800",
+      "snippet": "El Ministerio de Economía y Finanzas (MEF) acreditó que el Proyecto de Ley N.° 14799/2025-PE, que autoriza un crédito suplementario por hasta S/9.596 millones, siempre contó con el",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-09T22:04:43.000Z"
+    },
+    {
+      "id": "43ae2487774f",
+      "title": "Desarrolla tu mirada crítica con el Curso Actualidad y Noticias de la UAI",
+      "link": "https://www.latercera.com/lt-beneficios/noticia/desarrolla-tu-mirada-critica-con-el-curso-actualidad-y-noticias-de-la-uai/",
+      "image": "https://www.latercera.com/resizer/v2/F2BRACFYTJHLBMIFJFZ5BTUT64.png?auth=3fa8c4cff1aa28ad1b97540eb088ce960c707591fb78f539f366b7f50e6f5053&smart=true&width=2002&height=1050",
+      "snippet": "Aprende a interpretar la información, comprender el contexto y tomar decisiones informadas sobre los eventos clave en Chile y el mundo.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-04-08T18:12:26.000Z"
     },
     {
       "id": "8e2c0003c1f3",
