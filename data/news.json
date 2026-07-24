@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-24T07:52:27.568Z",
-  "count": 258,
+  "updatedAt": "2026-07-24T08:55:50.617Z",
+  "count": 244,
   "sources": [
     {
       "id": "20minutos",
@@ -63,12 +63,6 @@
       "countryLabel": "Colombia"
     },
     {
-      "id": "euronews",
-      "name": "Euronews Español",
-      "country": "INT",
-      "countryLabel": "Internacional"
-    },
-    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -119,6 +113,402 @@
   ],
   "items": [
     {
+      "id": "30589918c50d",
+      "title": "Cómo funciona la OIT y para qué sirve la organización que Yolanda Díaz aspira a liderar",
+      "link": "https://www.infobae.com/espana/2026/07/24/como-funciona-la-oit-y-para-que-sirve-la-organizacion-que-yolanda-diaz-aspira-a-liderar/",
+      "image": "https://www.infobae.com/resizer/v2/FTM3V2HJTRAY3CZVGTUFHXTAB4.JPG?auth=d2aee1545d41d1efcce89bb331c4d467bb82205070da6aa30832cc312aa5c886&smart=true&width=5500&height=3667",
+      "snippet": "La ministra disputará la dirección del principal foro mundial del trabajo, un organismo que desde 1919 fija los estándares laborales que los Estados pueden incorporar a sus legisla",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:51:09.000Z"
+    },
+    {
+      "id": "8414689d0880",
+      "title": "Robo de vehículo en Naucalpan termina en balacera: un presunto ladrón muere y tres son detenidos",
+      "link": "https://www.infobae.com/mexico/2026/07/24/robo-de-vehiculo-en-naucalpan-termina-en-balacera-un-presunto-ladron-muere-y-tres-son-detenidos/",
+      "image": "https://www.infobae.com/resizer/v2/MR5GN5X2LNDE5HOUWMM25IOEBE.jpg?auth=55421df3d58eb3b97db5dfadacde69e71d57d258fa65c5f3c36269e78f809bfd&smart=true&width=1920&height=1080",
+      "snippet": "Un periodista denunció haber sido agredido por policías municipales durante la cobertura de la balacera",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:50:52.000Z"
+    },
+    {
+      "id": "f45df4381eae",
+      "title": "Música, inteligencia artificial y el valor de lo humano",
+      "link": "https://www.infobae.com/opinion/2026/07/24/musica-inteligencia-artificial-y-el-valor-de-lo-humano/",
+      "image": "https://www.infobae.com/resizer/v2/VLSLNAGWMZBB3JVBMNO44ULFS4.png?auth=b5400d20020a4454d4cba6e82e228869ecbc1428892239624e9d1648bc3e7aa9&smart=true&width=2752&height=1536",
+      "snippet": "La generación de melodías y voces sintéticas en segundos tensiona la identificación, la trazabilidad y el reparto de ingresos, mientras los modelos se entrenan con repertorios prot",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:50:32.000Z"
+    },
+    {
+      "id": "3077374df14d",
+      "title": "Selección Argentina y liderazgo: cómo el sentido de pertenencia transforma a un equipo",
+      "link": "https://www.infobae.com/opinion/2026/07/24/seleccion-argentina-y-liderazgo-como-el-sentido-de-pertenencia-transforma-a-un-equipo/",
+      "image": "https://www.infobae.com/resizer/v2/KOUHUCGUUJEZ3DUS4V4JMRUDGA.jpg?auth=e5a394793b25382e65ea3619564a280c2e06a1e2a3ff64378abe5283e6b151a4&smart=true&width=4772&height=3181",
+      "snippet": "Cuando las personas sienten que pertenecen, empiezan a pensar menos en sí mismas y más en el propósito compartido",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:49:48.000Z"
+    },
+    {
+      "id": "00c57c2f28b4",
+      "title": "El ajuste no tocó fondo",
+      "link": "https://www.infobae.com/opinion/2026/07/24/el-ajuste-no-toco-fondo/",
+      "image": "https://www.infobae.com/resizer/v2/XA7W6VDMKNB7PBCJS3V7UTEV3U.jpg?auth=ccb7855e96ae6865862343d4be735597e0e3d9a07c53d7518d703a4efc5fb1db&smart=true&width=1920&height=1080",
+      "snippet": "Mientras el Gobierno planea continuar el ajuste, busca acercarse a gobernadores pensando en la campaña hacia 2027",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:49:30.000Z"
+    },
+    {
+      "id": "84140e97e66e",
+      "title": "Guerra en Medio Oriente en VIVO: Continúan los ataques cruzados en Medio Oriente: Irán lanzó nuevos bombardeos contra países del Golfo",
+      "link": "https://www.infobae.com/america/mundo/2026/07/24/guerra-en-medio-oriente-en-vivo/",
+      "image": "https://www.infobae.com/resizer/v2/IAUAGFEQ2NA2FPSJ4WUTS5FEYY.JPG?auth=b50fee5fcefad0d2a2917a5ea785ad251b0ff4a15c8e070500ec1e24d037f580&smart=true&width=3682&height=2455",
+      "snippet": "Las Fuerzas Armadas iraníes informaron este viernes que atacaron con drones bases del Ejército estadounidense en Jordania y Bahréin, en respuesta a la decimotercera noche consecuti",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:49:20.000Z"
+    },
+    {
+      "id": "f82d1afbcf7b",
+      "title": "Es mucho más probable que se incendie un coche gasolina o diésel que uno eléctrico: “Este ha echado a arder por la luz interior”",
+      "link": "https://www.infobae.com/espana/2026/07/24/es-mucho-mas-probable-que-se-incendie-un-coche-gasolina-o-diesel-que-uno-electrico-este-ha-echado-a-arder-por-la-luz-interior/",
+      "image": "https://www.infobae.com/resizer/v2/JNGAFZV24NA23L2URA3OH2SQWY.jpg?auth=26b52f8f94ab5b9117cef8a9c69230e42b212074f2bcabaab658c170952fc255&smart=true&width=4000&height=2666",
+      "snippet": "Pese a la espectacularidad de las imágenes cuando lo hace un eléctrico, muy difícil de extinguir, las cifras dicen otra cosa",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:48:13.000Z"
+    },
+    {
+      "id": "56700a0d7b67",
+      "title": "Dos de los matemáticos más destacados del mundo asistirán a un congreso en Bilbao",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/24/dos-de-los-matematicos-mas-destacados-del-mundo-asistiran-a-un-congreso-en-bilbao/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:47:37.000Z"
+    },
+    {
+      "id": "48ae55e2ee6c",
+      "title": "La izquierda pide reprobar al alcalde de Alicante por no aclarar el escándalo de Les Naus",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/24/la-izquierda-pide-reprobar-al-alcalde-de-alicante-por-no-aclarar-el-escandalo-de-les-naus/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:47:19.000Z"
+    },
+    {
+      "id": "f837fe8d6604",
+      "title": "Detenido un fugitivo buscado por Polonia por falsificar contratos en la compra de coches",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/24/detenido-un-fugitivo-buscado-por-polonia-por-falsificar-contratos-en-la-compra-de-coches/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:47:03.000Z"
+    },
+    {
+      "id": "d70d22f2596b",
+      "title": "Última hora de los incendios en Madrid y resto de España, en directo | El Gobierno declara la emergencia nacional por los focos activos",
+      "link": "https://www.lavanguardia.com/vida/20260724/11599750/incendios-madrid-emergencia-nacional-evacuados-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/21/6a5f7c160709e.jpeg",
+      "snippet": "Según ha informado el 112 de la Comunidad de Madrid, los tres incendios que están activos siguen sin estar perimetrados ni controlados, pese a que los trabajos nocturnos han sido e",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:46:53.000Z"
+    },
+    {
+      "id": "e7e44f9ebdb8",
+      "title": "El alcalde de El Tiemblo (Ávila): \"Es pavoroso ver que el infierno existe\"",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/24/el-alcalde-de-el-tiemblo-avila-es-pavoroso-ver-que-el-infierno-existe/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:46:47.000Z"
+    },
+    {
+      "id": "d2e80991289f",
+      "title": "Anticorrupción pide ampliar el estudio y la tasación de las joyas de Zapatero para conocer su valor actual de mercado",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/24/anticorrupcion-pide-ampliar-el-estudio-y-la-tasacion-de-las-joyas-de-zapatero-para-conocer-su-valor-actual-de-mercado/",
+      "image": "https://www.infobae.com/resizer/v2/UOULFJER2JHSXMBP3ZBSHD7QM4.jpg?auth=5e1e9ee359778a17f26ef992cacc8e32e200318d5ab05f33a2c41a19cd3d4d5d&smart=true&width=1920&height=1292",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:46:32.000Z"
+    },
+    {
+      "id": "77fb346bc95c",
+      "title": "Pekín pide \"protección conjunta\" de las rutas marítimas tras ataques en el mar Rojo",
+      "link": "https://www.infobae.com/america/agencias/2026/07/24/pekin-pide-proteccion-conjunta-de-las-rutas-maritimas-tras-ataques-en-el-mar-rojo/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:46:28.000Z"
+    },
+    {
+      "id": "7fcc47fc5e50",
+      "title": "El PP equipara el puesto \"a medida\" de Leire Díez en Correos con el del hermano de Sánchez en Badajoz y ve prevaricación",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/24/el-pp-equipara-el-puesto-a-medida-de-leire-diez-en-correos-con-el-del-hermano-de-sanchez-en-badajoz-y-ve-prevaricacion/",
+      "image": "https://www.infobae.com/resizer/v2/KK67MRLTEZBNRAPSM5UXHEPJQ4.jpg?auth=9aec1e523423a8c2569dd6800f1507f77281d478669ba1060ff487df99ee4e7b&smart=true&width=1920&height=1282",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:46:15.000Z"
+    },
+    {
+      "id": "c12c6a965ce9",
+      "title": "Contaminación radiactiva en Nueva York: los dos condados bajo investigación y qué deben saber los residentes",
+      "link": "https://www.lanacion.com.ar/estados-unidos/nueva-york/contaminacion-radiactiva-en-nueva-york-los-dos-condados-bajo-investigacion-y-que-deben-saber-los-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/B4VVMLV7OZFVJHEMULADDGKJYM.jpg?auth=6fce88bec0684240481436274f62e5a3cca121b24473088b13808eb842ea0028&smart=true&width=2000&height=1333",
+      "snippet": "Conoce qué se investiga por la contaminación radiactiva en los condados de Niágara y Erie y por qué algunas familias fueron reubicadas.",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:44:00.000Z"
+    },
+    {
+      "id": "66ed22dfc484",
+      "title": "Temblor en México hoy, viernes 24 de julio: ver epicentro del último sismo según SSN",
+      "link": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-via-ssn-y-ultimos-sismos-23-24-y-25-de-julio-epicentro-magnitud-y-hora-exacta-servicio-sismologico-nacional-chiapas-cdmx-mx-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/46XCW5XTINDFJCBJVHIOATXF7U.jpeg?auth=d1e9c54109ce54d31f8412bdccf3edf2e9e8390474e8596e187be5fbef812675&smart=true&width=1200&height=700",
+      "snippet": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-24T08:40:19.000Z"
+    },
+    {
+      "id": "685b7bc64e54",
+      "title": "Temblor en Colombia hoy, viernes 24 de julio: ver epicentro del último sismo según SGC",
+      "link": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-via-el-sgc-y-ultimos-sismos-del-23-24-y-25-de-julio-de-2026-epicentro-magnitud-y-hora-exacta-servicio-geologico-colombiano-santander-co-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/56EZ6QS6EJFU7HDO4YUPC5WVA4.jpeg?auth=7c8fe34f7fa1a06c0dd3ecf426cdf3b7073aa79369aa646017f4355d41bdab54&smart=true&width=1200&height=700",
+      "snippet": "Temblor en Colombia EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Servicio Geológico Colombiano (SGC).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-24T08:40:18.000Z"
+    },
+    {
+      "id": "1850067e341d",
+      "title": "Los vecinos de La Mierla vuelven a casa: «Era mi pesadilla de cada verano y este año llegó»",
+      "link": "https://www.abc.es/espana/castilla-la-mancha/vecinos-mierla-regresan-casas-tras-incendio-era-20260723073927-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/23/Mierla.jpg-RwUxlTcj9GRyEF8sckM3quO-1200x840@diario_abc.jpg",
+      "snippet": "Siete días después de abandonar rápidamente sus hogares mientras las llamas avanzaban hacia el pueblo, los vecinos de La Mierla han regresado por fin este jueves a sus casas. La re",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:38:53.000Z"
+    },
+    {
+      "id": "1e2838b60d1e",
+      "title": "Sánchez advierte de la \"situación dramática\": \"Evitemos los riesgos y sigamos indicaciones\"",
+      "link": "https://www.20minutos.es/nacional/sanchez-advierte-situacion-dramatica-por-los-incendios-sigamos-las-indicaciones-evitemos-riesgos_7018483_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/22/6a60d9c08a8f32-67424578.jpeg",
+      "snippet": "El presidente asegura que el Gobierno ha desplegado todos los efectivos, agradece la labor de los equipos de extinción y traslada su solidaridad a los afectados por los fuegos.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:38:42.000Z"
+    },
+    {
+      "id": "2f5c81669100",
+      "title": "España pide a Bruselas activar el mecanismo europeo de respuesta por los incendios de Madrid",
+      "link": "https://www.lavanguardia.com/vida/20260724/11600087/espana-bruselas-activar-mecanismo-europeo-respuesta-incendios-madrid.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a62ee711fd2c.r_d.1076-717-0.jpeg",
+      "snippet": "Grecia ha aceptado la petición, ofreciendo dos aviones Canadair CL-415",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:38:18.000Z"
+    },
+    {
+      "id": "fae6f9b740fe",
+      "title": "Dos de los incendios de Madrid siguen fuera de control aunque se ha limitado su avance",
+      "link": "https://www.lavanguardia.com/natural/20260724/11600077/dos-incendios-madrid-siguen-fuera-control-limitado-avance.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/24/6a632399af4c0.jpeg",
+      "snippet": "Unas 10.000 personas permanecen evacuadas de los municipios de Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Aldea del Fresno.",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:35:23.000Z"
+    },
+    {
+      "id": "a9b27297b055",
+      "title": "Pedro Sánchez califica de \"dramática\" la situación por los incendios en España",
+      "link": "https://www.dw.com/es/pedro-sánchez-califica-de-dramática-la-situación-por-los-incendios-en-españa/a-78095585?maca=spa-rss-sp-all-1122-rdf",
+      "image": null,
+      "snippet": "El presidente del Gobierno español, Pedro Sánchez, ha calificado de \"dramática\" la situación por incendios en varias provincias españolas, y aconsejó \"precaución\". También pidió ay",
+      "source": "DW Español",
+      "sourceId": "dw",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-24T08:27:00.000Z"
+    },
+    {
+      "id": "a5e3fdb8485c",
+      "title": "Compran una mansión de más de US$3 millones en Barrio Parque con el primer fondo inmobiliario del país",
+      "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/compran-una-mansion-de-mas-de-us3-millones-en-barrio-parque-con-fondos-del-primer-reit-del-pais-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/O6526IQV2NGANA33GZA2OURVHE.jpg?auth=e49ef28be41f1235740201e750b09625304d9f4f85cac0670309c50883814d22&smart=true&width=2000&height=1333",
+      "snippet": "El inmueble ya tiene un contrato de alquiler vigente por US$18.000 mensuales, aseguran en la compañía",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:27:00.000Z"
+    },
+    {
+      "id": "9c7cded84f63",
+      "title": "Última hora de los incendios forestales, en directo | España solicita la ayuda de Bruselas para luchar contra el fuego y pide al menos cuatro aviones",
+      "link": "https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SNWFJCVZO5BIFMWFDN4NUUWH3Q.jpg?auth=03b09a139db790a31df9980c22de4b2760107867ee0df5695997843d4c21a0f3",
+      "snippet": "El viento complica la extinción de los incendios en la Comunidad de Madrid | Las llamas siguen sin estar perimetradas ni controladas | Más de 10.000 personas evacuadas",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:25:32.000Z"
+    },
+    {
+      "id": "1d044fe9643c",
+      "title": "Las impactantes imágenes de los fuegos que ponen en jaque a Madrid y a Ávila",
+      "link": "https://www.20minutos.es/madrid/las-impactantes-imagenes-los-incendios-que-han-puesto-madrid-avila-situacion-emergencia-nacional_7018478_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a63237d852542-56541957.png",
+      "snippet": "Los incendios mantienen evacuadas a más de 10.000 personas de municipios como Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Aldea del Fresno.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:20:38.000Z"
+    },
+    {
+      "id": "6c946a9a1531",
+      "title": "Qué es la declaración de emergencia de interés nacional: así es como afecta a los ciudadanos",
+      "link": "https://www.20minutos.es/actualidad/declaracion-emergencia-interes-nacional-incendios-afecta-ciudadanos_5704731_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a631650907b86-67192753.jpeg",
+      "snippet": "El Gobierno ha declarado la emergencia de interés nacional en la Comunidad de Madrid y Ávila por la evolución de los incendios.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:18:18.000Z"
+    },
+    {
+      "id": "d99d438d951e",
+      "title": "Obispo Manuel Adolfo Acuña, exorcista: «Si la persona poseída utiliza una lengua que desconoce, es el demonio llamando a otros demonios»",
+      "link": "https://www.abc.es/recreo/obispo-manuel-adolfo-acuna-exorcista-persona-poseida-20260724085120-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/07/24/exorcista-ok-kjrH-U30949288061c8-1200x840@diario_abc.jpg",
+      "snippet": "Para la gran mayoría, la palabra 'exorcismo' está directamente relacionada con la ficción. La industria cinematográfica es culpable de ello. Y es que, desde hace décadas, nos hemos",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:11:39.000Z"
+    },
+    {
+      "id": "7121dd6231cb",
+      "title": "Harvard puso a Cali en el mapa global del conocimiento afro de América Latina: '¿Vamos a seguir construyendo naciones racistas o de inclusión?’",
+      "link": "https://www.eltiempo.com/colombia/cali/harvard-puso-a-cali-en-el-mapa-global-del-conocimiento-afro-de-america-latina-vamos-a-seguir-construyendo-naciones-racistas-o-de-inclusion-3573453",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a62bf1174778.r_d.878-549-0.jpeg",
+      "snippet": "Cali es el epicentro de un encuentro mundial. EL TIEMPO dialogó con prestigioso investigador de la Universidad de Harvard.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-24T08:09:50.000Z"
+    },
+    {
+      "id": "e85c74ae1274",
+      "title": "El Gobierno declara la emergencia de interés nacional en Madrid y Ávila por los incendios",
+      "link": "https://www.abc.es/sociedad/gobierno-declara-emergencia-interes-nacional-madrid-avila-20260724071256-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/07/24/cyl-kMdE-U30983099659zRC-1200x840@diario_abc.JPG",
+      "snippet": "El ministro del Interior, Fernando Grande-Marlaska, ha declarado este jueves la emergencia de interés nacional en la Comunidad de Madrid y Ávila «como consecuencia de la evolución ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T08:03:22.000Z"
+    },
+    {
+      "id": "9165092112c6",
+      "title": "Arthur Brooks, catedrático de Harvard: “Las personas más felices son las que nunca dejan de aprender”",
+      "link": "https://www.lanacion.com.ar/sociedad/arthur-brooks-catedratico-de-harvard-las-personas-mas-felices-son-las-que-nunca-dejan-de-aprender-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GDAD5AATEFCTHANOT2HIFIOL5A.jpg?auth=b961a5ec5005a1dbc78e869ede2f60c60f869b091c9309a77e0c8c1c201dfbda&smart=true&width=2000&height=1334",
+      "snippet": "El académico explicó por qué el aprendizaje constante está directamente relacionado con el bienestar, y enumeró algunas de las formas de estimular la curiosidad",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-24T08:00:00.000Z"
+    },
+    {
+      "id": "f9432b84b096",
+      "title": "Bruselas valora \"positivamente\" los nuevos aranceles de Trump del 10% porque \"se ajustan\" al acuerdo de Turnberry",
+      "link": "https://www.elmundo.es/economia/2026/07/24/6a63193efdddffb82f8b457c.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17848795648990.jpg",
+      "snippet": "El acuerdo que la UE y EEUU alcanzaron hace justamente un año planteaba una tasa general máxima del 15%. La Comisión cree que la decisión del magnate \"aporta un impulso positivo pa",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T07:59:34.000Z"
+    },
+    {
+      "id": "ec7bdcadc1cd",
+      "title": "Oficial, Orlando elimina los parquímetros con monedas y cambia el pago de estacionamiento en la vía pública: cómo funciona el nuevo sistema",
+      "link": "https://elcomercio.pe/mag/usa/local-us/oficial-orlando-elimina-los-parquimetros-con-monedas-y-cambia-el-pago-de-estacionamiento-en-la-via-publica-como-funciona-el-nuevo-sistema-florida-nnda-nnlt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/CYOOQYSVIVBFRJAUJFDV4DALMU.jpg?auth=4935907437eb8713b2f38931171aa2c46dbbf2c70580bc3d9706819ab188d859&smart=true&width=1200&height=811",
+      "snippet": "La ciudad de Orlando está modernizando todo su esquema de estacionamiento: adiós a los parquímetros, hola a pagos sin efectivo y tarifas progresivas.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-24T07:54:45.000Z"
+    },
+    {
       "id": "ff0e7a872329",
       "title": "Resultados Kábala: revisa aquí la jugada y último sorteo del jueves 23 de julio",
       "link": "https://elcomercio.pe/respuestas/loterias/kabala-en-vivo-resultados-de-hoy-jueves-23-de-julio-de-2026-numeros-y-jugada-ganadora-del-sorteo-intralot-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
@@ -128,199 +518,43 @@
       "sourceId": "elcomercio",
       "country": "PE",
       "countryLabel": "Perú",
-      "isoDate": "2026-07-24T07:50:32.000Z"
+      "isoDate": "2026-07-24T07:53:14.000Z"
     },
     {
-      "id": "436aa68731b3",
-      "title": "Última hora de los incendios forestales, en directo | El viento complica la extinción de los incendios en la Comunidad de Madrid",
-      "link": "https://elpais.com/espana/2026-07-24/ultima-hora-de-los-incendios-forestales-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/SNWFJCVZO5BIFMWFDN4NUUWH3Q.jpg?auth=03b09a139db790a31df9980c22de4b2760107867ee0df5695997843d4c21a0f3",
-      "snippet": "Los fuegos siguen sin estar perimetrados ni controlados | Más de 10.000 personas evacuadas",
-      "source": "El País",
-      "sourceId": "elpais",
+      "id": "5b55a1493927",
+      "title": "España solicita ayuda a la UE para aplacar la oleada de incendios que asola el país y pide cuatro medios aéreos",
+      "link": "https://www.20minutos.es/nacional/espana-aun-no-solicita-como-si-han-hecho-francia-portugal-mecanismo-europeo-proteccion-civil-frente-los-incendios_7018451_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/23/6a627132cdd519-81914660.r_d.615-1064-16000.jpeg",
+      "snippet": "Portugal ya recurrió a esta vía comunitaria hace tres semanas ante el fuego en Vouzela y el Gobierno francés lo ha solicitado para los incendios que se están dando cerca de Burdeos",
+      "source": "20minutos",
+      "sourceId": "20minutos",
       "country": "ES",
       "countryLabel": "España",
-      "isoDate": "2026-07-24T07:47:37.000Z"
+      "isoDate": "2026-07-24T07:49:52.000Z"
     },
     {
-      "id": "49e4c37ea8a9",
-      "title": "El Gobierno acuerda dejar el registro horario para septiembre para resolver discrepancias",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/24/el-gobierno-acuerda-dejar-el-registro-horario-para-septiembre-para-resolver-discrepancias/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:47:08.000Z"
+      "id": "bbea57682a8e",
+      "title": "Los jóvenes de las pandillas que evitan enfrentarse entre sí para convertirse en emprendedores de paz en el Cauca",
+      "link": "https://www.eltiempo.com/colombia/cali/los-jovenes-de-las-pandillas-que-evitan-enfrentarse-entre-si-para-convertirse-en-emprendedores-de-paz-en-el-cauca-3573462",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a62c9b735749.r_d.1939-1285-0.jpeg",
+      "snippet": "La Alcaldía de Puerto Tejada trabaja de la mano con Policía Nacional. Buscan apoyo de ONG y empresas privadas. Los asesinatos se redujeron a la mitad.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-24T07:47:59.000Z"
     },
     {
-      "id": "34c55e186d60",
-      "title": "Su novio la golpeó, huyó desnuda y se escondió entre los pastizales: el crudo relato de una mujer que escapó de ser asesinada",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/07/24/su-novio-la-golpeo-huyo-desnuda-y-se-escondio-entre-los-pastizales-el-crudo-relato-de-una-mujer-que-escapo-de-ser-asesinada/",
-      "image": "https://www.infobae.com/resizer/v2/L22UNNOKTFFYBAZQ6VEAOSEAGI.png?auth=29ebdeaf031ca9374c8fdf4473edc0611a81bc744d055e9f8cd634b5c01acab4&smart=true&width=1408&height=768",
-      "snippet": "La víctima tuvo que escapar por una ventana y pedir ayuda a una vecina, luego de que su pareja la amenazara de muerte y la golpeara. Por el momento, el agresor permanece prófugo de",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:50.000Z"
-    },
-    {
-      "id": "37200f9947d4",
-      "title": "Intervienen un arsenal de armas en Málaga: 36 fusiles de asalto y 11 granadas de mano",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/24/intervienen-un-arsenal-de-armas-en-malaga-36-fusiles-de-asalto-y-11-granadas-de-mano/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:48.000Z"
-    },
-    {
-      "id": "a354e2c4e0c3",
-      "title": "INE registra atraso de entrega de credenciales para votar: 645 mil están en espera",
-      "link": "https://www.infobae.com/mexico/2026/07/24/ine-registra-atraso-de-entrega-de-credenciales-para-votar-645-mil-estan-en-espera/",
-      "image": "https://www.infobae.com/resizer/v2/DMSZWPZ5B5AAJOQDQ5M24QJQ24.jpg?auth=d84c1101b22668b506d48918e6b9f67e5d4fc76d2e21f283ae797f6c2cb102c9&smart=true&width=1920&height=1080",
-      "snippet": "Guadalupe Taddei pidió a la ciudadanía verificar en su módulo si su identificación ya está disponible",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:48.000Z"
-    },
-    {
-      "id": "b4f5326798b2",
-      "title": "El Nikkei y el Kospi cierran con fuertes caídas tras los aranceles de EEUU y las dudas tecnológicas",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/el-nikkei-y-el-kospi-cierran-con-fuertes-caidas-tras-los-aranceles-de-eeuu-y-las-dudas-tecnologicas/",
-      "image": "https://www.infobae.com/resizer/v2/YEK5PWJ2KVFH7K2WZY2C5TEW6Y.jpg?auth=77ff677795363a58d512bc1a31de798ddf3237afdb04ae5bb6edf4e5e8cb21d5&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:31.000Z"
-    },
-    {
-      "id": "6c770f6bc894",
-      "title": "Ucrania ataca con misil de crucero Flamingo empresa militar rusa a 800 kilómetros de Moscú",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/ucrania-ataca-con-misil-de-crucero-flamingo-empresa-militar-rusa-a-800-kilometros-de-moscu/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:30.000Z"
-    },
-    {
-      "id": "f20a3dbaae90",
-      "title": "Mueren cuatro palestinos y un israelí en enfrentamientos en el norte de Cisjordania",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/mueren-cuatro-palestinos-y-un-israeli-en-enfrentamientos-en-el-norte-de-cisjordania/",
-      "image": "https://www.infobae.com/resizer/v2/ADUC5ELMBBEMRPG6RB4D62Q77Q.jpg?auth=30746bc500e3e7da163ea5bae82fb0b4373fc3c48f717d4c89766f9b63f1b784&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:14.000Z"
-    },
-    {
-      "id": "72b8b3e482d5",
-      "title": "La Bolsa de Shanghái cae un 1,61 % y la de Shenzhen, un 2,47 %",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/la-bolsa-de-shanghai-cae-un-161-y-la-de-shenzhen-un-247/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:46:13.000Z"
-    },
-    {
-      "id": "a25913a3348c",
-      "title": "Al menos 24 carreteras secundarias que están cortadas en España por los incendios",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/al-menos-24-carreteras-secundarias-que-estan-cortadas-en-espana-por-los-incendios/",
-      "image": "https://www.infobae.com/resizer/v2/3OL2W247JVDJPFW34TGOACYX44.jpg?auth=5e5b76ddb7ced7c1d425417e1e0d5d919e6c9bf6f02051e0567cd6bda61cd227&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:45:56.000Z"
-    },
-    {
-      "id": "bf45cb78f5e0",
-      "title": "Unas 6.000 personas siguen acampadas en la calle por los terremotos en Venezuela, dice MSF",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/unas-6000-personas-siguen-acampadas-en-la-calle-por-los-terremotos-en-venezuela-dice-msf/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:45:56.000Z"
-    },
-    {
-      "id": "68725b8f1ab7",
-      "title": "Precio del oro en España: la cotización máxima y mínima por gramo hoy 24 de julio",
-      "link": "https://www.infobae.com/espana/2026/07/24/precio-del-oro-en-espana-la-cotizacion-maxima-y-minima-por-gramo-hoy-24-de-julio/",
-      "image": "https://www.infobae.com/resizer/v2/VNMHXAN2SNGTXMSKP6XXM4FDBY.png?auth=0fc424a02cc835561dd240bc0cbf6765ebc0b5313c32d55a99f066038e07d87e&smart=true&width=1456&height=816",
-      "snippet": "Conoce cuáles fueron los últimos movimientos que registró el metal precioso en el mercado",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:45:43.000Z"
-    },
-    {
-      "id": "4f5dfb0e5320",
-      "title": "Banco Sabadell gana 971 millones en el primer semestre, un 0,5% menos",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/banco-sabadell-gana-971-millones-en-el-primer-semestre-un-05-menos/",
-      "image": "https://www.infobae.com/resizer/v2/X2JQMXR5ZJBZLIISCQMCMJKAJA.jpg?auth=d267f51d8e3354ff070b72349497a0b5025ddc5c3d0800c4f77a07d513c22902&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:45:38.000Z"
-    },
-    {
-      "id": "d055277a6436",
-      "title": "Moriyasu dejará la selección de fútbol nipona tras la Copa Asia: \"Daré mi máximo esfuerzo\"",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/24/moriyasu-dejara-la-seleccion-de-futbol-nipona-tras-la-copa-asia-dare-mi-maximo-esfuerzo/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:45:38.000Z"
-    },
-    {
-      "id": "d7e353d772d9",
-      "title": "Acerinox se dispara un 8,5% en Bolsa tras ganar 77 millones a junio y dejar atrás pérdidas",
-      "link": "https://www.infobae.com/america/agencias/2026/07/24/acerinox-se-dispara-un-85-en-bolsa-tras-ganar-77-millones-a-junio-y-dejar-atras-perdidas/",
-      "image": "https://www.infobae.com/resizer/v2/KQI52O7JXFCFLLLHXH3ZWEHWKQ.jpg?auth=bd206a56a066e9136db925063c0bf04f926c6e5aebb5ced27287c44c5a108651&smart=true&width=1920&height=1242",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T07:45:20.000Z"
-    },
-    {
-      "id": "caabc6739883",
-      "title": "La UE camina sobre la cuerda floja entre las grandes potencias mundiales",
-      "link": "http://es.euronews.com/my-europe/2026/07/24/la-ue-camina-sobre-la-cuerda-floja-entre-las-grandes-potencias-mundiales",
-      "image": null,
-      "snippet": "En el boletín de Europe Today, Trump lanza amenazas arancelarias desde el otro lado del Atlántico, 'Euronews' habla con un eurodiputado recién regresado de China y analiza qué pasó",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T07:43:20.000Z"
+      "id": "44129366c79e",
+      "title": "Consulta el mapa de los incendios que hay en España en tiempo real: las zonas más afectadas",
+      "link": "https://www.20minutos.es/nacional/mapa-incendios-espana-tiempo-real-consulta-focos-fuegos-activos-tiempo-real_7013152_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a630e457b7a50-65286559.jpeg",
+      "snippet": "El Gobierno ha declarado la emergencia nacional en Madrid y Ávila por la evolución de los fuegos de Villa del Prado, San Martín de Valdeiglesias y Burgohondo.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T07:42:46.000Z"
     },
     {
       "id": "8a91016b0fbb",
@@ -359,6 +593,18 @@
       "isoDate": "2026-07-24T07:33:00.000Z"
     },
     {
+      "id": "c9a086571fcf",
+      "title": "Las 15 mejores ofertas de hoy (24 de julio) en Amazon: hasta un 52% en Huawei, Levi's y más",
+      "link": "https://www.abc.es/favorito/mejores-ofertas-hoy-julio-amazon-huawei-levis-20260724093000-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/07/24/image_20260724085547-RKcEXff5ckfplC8cFasqCkJ-1200x840@diario_abc.png",
+      "snippet": "El precio tachado es un clásico: ese número en gris con una raya encima que te dice cuánto estás ahorrando. Llevo años en esto y he aprendido a mirarlo de reojo, porque muchas vece",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T07:30:00.000Z"
+    },
+    {
       "id": "38df1528c8a2",
       "title": "Javier Milei y sus medidas, en vivo: el proyecto de “inocencia fiscal 2″ y las propuestas en al Congreso",
       "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-proyecto-de-inocencia-fiscal-2-y-las-propuestas-en-al-congreso-nid24072026/",
@@ -369,18 +615,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-24T07:30:00.000Z"
-    },
-    {
-      "id": "1af347a04c0a",
-      "title": "El eurodiputado Bernd Lange pide tumbar en los tribunales los aranceles de EE.UU. por trabajo forzoso",
-      "link": "http://es.euronews.com/my-europe/2026/07/24/eurodiputado-bernd-lange-pide-tumbar-tribunales-aranceles-eeuu-trabajo-forzoso",
-      "image": null,
-      "snippet": "El eurodiputado alemán Bernd Lange, responsable de comercio del Parlamento Europeo, dijo a 'Euronews' que confía en que los nuevos aranceles de Estados Unidos se recurran en sus tr",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T07:29:51.000Z"
     },
     {
       "id": "e6e616ef52d6",
@@ -419,6 +653,18 @@
       "isoDate": "2026-07-24T07:17:18.000Z"
     },
     {
+      "id": "84e6c0eb1a57",
+      "title": "Problemas de circulación en Madrid por los incendios: estas son las seis carreteras que se han cortado al tráfico",
+      "link": "https://www.20minutos.es/nacional/menos-24-carreteras-secundarias-estan-cortadas-espana-por-los-incendios_7018446_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a631561492f48-94297106.png",
+      "snippet": "La DGT ha pedido evitar circular por las zonas afectadas y que los ciudadanos consulten el estado de las vías antes de emprender la marcha.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-24T07:16:05.000Z"
+    },
+    {
       "id": "36e769db7479",
       "title": "Irán reporta cuatro muertos tras ataques de EE. UU. en el suroeste del país",
       "link": "https://www.dw.com/es/irán-reporta-cuatro-muertos-tras-ataques-de-ee-uu-en-el-suroeste-del-país/a-78094277?maca=spa-rss-sp-all-1122-rdf",
@@ -443,47 +689,11 @@
       "isoDate": "2026-07-24T07:09:05.000Z"
     },
     {
-      "id": "6f58b18001b1",
-      "title": "Las escapadas cortas marcan el ritmo de los viajes de los griegos",
-      "link": "http://es.euronews.com/viajes/2026/07/24/las-escapadas-cortas-marcan-el-ritmo-de-los-viajes-de-los-griegos",
-      "image": null,
-      "snippet": "Los datos de la Autoridad Estadística Helénica indican que los viajes de hasta tres noches registraron el mayor aumento en 2025, mientras que los mayores de 65 años fueron el grupo",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T07:08:09.000Z"
-    },
-    {
-      "id": "f4655fa540ae",
-      "title": "Muere una bebé de 18 meses tras ser olvidada varias horas en un vehículo escolar en Almada (Portugal)",
-      "link": "http://es.euronews.com/my-europe/2026/07/24/muere-bebe-18-meses-tras-ser-olvidada-varias-horas-vehiculo-escolar-almada-portugal",
-      "image": null,
-      "snippet": "La niña habría sido recogida por una trabajadora por la mañana en un vehículo que debía llevarla a la guardería, pero quedó olvidada ocho horas en otro lugar. El centro solo detect",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T07:07:42.000Z"
-    },
-    {
-      "id": "01961fce3b4f",
-      "title": "Incendios en Madrid, en directo | Última hora: el Gobierno declara la emergencia nacional con tres incendios activos",
-      "link": "https://www.lavanguardia.com/vida/20260724/11599750/incendios-madrid-emergencia-nacional-evacuados-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/04/6a493b8f020c8.jpeg",
-      "snippet": "Según ha informado el 112 de la Comunidad de Madrid, los tres incendios que están activos siguen sin estar perimetrados ni controlados, pese a que los trabajos nocturnos han sido e",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T07:05:30.000Z"
-    },
-    {
-      "id": "51db95e5d654",
-      "title": "Francia pide apoyo aéreo a la UE por los tres grandes incendios que azotan al país",
+      "id": "09b4c8759a93",
+      "title": "Decenas de miles de personas evacuadas por el incendio cerca de Burdeos",
       "link": "https://www.lavanguardia.com/internacional/20260724/11600015/francia-pide-apoyo-aereo-ue-tres-grandes-incendios-azotan-pais.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a630b06eec4f.r_d.3095-1628-0.jpeg",
-      "snippet": "Macron anuncia la llegada de aviones y helicópteros desde Croacia, Portugal, la República Checa y Eslovaquia",
+      "snippet": "Macron anuncia la llegada de aviones y helicópteros de extinción desde Croacia, Portugal, la República Checa y Eslovaquia",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -575,18 +785,6 @@
       "isoDate": "2026-07-24T06:55:19.000Z"
     },
     {
-      "id": "d99d438d951e",
-      "title": "Obispo Manuel Adolfo Acuña, exorcista: «Si la persona poseída utiliza una lengua que desconoce, es el demonio llamando a otros demonios»",
-      "link": "https://www.abc.es/recreo/obispo-manuel-adolfo-acuna-exorcista-persona-poseida-20260724085120-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/recreo/2026/07/24/exorcista-ok-kjrH-U30949288061c8-1200x840@diario_abc.jpg",
-      "snippet": "Para la gran mayoría, la palabra 'exorcismo' está directamente relacionada con la ficción. La industria cinematográfica es culpable de ello. Y es que, desde hace décadas, nos hemos",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T06:51:20.000Z"
-    },
-    {
       "id": "edae38052b27",
       "title": "Sabes que no soy buena",
       "link": "https://www.lavanguardia.com/opinion/20260724/11599600/buena.html",
@@ -623,20 +821,8 @@
       "isoDate": "2026-07-24T06:48:18.000Z"
     },
     {
-      "id": "50869f2158a9",
-      "title": "España declara la emergencia nacional por los incendios de la Comunidad de Madrid y Ávila",
-      "link": "http://es.euronews.com/my-europe/2026/07/24/espana-eleva-emergencia-nacional-incendios-11500-evacuados-madrid-avila",
-      "image": null,
-      "snippet": "La gravedad de los incendios forestales ha llevado al Gobierno a declarar este jueves por la noche la emergencia nacional en Madrid y Ávila, donde unas 11.500 personas han tenido q",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T06:42:10.000Z"
-    },
-    {
-      "id": "b363f77d0fe0",
-      "title": "La impresionante columna de humo de los incendios de Madrid y Ávila cruza la Península y ha llegado ya hasta el mar Mediterráneo",
+      "id": "6efca91a9ebb",
+      "title": "La impresionante columna de humo de los fuegos de Madrid cruza la Península y ha llegado al Mediterráneo",
       "link": "https://www.20minutos.es/nacional/impresionante-columna-humo-los-incendios-madrid-avila-cruza-peninsula-ha-llegado-mediterraneo_7018424_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/24/6a6304af6ddb97-67903482.jpeg",
       "snippet": "La Aemet ha compartido esta noche una imagen de satélite, captada desde el Meteosat tercera generación a las 20.30 horas de este jueves.",
@@ -699,7 +885,7 @@
       "title": "Los tres incendios que arrasan Madrid siguen ardiendo sin control: “Sopla mucho viento, va a ser un día muy peligroso”",
       "link": "https://elpais.com/espana/madrid/2026-07-24/los-tres-incendios-que-arrasan-madrid-siguen-ardiendo-sin-control.html",
       "image": "https://imagenes.elpais.com/resizer/v2/LBXWHKJ23JNVHG6U5VFHIPWQCQ.jpg?auth=00e1028fa4eca5305bd098b1ef1d1bf5bce9c658d08f0f1e4c86cc644e0b6419",
-      "snippet": "Los trabajos nocturnos han sido “efectivos”, pero no se ha logrado ni perimetrar los fuegos, dos en Villa del Prado y uno en San Martín - “Lo peor es lo de Ávila, nos podemos junta",
+      "snippet": "Los trabajos nocturnos han sido “efectivos”, pero no se ha logrado ni perimetrar los dos en Villa del Prado ni el de San Martín. España solicita la ayuda de Bruselas para luchar co",
       "source": "El País",
       "sourceId": "elpais",
       "country": "ES",
@@ -719,8 +905,8 @@
       "isoDate": "2026-07-24T06:17:46.000Z"
     },
     {
-      "id": "69bed8df5d39",
-      "title": "El viento complica los trabajos de extinción de los tres incendios en Madrid",
+      "id": "a99035aeba68",
+      "title": "España solicita medios aéreos a la UE y Grecia confirma el envío de dos hidroaviones",
       "link": "https://www.abc.es/sociedad/incendios-espana-hoy-directo-fuegos-activos-madrid-20260723185959-di.html",
       "image": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/07/23/incendios-kSxG-U30977898089BZ-1200x840@diario_abc.jpg",
       "snippet": "Sigue en directo los incendios forestales activos alrededor de España, en comunidades como Madrid, Castilla y León o Castilla-La Mancha, y la última hora de las personas evacuadas,",
@@ -755,42 +941,6 @@
       "isoDate": "2026-07-24T06:08:30.000Z"
     },
     {
-      "id": "2007fc5ba43e",
-      "title": "Dioses furiosos y odiseas traicioneras, ¿cuánto sabe de la mitología griega?",
-      "link": "http://es.euronews.com/cultura/2026/07/24/dioses-furiosos-y-odiseas-traicioneras-cuanto-sabes-de-la-mitologia-griega",
-      "image": null,
-      "snippet": "Mientras la adaptación de Christopher Nolan de \"La Odisea\" de Homero mantiene su dominio casi divino en taquilla, 'Euronews Culture' pone a prueba tus conocimientos de mitología gr",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T06:08:10.000Z"
-    },
-    {
-      "id": "1754ff7844b4",
-      "title": "La mayoría de empleos de IA ya están fuera de puestos tecnológicos en Europa",
-      "link": "http://es.euronews.com/business/2026/07/24/la-mayoria-de-empleos-de-ia-ya-estan-fuera-de-puestos-tecnologicos-en-europa",
-      "image": null,
-      "snippet": "Los anuncios de empleo con cargos vinculados a la IA se multiplican en Europa, y ya no se limitan a perfiles de IA o datos, la mayoría se ofrece en puestos no tecnológicos.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T06:00:56.000Z"
-    },
-    {
-      "id": "9dc72d331d97",
-      "title": "¿Tiene un minuto? Respetar el límite de velocidad ahorra dinero y emisiones",
-      "link": "http://es.euronews.com/2026/07/24/menos-de-un-minuto-de-tu-tiempo-respetar-el-limite-de-velocidad-ahorra-dinero-y-emisiones",
-      "image": null,
-      "snippet": "Un nuevo estudio señala que respetar los límites de velocidad podría ahorrar millones de euros al año y solo añadir 54 segundos al trayecto medio diario.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T06:00:31.000Z"
-    },
-    {
       "id": "43675f4b2f3b",
       "title": "EE.UU. negocia en Madrid con la oposición venezolana para alcanzar elecciones libres",
       "link": "https://www.abc.es/espana/eeuu-negocia-madrid-oposicion-venezolana-alcanzar-elecciones-20260723012856-nt.html",
@@ -803,15 +953,15 @@
       "isoDate": "2026-07-24T06:00:18.000Z"
     },
     {
-      "id": "0beda34247ae",
-      "title": "Claudio Nieto, experto en metabolismo: «Cuando descansas en vacaciones, florece todo lo que tu cuerpo no ha dejado que florezca antes y te pones malo»",
-      "link": "https://www.abc.es/bienestar/claudio-nieto-experto-metabolismo-descansas-vacaciones-florece-20260724173808-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/bienestar/2026/07/24/newspaint-1784647130209-1200x840-RHpuOKi5lQGk9SfrlDKQqrL-1200x840@diario_abc.jpg",
-      "snippet": "El día antes de las vacaciones de verano suele ser uno de los más agradables para un trabajador. Llega el momento de descansar tras todo un año. Sin embargo, hay personas que estos",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
+      "id": "430b6727cbd6",
+      "title": "El chavismo busca truncar la transición tras el terremoto, pero EE.UU. le cierra el paso y se abre una oportunidad para Machado",
+      "link": "https://www.lanacion.com.ar/el-mundo/el-chavismo-busca-truncar-la-transicion-tras-el-terremoto-pero-eeuu-le-cierra-el-paso-y-se-abre-una-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/STVP3BEIHBCKTDDVTBYW6QNCJI.JPG?auth=6a24723f5a0edc80b83092d1b8f476602a6db3c355c94fb7e0ada9fc8a59dd13&smart=true&width=3660&height=2441",
+      "snippet": "Marco Rubio comenzó a reordenar los plazos y las instituciones para avanzar hacia elecciones generales a fines de 2027",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
       "isoDate": "2026-07-24T06:00:00.000Z"
     },
     {
@@ -837,114 +987,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-24T06:00:00.000Z"
-    },
-    {
-      "id": "430b6727cbd6",
-      "title": "El chavismo busca truncar la transición tras el terremoto, pero EE.UU. le cierra el paso y se abre una oportunidad para Machado",
-      "link": "https://www.lanacion.com.ar/el-mundo/el-chavismo-busca-truncar-la-transicion-tras-el-terremoto-pero-eeuu-le-cierra-el-paso-y-se-abre-una-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/STVP3BEIHBCKTDDVTBYW6QNCJI.JPG?auth=6a24723f5a0edc80b83092d1b8f476602a6db3c355c94fb7e0ada9fc8a59dd13&smart=true&width=3660&height=2441",
-      "snippet": "Marco Rubio comenzó a reordenar los plazos y las instituciones para avanzar hacia elecciones generales a fines de 2027",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T06:00:00.000Z"
-    },
-    {
-      "id": "260ab7cd4d50",
-      "title": "El avión de Pan Am y la tragedia que cambió la seguridad en los vuelos: “Nadie avisó dónde estaban los chalecos”",
-      "link": "https://www.lanacion.com.ar/lifestyle/el-avion-de-pan-am-y-la-tragedia-que-cambio-la-seguridad-en-los-vuelos-nadie-aviso-donde-estaban-los-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/C7MXEK3GFVERXBUHFZXEGNOV24.jpg?auth=9f21ef0630635e340604450d9a46c5943e60c9309e530bb3ccf6f34df5bb37ac&smart=true&width=596&height=395",
-      "snippet": "El Clipper Endeavor experimentó fallas en dos de sus cuatro motores y tuvo que amerizar; por la falta de protocolo, los pasajeros no entendieron dónde buscar los chalecos salvavida",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T06:00:00.000Z"
-    },
-    {
-      "id": "1b65c87feeab",
-      "title": "Tony Robbins, experto en crecimiento personal: “La mente busca lo que está mal”",
-      "link": "https://www.lanacion.com.ar/lifestyle/tony-robbins-experto-en-crecimiento-personal-la-mente-busca-lo-que-esta-mal-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZSD6ZJLJWRFSJD5EEV5H2BJGDE.png?auth=30dd67e63a95ff9ead25b936b7e38f9bdb8e4289d367bbe72c9df2f2f511dbbe&smart=true&width=1200&height=800",
-      "snippet": "El conferencista analizó cómo el ego y la atención centrada en uno mismo impactan en la salud emocional; propuso la gratitud como herramienta inmediata",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T06:00:00.000Z"
-    },
-    {
-      "id": "df48ac6c8099",
-      "title": "Parques Nacionales y los prestadores de Iberá llegaron a un acuerdo para recibir turistas en los senderos con presencia de yaguaretés",
-      "link": "https://www.lanacion.com.ar/revista-lugares/parques-nacionales-y-los-prestadores-de-ibera-llegaron-a-un-acuerdo-para-recibir-turistas-en-los-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/4WVYPCZAKVC63JNIHKNKMLVJDE.jpg?auth=c1341ce080e603ccc72cedd1ed39ea01e9d0b9878d46408b5175404c51736510&smart=true&width=2000&height=1333",
-      "snippet": "Después de semanas de incertidumbre en torno al manejo del área protegida, la Administración de Parques Nacionales se reunió con la Cámara de Turismo de Carlos Pellegrini y encontr",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-24T06:00:00.000Z"
-    },
-    {
-      "id": "5855031f36b2",
-      "title": "Como un pájaro en vuelo, ahora puede columpiarse sobre los Alpes suizos",
-      "link": "http://es.euronews.com/viajes/2026/07/24/como-un-pajaro-en-vuelo-ahora-puedes-columpiarte-sobre-los-alpes-suizos",
-      "image": null,
-      "snippet": "El columpio de 12 metros de altura, inaugurado a comienzos de este mes, aspira a atraer visitantes fuera de temporada ante la creciente falta de nieve por el cambio climático.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T05:59:37.000Z"
-    },
-    {
-      "id": "d50395d36792",
-      "title": "Europe Today: Trump impone nuevos aranceles y la UE acuerda más sanciones a Rusia",
-      "link": "http://es.euronews.com/my-europe/2026/07/24/europe-today-trump-impone-nuevos-aranceles-y-la-ue-acuerda-mas-sanciones-a-rusia",
-      "image": null,
-      "snippet": "El presidente estadounidense Donald Trump impone nuevos aranceles a socios como la UE, entre el diez y el 12,5%. El eurodiputado Bernd Lange reacciona y la UE acuerda nuevas sancio",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T05:58:24.000Z"
-    },
-    {
-      "id": "e2ba5b84859b",
-      "title": "Trump intenta reconstruir su muro proteccionista con aranceles del 10 y el 12% a más de 60 socios comerciales, incluyendo la UE",
-      "link": "https://www.elmundo.es/economia/2026/07/24/6a628eabe4d4d8a9278b458b.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/23/17848439574807.jpg",
-      "snippet": "Tras la decisión del Tribunal Supremo, que en febrero declaró ilegales los gravámenes aplicados con una ley de emergencia económica, Washington aplica un nuevo recargo amparándose ",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T05:56:49.000Z"
-    },
-    {
-      "id": "e19de6444af5",
-      "title": "Entrevista exclusiva con Stan Wawrinka: \"He logrado mucho más de lo que jamás habría podido soñar\"",
-      "link": "http://es.euronews.com/2026/07/24/entrevista-exclusiva-con-stan-wawrinka-he-logrado-mucho-mas-de-lo-que-jamas-habria-podido-",
-      "image": null,
-      "snippet": "En una entrevista con 'Euronews', el tenista helvético, ganador de tres títulos de Grand Slam y exnúmero tres del mundo, confesó que afronta el inminente final de su carrera \"sin a",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T05:55:54.000Z"
-    },
-    {
-      "id": "1850067e341d",
-      "title": "Los vecinos de La Mierla vuelven a casa: «Era mi pesadilla de cada verano y este año llegó»",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/vecinos-mierla-regresan-casas-tras-incendio-era-20260723073927-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/23/Mierla.jpg-RwUxlTcj9GRyEF8sckM3quO-1200x840@diario_abc.jpg",
-      "snippet": "Siete días después de abandonar rápidamente sus hogares mientras las llamas avanzaban hacia el pueblo, los vecinos de La Mierla han regresado por fin este jueves a sus casas. La re",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T05:51:52.000Z"
     },
     {
       "id": "0d65e713989b",
@@ -995,18 +1037,6 @@
       "isoDate": "2026-07-24T05:35:39.000Z"
     },
     {
-      "id": "b5861261ae7f",
-      "title": "Con los vecinos de Burgohondo: una lengua de fuego devorando la sierra, la pena de mirar al cielo y durmiendo en el coche",
-      "link": "https://www.elmundo.es/espana/2026/07/24/6a62aef5e85ece02518b458e.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17848514299607.jpg",
-      "snippet": "Los vecinos vivieron una noche de desalojos, confinamientos y humo mientras los equipos de extinción intentaban contener un incendio aún fuera de control Leer",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T05:34:53.000Z"
-    },
-    {
       "id": "58507f9d5aff",
       "title": "Atención texanos con SNAP afectados por inundaciones: cómo pedir que te repongan la ayuda y hasta cuándo",
       "link": "https://elcomercio.pe/mag/usa/local-us/atencion-texanos-con-snap-afectados-por-inundaciones-como-pedir-que-te-repongan-la-ayuda-y-hasta-cuando-texas-nnda-nnlt-noticia/",
@@ -1017,30 +1047,6 @@
       "country": "PE",
       "countryLabel": "Perú",
       "isoDate": "2026-07-24T05:33:30.000Z"
-    },
-    {
-      "id": "9aca4d067f12",
-      "title": "Mar Dorrío: «La mejor extraescolar para tu hijo es tener un rato con tu marido»",
-      "link": "https://www.abc.es/familia/mar-madre-hijos-mejor-extraescolar-hijo-tener-20260724073000-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/familia/2026/07/24/newspaint-1784795483254-1200x840-kWTE-U30966800771vND-1200x840@diario_abc.jpg",
-      "snippet": "El centro de la familia no son los hijos, como se puede llegar a pensar por la cantidad el tiempo y energía que se les dedica cada día, es el matrimonio. La pareja que cuida, educa",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T05:30:06.000Z"
-    },
-    {
-      "id": "49f10c8f1ae7",
-      "title": "Trump amenaza con usar activos iraníes congelados para pagar daños marítimos",
-      "link": "http://es.euronews.com/2026/07/24/trump-amenaza-con-usar-activos-iranies-congelados-para-pagar-danos-maritimos",
-      "image": null,
-      "snippet": "Teherán afirmó el viernes que la amenaza del presidente estadounidense Donald Trump de cubrir los daños a la navegación con activos iraníes es un \"precedente incendiario\".",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T05:29:30.000Z"
     },
     {
       "id": "359a7d870496",
@@ -1091,30 +1097,6 @@
       "isoDate": "2026-07-24T05:09:19.000Z"
     },
     {
-      "id": "7a0559393db9",
-      "title": "¿Por qué el brote de ébola de crecimiento más rápido de la historia es más difícil de controlar?",
-      "link": "http://es.euronews.com/salud/2026/07/24/por-que-el-brote-de-ebola-de-crecimiento-mas-rapido-de-la-historia-es-mas-dificil-de-contr",
-      "image": null,
-      "snippet": "El brote de ébola de más rápido crecimiento de la historia ha causado ya más de 1.000 muertos en el este de Congo, mientras las autoridades sanitarias luchan por contener el virus ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T05:08:27.000Z"
-    },
-    {
-      "id": "4ffaa6f23a85",
-      "title": "Los países afectados por los aranceles acusan a Trump de utilizar el trabajo forzoso como \"excusa\" para desatar una guerra comercial",
-      "link": "https://www.20minutos.es/internacional/guerra-comercial-trump-criticas-brasil-inquietud-chile-negociacion-mexico_7018400_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2019/03/24/913864.jpg",
-      "snippet": "Japón considera \"lamentable\" la aplicación de esos gravámenes y Australia exige su retirada. Brasil también ha sidi crítico con Trump.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T05:05:25.000Z"
-    },
-    {
       "id": "92bcdb2c41d9",
       "title": "EE.UU. encadena trece noches de ataques en Irán",
       "link": "https://www.dw.com/es/ee-uu-encadena-trece-noches-de-ataques-en-irán/a-78093493?maca=spa-rss-sp-all-1122-rdf",
@@ -1163,18 +1145,6 @@
       "isoDate": "2026-07-24T05:01:00.000Z"
     },
     {
-      "id": "03ca15e9eed4",
-      "title": "\"Respeta la ciudad\", así gestiona Dubrovnik el turismo masivo sin perder su encanto",
-      "link": "http://es.euronews.com/viajes/2026/07/24/respeta-la-ciudad-asi-gestiona-dubrovnik-el-turismo-masivo-sin-perder-su-encanto",
-      "image": null,
-      "snippet": "El alcalde de Dubrovnik, Mato Franković, explica a Euronews Travel cómo la ciudad croata utiliza datos y llegadas escalonadas para redefinir el turismo local y proteger uno de los ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-24T05:00:53.000Z"
-    },
-    {
       "id": "a259bcc615f0",
       "title": "Lula acusa a EE.UU. de “manipular un tema fundamental” para justificar su política de aranceles",
       "link": "https://www.latercera.com/mundo/noticia/lula-acusa-a-eeuu-de-manipular-un-tema-fundamental-para-justificar-su-politica-de-aranceles/",
@@ -1197,30 +1167,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-24T04:49:26.000Z"
-    },
-    {
-      "id": "843f9f3222cc",
-      "title": "Efemérides del 24 de julio: ¿Qué pasó en el mundo un día como hoy?",
-      "link": "https://elcomercio.pe/mundo/actualidad/efemerides-del-24-de-julio-que-paso-en-el-mundo-un-dia-como-hoy-hiram-bingham-machu-picchu-peru-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/YFCZMUXVINDYBCDX2Y3DU7A3JY.jpg?auth=a0c9248deeafcd201a1fd9aabdf99f8eb32a6106282063a6a22a40ef7b555ac0&smart=true&width=1200&height=800",
-      "snippet": "Efemérides | Conoce qué sucedía en el mundo un 24 de julio, un día cargado de nacimientos, muertes y otros momentos históricos que conmocionaron al mundo.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-24T04:48:38.000Z"
-    },
-    {
-      "id": "abe9befbb445",
-      "title": "The Strokes estrena ‘Reality Awaits’, su primer álbum de estudio en seis años",
-      "link": "https://elcomercio.pe/luces/musica/the-strokes-estrena-reality-awaits-su-primer-album-de-estudio-en-seis-anos-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/T6LN4XQQ3FDSXBZ34VZ6LBB6ZU.jpg?auth=a1df28aaf0f40523389f4df47b4cc3da147f5e21ca3d037d8ba483d9bad25849&smart=true&width=1200&height=800",
-      "snippet": "El nuevo trabajo ha sido producido nuevamente por Rick Rubin y grabado entre Costa Rica y distintos estudios de todo el mundo, según informó la discográfica del grupo, Sony.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-24T04:35:31.000Z"
     },
     {
       "id": "895d5d5d0a77",
@@ -1259,18 +1205,6 @@
       "isoDate": "2026-07-24T04:17:47.000Z"
     },
     {
-      "id": "bd95b0f8ea63",
-      "title": "Incendio en Manzanilla: alcalde Reggiardo responsabiliza a los extorsionadores y exige medidas urgentes al Ejecutivo",
-      "link": "https://elcomercio.pe/lima/incendio-en-manzanilla-alcalde-reggiardo-responsabiliza-a-los-extorsionadores-y-exige-medidas-urgentes-al-ejecutivo-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/KKQN5YDX7FD53AMEEWZLTJ5OMM.jpg?auth=f14e1fe2cb16f0b5df37aca36f664b7624f40a47d428d8bf790c650aca47b66c&smart=true&width=1280&height=720",
-      "snippet": "El alcalde de Lima, Renzo Reggiardo, visitó a la familia de las 10 víctimas mortales del incendio registrado en el sector de Manzanilla, en el límite entre el Cercado de Lima y La ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-24T04:12:27.000Z"
-    },
-    {
       "id": "fb73d0ed1175",
       "title": "Outman pega jonrón de 3 vueltas y Dingler impulsa carrera del triunfo de Tigres, 4-3 ante Reales",
       "link": "https://www.clarin.com/estados-unidos/outman-pega-jonron-de-3-vueltas-y-dingler-impulsa-carrera-del-triunfo-de-tigres-4-3-ante-reales_0_AhQ9non9XV.html",
@@ -1295,11 +1229,11 @@
       "isoDate": "2026-07-24T04:00:00.000Z"
     },
     {
-      "id": "5bbaa760a31f",
-      "title": "Un ligero alivio térmico pone fin a la tercera ola de calor",
-      "link": "https://www.lavanguardia.com/natural/20260724/11599241/ligero-alivio-termico-semana-pone-tercera-ola-calor.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/18/6a5b7467c03ce.jpeg",
-      "snippet": "Las temperaturas volverán a subir la semana que viene",
+      "id": "71224314126f",
+      "title": "El calor extremo desborda a Europa",
+      "link": "https://www.lavanguardia.com/natural/20260724/11598765/cambio-climatico-ola-calor-europa-alerta-temperatura.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/22/6a60ea0fd3472.r_d.2022-1427-0.jpeg",
+      "snippet": "",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -1319,11 +1253,11 @@
       "isoDate": "2026-07-24T04:00:00.000Z"
     },
     {
-      "id": "71224314126f",
-      "title": "El calor extremo desborda a Europa",
-      "link": "https://www.lavanguardia.com/natural/20260724/11598765/cambio-climatico-ola-calor-europa-alerta-temperatura.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/22/6a60ea0fd3472.r_d.2022-1427-0.jpeg",
-      "snippet": "",
+      "id": "52426136d907",
+      "title": "Miquel Sàmper: “Hay que flexibilizar horarios ante las olas de calor en los sectores más expuestos”",
+      "link": "https://www.lavanguardia.com/natural/20260724/11599635/miquel-samper-hay-flexibilizar-horarios-olas-calor.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a62453f937df.r_d.3936-1902-0.jpeg",
+      "snippet": "“Al final, habrá que recoger la fruta por la noche por culpa del calor”, apunta el conseller de Empresa i Treball",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -1331,11 +1265,11 @@
       "isoDate": "2026-07-24T04:00:00.000Z"
     },
     {
-      "id": "8d57fe867b87",
-      "title": "Miquel Sàmper: “Hay que flexibilizar los horarios ante las olas de calor”",
-      "link": "https://www.lavanguardia.com/natural/20260724/11599635/miquel-samper-hay-flexibilizar-horarios-olas-calor.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a62453f937df.r_d.3936-1902-0.jpeg",
-      "snippet": "“Al final, habrá que recoger la fruta por la noche por culpa del calor”, apunta el conseller de Empresa i Treball",
+      "id": "5bbaa760a31f",
+      "title": "Un ligero alivio térmico pone fin a la tercera ola de calor",
+      "link": "https://www.lavanguardia.com/natural/20260724/11599241/ligero-alivio-termico-semana-pone-tercera-ola-calor.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/18/6a5b7467c03ce.jpeg",
+      "snippet": "Las temperaturas volverán a subir la semana que viene",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -1454,7 +1388,7 @@
       "id": "830e1e700b97",
       "title": "El Gobierno activará los Presupuestos pese al rechazo de la senda fiscal y abrirá un escenario insólito en España",
       "link": "https://elpais.com/economia/2026-07-24/el-gobierno-activara-los-presupuestos-pese-al-rechazo-de-la-senda-fiscal-y-abrira-un-escenario-insolito-en-espana.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5CO73K5GKJMB7JNAEGBSZ37BRE.jpg?auth=7246e4a0531fa8a98e05f85ac9943b4ee3ee50290793ca24def395fcce21c60f",
+      "image": null,
       "snippet": "Hacienda asegura que la Abogacía del Estado permite continuar con el trámite de las cuentas públicas aunque el Congreso haya rechazado los objetivos de déficit",
       "source": "El País",
       "sourceId": "elpais",
@@ -1499,11 +1433,11 @@
       "isoDate": "2026-07-24T03:30:01.000Z"
     },
     {
-      "id": "2f39db93003f",
-      "title": "La M.O.D.A.: héroes de Burgos que reivindican a ‘los nadie’ de la vida",
-      "link": "https://elpais.com/eps/2026-07-24/la-moda-heroes-de-burgos-que-reivindican-a-los-nadie-de-la-vida.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/FQBB7COK3BHCJL5Y37GTQ6CRJE.jpg?auth=355970b9680f9c7fd84d75be7466cb49ecce8edfc794315c391899796d3225cd",
-      "snippet": "Una pandilla de amigos montaron una banda en 2010 y hoy es la más importante en la historia de la ciudad y una de las más grandes del panorama español. Los chicos de la Maravillosa",
+      "id": "e167fa2996d7",
+      "title": "Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”",
+      "link": "https://elpais.com/icon/2026-07-24/christopher-anderson-el-ultimo-hombre-que-fotografio-a-epstein-lo-primero-que-recuerdo-es-a-la-joven-que-abrio-la-puerta.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Q2QNTNZG6ZBCPMAAYZ2V3BSVVE.jpg?auth=3f6458a9130ba5003f4ce00438ac6b35b8f504af170d0b39886bbe21d88dccaf",
+      "snippet": "En ‘Index’ el corresponsal de guerra y fotoperiodista repasa 30 años de carrera que incluyen desde territorios en conflicto hasta celebridades y poderosos",
       "source": "El País",
       "sourceId": "elpais",
       "country": "ES",
@@ -1511,11 +1445,11 @@
       "isoDate": "2026-07-24T03:30:01.000Z"
     },
     {
-      "id": "e167fa2996d7",
-      "title": "Christopher Anderson, el último hombre que fotografió a Epstein: “Lo primero que recuerdo es a la joven que abrió la puerta”",
-      "link": "https://elpais.com/icon/2026-07-24/christopher-anderson-el-ultimo-hombre-que-fotografio-a-epstein-lo-primero-que-recuerdo-es-a-la-joven-que-abrio-la-puerta.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/Q2QNTNZG6ZBCPMAAYZ2V3BSVVE.jpg?auth=3f6458a9130ba5003f4ce00438ac6b35b8f504af170d0b39886bbe21d88dccaf",
-      "snippet": "En ‘Index’ el corresponsal de guerra y fotoperiodista repasa 30 años de carrera que incluyen desde territorios en conflicto hasta celebridades y poderosos",
+      "id": "2f39db93003f",
+      "title": "La M.O.D.A.: héroes de Burgos que reivindican a ‘los nadie’ de la vida",
+      "link": "https://elpais.com/eps/2026-07-24/la-moda-heroes-de-burgos-que-reivindican-a-los-nadie-de-la-vida.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/FQBB7COK3BHCJL5Y37GTQ6CRJE.jpg?auth=355970b9680f9c7fd84d75be7466cb49ecce8edfc794315c391899796d3225cd",
+      "snippet": "Una pandilla de amigos montaron una banda en 2010 y hoy es la más importante en la historia de la ciudad y una de las más grandes del panorama español. Los chicos de la Maravillosa",
       "source": "El País",
       "sourceId": "elpais",
       "country": "ES",
@@ -1595,18 +1529,6 @@
       "isoDate": "2026-07-24T03:09:45.000Z"
     },
     {
-      "id": "bbea57682a8e",
-      "title": "Los jóvenes de las pandillas que evitan enfrentarse entre sí para convertirse en emprendedores de paz en el Cauca",
-      "link": "https://www.eltiempo.com/colombia/cali/los-jovenes-de-las-pandillas-que-evitan-enfrentarse-entre-si-para-convertirse-en-emprendedores-de-paz-en-el-cauca-3573462",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a62c9b735749.r_d.1939-1285-0.jpeg",
-      "snippet": "La Alcaldía de Puerto Tejada trabaja de la mano de Policía Nacional. Buscan apoyo de ONG y empresas privadas. Los asesinatos se redujeron a la mitad.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-24T03:08:38.000Z"
-    },
-    {
       "id": "27ac10b83fb7",
       "title": "Balance de sistema frontal: 13 fallecidos, 18 desaparecidos, 18.254 damnificados y más de 59 mil viviendas dañadas",
       "link": "https://www.latercera.com/nacional/noticia/balance-de-sistema-frontal-13-fallecidos-18-desaparecidos-18254-damnificados-y-mas-de-59-mil-viviendas-danadas/",
@@ -1619,8 +1541,8 @@
       "isoDate": "2026-07-24T03:02:02.000Z"
     },
     {
-      "id": "b88d90cf2755",
-      "title": "Quince aviones 'reversibles' con los que contaba el Ejecutivo para luchar contra el fuego, en tierra por no tener kit antiincendios",
+      "id": "b219fd47c2ae",
+      "title": "El Gobierno deja quince Airbus en tierra para luchar contra el fuego por no haber puesto el kit antiincendios",
       "link": "https://www.20minutos.es/nacional/quince-aviones-reversibles-airbus-con-los-que-contaba-gobierno-para-luchar-contra-fuego-tierra-por-no-tener-kit-antiincendios_7017780_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/22/6a60cff9b58455-35272726.jpeg",
       "snippet": "Se trata del modelo militar A400M que Aagesen y la compañía aeronáutica acordaron el año pasado que se adaptarían para poder trabajar en extinción de incendios. Sin embargo, España",
@@ -1631,8 +1553,8 @@
       "isoDate": "2026-07-24T03:00:00.000Z"
     },
     {
-      "id": "1dc714100524",
-      "title": "Zapatero dice que no tuvo información del rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
+      "id": "5b1e20633c0e",
+      "title": "Zapatero dice que no tuvo datos sobre el rescate de Plus Ultra pero no explica por qué 'Julito' supo que se aprobaría 11 días antes",
       "link": "https://www.20minutos.es/nacional/zapatero-dice-que-no-tuvo-informacion-rescate-plus-ultra-pero-no-explica-por-que-julito-supo-que-se-aprobaria-11-dias-antes_7018319_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/23/6a6208e21da470-72969764.r_d.1336-569-15335.jpeg",
       "snippet": "El socio y amigo de Zapatero avisó a la cúpula de Plus Ultra de que la ayuda pública iba a concederse, cuando ni siquiera la SEPI la había aprobado aún.",
@@ -1643,8 +1565,8 @@
       "isoDate": "2026-07-24T03:00:00.000Z"
     },
     {
-      "id": "3ef0cc73b4b0",
-      "title": "Más del 40% de votantes socialistas no ve creíble a Zapatero y piensa que el Gobierno no debe apoyarle",
+      "id": "dd67c14476d4",
+      "title": "Más del 40% de votantes socialistas no ve creíble a Zapatero y piensa que el Gobierno no debería apoyarle",
       "link": "https://www.20minutos.es/nacional/mas-40-votantes-socialistas-no-ve-creible-zapatero-piensa-que-gobierno-no-deberia-apoyarle_7017831_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a61e55817e779-03884945.jpeg",
       "snippet": "El 61,8% de los ciudadanos considera que el Gobierno debería dejar caer su respaldo al expresidente tras su imputación.",
@@ -1660,66 +1582,6 @@
       "link": "https://www.20minutos.es/nacional/familia-valeria-una-joven-espanola-coma-tras-un-accidente-australia-cada-dia-ingresada-cuesta-unos-3-500-dolares_7018204_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a61fef1746c21-75468505.png",
       "snippet": "La bilbaína sufre una lesión cerebral severa y podría permanecer en el hospital entre seis meses y un año, generando una deuda inasumible para sus padres.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T03:00:00.000Z"
-    },
-    {
-      "id": "8c8dc949d350",
-      "title": "Rafael Amargo: \"Sé cosas de gente y no me gusta la venganza, pero el silencio también vale un dinero\"",
-      "link": "https://www.20minutos.es/cultura/rafael-amargo-se-cosas-gente-no-me-gusta-venganza-pero-silencio-vale-un-dinero_7017490_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/08/6a4e2b6469ee85-92262386.jpeg",
-      "snippet": "Rafael Amargo regresa al escenario tras seis años de ausencia, los días 27 y 29 de julio, con el espectáculo ALÁ! IRÉ en el 'rooftop' del Teatro Calderón de Madrid",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T03:00:00.000Z"
-    },
-    {
-      "id": "d10d759ea3e2",
-      "title": "¿Cómo una IA 'hackeó' a otra por su cuenta y riesgo? Quiso cumplir la tarea encargada... y se escapó de su \"jaula\"",
-      "link": "https://www.20minutos.es/internacional/como-es-posible-que-una-ia-hackeara-otra-por-su-cuenta-riesgo-quiso-cumplir-tarea-que-se-le-encargo-se-escapo-su-jaula_7018219_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/22/6a60e47f3e4da1-22702815.r_d.781-66-12500.png",
-      "snippet": "Uno de los modelos de inteligencia artificial de OpenAI se descontroló y lanzó un ciberataque \"sin precedentes\" sobre los servidores de otra.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T03:00:00.000Z"
-    },
-    {
-      "id": "0f60b721f54b",
-      "title": "¿Cuál es tu edad biológica? Te retamos a saber qué tipos de hábitos frenan o aceleran más tu envejecimiento",
-      "link": "https://www.20minutos.es/salud/trivial-cual-es-tu-edad-biologica-retamos-saber-habitos-frenan-aceleran-envejecimiento_7014027_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/14/6a563d2091b9e9-68164860.png",
-      "snippet": "En este test de 10 preguntas podrás descubrir si tu estilo de vida suma o resta años a tu salud.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T03:00:00.000Z"
-    },
-    {
-      "id": "bf9976c3b551",
-      "title": "Una masa de aire polar da un respiro este fin de semana antes de otra subida de temperaturas",
-      "link": "https://www.20minutos.es/nacional/entrada-una-masa-aire-polar-da-un-respiro-espana-este-fin-semana-antes-una-nueva-subida-temperaturas_7018096_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/07/23/6a61dfa982dab2-91107920.r_d.490-297-23893.png",
-      "snippet": "El descenso del chorro polar provocará un descenso de las temperaturas en casi todo el país, favorecerá la entrada de una DANA y se incrementará la posibilidad de tormentas general",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T03:00:00.000Z"
-    },
-    {
-      "id": "99649d622ede",
-      "title": "El caos sigue en Venezuela tras un mes del doble terremoto con denuncias de desaparecidos en hospitales, morgues y bajo los escombros",
-      "link": "https://www.20minutos.es/internacional/caos-sigue-venezuela-tras-un-mes-los-terremotos-con-denuncias-desaparecidos-hospitales-morgues-bajo-los-escombros_7018261_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a6265b4b00bf4-77257087.jpeg",
-      "snippet": "Hasta ahora no existe una cifra oficial de desaparecidos, pero la página web Desaparecidos Terremoto Venezuela contabiliza más de 29.000 personas que no han podido ser localizadas.",
       "source": "20minutos",
       "sourceId": "20minutos",
       "country": "ES",
@@ -1821,18 +1683,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-24T01:43:22.000Z"
-    },
-    {
-      "id": "7121dd6231cb",
-      "title": "Harvard puso a Cali en el mapa global del conocimiento afro de América Latina: '¿Vamos a seguir construyendo naciones racistas o de inclusión?’",
-      "link": "https://www.eltiempo.com/colombia/cali/harvard-puso-a-cali-en-el-mapa-global-del-conocimiento-afro-de-america-latina-vamos-a-seguir-construyendo-naciones-racistas-o-de-inclusion-3573453",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/23/6a62bf1174778.jpeg",
-      "snippet": "Cali es el epicentro de un encuentro mundial. EL TIEMPO dialogó con prestigioso investigador de la Universidad de Harvard.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-24T01:39:23.000Z"
     },
     {
       "id": "108892b38744",
@@ -2183,6 +2033,18 @@
       "isoDate": "2026-07-23T23:33:05.000Z"
     },
     {
+      "id": "1d4b1f4be828",
+      "title": "El incendio forestal cerca el Safari Madrid, en Aldea del Fresno, y obliga a confinar a los animales más peligrosos",
+      "link": "https://www.elmundo.es/madrid/2026/07/24/6a62a2f7fc6c83b4548b45a7.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/24/17848494612109.jpg",
+      "snippet": "Los operarios se mantienen en guardia durante toda la madrugada Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-23T23:32:49.000Z"
+    },
+    {
       "id": "d8b8cf8b67c9",
       "title": "Esta es la agenda que se trazaron el nuevo gobierno de Abelardo De la Espriella y Asocaña: defensa de la producción nacional, empleo y seguridad rural",
       "link": "https://www.eltiempo.com/colombia/cali/esta-es-la-agenda-que-se-trazaron-el-nuevo-gobierno-de-abelardo-de-la-espriella-y-asocana-defensa-de-la-produccion-nacional-empleo-y-seguridad-rural-3573420",
@@ -2301,18 +2163,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-07-23T23:01:00.000Z"
-    },
-    {
-      "id": "eb9a8f4e489d",
-      "title": "La simultaneidad de incendios forestales en Madrid, Toledo y Ávila dificulta los trabajos de extinción",
-      "link": "https://www.lavanguardia.com/vida/20260724/11599753/simultaneidad-incendios-forestales-madrid-toledo-avila-dificulta-trabajos-extincion.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a6249ae1a08c.r_d.3732-2151-0.jpeg",
-      "snippet": "Más de 10.000 evacuados de los municipios de Villa del Prado, San Martín de Valdeiglesias, Pelayos de la Presa y Aldea del Fresno por los tres fuegos que afectan a la Comunidad de ",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-23T22:58:55.000Z"
     },
     {
       "id": "cd394c7105dc",
@@ -2603,18 +2453,6 @@
       "isoDate": "2026-07-23T20:58:00.000Z"
     },
     {
-      "id": "9fabc206bf1f",
-      "title": "El Gobierno declara la emergencia nacional en Madrid por los incendios",
-      "link": "https://www.lavanguardia.com/politica/20260723/11599740/ayuso-pide-declarar-emergencia-interes-nacional-incendios-comunidad-madrid-servimedia20260723.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a6292442ff3e.r_d.735-406-0.jpeg",
-      "snippet": "Esto ocurre después de que la presidenta de la Comunidad de Madrid, Isabel Díaz Ayuso, haya solicitado la medida, con la que el Ejecutivo central asume la dirección de todas las op",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-23T20:52:45.000Z"
-    },
-    {
       "id": "3decff8f5ee6",
       "title": "Anticorrupción pide ampliar el análisis de las joyas de Zapatero para averiguar la fecha exacta de su montaje",
       "link": "https://www.elmundo.es/espana/2026/07/23/6a625e4bfc6c83151b8b4586.html",
@@ -2675,18 +2513,6 @@
       "isoDate": "2026-07-23T20:43:07.000Z"
     },
     {
-      "id": "80a9a5cfa48f",
-      "title": "El pacto nuclear entre EE. UU. y Arabia Saudita inquieta a la región",
-      "link": "https://www.dw.com/es/el-pacto-nuclear-entre-ee-uu-y-arabia-saudita-inquieta-a-la-región/a-78091752?maca=spa-rss-sp-all-1122-rdf",
-      "image": null,
-      "snippet": "El acuerdo nuclear entre Washington y Riad despierta críticas por el riesgo de una carrera armamentística en el Medio Oriente. Además, preocupa a aliados de EE. UU. como Israel y E",
-      "source": "DW Español",
-      "sourceId": "dw",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-23T19:42:00.000Z"
-    },
-    {
       "id": "8414728c05f8",
       "title": "Canadá y la UE estrechan lazos comerciales en respuesta a los aranceles de Trump",
       "link": "https://www.dw.com/es/canadá-y-la-ue-estrechan-lazos-comerciales-en-respuesta-a-los-aranceles-de-trump/a-78091325?maca=spa-rss-sp-all-1122-rdf",
@@ -2735,8 +2561,8 @@
       "isoDate": "2026-07-23T15:33:00.000Z"
     },
     {
-      "id": "7219ee91c072",
-      "title": "El Gobierno asume el control de los fuegos de Madrid y Ávila por la virulencia de las llamas en ambas zonas y las \"condiciones adversas\"",
+      "id": "3a2a716778af",
+      "title": "La oleada de incendios \"sin capacidad de extinción\" en Ávila y al oeste de Madrid obliga a declarar la emergencia nacional",
       "link": "https://www.20minutos.es/madrid/un-nuevo-incendio-forestal-se-desata-san-martin-valdeiglesias-tras-arder-un-coche-desalojan-una-residencia-mayores_7018258_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/07/23/6a6259d8193051-76072885.jpeg",
       "snippet": "La gestión de los incendios pasará al Gobierno central. La decisión de ha adoptado por la evolución de las llamas en ambas regiones y las condiciones meteorológicas.",
