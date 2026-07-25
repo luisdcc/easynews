@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T15:26:15.155Z",
+  "updatedAt": "2026-07-25T16:21:53.508Z",
   "count": 258,
   "sources": [
     {
@@ -119,6 +119,42 @@
   ],
   "items": [
     {
+      "id": "f140b8108b98",
+      "title": "El fuego no da tregua en España y Francia: ya son 270.000 los evacuados por los incendios",
+      "link": "https://www.lanacion.com.ar/el-mundo/el-fuego-no-da-tregua-y-ya-son-270000-los-evacuados-en-espana-y-francia-por-los-incendios-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/CM7RWWD6D5GK3G7G2577KOYKE4.JPG?auth=2bb2d277f9408e7356ad519a03cbea8931bc86651243216afadb2aca5e6e100b&smart=true&width=8256&height=5504",
+      "snippet": "Ambos gobiernos desplegaron grandes operativos para tratar de contener las llamas; murió una persona en Valencia",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:19:18.000Z"
+    },
+    {
+      "id": "676455baedcb",
+      "title": "Murió Horacio Muratore, histórico dirigente del básquet y figura clave para la Generación Dorada",
+      "link": "https://www.lanacion.com.ar/deportes/basquetbol/murio-horacio-muratore-historico-dirigente-del-basquet-y-figura-clave-para-la-generacion-dorada-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/SXNCC5AHJVDHVGEM2T5ZPYOFTY.webp?auth=66b016a23932b928b694489b7f12ed7657c54f5ceeedeb86e381b6895d2ff703&smart=true&width=1000&height=667",
+      "snippet": "Presidió durante 16 años la Confederación Argentina de Básquet y estuvo al frente de la federación internacional de ese deporte; tenía 74 años",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:18:32.000Z"
+    },
+    {
+      "id": "a89e3edab178",
+      "title": "Partido Liberal de Brasil proclama a Flávio Bolsonaro como candidato presidencial para enfrentar a Lula",
+      "link": "https://www.latercera.com/mundo/noticia/partido-liberal-de-brasil-proclama-a-flavio-bolsonaro-como-candidato-presidencial-para-enfrentar-a-lula/",
+      "image": "https://www.latercera.com/resizer/v2/DR2RVEIUOFEC7PZHYFOUF36RXI.jpg?auth=12ef2ecf154ab99e140dd28b5ef2b6dc4bef1e8e09f154a8b1a178d39def5038&smart=true&width=3793&height=2528",
+      "snippet": "El senador fue oficializado durante una convención realizada en São Paulo y asumirá la representación del sector liderado por su padre, el expresidente Jair Bolsonaro. El último so",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-25T16:18:03.000Z"
+    },
+    {
       "id": "275667d8da3c",
       "title": "Última hora de los incendios forestales, en directo | Casi 88.000 evacuados o confinados por los incendios en Ávila y Madrid",
       "link": "https://elpais.com/espana/2026-07-25/ultima-hora-de-los-incendios-forestales-en-directo.html",
@@ -128,7 +164,775 @@
       "sourceId": "elpais",
       "country": "ES",
       "countryLabel": "España",
-      "isoDate": "2026-07-25T15:24:25.000Z"
+      "isoDate": "2026-07-25T16:17:33.000Z"
+    },
+    {
+      "id": "cb8f5a7645d2",
+      "title": "Lotería La Caribeña EN VIVO: resultados y números ganadores de hoy",
+      "link": "https://elcomercio.pe/respuestas/colombia/loteria-la-caribena-en-vivo-resultados-y-numeros-ganadores-de-hoy-donde-ver-el-sorteo-tdpe-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/YWTA2W65ZFHH5A4CPJCVZSTTE4.png?auth=2e5ae534774c4b4910677bc5421f84c9b28a6f6840eaa0693c1e310c0e7b9fbf&smart=true&width=1300&height=800",
+      "snippet": "LA CARIBEÑA DE HOY: Consulta los números ganadores y verifica si tu boleto fue premiado.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:16:59.000Z"
+    },
+    {
+      "id": "094dc7124d4b",
+      "title": "Un muerto en el incendio declarado en un barranco en Manises (Valencia)",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/25/un-muerto-en-el-incendio-declarado-en-un-barranco-en-manises-valencia/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:16:48.000Z"
+    },
+    {
+      "id": "faccc17e8a93",
+      "title": "Juegos Centroamericanos y del Caribe Santo Domingo 2026: dónde ver EN VIVO, calendario y todo lo que debes saber",
+      "link": "https://www.infobae.com/mexico/deportes/2026/07/25/juegos-centroamericanos-y-del-caribe-santo-domingo-2026-donde-ver-en-vivo-calendario-y-todo-lo-que-debes-saber/",
+      "image": "https://www.infobae.com/resizer/v2/5XOAZBP4KREN3FIB23JL2ZD3EQ.jpeg?auth=acffb8de4a7aa4b16d00be702ce5dcf22cc890c53b12baf5e642fce9eab4e25f&smart=true&width=1289&height=738",
+      "snippet": "Conoce dónde ver EN VIVO a los atletas mexicanos y no te pierdas ninguna competencia de la delegación tricolor en Santo Domingo 2026",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:16:39.000Z"
+    },
+    {
+      "id": "5a9cd1278594",
+      "title": "Navalcarnero (Madrid) toma el relevo como centro del operativo contra el incendio",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/25/navalcarnero-madrid-toma-el-relevo-como-centro-del-operativo-contra-el-incendio/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:16:32.000Z"
+    },
+    {
+      "id": "55961cc9550b",
+      "title": "Las 'cucarachas' de India ponen fin a semanas de protestas tras lograr la dimisión del ministro de Educación",
+      "link": "https://www.elmundo.es/internacional/2026/07/25/6a649329e4d4d8643b8b456d.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849762997660.jpg",
+      "snippet": "\"Retiramos la movilización de buena fe\", afirma la cúpula del Partido Janata de la Cucaracha después de que el Gobierno aceptara todas las demandas de los manifestantes Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T16:16:26.000Z"
+    },
+    {
+      "id": "5c6e5c5c9712",
+      "title": "Sorteo de Kábala: conoce el Pozo Buenazo del sábado 25 de julio y cómo jugar",
+      "link": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-25-de-julio-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/TWOUBLI7KBHFPDYZTRAWRX5NR4.png?auth=809a41868d1392f2afb76b3cdb7a1a710857fa3b37a62bf9f781bc78e063ea20&smart=true&width=1200&height=700",
+      "snippet": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 25 de julio, que tiene un pozo acumulado de S/547,446. Además, puedes seguir el sorteo de Chau Chamba.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:16:24.000Z"
+    },
+    {
+      "id": "cf9fdaeee6b7",
+      "title": "Kuss: \"Quería acabar con una buena noticia\"",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/25/kuss-queria-acabar-con-una-buena-noticia/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:16:11.000Z"
+    },
+    {
+      "id": "29f285653498",
+      "title": "Pedersen: \"Qué maravilla, qué semana de Tour¡¡¡\"",
+      "link": "https://www.infobae.com/espana/agencias/2026/07/25/pedersen-que-maravilla-que-semana-de-tour/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:15:54.000Z"
+    },
+    {
+      "id": "5df7224f16d7",
+      "title": "Samsung despide a más de 700 empleados: esta es la razón de la nueva ola de recortes",
+      "link": "https://www.infobae.com/tecno/2026/07/25/samsung-despide-a-mas-de-700-empleados-esta-es-la-razon-de-la-nueva-ola-de-recortes/",
+      "image": "https://www.infobae.com/resizer/v2/OBOYQXBYINC7DJBTVX6REWADEQ.JPG?auth=a03ad397e7d2a3e0dc3b399c90cc0a771c7b0054be3e003c16b80dc09efcd8f8&smart=true&width=6000&height=4000",
+      "snippet": "Trabajadores en Nueva Jersey serán disvinculados de la compañía y algunos recibirán ofertas de reubicación en Plano, Texas",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:15:48.000Z"
+    },
+    {
+      "id": "67f600aa995c",
+      "title": "Dorado Mañana resultados de hoy sábado 25 de julio: ganadores del último sorteo",
+      "link": "https://www.infobae.com/colombia/2026/07/25/dorado-manana-resultados-de-hoy-sabado-25-de-julio-ganadores-del-ultimo-sorteo/",
+      "image": "https://www.infobae.com/resizer/v2/2T7IOWH3VBEUFFAOAZSZTR4UJM.jpg?auth=b712ac178a79c110e00c2381bc90f279d4bbdc5766663944b7fba302026f7920&smart=true&width=1920&height=1080",
+      "snippet": "Conoce la combinación ganadora del sorteo matutino de una las loterías más populares del país",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:15:48.000Z"
+    },
+    {
+      "id": "795f82d720f9",
+      "title": "La ONU ve consenso para afrontar el debate de los riesgos de la IA junto a las compañías",
+      "link": "https://www.infobae.com/america/agencias/2026/07/25/la-onu-ve-consenso-para-afrontar-el-debate-de-los-riesgos-de-la-ia-junto-a-las-companias/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:15:35.000Z"
+    },
+    {
+      "id": "93e348ffb511",
+      "title": "Muere el expresidente de la FIBA Horacio Muratore a los 74 años",
+      "link": "https://www.infobae.com/america/agencias/2026/07/25/muere-el-expresidente-de-la-fiba-horacio-muratore-a-los-74-anos/",
+      "image": "https://www.infobae.com/resizer/v2/NHXYEWYZCNH7BH75DWADJ3FGIA.jpg?auth=1bf5f86650246b412030f04afa6ff8407cf48b88decb81056d72310700cf8626&smart=true&width=1920&height=1278",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:15:30.000Z"
+    },
+    {
+      "id": "077502142cf0",
+      "title": "Temblor en Colombia HOY, sábado 25 de julio: magnitud y epicentro del último sismo según reporte del SGC",
+      "link": "https://elcomercio.pe/respuestas/colombia/temblor-en-colombia-hoy-en-vivo-via-el-sgc-y-ultimos-sismos-del-23-24-y-25-de-julio-de-2026-epicentro-magnitud-y-hora-exacta-servicio-geologico-colombiano-santander-co-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/56EZ6QS6EJFU7HDO4YUPC5WVA4.jpeg?auth=7c8fe34f7fa1a06c0dd3ecf426cdf3b7073aa79369aa646017f4355d41bdab54&smart=true&width=1200&height=700",
+      "snippet": "Temblor en Colombia EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Servicio Geológico Colombiano (SGC).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:15:25.000Z"
+    },
+    {
+      "id": "196086cd35f8",
+      "title": "La ONU defiende el \"imperio de la ley\" tras muertes en operativos migratorios en EEUU",
+      "link": "https://www.infobae.com/america/agencias/2026/07/25/la-onu-defiende-el-imperio-de-la-ley-tras-muertes-en-operativos-migratorios-en-eeuu/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:15:18.000Z"
+    },
+    {
+      "id": "b3480d85f313",
+      "title": "Cuándo empieza a notarse la pérdida de masa muscular tras una pausa en el entrenamiento, según expertos",
+      "link": "https://www.infobae.com/salud/2026/07/25/cuando-empieza-a-notarse-la-perdida-de-masa-muscular-tras-una-pausa-en-el-entrenamiento-segun-expertos/",
+      "image": "https://www.infobae.com/resizer/v2/EIM3HUFHU5EDJMXAGXQHDJNMSM.png?auth=58592f36943cf42b034b1ddc3bbccbb00e6db8d9ec5173d5a917f6d70d57cd57&smart=true&width=2752&height=1536",
+      "snippet": "Un corte breve no tendría el efecto que muchos temen y hay condiciones que modifican ese plazo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:14:37.000Z"
+    },
+    {
+      "id": "43dc620f6407",
+      "title": "Último temblor en Perú HOY, sábado 25 de julio: Dónde fue el sismo y magnitud vía IGP",
+      "link": "https://elcomercio.pe/peru/reporte-del-ultimo-temblor-hoy-en-peru-donde-fue-el-epicentro-hora-y-magnitud-del-reciente-sismo-tdpe-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/3JIDJCK5D5DNHHBYAD7SFSDEOQ.png?auth=eda24968dbd9bf08f4e3c60e1857844884baea3459819823e2d958fae338f824&smart=true&width=1300&height=800",
+      "snippet": "Perú registró un nuevo movimiento telúrico. El IGP dio a conocer la información oficial sobre la intensidad y ubicación del sismo.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:14:35.000Z"
+    },
+    {
+      "id": "7ecc8c84fe53",
+      "title": "Tolima vs. Junior - EN VIVO: siga el minuto a minuto del debut del campeón de Colombia en la Liga BetPlay",
+      "link": "https://www.infobae.com/colombia/deportes/2026/07/25/tolima-vs-junior-en-vivo-siga-el-minuto-a-minuto-del-debut-del-campeon-de-colombia-en-la-liga-betplay/",
+      "image": "https://www.infobae.com/resizer/v2/D26RZJJU4VA5NHGVEXTJ4THLJQ.jpg?auth=7c5002eb0d440de83799c5e867d4e2da7994ab2ab38829787b9caa36e6fd1310&smart=true&width=900&height=600",
+      "snippet": "El campeón de Colombia quiere volver a defender su título frente a un equipo con el cual supo sonreír en diciembre de 2025, y que comenzará un nuevo proceso de la mano del técnico ",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:14:34.000Z"
+    },
+    {
+      "id": "2a976d14eb20",
+      "title": "La agenda con los partidos del sábado en la primera fecha del Torneo Clausura",
+      "link": "https://www.infobae.com/deportes/2026/07/25/la-agenda-con-los-partidos-del-sabado-en-la-primera-fecha-del-torneo-clausura/",
+      "image": "https://www.infobae.com/resizer/v2/QM2YFBQY65HSPJKY5RGPYC7AY4.jpg?auth=dc65cdaaa80dcc035b0de71b6a9606fdffef20adedf2a5199da19911c20599bd&smart=true&width=1920&height=1080",
+      "snippet": "Además de River-Barracas Central, la jornada contará con los enfrentamientos entre Estudiantes de Río Cuarto-Tigre, Newell’s-Talleres y Lanús-San Lorenzo",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:14:34.000Z"
+    },
+    {
+      "id": "02f792e9efea",
+      "title": "Temblor en México EN VIVO hoy, 25 de julio 2026: hora exacta, magnitud y epicentro",
+      "link": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-via-ssn-y-ultimos-sismos-23-24-y-25-de-julio-epicentro-magnitud-y-hora-exacta-servicio-sismologico-nacional-chiapas-cdmx-mx-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/46XCW5XTINDFJCBJVHIOATXF7U.jpeg?auth=d1e9c54109ce54d31f8412bdccf3edf2e9e8390474e8596e187be5fbef812675&smart=true&width=1200&height=700",
+      "snippet": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:14:33.000Z"
+    },
+    {
+      "id": "245f19b53d6d",
+      "title": "Millonarios vs. Bucaramanga - EN VIVO: siga el minuto a minuto del partido de la Liga BetPlay desde El Campín",
+      "link": "https://www.infobae.com/colombia/deportes/2026/07/25/millonarios-vs-bucaramanga-en-vivo-siga-el-minuto-a-minuto-del-partido-de-la-liga-betplay-desde-el-campin/",
+      "image": "https://www.infobae.com/resizer/v2/ZZGOH7IJBJFGXIX7HROSTARGSQ.jpg?auth=50f60e4382404edf2fdad50971bae569b56db165bff100d3c6a184a91b45eabe&smart=true&width=3264&height=1836",
+      "snippet": "El equipo de Fabián Bustos viene de una mala pretemporada ante Universitario del Perú y Colo-Colo de Chile, mientras que el \"Leopardo\" tendrá el debut oficial del entrenador urugua",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:14:31.000Z"
+    },
+    {
+      "id": "1242db039ced",
+      "title": "¿Desde cuándo estará restringido el tránsito de camiones en la Carretera Central por el feriado largo de Fiestas Patrias?",
+      "link": "https://elcomercio.pe/respuestas/cuando/desde-cuando-estara-restringido-el-transito-de-camiones-en-la-carretera-central-por-el-feriado-largo-de-fiestas-patrias-tdpe-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/5GAVNF6HYRFZPBNRJCAPF4ZRSM.png?auth=e945bad52dc5f6b892a7a1402a1c09b84fe0d43e29372690b60e4472f3e312fb&smart=true&width=1400&height=800",
+      "snippet": "¿Desde cuándo estará restringido el tránsito de camiones en la Carretera Central por el feriado largo de Fiestas Patrias?",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:12:27.000Z"
+    },
+    {
+      "id": "292ee23254f1",
+      "title": "Trump regresa a la cena de corresponsales bajo máxima seguridad y en plena guerra con la prensa",
+      "link": "https://www.lanacion.com.ar/estados-unidos/trump-regresa-a-la-cena-de-corresponsales-bajo-maxima-seguridad-y-en-plena-guerra-con-la-prensa-nid24072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/XFPORCZLDJEF3MNPZCEECVXQAA.JPG?auth=f8dd2d55e09354d67ebd43c6092e1a54f2fd26f544dad04dc92239ce00c58f57&smart=true&width=8256&height=5504",
+      "snippet": "Tres meses después del fallido ataque que obligó a suspender la gala, el presidente cumplió su promesa de asistir al encuentro; dio un discurso marcado por un tono satírico, con da",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:11:45.000Z"
+    },
+    {
+      "id": "0c82a4cbba6d",
+      "title": "Los incendios de Madrid y Ávila afectan ya a 45.000 hectáreas y obligan a evacuar o confinar a casi 88.000 personas",
+      "link": "https://elpais.com/espana/2026-07-25/los-incendios-de-madrid-y-avila-ya-han-calcinado-mas-de-15000-hectareas-y-han-obligado-a-evacuar-o-confinar-a-63000-personas.html",
+      "image": null,
+      "snippet": "Las condiciones de temperatura y humedad mejoran, pero no las de viento, que puede complicar la evolución de las llamas. La UME unifica el mando de la emergencia para coordinar la ",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T16:11:15.000Z"
+    },
+    {
+      "id": "23c261285a46",
+      "title": "Una persona muere y otras cinco resultan heridas en un incendio forestal de Manises (Valencia)",
+      "link": "https://www.elmundo.es/comunidad-valenciana/2026/07/25/6a64de75fc6c83f1498b4574.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849957460731.jpg",
+      "snippet": "El fuego ya en el barranco del Salt de l'Aigua está estabilizado. Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T16:10:01.000Z"
+    },
+    {
+      "id": "3c542ee67f8c",
+      "title": "La Velada del Año 6 en Twitch en vivo",
+      "link": "https://www.lanacion.com.ar/espectaculos/la-velada-del-ano-6-en-twitch-en-vivo-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/VZTUKR3OSFGTZB3SNZNMPAL45Y.png?auth=b6fd12391536c6c51d91b45d818240f26622b7745310af886883cc3eea6792a0&smart=true&width=2000&height=1333",
+      "snippet": "El evento deportivo y de streaming más esperado del año llega al estadio La Cartuja de Sevilla; la competencia contará con diez combates estelares y una grilla musical de primer ni",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T16:10:00.000Z"
+    },
+    {
+      "id": "0362e5358bc2",
+      "title": "“Días de intensidad”: lo que anuncia tu horóscopo para los últimos días de julio",
+      "link": "https://elcomercio.pe/somos/estilo/horoscopo-de-hoy-gratis-del-26-al-31-de-julio-del-2026-clima-astral-y-predicciones-salud-dinero-amor-signos-del-zodiaco-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/IQYIFRKFLFAHBJCF5OKGDYCJRA.png?auth=c61d821109712eb53615c1e9668f8a7dc3dca1ae8b0446729a306874c3f7bb48&smart=true&width=1200&height=815",
+      "snippet": "Horóscopo de hoy gratis del X al XX del 2026 | Clima astral | Tiempo perfecto para dejarse inspirar, meditar o simplemente dejar que lo invisible actúe a tu favor.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:10:00.000Z"
+    },
+    {
+      "id": "95bd54b292c6",
+      "title": "Los expertos en psicología coinciden: las personas que desvían la mirada al hablar enfrentan una sobrecarga cognitiva y no es timidez",
+      "link": "https://elcomercio.pe/mag/respuestas/los-expertos-en-psicologia-coinciden-las-personas-que-desvian-la-mirada-al-hablar-enfrentan-una-sobrecarga-cognitiva-y-no-es-timidez-nnda-nnni-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/7R4IJATCJBEVBIFNZFVKXNUT7M.jpg?auth=9ca49508a0b1e2cca63c0cb5567592cbd3339eb3464e90571bf5dd736d870bc1&smart=true&width=1200&height=802",
+      "snippet": "Puede deberse a múltiples factores que se activan en una persona.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:08:53.000Z"
+    },
+    {
+      "id": "06a14f19257f",
+      "title": "Gianluca Lapadula revela el gran esfuerzo que hizo para llegar a Universitario: ¿Qué dijo tras marcar su primer gol con la U?",
+      "link": "https://elcomercio.pe/respuestas/deportes/gianluca-lapadula-revela-el-gran-esfuerzo-que-hizo-para-llegar-a-universitario-que-dijo-tras-marcar-su-primer-gol-con-la-u-tdpe-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/OK6HTLYGL5HHHJPXA4J2LKRFVY.jpg?auth=5e71685fff36e368452b66d4737d38bdd7dff115f1ffd00eb847096f40651414&smart=true&width=1200&height=800",
+      "snippet": "Gianluca Lapadula revela el gran esfuerzo que hizo para llegar a Universitario: ¿Qué dijo tras marcar su primer gol con la U? Tras marcar su primer gol con Universitario, Gianluca ",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:07:49.000Z"
+    },
+    {
+      "id": "6c85be92a607",
+      "title": "Senado: Obras, Juntos por el Perú, Ahora Nación y Partido del Buen Gobierno presentan lista a la Mesa Directiva encabezada por Daniel Barragán",
+      "link": "https://elcomercio.pe/politica/congreso/senado-partidos-de-oposicion-presentan-lista-a-la-mesa-directiva-encabezada-por-daniel-barragan-de-obras-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/7THONXKJRBEPTKXFR7FFDN3WMQ.jpg?auth=c4c1767172271bf63654fdb30c80c1396b340c52d3e72173ad8134c3952e0427&smart=true&width=1200&height=650",
+      "snippet": "",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:07:27.000Z"
+    },
+    {
+      "id": "be31a969c4e1",
+      "title": "Rayza Martínez: revelan nuevos detalles sobre la causa de su muerte",
+      "link": "https://elcomercio.pe/tvmas/farandula/rayza-martinez-revelan-nuevos-detalles-sobre-la-causa-de-su-muerte-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/EHBPEAJ4MJHW5HYZGA4RCV3TM4.png?auth=7433b52d713135234eeffe6c8dbf55a45c5eb1c0e0aa9d3bf0b60e6a85a08f17&smart=true&width=1200&height=800",
+      "snippet": "En tanto, Óscar Raúl Arias Muñoz, principal sospechoso del caso y la última persona con quien habría estado Martínez, permanece bajo investigación",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:07:22.000Z"
+    },
+    {
+      "id": "071de5620f17",
+      "title": "Loto Plus, sorteo 3903: conoce el pozo de hoy, sábado 25 de julio y sus resultados",
+      "link": "https://elcomercio.pe/respuestas/argentina/loto-plus-en-vivo-resultados-hoy-sabado-25-de-julio-de-2026-controlar-sorteo-3093-y-numeros-ganadores-loteria-de-argentina-tradicional-match-desquite-sale-o-sale-lbposting-ar-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/TY3F4IBFZZGRFHHD2KK4LYRK3I.jpg?auth=0b604a64a11fc2873a5e0179626eeccfd9a14d366f53a34f099d2779d6eedb45&smart=true&width=1200&height=700",
+      "snippet": "Loto Plus EN VIVO: mira los resultados y números del sorteo del sábado 25 de julio, que tiene un pozo de $15.244.000.000.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T16:06:00.000Z"
+    },
+    {
+      "id": "ece4f8faa2de",
+      "title": "Los hutíes de Yemen afirman haber atacado instalaciones petroleras saudíes en el mar Rojo",
+      "link": "https://www.france24.com/es/medio-oriente/20260725-los-hut%C3%ADes-de-yemen-afirman-haber-atacado-instalaciones-petroleras-saud%C3%ADes-en-el-mar-rojo",
+      "image": "https://s.france24.com/media/display/60619e4c-879c-11f1-90a5-005056bf30b7/w:1024/p:16x9/57b9e509d054e79a877097c55b0c24b371a6e089.jpg",
+      "snippet": "Los rebeldes hutíes de Yemen reivindicaron un ataque con misiles contra la ciudad saudí de Jizán este sábado, mientras las consecuencias de la guerra de Estados Unidos e Israel con",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-25T16:05:18.000Z"
+    },
+    {
+      "id": "509e8699e69d",
+      "title": "SOS Orinoco exigió al gobierno fijar fecha para misión de Unesco en Canaima por severos daños tras minería ilegal",
+      "link": "https://www.elnacional.com/2026/07/sos-orinoco-exigio-al-gobierno-fijar-fecha-para-mision-de-unesco-en-canaima-por-severos-danos-tras-mineria-ilegal/",
+      "image": null,
+      "snippet": "La organización ambientalista denunció que el patrimonio natural enfrenta un “colapso ecológico” debido a la minería ilegal, la contaminación por mercurio y la falta de acciones of",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-07-25T16:03:54.000Z"
+    },
+    {
+      "id": "770034a674ea",
+      "title": "El mural que retrató la Barranquilla de los años 50 cumple 70 años y entra a la Ruta Obregón",
+      "link": "https://www.eltiempo.com/colombia/barranquilla/el-mural-que-retrato-la-barranquilla-de-los-anos-50-cumple-70-anos-y-entra-a-la-ruta-obregon-3573814",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/25/6a64db9796f14.r_d.636-333-0.png",
+      "snippet": "La obra fue rescatada del antiguo Banco Popular en 1994 y hoy permanece en el Complejo Cultural de La Aduana.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-25T16:02:26.000Z"
+    },
+    {
+      "id": "ada390afecde",
+      "title": "Las imágenes aéreas del incendio de Madrid",
+      "link": "https://elpais.com/espana/2026-07-25/las-imagenes-aereas-del-incendio-de-madrid.html",
+      "image": null,
+      "snippet": "La Guardia Civil distribuye un vídeo grabado este sábado en la Sierra Oeste de la Comunidad Autónoma",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T16:02:22.000Z"
+    },
+    {
+      "id": "2a62bce169b9",
+      "title": "Un incendio forestal en Cubelles obliga a confinar a más de 2.000 personas",
+      "link": "https://www.abc.es/espana/cataluna/incendio-forestal-cubelles-obliga-confinar-2000-personas-20260725175007-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/HOFPip3XYAAmdgF_20260725174230-RXwRlRyvXnRF07bjITMhx9I-1200x840@diario_abc.jpg",
+      "snippet": "Un incendio forestal en Cubelles (Barcelona) ha obligado a confinar a unas 2.000 personas, de varias urbanizaciones. Las llamas han comenzado sobre las 16.20 horas de este sábado, ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T16:02:12.000Z"
+    },
+    {
+      "id": "20ede8a34061",
+      "title": "Cuándo juega Boca vs. Deportivo Riestra, por el Torneo Clausura 2026",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/cuando-juega-boca-vs-deportivo-riestra-por-el-torneo-clausura-2026-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HJVCTCW7RRBP7AD23PW5GY3VRM.jpg?auth=15c25c35e94dd2332e9035232aa43c73e5e48ad39fd6a7a7146ff76211c13265&smart=true&width=2000&height=1333",
+      "snippet": "El xeneize se estrena ante el Malevo como visitante, sin Leandro Paredes, a quien el DT le dio descanso tras disputar el Mundial y ponerse rápido la camiseta xeneize",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:58:41.000Z"
+    },
+    {
+      "id": "6dfdece64453",
+      "title": "La primera desde que es campeón: Lando Norris acaba con el dominio de Mercedes y se queda con la pole en Hungría",
+      "link": "https://www.latercera.com/el-deportivo/noticia/la-primera-desde-que-es-campeon-lando-norris-acaba-con-el-dominio-de-mercedes-y-se-queda-con-la-pole-en-hungria/",
+      "image": "https://www.latercera.com/resizer/v2/5GHDTHJUGVDNBBRHCFH4MLPLKQ.jpg?auth=b7302ed8deb4b3ea7487bcd1ff2250db70726f804c5fd44ab88b35be0eda4ac0&smart=true&width=1920&height=1080",
+      "snippet": "El piloto de McLaren, actual monarca de la Fórmula 1, largará desde la primera plaza este domingo.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-25T15:56:09.000Z"
+    },
+    {
+      "id": "965727149af8",
+      "title": "Robles vuelve a quedar fuera del Cecopi pese a que la dirección de la emergencia corresponde a la UME",
+      "link": "https://www.abc.es/espana/moncloa-vuelve-excluir-robles-cecopi-pese-direccion-20260725174713-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/PHOTO-2026-07-25-17-11-10-RvDtGRB1J67mmqToGTSVbNJ-1200x840@diario_abc.jpg",
+      "snippet": "El Ministerio de Defensa y su titular, Margarita Robles, han vuelto a quedar fuera del Centro de Coordinación Operativa Integrado (CECOPI) de los incendios en Madrid y Ávila, aunqu",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:55:11.000Z"
+    },
+    {
+      "id": "cfc7f995a4b0",
+      "title": "Hallado un hombre muerto en el incendio de un barranco de Manises (Valencia)",
+      "link": "https://elpais.com/espana/comunidad-valenciana/2026-07-25/hallado-un-hombre-muerto-en-el-incendio-de-un-barranco-de-manises-valencia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/JMAYJMA4CJP6ZJNU24MCOJ6VSI.jpg?auth=0835c4442a9d24538044654f372f8d89af9bac263fdd318ee9a390576db755f6",
+      "snippet": "Cinco personas han sido trasladadas al hospital por inhalación de humo y quemaduras como consecuencia del fuego, ya estabilizado",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:52:32.000Z"
+    },
+    {
+      "id": "22d1ce1744b1",
+      "title": "Norris, 'pole' en Hungaroring, arrebata el monopolio a Mercedes y Alonso pasa por vez primera a Q2",
+      "link": "https://www.elmundo.es/deportes/formula-1/2026/07/25/6a64c5f621efa0436c8b45ad.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849931046801.jpg",
+      "snippet": "El vigente campeón aventaja en 12 milésimas a Hamilton, mientras el asturiano se cuela en la decimocuarta plaza. Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:52:02.000Z"
+    },
+    {
+      "id": "22f2b22e6315",
+      "title": "Senado: Fuerza Popular y Renovación Popular presentar primera lista de candidatos a la Mesa Directiva liderada por Miguel Torres",
+      "link": "https://elcomercio.pe/politica/congreso/senado-fuerza-popular-y-renovacion-popular-presentar-primera-lista-de-candidatos-a-la-mesa-directiva-liderada-por-miguel-torres-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/DC7OSVIYVVCVJAKPCBBLTUIOUU.jpg?auth=563f740395b1333971527d38e0ded994e237c8300d7bfd27a292253285cf3f7c&smart=true&width=2048&height=1365",
+      "snippet": "Las bancadas de Fuerza Popular y Renovación Popular presentaron la mañana de este sábado 25 de julio la primera lista de candidatos para ocupar la Mesa Directiva del Senado para el",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-25T15:49:41.000Z"
+    },
+    {
+      "id": "6bc3ee8ae82b",
+      "title": "Franco Colapinto largará 13° en el Gran Premio de Hungría de Fórmula 1, donde Norris hizo la pole",
+      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-vivo-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/FU3Y7A66FVGJ5KPRZTD765O2DU.JPG?auth=3a8055754fbdb75424f727b157d4a01bf553b725584a5f5d3c94bec9b09b7744&smart=true&width=4511&height=3007",
+      "snippet": "El argentino saldrá desde la séptima fila en la carrera de mañana en Hungaroring; el campeón fue el más rápido",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:48:40.000Z"
+    },
+    {
+      "id": "26cb8420987d",
+      "title": "Canciller concluye gira en el Sudeste Asiático tras sellar acuerdo con Filipinas e iniciar negociaciones con Bangladesh",
+      "link": "https://www.latercera.com/nacional/noticia/canciller-concluye-gira-en-el-sudeste-asiatico-tras-sellar-acuerdo-con-filipinas-e-iniciar-negociaciones-con-bangladesh/",
+      "image": "https://www.latercera.com/resizer/v2/6QNGBFDPXBE4LEJXBSW2DGF7TE.jpeg?auth=b44e8b43f213732c5d5de0e9266ec4dd55a05f5bb5fd0c892d381d8a7ebc33f7&smart=true&width=2745&height=2014",
+      "snippet": "Asimismo, en la reunión con el canciller indonesio, Sugiono, y el directorio de la Autoridad Nacional de Indonesia, se evaluaron oportunidades de cooperación estratégica en la indu",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-25T15:47:45.000Z"
+    },
+    {
+      "id": "dbc5c92a5cd5",
+      "title": "Investigadores del Conicet realizan un hallazgo clave para multiplicar las cosechas de tomate",
+      "link": "https://www.lanacion.com.ar/ciencia/investigadores-del-conicet-realizan-un-hallazgo-clave-para-multiplicar-las-cosechas-de-tomate-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/3L2YE2672NF6FFLLEIPCT7BCUA.jpg?auth=e87ef5c01ffa239466a810d3a5c016cdf75ea90ed1676c70902d71eae0a4fd9f&smart=true&width=7728&height=5152",
+      "snippet": "Un equipo de científicos argentinos identificó un gen que cumple un papel fundamental en el crecimiento de las plantas de tomate y que podría abrir el camino para desarrollar varie",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:45:47.000Z"
+    },
+    {
+      "id": "6242157808f2",
+      "title": "Tras 17 años de baja, una profesora lucha en los tribunales alemanes por cobrar el sueldo íntegro",
+      "link": "http://es.euronews.com/my-europe/2026/07/25/tras-17-anos-de-baja-una-profesora-lucha-en-los-tribunales-alemanes-por-cobrar-el-sueldo-i",
+      "image": null,
+      "snippet": "Desde 2009, una profesora de Renania del Norte-Westfalia está de baja médica cobrando el sueldo íntegro. Ahora, con 62 años, debe jubilarse, pero recurre ante la Justicia mientras ",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-25T15:44:13.000Z"
+    },
+    {
+      "id": "4067ac158bbc",
+      "title": "La independencia de Perú, una gesta que sigue uniendo a nuestros pueblos",
+      "link": "https://www.lanacion.com.ar/opinion/la-independencia-de-peru-una-gesta-que-sigue-uniendo-a-nuestros-pueblos-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HCJCYKJHD5FRHA42TGYY77VSNQ.jpg?auth=e5d8902e6c791109292ace10ad45cab46d056f3afbb76ff400e6f61378884825&smart=true&width=8640&height=5760",
+      "snippet": "La coincidencia en los valores sanmartinianos reafirma que la cooperación fraterna constituye la mejor herramienta para consolidar un desarrollo sostenible y un futuro de prosperid",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:44:06.000Z"
+    },
+    {
+      "id": "c035676dffa3",
+      "title": "La caída del Gabriel Langton que heló los Juegos de la Commonwealth",
+      "link": "https://www.abc.es/deportes/caida-gabriel-langton-helo-juegos-commonwealth-20260725174300-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/25/langton-RYbTfns39fY54MWPD9EuGoN-1200x840@diario_abc.jpg",
+      "snippet": "Los Juegos de la Commonwealth vivieron este viernes un terrible susto por la violenta caída de Gabriel Langton desde la barra fija, mientras el gimnasta inglés disputaba la final m",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:43:01.000Z"
+    },
+    {
+      "id": "5c90ff6f5433",
+      "title": "El movimiento estudiantil 'cucaracha' termina en India tras dimitir el ministro de Educación",
+      "link": "http://es.euronews.com/2026/07/25/el-movimiento-cockroach-de-india-pone-fin-a-las-protestas-tras-dimitir-el-ministro-de-educ",
+      "image": null,
+      "snippet": "Dharmendra Pradhan anunció su dimisión en un mensaje en X, concediendo una importante victoria al movimiento juvenil que encabezó protestas, acampadas y huelgas de hambre en todo e",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-25T15:41:07.000Z"
+    },
+    {
+      "id": "0e76dae56275",
+      "title": "Las cifras de la tragedia un mes después del doble terremoto en Venezuela",
+      "link": "http://es.euronews.com/2026/07/25/las-cifras-de-la-tragedia-un-mes-despues-del-doble-terremoto-en-venezuela",
+      "image": null,
+      "snippet": "Un mes después del doble terremoto que sacudió Venezuela, el balance oficial supera los 5.500 muertos y 16.700 heridos. Miles de familias siguen sin vivienda, el Gobierno no ha act",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-25T15:38:37.000Z"
+    },
+    {
+      "id": "f6bdbfe0cd5b",
+      "title": "Incendios forestales: ¿qué impacto tiene el humo en la salud?",
+      "link": "https://www.elnacional.com/2026/07/incendios-forestales-que-impacto-tiene-el-humo-en-la-salud/",
+      "image": null,
+      "snippet": "Las personas que se encuentran cerca del incendio pueden presentar síntomas respiratorios de irritación. Pero los efectos se extienden mucho más allá. The post Incendios forestales",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-07-25T15:36:19.000Z"
+    },
+    {
+      "id": "9c39697d09ae",
+      "title": "Por dónde pasan River vs. Barracas Central por el Torneo Clausura 2026 hoy",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/por-donde-pasan-river-vs-barracas-central-por-el-torneo-clausura-2026-hoy-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/FIPJ3HB7OFDPLCFEBLLD4NV2JM.JPG?auth=25526572018d50ddcc41955927498e066d2ba5bf974160d700bc3a6f0f96e364&smart=true&width=1422&height=1066",
+      "snippet": "El Millonario levanta el telón de su participación en el segundo certamen de liga, aunque sabe que el estadio Monumental lo exigirá por muchas razones",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:35:56.000Z"
+    },
+    {
+      "id": "72230c393192",
+      "title": "Miles de personas huyen por carretera del incendio en la sierra oeste de Madrid",
+      "link": "https://www.abc.es/sociedad/miles-personas-huyen-carretera-incendio-sierra-oeste-20260725162245-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/07/25/chapuapaolaza-almorox-Rzpp17eDKmIdnlI99WmLTRL-1200x672@diario_abc.jpg",
+      "snippet": "",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:35:37.000Z"
+    },
+    {
+      "id": "20f95fdfdb5b",
+      "title": "Hallan muerto a un hombre de 78 años en el incendio de Manises",
+      "link": "https://www.abc.es/espana/comunidad-valenciana/hallan-muerto-hombre-anos-incendio-manises-20260725172012-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/incendio-manises-RluquHYLfb1u0h5RDUpXjSI-1200x840@diario_abc.jpeg",
+      "snippet": "Un hombre de 78 años ha fallecido en el incendio forestal declarado este sábado en Manises. Según ha confirmado el Ayuntamiento del municipio, los bomberos han localizado el cuerpo",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:34:22.000Z"
+    },
+    {
+      "id": "55fd1cb99be6",
+      "title": "El pueblo de Illinois que parece una película navideña, pero no depende del invierno para atraer visitantes",
+      "link": "https://www.lanacion.com.ar/estados-unidos/illinois/el-pueblo-de-illinois-que-parece-una-pelicula-navidena-pero-no-depende-del-invierno-para-atraer-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YBTJIL3YFNGVZBR2XRKEFRQAPI.png?auth=eb3b02e49bf101d75b04202af216d6278a16c4cfe1d14e2e3a59314157aea0d8&smart=true&width=2000&height=1333",
+      "snippet": "Conoce Galena, el pueblo de Illinois con arquitectura del siglo XIX, senderos entre colinas y atractivos turísticos durante todo el año.",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:34:21.000Z"
+    },
+    {
+      "id": "a33a24cd7cd9",
+      "title": "Boca, con la guardia alta en Chile: Wilmar Roldán será el árbitro para la revancha con O'Higgins por la Copa Sudamericana",
+      "link": "https://www.clarin.com/deportes/boca-guardia-alta-chile-wilmar-roldan-arbitro-revancha-ohiggins-copa-sudamericana_0_fnQfkcNfKV.html",
+      "image": "https://www.clarin.com/img/2026/07/25/8umHLfksH_1200x630__1.jpg",
+      "snippet": "La Conmebol confirmó que el colombiano dirigirá la revancha este jueves en Rancagua. El árbitro viene de un antecedente polémico con el Xeneize en la Copa Libertadores. También fue",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:30:51.000Z"
+    },
+    {
+      "id": "7b4472c955e8",
+      "title": "Temblor hoy en Colombia: sismo de magnitud 3,1 se registró este sábado 25 de julio en La Guajira",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sismo-de-magnitud-3-1-se-registro-este-sabado-25-de-julio-en-la-guajira-3573811",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/25/6a64d62808cef.r_d.110-316-0.png",
+      "snippet": "El Servicio Geológico Colombiano reportó un evento sísmico con epicentro en el municipio de Riohacha durante la mañana de este 25 de julio.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-07-25T15:30:32.000Z"
+    },
+    {
+      "id": "70fa9fe9bd71",
+      "title": "Rubén Blades dedicó su tema “María Lionza” a Venezuela durante un concierto en Barcelona",
+      "link": "https://www.elnacional.com/2026/07/ruben-blades-dedico-su-tema-maria-lionza-a-venezuela-durante-un-concierto-en-barcelona/",
+      "image": null,
+      "snippet": "Durante su espectáculo en el Barts Festival de Barcelona, España, el artista panameño evocó este símbolo de la tradición espiritual y cultural del país. The post Rubén Blades dedic",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-07-25T15:28:41.000Z"
+    },
+    {
+      "id": "227fbce42bb3",
+      "title": "Fue una de las grandes estrellas de los 80, abandonó la actuación y se convirtió en policía",
+      "link": "https://www.lanacion.com.ar/espectaculos/fue-una-de-las-grandes-estrellas-de-los-80-abandono-la-actuacion-y-se-convirtio-en-policia-nid25072026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/AJ3ORYF2JFHU3IXHHK65JYZ3ZE.jpg?auth=d36b32acd8027e501d7554590f8f9c861a062a8e7d7fd61e3e3fbd14953aad7a&smart=true&width=800&height=600",
+      "snippet": "Aunque construyó una extensa carrera como actor, décadas después sorprendió al cumplir el sueño que le había prometido a su madre desde pequeño",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:28:31.000Z"
+    },
+    {
+      "id": "ad183323b745",
+      "title": "Luis Arráez y cuatro piezas clave que podrían cambiar de equipo antes de la fecha límite",
+      "link": "https://www.elnacional.com/2026/07/luis-arraez-y-cuatro-piezas-clave-que-podrian-cambiar-de-equipo-antes-de-la-fecha-limite/",
+      "image": null,
+      "snippet": "El destacado año del pelotero venezolano lo convierte en uno de los jugadores que suenan en el mercado de la MLB. Arráez mejoró su bateo con respecto a la temporada pasada y ahora ",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-07-25T15:27:12.000Z"
+    },
+    {
+      "id": "33b165ccc7b3",
+      "title": "Una avioneta se estrelló contra el techo de una casa en Alemania: murió el piloto y buscan a un acompañante",
+      "link": "https://www.clarin.com/mundo/avioneta-estrello-techo-casa-alemania-murio-piloto-buscan-acompanante_0_AGLgAmwoXI.html",
+      "image": "https://www.clarin.com/img/2026/07/25/kUuV6o1e0_1200x630__1.jpg",
+      "snippet": "El accidente ocurrió en las afueras de Bremen, al norte del país. Investigan las causas del accidente",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-07-25T15:26:38.000Z"
+    },
+    {
+      "id": "b0f1fc6a877b",
+      "title": "Pompeya dirección El Escorial",
+      "link": "https://www.abc.es/opinion/juan-soto-ivars-pompeya-direccion-escorial-20260725132431-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/opinion/2026/07/25/560x560-incendios%20(1).gif",
+      "snippet": "Me fui a acostar el viernes por la noche con esta pregunta: ¿se quemará mi casa? Sobra decir que no dormí mucho. El signo de interrogación era un anzuelo que me mantuvo pegado al m",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:26:32.000Z"
+    },
+    {
+      "id": "493bee3f9447",
+      "title": "Norris planta cara con su pole y Alonso ya tiene coche para disfrutar",
+      "link": "https://www.abc.es/deportes/formula-1/norris-planta-cara-pole-alonso-coche-disfrutar-20260725172544-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/07/25/norris-RL2uW6FtAmp5n9A0C8fCghK-1200x840@diario_abc.jpg",
+      "snippet": "Estratosférica y sorprendente pole de Lando Norris, que superó por 12 milésimas a Lewis Hamilton, auténtico protagonista del fin de semana. McLaren aguó la fiesta de Ferrari en Bud",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-07-25T15:26:27.000Z"
+    },
+    {
+      "id": "f9f811eb5698",
+      "title": "Al menos 35 muertos y 30 heridos deja choque entre dos buses en Siria",
+      "link": "https://www.latercera.com/mundo/noticia/al-menos-35-muertos-y-30-heridos-deja-choque-entre-dos-buses-en-siria/",
+      "image": "https://www.latercera.com/resizer/v2/N4CQQTPWEFDLDHAXXG2MNJO3WM.png?auth=0fb57b350a860ce061622f31e236a5ba1ceaa7fad3eee408ea7d762fa62ea257&smart=true&width=890&height=490",
+      "snippet": "El accidente ocurrió en la carretera que une Damasco con Deir al Zor. Uno de los vehículos transportaba integrantes de las Fuerzas de Seguridad Interna del país.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-25T15:26:25.000Z"
     },
     {
       "id": "9f0689633b40",
@@ -155,18 +959,6 @@
       "isoDate": "2026-07-25T15:22:45.000Z"
     },
     {
-      "id": "6bc3ee8ae82b",
-      "title": "Franco Colapinto largará 13° en el Gran Premio de Hungría de Fórmula 1, donde Norris hizo la pole",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-vivo-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/FU3Y7A66FVGJ5KPRZTD765O2DU.JPG?auth=3a8055754fbdb75424f727b157d4a01bf553b725584a5f5d3c94bec9b09b7744&smart=true&width=4511&height=3007",
-      "snippet": "El argentino saldrá desde la séptima fila en la carrera de mañana en Hungaroring; el campeón fue el más rápido",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:21:58.000Z"
-    },
-    {
       "id": "2d45c3f8f6c8",
       "title": "Una camioneta despistó en la ruta 237 de Neuquén y cayó a un arroyo: murió una niña de 9 años",
       "link": "https://www.lanacion.com.ar/sociedad/una-camioneta-despisto-en-la-ruta-237-de-neuquen-y-cayo-a-un-arroyo-murio-una-nina-de-9-anos-nid25072026/",
@@ -177,30 +969,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-25T15:21:18.000Z"
-    },
-    {
-      "id": "52f55a3e6a66",
-      "title": "¿Por qué estarían interesadas las empresas de IA en los libros de segunda mano?",
-      "link": "https://elcomercio.pe/tecnologia/inteligencia-artificial/por-que-estarian-interesadas-las-empresas-de-ia-en-los-libros-de-segunda-mano-claude-chatgpt-gemini-deepseek-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/GYLNFHQ44ZEITJPWFESPQNS6GE.jpg?auth=0149496f16663663a9933e3b0bff76ad2c5f3155d4c58c273156eb8df1881849&smart=true&width=1500&height=1001",
-      "snippet": "El creciente pedido de libros de segunda mano ha despertado la sospecha en librerías. Uno de los problemas es la digitalización de estos ejemplares, pues implicaría su destrucción.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:21:00.000Z"
-    },
-    {
-      "id": "a9becb20fa22",
-      "title": "Congreso bicameral: el detrás de cámaras de las negociaciones para la presidencia del Senado y diputados",
-      "link": "https://elcomercio.pe/politica/congreso-bicameral-el-detras-de-camaras-de-las-negociaciones-para-la-presidencia-del-senado-y-diputados-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/SS4CNMDNQJDAXKMISP6SS5QGPY.jpg?auth=087e9f954f14126e97c078e7e38ff0faa509b46dffbf535a145d1317a7cb6bac&smart=true&width=6720&height=4480",
-      "snippet": "El fujimorismo pone todas sus fichas en la Cámara Alta. Mientras que la izquierda, junto al partido de Nieto, definen su lista para el control de Diputados.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:20:26.000Z"
     },
     {
       "id": "0558b2873d59",
@@ -215,268 +983,28 @@
       "isoDate": "2026-07-25T15:20:06.000Z"
     },
     {
-      "id": "1a8715c03635",
-      "title": "Los detalles y la galería de fotos de la lujosa boda de Donnarumma con Alessia Elefante: del show vikingo de Haaland al recital de Ozuna",
-      "link": "https://www.infobae.com/deportes/2026/07/25/los-detalles-y-la-galeria-de-fotos-de-la-lujosa-boda-de-donnarumma-con-alessia-elefante-del-show-vikingo-de-haaland-al-recital-de-ozuna/",
-      "image": "https://www.infobae.com/resizer/v2/GPHDJ6B5MVHAHEPXYQV5UKA6RQ.jpg?auth=6cb65679d491a563a2544f7fc18635daf1d0d6d7576a083541c32a5708762a6c&smart=true&width=1920&height=1080",
-      "snippet": "El arquero del Manchester City y su pareja celebraron su unión en un escenario exclusivo en Locorotondo, en el sur italiano, acompañados por figuras internacionales y espectáculos ",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "a7965709e65d",
+      "title": "LeBron James y Bryce Harper fueron sensaciones adolescentes. Ahora ambos están en Filadelfia",
+      "link": "https://www.clarin.com/estados-unidos/lebron-james-y-bryce-harper-fueron-sensaciones-adolescentes-ahora-ambos-estan-en-filadelfia_0_NgS5Kb8xQj.html",
+      "image": "https://www.clarin.com/img/2026/04/16/ox6pYwAJj_1200x630__1.jpg",
+      "snippet": "LeBron James se une a los Sixers con un contrato de dos años, buscando agregar un título más a su impresionante carrera. Su llegada a Filadelfia genera gran expectativa. Bryce Harp",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:19:50.000Z"
+      "isoDate": "2026-07-25T15:20:05.000Z"
     },
     {
-      "id": "00c410f5bcaf",
-      "title": "Qué dice la psicología de las personas que necesitan dormir con muchas almohadas",
-      "link": "https://www.lanacion.com.ar/lifestyle/que-dice-la-psicologia-de-las-personas-que-necesitan-dormir-con-muchas-almohadas-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/XIIH5LI5SJG6PNPTBATK4EUOE4.jpg?auth=dede6f7d6e92832fb1b50e38e1bab606f58d80831c8a93d68618b0dcce6950e2&smart=true&width=2000&height=1333",
-      "snippet": "Lejos de ser un capricho o una simple costumbre visual, especialistas revelan qué hay detrás de esto y por qué está asociado a un descanso reparador",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:19:39.000Z"
-    },
-    {
-      "id": "641674917b7d",
-      "title": "Partidos de hoy, sábado 25 de julio del 2026: agenda, hora y canales para ver fútbol EN VIVO",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/partidos-de-hoy-sabado-25-de-julio-del-2026-horarios-canales-tv-y-donde-ver-futbol-en-vivo-liga-1-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/GYNHZLYIKJHZDBICBI76KWLGUQ.jpg?auth=fc69aefe1bc2a6c8570d31f37d89ffc3099b707f0ce42d6ecccd26aca2cf8194&smart=true&width=1200&height=680",
-      "snippet": "Partidos de hoy, sábado 25 de julio del 2026: revisa la programación completa del Fútbol En vivo que se juega en el día.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:19:15.000Z"
-    },
-    {
-      "id": "a2a1fe33aed0",
-      "title": "Designaron a Oliver Blanco como viceministro primero de Relaciones Exteriores y Comercio Internacional",
-      "link": "https://www.elnacional.com/2026/07/designaron-a-oliver-blanco-como-viceministro-primero-de-relaciones-exteriores-y-comercio-internacional/",
+      "id": "8f294916c06b",
+      "title": "Tres años de Junta Militar en una Níger que sigue inestable",
+      "link": "https://www.dw.com/es/tres-años-de-junta-militar-en-una-níger-que-sigue-inestable/a-78109836?maca=spa-rss-sp-all-1122-rdf",
       "image": null,
-      "snippet": "El nuevo despacho coordinará la estrategia para posicionar productos nacionales en mercados internacionales y consolidar la Diplomacia de Paz. The post Designaron a Oliver Blanco c",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-07-25T15:18:59.000Z"
-    },
-    {
-      "id": "a08f5f860053",
-      "title": "Etapa 20 Tour de Francia: Un nuevo ascenso al Alpe d’Huez le paso factura a Egan Bernal, llegó 20 minutos después del ganador",
-      "link": "https://www.infobae.com/colombia/deportes/2026/07/25/en-vivo-etapa-20-tour-de-francia-un-nuevo-ascenso-al-alpe-dhuez-y-la-oportunidad-para-que-los-colombianos-figuren/",
-      "image": "https://www.infobae.com/resizer/v2/6CUFSU247ZCFTN3DXP64RVSHYY.JPG?auth=266bf830589b96f91e5efe60e34324a74b1a8c99230d0a6bb7e51a37d222c1ac&smart=true&width=4986&height=3274",
-      "snippet": "Tadej Pogacar vestía el maillot amarillo con una ventaja sólida sobre Evenepoel, Del Toro y Seixas, y había sumado 26 victorias de etapa en el Tour, igualando marcas históricas",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:18:43.000Z"
-    },
-    {
-      "id": "c7919ee32f0c",
-      "title": "Qué necesito para cargar rápido mi celular: potencia en vatios (W), cable y opción en smartphone",
-      "link": "https://www.infobae.com/tecno/2026/07/25/que-necesito-para-cargar-rapido-mi-celular-potencia-en-vatios-w-cable-y-opcion-en-smartphone/",
-      "image": "https://www.infobae.com/resizer/v2/UNXLVFPNHZFSZLSEFEYE4L5Z6Q.png?auth=92d6c808559c97bd5a65a106ec2a4c0b06def5ae556c0f2b4c2ec3a737f99ab4&smart=true&width=1536&height=1024",
-      "snippet": "Tener un cargador de alta potencia no es suficiente: si el teléfono no soporta esos vatios, cargará lento de todas formas",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:18:30.000Z"
-    },
-    {
-      "id": "676455baedcb",
-      "title": "Murió Horacio Muratore, histórico dirigente del básquet y figura clave para la Generación Dorada",
-      "link": "https://www.lanacion.com.ar/deportes/basquetbol/murio-horacio-muratore-historico-dirigente-del-basquet-y-figura-clave-para-la-generacion-dorada-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SXNCC5AHJVDHVGEM2T5ZPYOFTY.webp?auth=66b016a23932b928b694489b7f12ed7657c54f5ceeedeb86e381b6895d2ff703&smart=true&width=1000&height=667",
-      "snippet": "Presidió la Federación Tucumana de Básquet y estuvo al frente de la federación internacional de ese deporte; tenía 74 años",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:18:12.000Z"
-    },
-    {
-      "id": "b47d943355d2",
-      "title": "‘Soy Luna: Volver a Rodar’: La cuarta temporada ya está disponible en Perú con Karol Sevilla y el triángulo amoroso junto a Matteo y Simón",
-      "link": "https://www.infobae.com/peru/2026/07/25/soy-luna-volver-a-rodar-la-cuarta-temporada-ya-esta-disponible-en-peru-con-karol-sevilla-y-el-triangulo-amoroso-junto-a-matteo-y-simon/",
-      "image": "https://www.infobae.com/resizer/v2/3UURADGGSZA3TER25FVT6TDFSI.png?auth=7b967483eee6338d71711ddd170f3e9f1073784ba6cdc67403efe2fee7808700&smart=true&width=1280&height=720",
-      "snippet": "Diez años después de su debut, la franquicia regresa con 12 episodios, canciones inéditas y una Luna Valente obligada a empezar de cero.",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:17:50.000Z"
-    },
-    {
-      "id": "bf4bfb1664a6",
-      "title": "A qué hora juega Sporting Cristal vs Melgar HOY: partido en Arequipa por Torneo Clausura de Liga 1 2026",
-      "link": "https://www.infobae.com/peru/deportes/2026/07/25/a-que-hora-juega-sporting-cristal-vs-melgar-hoy-partido-arequipa-fecha-2-torneo-clausura-liga-1-2026-horario/",
-      "image": "https://www.infobae.com/resizer/v2/D54ZHY6JDNC2BOBFREK2X64CGI.jpg?auth=f682c1f1c8c5e04906b0e2a2d0bb97228c4d75a0ef42e30fbd8240eee1461fc9&smart=true&width=1920&height=1080",
-      "snippet": "El conjunto que dirige Roberto Mosquera visita la ‘Ciudad Blanca’ por la fecha 2 del segundo certamen de la temporada. Conoce los horarios",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:17:28.000Z"
-    },
-    {
-      "id": "fc1b654c3f61",
-      "title": "La cubana Mejías se lleva el oro en la contrarreloj de los Juegos de Santo Domingo",
-      "link": "https://www.infobae.com/america/agencias/2026/07/25/la-cubana-mejias-se-lleva-el-oro-en-la-contrarreloj-de-los-juegos-de-santo-domingo/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:16:43.000Z"
-    },
-    {
-      "id": "fed6e5e9ee26",
-      "title": "Tabla de posiciones Liga 1 2026: Universitario lidera tras vencer a Cusco FC en la fecha 2 del Torneo Clausura",
-      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/tabla-de-posiciones-liga-1-2026-en-vivo-programacion-partidos-y-resultados-de-la-fecha-2-torneo-clausura-y-tabla-del-acumulado-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/UCLL66X7YFFVNENADGGPVALN5I.png?auth=56a18cb774d1a380ff49bac40ac5dd2496083e1a1310d48f09a67797f6cf44af&smart=true&width=1600&height=900",
-      "snippet": "Universitario lidera la tabla de posiciones del Torneo Clausura 2026 tras vencer a Cusco FC. Alianza Lima y Sporting Cristal también buscarán sumar en esta fecha 2.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:16:31.000Z"
-    },
-    {
-      "id": "3ff8f35eaf96",
-      "title": "Israel mata a un alto cargo policial de Hamás en Gaza tras un ataque aéreo",
-      "link": "https://www.infobae.com/america/agencias/2026/07/25/israel-mata-a-un-alto-cargo-policial-de-hamas-en-gaza-tras-un-ataque-aereo/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:16:27.000Z"
-    },
-    {
-      "id": "8c44cfe9a9d9",
-      "title": "Francia amplía hasta 1.500 efectivos el dispositivo militar para luchar contra el fuego",
-      "link": "https://www.infobae.com/america/agencias/2026/07/25/francia-amplia-hasta-1500-efectivos-el-dispositivo-militar-para-luchar-contra-el-fuego/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:16:10.000Z"
-    },
-    {
-      "id": "81c72c6f4277",
-      "title": "Javier Milei participa del acto de lanzamiento de Flávio Bolsonaro y tensiona con Lula: “Vinimos a acompañar la ola azul”",
-      "link": "https://www.infobae.com/politica/2026/07/25/el-presidente-milei-visita-san-pablo-para-apoyar-a-flavio-bolsonaro-en-la-carrera-presidencial/",
-      "image": "https://www.infobae.com/resizer/v2/SJOHU25GUNC2JBQRHKVAR7BPII.jpg?auth=42871f9c3d2f953f2b8051758fc6c2d5c3c4a43bfab706c132164fc6bb86c04b&smart=true&width=1600&height=1066",
-      "snippet": "El Presidente viajó a San Pablo para apoyar la candidatura presidencial del hijo de Jair Bolsonaro. “Espero que terminemos de pintar el mapa como corresponde de una vez”, le dijo e",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:16:07.000Z"
-    },
-    {
-      "id": "a39e3bee95d9",
-      "title": "Robles asegura que los medios desplegados en los incendios son \"suficientes\" y pide \"mucha precaución y prudencia\"",
-      "link": "https://www.infobae.com/america/agencias/2026/07/25/robles-asegura-que-los-medios-desplegados-en-los-incendios-son-suficientes-y-pide-mucha-precaucion-y-prudencia/",
-      "image": "https://www.infobae.com/resizer/v2/DB4P5F4O3JBCDCCSYKGI4CIAMM.jpg?auth=05fead0cd7936071389fe60bc8f825793adb8da9bfe772d6aeac52e861bbce1f&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:16:07.000Z"
-    },
-    {
-      "id": "d3c7cb4ea360",
-      "title": "María Pérez: \"No fue fácil, pero quería recortar segundos y llegó el récord de España\"",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/25/maria-perez-no-fue-facil-pero-queria-recortar-segundos-y-llego-el-record-de-espana/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:15:53.000Z"
-    },
-    {
-      "id": "6c67bf281346",
-      "title": "Carapaz se corona rey de la montaña y Pogacar lleva a Del Toro al podio",
-      "link": "https://www.infobae.com/america/agencias/2026/07/25/carapaz-se-corona-rey-de-la-montana-y-pogacar-lleva-a-del-toro-al-podio/",
-      "image": "https://www.infobae.com/resizer/v2/L75ACA5KFBATLCKYH4QQXPK5YM.jpg?auth=409dcb47f5c92bab2a10744173fd4372122a1647528404ec6a5b1d01e8832d6f&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:15:50.000Z"
-    },
-    {
-      "id": "0ff51fc23150",
-      "title": "Norris saldrá primero en el Gran Premio de Hungría",
-      "link": "https://www.infobae.com/espana/agencias/2026/07/25/norris-saldra-primero-en-el-gran-premio-de-hungria/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:15:36.000Z"
-    },
-    {
-      "id": "e6ba59c7474d",
-      "title": "Ana Mena zanja los rumores con Ferran Torres y Carlos Alcaraz tras romper con Óscar Casas: \"Son conclusiones absurdas\"",
-      "link": "https://www.infobae.com/america/agencias/2026/07/25/ana-mena-zanja-los-rumores-con-ferran-torres-y-carlos-alcaraz-tras-romper-con-oscar-casas-son-conclusiones-absurdas/",
-      "image": "https://www.infobae.com/resizer/v2/32GLIIM7CVFZRIIPBCLLO47VNE.jpg?auth=4e34bfdae95edadeb2f06374fcddba582f070dd083a3271e2ae3b65f4d21b78e&smart=true&width=1920&height=1440",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:15:31.000Z"
-    },
-    {
-      "id": "dee04d61fb27",
-      "title": "DeSantis la firmó y ya entró en vigor: qué dice la ley HB 697 de Florida que protege a las farmacias locales y cambia las reglas para vender medicamentos",
-      "link": "https://elcomercio.pe/mag/usa/local-us/ron-desantis-la-firmo-y-ya-entro-en-vigor-que-dice-la-ley-hb-697-de-florida-que-protege-a-las-farmacias-locales-y-cambia-las-reglas-para-vender-medicamentos-estados-unidos-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/RO5FD2FVOFHOVISDLMSE6DRT2U.jpg?auth=4069ebb06a98fe23f038401395d7cd8a00df4c6b8dac9c77ac6a3124add1b42f&smart=true&width=2400&height=1600",
-      "snippet": "Nueva ley HB 697 en Florida: más protección para farmacias locales, cambios en reembolsos de medicamentos y ajustes al programa ADAP para pacientes con VIH.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:14:07.000Z"
-    },
-    {
-      "id": "87eb94d7af4d",
-      "title": "En qué canal pasan River vs. Barracas Central por el Torneo Apertura 2026 hoy",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/en-que-canal-pasan-river-vs-barracas-central-por-el-torneo-apertura-2026-hoy-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/JIXJNTKQZNGCDDBFQJ7HL2AS6E.jpg?auth=0ede5255eecbd00d62c9113eb9498eaedb3f33ea832e57026ae97e0500065756&smart=true&width=2048&height=1366",
-      "snippet": "El Millonario se estrena como local y tiene disponibles a los flamantes refuerzos: Nicolás Otamendi y Angel Correa; este viernes se fue Juan Fernando Quintero",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:13:19.000Z"
-    },
-    {
-      "id": "d2804048b6aa",
-      "title": "Surquillo: PNP sospecha que balacera con tres muertos fue parte de un ajuste de cuentas",
-      "link": "https://elcomercio.pe/lima/policiales/surquillo-pnp-sospecha-que-balacera-con-tres-muertos-fue-parte-de-un-ajuste-de-cuentas-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/Z45SRXOBKVDTLGQFYS7EMAB5VM.jpeg?auth=2e3ccc6fe0cbccf5f687a084d7656f112abd1fdf7c9dcf7e2c843233431d8572&smart=true&width=1152&height=768",
-      "snippet": "La Policía Nacional del Perú (PNP) mantiene como principal sospecha que la balacera en Surquillo es un presunto ajuste de cuentas. Agentes de la Dirincri recolectaron evidencias en",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:12:57.000Z"
+      "snippet": "El gobierno militar en Níger prometió mejoras sociales y económicas cuando tomó el poder en 2023. También quería restaurar la seguridad. Tres años después, hay pocas señales de que",
+      "source": "DW Español",
+      "sourceId": "dw",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-25T15:19:00.000Z"
     },
     {
       "id": "a0d4a1b60349",
@@ -503,64 +1031,28 @@
       "isoDate": "2026-07-25T15:12:11.000Z"
     },
     {
-      "id": "bcc1361859d1",
-      "title": "▷ ¿Dónde ver transmisión La Velada del Año VI EN VIVO? Plataformas y opciones de streaming",
-      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/donde-ver-la-velada-del-ano-vi-en-vivo-plataformas-y-opciones-de-streaming-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/Q746BYQSSJBS5CWGJ2ICLJVKPU.jpg?auth=a5e4b29642f7661baa224b78a8526872638d36448135473e1a55a88fcd037561&smart=true&width=2400&height=1620",
-      "snippet": "Revisa dónde ver EN VIVO y EN DIRECTO La Velada del Año VI, que se realizará este sábado 25 de julio en el Estadio de La Cartuja de Sevilla, España.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:12:00.000Z"
-    },
-    {
-      "id": "061621b53afd",
-      "title": "▷ Yo Soy Plex vs. Fernanfloo EN VIVO: horario, canal y dónde ver la pelea",
-      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/yo-soy-plex-vs-fernanfloo-en-vivo-horario-canal-y-donde-ver-la-pelea-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/2IH6AYC2SFDTPMDV3BA7B6PRZU.jpg?auth=13f4822ebb7ab167bde9d3dfc22b11dbddb538c916de33f72ff88900986f1106&smart=true&width=2400&height=1620",
-      "snippet": "Mira la transmisión de la pelea entre Yo Soy Plex vs. Fernanfloo EN VIVO y GRATIS por La Velada del Año 6, que se realizará en el Estadio de La Cartuja, Sevilla, España.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:10:00.000Z"
-    },
-    {
-      "id": "7b6269c62c46",
-      "title": "▶ Twitch de Ibai EN VIVO GRATIS: por dónde ver ahora La Velada del Año VI online",
-      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/twitch-de-ibai-en-vivo-como-ver-gratis-la-velada-del-ano-vi-online-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/BYPHQX5WVVC43FBJNVSVVXYH24.jpg?auth=45e5780295058d36ff56ac1038f9cc9d9aa41885eaaae71b6aad288e73f1c088&smart=true&width=2400&height=1620",
-      "snippet": "Sigue la transmisión del Twitch de Ibai Llanos EN VIVO, este sábado 25 de julio, para ver La Velada del Año VI desde el Estadio La Cartuja de Sevilla, que contará con un total de 1",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:10:00.000Z"
-    },
-    {
-      "id": "4ee7ac9d4423",
-      "title": "La ONU prevé un “golpe” de ‘El Niño’ a la seguridad alimentaria en Centroamérica",
-      "link": "https://elcomercio.pe/mundo/centroamerica/fenomeno-el-nino-la-onu-preve-un-golpe-a-la-seguridad-alimentaria-en-centroamerica-guatemala-el-salvador-carl-skau-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/PVBHPBL2V5GLLMEREA7R5MY44U.jpg?auth=e20a49c9885cf955d00ca859817e73707875fcf60888fda2b5ba7cfd12aea386&smart=true&width=1200&height=800",
-      "snippet": "El director ejecutivo interino del Programa Mundial de Alimentos (WFP, en inglés) de las Naciones Unidas, Carl Skau, considera que el fenómeno El Niño amenaza con asestar un “golpe",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T15:08:27.000Z"
-    },
-    {
-      "id": "e2c3199e97c2",
-      "title": "Laura García-Lorca: “Es un milagro que no se haya destruido el manuscrito de La casa de Bernarda Alba”",
-      "link": "https://www.lanacion.com.ar/cultura/laura-garcia-lorca-es-un-milagro-que-no-se-haya-destruido-el-manuscrito-de-la-casa-de-bernarda-alba-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/32XYUEO4YRHQFPDQXNFLWONPWM.jpg?auth=23b6393557c16ff09a3b5e3aa4847e0d8477bfe748f5d398c12a31a9436a2139&smart=true&width=3668&height=2450",
-      "snippet": "Sobrina del autor español y presidenta de la Fundación que vela por el legado y la memoria de su tío, cruzó el Atlántico para el estreno de una nueva versión de “La casa de Bernard",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "9c92990e8b75",
+      "title": "Se enamoraron cuando eran adolescentes, tienen 99 años y celebran su 80° aniversario de bodas: \"Nos preguntan el secreto de la longevidad de nuestro amor, pero la respuesta es bastante sencilla\"",
+      "link": "https://www.clarin.com/internacional/enamoraron-adolescentes-99-anos-celebran-80-aniversario-bodas-preguntan-secreto-longevidad-amor-respuesta-bastante-sencilla_0_msT4tpVBXm.html",
+      "image": "https://www.clarin.com/img/2026/07/25/249tiwynZ_1200x630__1.jpg",
+      "snippet": "Solo una de cada seis millones de parejas alcanza los 80 años de matrimonio: Betty y Kermit Eastman lo lograron. Tienen dos hijos, cinco nietos, once bisnietos y tres tataranietos.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:08:10.000Z"
+      "isoDate": "2026-07-25T15:09:15.000Z"
+    },
+    {
+      "id": "a2a1fe33aed0",
+      "title": "Designaron a Oliver Blanco como viceministro primero de Relaciones Exteriores y Comercio Internacional",
+      "link": "https://www.elnacional.com/2026/07/designaron-a-oliver-blanco-como-viceministro-primero-de-relaciones-exteriores-y-comercio-internacional/",
+      "image": null,
+      "snippet": "El nuevo despacho coordinará la estrategia para posicionar productos nacionales en mercados internacionales y consolidar la Diplomacia de Paz. The post Designaron a Oliver Blanco c",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-07-25T15:08:59.000Z"
     },
     {
       "id": "3ab330e5188a",
@@ -611,18 +1103,6 @@
       "isoDate": "2026-07-25T15:04:48.000Z"
     },
     {
-      "id": "2b7c88a322e8",
-      "title": "David Hume, el filósofo que cambió la forma de entender las emociones: “La razón debe ser esclava de las pasiones”",
-      "link": "https://www.lanacion.com.ar/lifestyle/david-hume-el-filosofo-que-cambio-la-forma-de-entender-las-emociones-la-razon-debe-ser-esclava-de-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/NXH5LXIUCVGV7OBQ4QZ4SDILQM.jpeg?auth=f39df79c998504089e45c9b0e2c4f9f960523e3b1e7aac95b485ccc6c5df41b0&smart=true&width=1360&height=910",
-      "snippet": "El pensador cuestionó una de las ideas centrales de Aristóteles y sostuvo que las emociones son el verdadero motor de las decisiones humanas",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:04:26.000Z"
-    },
-    {
       "id": "199d12ed8646",
       "title": "Renuncia ministro de Educación de India tras masivas protestas estudiantiles por irregularidades",
       "link": "https://www.latercera.com/mundo/noticia/renuncia-ministro-de-educacion-de-india-tras-masivas-protestas-estudiantiles-por-irregularidades-en-el-sistema-educativo/",
@@ -647,30 +1127,6 @@
       "isoDate": "2026-07-25T15:02:03.000Z"
     },
     {
-      "id": "3e8aba8f6a54",
-      "title": "El reclamo oficial de Katie Hobbs contra Trump en Arizona: “Estos aranceles irresponsables serán devastadores”",
-      "link": "https://www.lanacion.com.ar/estados-unidos/arizona/el-reclamo-oficial-de-katie-hobbs-contra-trump-en-arizona-estos-aranceles-irresponsables-seran-nid24072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/WHGIH47GHRCPPNDSBLLW2OVYYI.png?auth=71481e940276d4ab453f73158ca999cbb2198d9e0703f5c730dcdab4f0ebd915&smart=true&width=2000&height=1333",
-      "snippet": "Conocé qué dijo Katie Hobbs sobre los aranceles de Trump a Canadá y por qué advierte que subirán los costos para las familias de Arizona.",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:01:51.000Z"
-    },
-    {
-      "id": "62abcccaf8a1",
-      "title": "Gastón Edul vs. Edu Aguirre, en La Velada del Año VI 2026: a qué hora es el combate",
-      "link": "https://www.lanacion.com.ar/espectaculos/gaston-edul-vs-edu-aguirre-en-la-velada-del-ano-vi-2026-a-que-hora-es-el-combate-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/P5XYKRFXCRGUJFYPAETL3E776E.png?auth=b6a2e62512b64b6c72db4e2011e5b8b7639c3166846f9da2880f9914581a5e7e&smart=true&width=2000&height=1333",
-      "snippet": "El periodista argentino se enfrenta a su par español en el duelo que abre la jornada en Sevilla, un evento que genera gran expectativa tras la reciente final de la Copa del Mundo",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T15:00:00.000Z"
-    },
-    {
       "id": "9d75016bf794",
       "title": "Carapaz gana una monstruosa etapa reina y el Pogacar más solidario culmina la obra de su quinto Tour",
       "link": "https://www.elmundo.es/deportes/ciclismo/tour-de-francia/2026/07/25/6a64a4e421efa066198b456d.html",
@@ -681,18 +1137,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T14:58:47.000Z"
-    },
-    {
-      "id": "5787715daa46",
-      "title": "Planean construir la ciudad flotante más grande del mundo: con capacidad para 80 mil personas y un estadio propio",
-      "link": "https://www.lanacion.com.ar/el-mundo/planean-construir-la-ciudad-flotante-mas-grande-del-mundo-con-capacidad-para-80-mil-personas-y-un-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/UMZJNZZJIVFFVMAK4WYSXFMQO4.jpg?auth=cb1e50030bf0aad6e31a74ff9ecf6ada079fdc045551fb833a0bfb9e773db1e3&smart=true&width=2000&height=1333",
-      "snippet": "El proyecto Freedom Ship propone una metrópolis oceánica permanente con capacidad para miles de residentes; el diseño busca transformar la navegación global mediante una estructura",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:58:07.000Z"
     },
     {
       "id": "d6a61da84ac0",
@@ -731,18 +1175,6 @@
       "isoDate": "2026-07-25T14:55:00.000Z"
     },
     {
-      "id": "f03a061c356a",
-      "title": "La NASA mostró una imagen inédita de la Tierra que representa el geoide",
-      "link": "https://www.lanacion.com.ar/sociedad/la-nasa-mostro-una-imagen-inedita-de-la-tierra-que-representa-el-geoide-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/O6KSMQHAWRABBKJ2HKLOKXK54A.png?auth=53423ee317d501f164c4f665bfd5dd6ccafb838cceff416e36ee24a844231742&smart=true&width=2646&height=1832",
-      "snippet": "Para obtenerla, se procesaron más de 1000 millones de observaciones obtenidas durante 15 años con 19 satélites",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:50:41.000Z"
-    },
-    {
       "id": "2f62d6524662",
       "title": "Carapaz se lleva una etapa reina trepidante en Alpe d'Huez",
       "link": "https://www.abc.es/deportes/ciclismo/carapaz-lleva-etapa-reina-trepidante-alpe-dhuez-20260725165021-nt.html",
@@ -753,30 +1185,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T14:50:21.000Z"
-    },
-    {
-      "id": "d74a5e192049",
-      "title": "Tacna: triple choque en la Panamericana Sur deja cinco fallecidos y 16 heridos",
-      "link": "https://elcomercio.pe/peru/tacna/tacna-triple-choque-en-la-panamericana-sur-deja-cinco-fallecidos-y-16-heridos-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/KBPJNZIDEVBZTINUD3KIVDWYF4.jpg?auth=335c78cfd3f9de497ab89444adb717032a1061b2363d8b76f2349a696192591c&smart=true&width=901&height=498",
-      "snippet": "Un choque múltiple en la Panamericana Sur, a la altura de Tacna, dejó como saldo cinco muertos y al menos 16 heridos durante las primeras horas de este sábado. El siniestro involuc",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T14:49:00.000Z"
-    },
-    {
-      "id": "6ea2b230b71a",
-      "title": "Un incendio forestal en la Vall d'Uixó obliga a desalojar a vecinos y activa la situación 2 del PEIF",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/incendio-forestal-vall-duixo-castellon-obliga-desalojar-20260725142447-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/incendio-forestal-RXd4cmqeWX5pl9v3diFBOPP-1200x840@diario_abc.jpg",
-      "snippet": "La Comunidad Valenciana mantiene activos este sábado por la mañana dos incendios forestales declarados en las provincias de Castellón y Valencia.El primero de ellos se ha declarado",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T14:43:45.000Z"
     },
     {
       "id": "f5867270aa86",
@@ -791,16 +1199,16 @@
       "isoDate": "2026-07-25T14:42:32.000Z"
     },
     {
-      "id": "be9c045818ae",
-      "title": "Qué se sabe de la Finalissima entre la selección argentina y España",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/que-se-sabe-de-la-finalissima-entre-la-seleccion-argentina-y-espana-nid25072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TSN7UWDIPNHBHBZS3QBJ7B2P7U.JPG?auth=2208de23c719e1903b6ae40b7d188b16823f1f056918ff0482cc4a92d44250cc&smart=true&width=2000&height=1333",
-      "snippet": "La final del Mundial dejó tanta tela para cortar que no son pocos los que se entusiasman con un nuevo enfrentamiento entre la albiceleste y la Roja",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "28df8505762f",
+      "title": "Racing: Vojvoda explicó por qué dejó a Marcos Rojo en el banco y descartó cualquier sanción disciplinaria",
+      "link": "https://www.clarin.com/deportes/racing-vojvoda-explico-dejo-marcos-rojo-banco-descarto-cualquier-sancion-disciplinaria_0_ZX8PcCNF4l.html",
+      "image": "https://www.clarin.com/img/2026/07/25/pmHUUz3O3_1200x630__1.jpg",
+      "snippet": "El defensor fue suplente y no sumó minutos en el triunfo sobre Gimnasia. El entrenador reveló que su viaje a Estados Unidos para asistir a la final del Mundial le impidió entrenars",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:42:14.000Z"
+      "isoDate": "2026-07-25T14:40:58.000Z"
     },
     {
       "id": "081503b5aa06",
@@ -837,18 +1245,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-07-25T14:35:12.000Z"
-    },
-    {
-      "id": "2c90f6b732b5",
-      "title": "Jefe de dotación de bomberos voluntario: “He estado en Portugal varias veces, lo que he visto aquí no lo había visto nunca”",
-      "link": "https://elpais.com/espana/madrid/2026-07-25/jefe-de-dotacion-de-bomberos-voluntario-he-estado-en-portugal-varias-veces-lo-que-he-visto-aqui-no-lo-habia-visto-nunca.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/ZEAMJKMOTVLFPK4NLMIEY42U7A.jpg?auth=427851ded94f2b40b4570bb01145677a8012511f479ec097220612ef77530c2e",
-      "snippet": "Fernando Echave cuenta un día entero de lucha contra las llamas y confiesa que “lo que se quema es una mezcla entre masa forestal y viviendas, por lo que la devastación es muy gran",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T14:35:00.000Z"
     },
     {
       "id": "7f0ab8b02771",
@@ -923,102 +1319,6 @@
       "isoDate": "2026-07-25T14:28:48.000Z"
     },
     {
-      "id": "6cf5ae5e6ed4",
-      "title": "Tras caso del Cajón del Maipo: RN impulsa sanciones con cárcel y multas para quienes incumplan evacuaciones",
-      "link": "https://www.latercera.com/nacional/noticia/tras-caso-del-cajon-del-maipo-rn-impulsa-sanciones-con-carcel-y-multas-para-quienes-incumplan-evacuaciones/",
-      "image": "https://www.latercera.com/resizer/v2/J6YLHWAZCZCDFI2Z6Y46FETVTI.jpg?auth=de8370a1eb17780ea5f0403fed7b62dc4f199e4384a290b5004eff529ad49987&smart=true&width=6000&height=4000",
-      "snippet": "El proyecto apunta a quienes incumplan, “a sabiendas y sin causa justificada”, órdenes de evacuación o prohibiciones de ingreso a zonas de riesgo. Además de penas de presidio menor",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-25T14:27:38.000Z"
-    },
-    {
-      "id": "72230c393192",
-      "title": "Miles de personas huyen por carretera del incendio en la sierra oeste de Madrid",
-      "link": "https://www.abc.es/sociedad/miles-personas-huyen-carretera-incendio-sierra-oeste-20260725162245-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/07/25/chapuapaolaza-almorox-Rzpp17eDKmIdnlI99WmLTRL-1200x672@diario_abc.jpg",
-      "snippet": "",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T14:23:54.000Z"
-    },
-    {
-      "id": "3a4215efe792",
-      "title": "Decretan arresto domiciliario nocturno para los dos adolescentes detenidos por lanzar molotovs durante desórdenes en el Instituto Nacional",
-      "link": "https://www.latercera.com/nacional/noticia/decretan-arresto-domiciliario-nocturno-para-los-dos-adolescentes-detenidos-por-lanzar-molotovs-durante-desordenes-en-el-instituto-nacional/",
-      "image": "https://www.latercera.com/resizer/v2/FCNWZ6QF4NEQ3H2AHE3Z2EAAGQ.jpg?auth=0e0a991b6fd4c82c195aac10a79182016abdfd0222ebdeb042497761b78245e1&smart=true&width=1566&height=895",
-      "snippet": "Durante los altercados, dañaron un vehículo particular con dos menores de edad en su interior. Ambos resultaron ilesos.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-25T14:22:07.000Z"
-    },
-    {
-      "id": "d008788d9f26",
-      "title": "La visita de Kristalina Georgieva: un gesto para el Gobierno y una oportunidad para la jefa del FMI",
-      "link": "https://www.clarin.com/economia/visita-kristalina-georgieva-gesto-gobierno-oportunidad-jefa-fmi_0_NM80TZwXgg.html",
-      "image": "https://www.clarin.com/img/2025/04/12/3_ZOwqC5l_1200x630__1.jpg",
-      "snippet": "La directora gerente del organismo llega el lunes a Buenos Aires y se reunirá con el presidente Milei, el ministro Caputo, estudiantes y empresarios. El martes viajará a Vaca Muert",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:22:02.000Z"
-    },
-    {
-      "id": "613ab9b4d88a",
-      "title": "Murió Horacio Muratore, histórico dirigente del básquet argentino y expresidente de la FIBA",
-      "link": "https://www.clarin.com/deportes/murio-horacio-muratore-historico-dirigente-basquet-argentino-expresidente-fiba_0_kaQoctR3HV.html",
-      "image": "https://www.clarin.com/img/2017/03/08/BklyDMR5e_1200x630.jpg",
-      "snippet": "Tenía 74 años. Presidió la Confederación Argentina de Básquet entre 1992 y 2008. Luego se convirtió en el único argentino en conducir la Federación Internacional de Básquet.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:21:28.000Z"
-    },
-    {
-      "id": "d76b334c96e2",
-      "title": "Detuvieron a un hombre que cuidaba a su esposa internada con quemaduras: era él quien la había prendido fuego",
-      "link": "https://www.clarin.com/policiales/detuvieron-hombre-cuidaba-esposa-internada-quemaduras-prendido-fuego_0_8YEUuhuQeI.html",
-      "image": "https://www.clarin.com/img/2026/07/25/P5iuZBOY8_1200x630__1.jpg",
-      "snippet": "Ocurrió en Santiago del Estero y frente a la hija de la mujer, menor de edad. La mujer contó lo que había pasado cuando pudo volver a hablar, después de pasar más de 20 días en el ",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:18:48.000Z"
-    },
-    {
-      "id": "22441d2df62a",
-      "title": "Temblor hoy, sábado 25 de julio en Chile: consulta epicentro y magnitud",
-      "link": "https://www.latercera.com/servicios/noticia/temblor-hoy-sabado-25-de-julio-en-chile-consulta-epicentro-y-magnitud/",
-      "image": "https://www.latercera.com/resizer/v2/WJVZ4RZ2GVAFNLSDARBLUVBWJA.png?auth=7a114d5945e0d34ed544719bc7a5c07e3e9178c8069b1a79187db905b3eeea27&smart=true&width=1920&height=1080",
-      "snippet": "Revisa los recientes movimientos sísmicos registrados por el Centro Sismológico Nacional de la Universidad de Chile. Además, conoce las recomendaciones de Senapred sobre qué hacer ",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-25T14:16:41.000Z"
-    },
-    {
-      "id": "83f5fa1eeb9b",
-      "title": "La Corte Suprema de EE. UU. frena miles de demandas por falta de advertencia en el herbicida Roundup",
-      "link": "https://www.clarin.com/estados-unidos/corte-suprema-ee-uu-frena-miles-demandas-falta-advertencia-herbicida-roundup_0_LDDUyjcMdJ.html",
-      "image": "https://www.clarin.com/img/2026/07/06/aI0ZnaQqD_1200x630__1.jpg",
-      "snippet": "Hay más de 200.000 juicios contra la empresa fabricante del producto. La mayoría de ellas sostiene que su principal componente puede producir cáncer.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:15:12.000Z"
-    },
-    {
       "id": "e53a4e5b46a4",
       "title": "\"Es el peor incendio de la historia de Madrid\": los fuegos sin control que han obligado a evacuar a decenas de miles de personas en el centro de España",
       "link": "https://www.bbc.com/mundo/articles/crrvdq8d9x9o?at_medium=RSS&at_campaign=rss",
@@ -1029,18 +1329,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-25T14:13:57.000Z"
-    },
-    {
-      "id": "0e3df272ae8d",
-      "title": "Kelci-Rose Bowers, la novia de Marcos Senesi, mostró el regalo que Lionel Messi les hizo a los jugadores de la Selección Argentina tras el Mundial",
-      "link": "https://www.clarin.com/fama/kelci-rose-bowers-novia-marcos-senesi-mostro-regalo-lionel-messi-hizo-jugadores-seleccion-argentina-mundial_0_7qicfiSF3x.html",
-      "image": "https://www.clarin.com/img/2026/07/25/FOLVBUwAx_1200x630__1.jpg",
-      "snippet": "La inglesa lo compartió en redes sociales. Son obsequios personalizados.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-07-25T14:13:41.000Z"
     },
     {
       "id": "3bd31b148759",
@@ -1151,30 +1439,6 @@
       "isoDate": "2026-07-25T13:59:25.000Z"
     },
     {
-      "id": "0c82a4cbba6d",
-      "title": "Los incendios de Madrid y Ávila afectan ya a 45.000 hectáreas y obligan a evacuar o confinar a casi 88.000 personas",
-      "link": "https://elpais.com/espana/2026-07-25/los-incendios-de-madrid-y-avila-ya-han-calcinado-mas-de-15000-hectareas-y-han-obligado-a-evacuar-o-confinar-a-63000-personas.html",
-      "image": null,
-      "snippet": "Las condiciones de temperatura y humedad mejoran, pero no las de viento, que puede complicar la evolución de las llamas. La UME unifica el mando de la emergencia para coordinar la ",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T13:59:20.000Z"
-    },
-    {
-      "id": "b08a0a806dbc",
-      "title": "Inicia primera etapa de desalojo de más de 250 viviendas en Cerro Chuño de Arica",
-      "link": "https://www.latercera.com/nacional/noticia/inicia-primera-etapa-de-desalojo-de-mas-de-250-viviendas-en-cerro-chuno-de-arica/",
-      "image": "https://www.latercera.com/resizer/v2/ECMGJSXXFVGJHBFQIZ6KOJ6ARU.jpg?auth=1e5a89de2ddc1fc1ec3e23f3d8f29b2da388d6dba2d5811b40eb3e4def67b1a8&smart=true&width=1600&height=900",
-      "snippet": "Según han informado las autoridades, el operativo, cuyo objetivo es desplazar a 700 personas y 250 viviendas, corresponde a la primera etapa de cuatro del desalojo que se extenderá",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-25T13:59:20.000Z"
-    },
-    {
       "id": "f6602da38061",
       "title": "¿Vive en el norte de Barranquilla? Estos son los sectores que se quedarán sin energía este domingo 26 de julio por trabajos de Air-e",
       "link": "https://www.eltiempo.com/colombia/barranquilla/vive-en-el-norte-de-barranquilla-estos-son-los-sectores-que-se-quedaran-sin-energia-este-domingo-26-de-julio-por-trabajos-de-air-e-3573794",
@@ -1187,8 +1451,8 @@
       "isoDate": "2026-07-25T13:59:10.000Z"
     },
     {
-      "id": "e6d10a16bd82",
-      "title": "Alta demanda por subsidio al crédito hipotecario agota los cupos",
+      "id": "a3cc4e13d946",
+      "title": "Alta demanda por subsidios para la tasa del crédito hipotecario agota los cupos",
       "link": "https://www.latercera.com/videos/noticia/solicitudes-aprobadas-para-la-tasa-de-los-creditos-hipotecarios-sobrepasan-cupos-existentes/",
       "image": "https://www.latercera.com/resizer/v2/XRLDGQ2YRVFSNMUKYFADUZN3EQ.jpg?auth=b47054fee68f9cfc810ee14f71be722d81cba32cf4334cc3ce01dc4315d5b92e&smart=true&width=888&height=500",
       "snippet": "La ley que estableció el subsidio a las tasas de interés, promulgada en 2025, contemplaba 50 mil cupos. Las operaciones ya aprobadas superan las 51 mil, pero hasta que no se cursen",
@@ -1197,18 +1461,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-07-25T13:58:00.000Z"
-    },
-    {
-      "id": "31f8e90e50c8",
-      "title": "Senapred fija alerta amarilla por crecida para Molina y Curicó",
-      "link": "https://www.latercera.com/nacional/noticia/senapred-fija-alerta-amarilla-por-crecida-para-molina-y-curico/",
-      "image": "https://www.latercera.com/resizer/v2/3KL4MRBLMRBQPDA4RFMSOMVKSM.jpg?auth=3fe5408cb992c1e5ba92ee8d0357913d005c93cae291210ecb1280a6c6afd3f9&smart=true&width=2764&height=1718",
-      "snippet": "La estación hidrométrica Río Palos en junta con Colorado presenta un incremento en su caudal, llegando a valores de umbral amarillo.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-07-25T13:57:20.000Z"
     },
     {
       "id": "ee0d2a63bc95",
@@ -1307,18 +1559,6 @@
       "isoDate": "2026-07-25T13:31:05.000Z"
     },
     {
-      "id": "8abc5975e20a",
-      "title": "Sánchez explica que hay «una ventana de oportunidad» para extinguir los incendios durante el fin de semana",
-      "link": "https://www.abc.es/sociedad/pedro-sanchez-explica-ventana-oportunidad-extinguir-incendios-20260725121017-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/07/25/pedro-sanchez-incendios-cenicientos-ke0D-U301003451309ffC-1200x840@diario_abc.jpg",
-      "snippet": "El presidente del Gobierno, Pedro Sánchez, ha advertido este sábado de que la situación por los incendios forestales en Madrid y Ávila «sigue siendo compleja», aunque ha subrayado ",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T13:28:58.000Z"
-    },
-    {
       "id": "466a34f47007",
       "title": "Lola Índigo suspende su concierto en Barcelona por un problema de salud",
       "link": "https://www.abc.es/gente/lola-indigo-suspende-concierto-barcelona-problema-salud-20260725120743-nt.html",
@@ -1329,18 +1569,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T13:23:00.000Z"
-    },
-    {
-      "id": "d7b371d1276d",
-      "title": "El fuego en el suroeste de Francia se acerca a 30 kilómetros de Burdeos y obliga a nuevas evacuaciones",
-      "link": "https://elpais.com/internacional/2026-07-25/el-fuego-en-el-suroeste-de-francia-avanza-sin-control-hacia-burdeos-y-obliga-a-nuevas-evacuaciones.html",
-      "image": null,
-      "snippet": "Los incendios en los departamentos de Gironda y Las Landas han provocado ya el desalojo de 200.000 personas. El Gobierno anuncia un refuerzo del dispositivo militar",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T13:15:02.000Z"
     },
     {
       "id": "b3b48cb2c6e7",
@@ -1451,18 +1679,6 @@
       "isoDate": "2026-07-25T12:40:01.000Z"
     },
     {
-      "id": "3567af7b56d5",
-      "title": "El viento acerca el incendio de la sierra oeste de Madrid a Almorox y eleva la emergencia a nivel 2",
-      "link": "https://www.abc.es/espana/castilla-la-mancha/toledo/pueblos/viento-acerca-incendio-sierra-oeste-madrid-almorox-20260725143034-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/1515142765-R4JrAFMsAji6Z5jAgsVZ8XL-1200x840@diario_abc.jpg",
-      "snippet": "El incendio de la Sierra Oeste de Madrid vuelve este sábado al municipio toledano de Almorox después de que un cambio en la dirección del viento acerque de nuevo las llamas al lími",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T12:30:34.000Z"
-    },
-    {
       "id": "82c6f1921d1c",
       "title": "El Gobierno llama a permanecer en espacios cerrados y usar mascarillas en el exterior por el humo de los incendios de Madrid y Ávila",
       "link": "https://elpais.com/sociedad/2026-07-25/protegerse-frente-al-humo-mejor-quedarse-en-casa-usar-mascarilla-ffp2-al-salir-y-llamar-a-urgencias-si-cuesta-respirar.html",
@@ -1473,18 +1689,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T12:26:19.000Z"
-    },
-    {
-      "id": "e93bb89094d1",
-      "title": "El camping fantasma de El Escorial: «No había un peligro inminente, pero con 4.600 personas evacuar era lo prudente»",
-      "link": "https://www.abc.es/espana/madrid/camping-fantasma-escorial-peligro-inminente-4600-personas-20260725140855-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/07/25/camping-RnLfbUCKiSwy7tp7u5PfKnN-1200x840@diario_abc.jpg",
-      "snippet": "La A-6 ofrece un paisaje muy distinto al habitual. Donde otros días se recortan las montañas, este sábado solo se distingue una gran masa de humo gris que cubre el horizonte. Los p",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T12:25:13.000Z"
     },
     {
       "id": "c2a3b332eb88",
@@ -1538,7 +1742,7 @@
       "id": "9458c4e29503",
       "title": "Los incendios que asolan España, en imágenes",
       "link": "https://elpais.com/espana/2026-07-25/los-incendios-que-asolan-espana-en-imagenes.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/6BT56BVDGRAZXARQWVMESXZEAA.JPG?auth=54efe9fa96f22715c707679af99604d4d7feccc060e2cac7e416dfe041e7fb05",
+      "image": "https://imagenes.elpais.com/resizer/v2/NENKXIHCGVA7LJQAC7KI6G5OTM.jpg?auth=d76883f5471780514fd130d7e859ed694216722b06a91ec49aae01a07d77fe25",
       "snippet": "Madrid y Ávila concentran los principales focos",
       "source": "El País",
       "sourceId": "elpais",
@@ -1581,18 +1785,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-25T11:59:00.000Z"
-    },
-    {
-      "id": "3735d01eef61",
-      "title": "Iris Varela en contra de las negociaciones entre Dinorah Figuera y Delcy Rodríguez",
-      "link": "https://www.elnacional.com/2026/07/iris-varela-en-contra-de-las-negociaciones-entre-dinorah-figuera-y-delcy-rodriguez/",
-      "image": null,
-      "snippet": "\"Yo lo único que espero es que todo el que ha montado gobiernos paralelos, instituciones paralelas, que ha violado la Constitución y nuestras leyes, no quede impune\", dijo la diput",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-07-25T11:58:56.000Z"
     },
     {
       "id": "5e408dff529e",
@@ -1643,18 +1835,6 @@
       "isoDate": "2026-07-25T11:51:18.000Z"
     },
     {
-      "id": "6a569869ae5e",
-      "title": "Delcy Rodríguez cambia al jefe operativo de la FANB y anuncia otras designaciones",
-      "link": "https://www.elnacional.com/2026/07/delcy-rodriguez-cambia-al-jefe-operativo-de-la-fanb-y-anuncia-otras-designaciones/",
-      "image": null,
-      "snippet": "Los nombramientos ocurren en medio de la gestión de la tragedia causada por el doble terremoto de magnitud 7,2 y 7,5 de hace un mes. The post Delcy Rodríguez cambia al jefe operati",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-07-25T11:50:00.000Z"
-    },
-    {
       "id": "17027df9c0a1",
       "title": "El Gobierno establece un mando único ante la previsión de que los incendios de Madrid y Ávila confluyan en uno solo: \"La situación sigue siendo compleja\"",
       "link": "https://www.elmundo.es/espana/2026/07/25/6a647fb8e9cf4a9d4e8b45ad.html",
@@ -1703,42 +1883,6 @@
       "isoDate": "2026-07-25T11:34:06.000Z"
     },
     {
-      "id": "8a9a643594d6",
-      "title": "“Amigos para siempre”: Shakira se despidió de los Ghetto Kids de Uganda",
-      "link": "https://www.elnacional.com/2026/07/amigos-por-siempre-shakira-se-despidio-de-los-ghetto-kids-de-uganda/",
-      "image": null,
-      "snippet": "La famosa les prometió a los niños que se verían más adelante en Madrid. The post “Amigos para siempre”: Shakira se despidió de los Ghetto Kids de Uganda appeared first on EL NACIO",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-07-25T11:30:00.000Z"
-    },
-    {
-      "id": "3b14ac246c90",
-      "title": "Don Eduardo: el restaurante de carnes peruano que hace que no extrañes el corte importado",
-      "link": "https://elcomercio.pe/somos/gastronomia/don-eduardo-el-restaurante-de-carnes-peruano-que-hace-que-no-extranes-el-corte-importado-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/VM2WYHJSOBCRHFHUA5N374HR4Q.jpg?auth=ff294593d0d3e3e8dc4673eae54e52003c674b67a1627e6c21930bc1466a7483&smart=true&width=1200&height=800",
-      "snippet": "El restaurante llega a Lima —y al competitivo mundo de las parrillas— con algo que parecía imposible, y por partida doble: que exista una novedad en ese rubro y que se trate de una",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T11:25:15.000Z"
-    },
-    {
-      "id": "c556fe475273",
-      "title": "Laptops más caras y recibos de luz abultados: el costo de la inteligencia artificial sigue aumentando",
-      "link": "https://elcomercio.pe/mundo/actualidad/laptops-mas-caras-y-recibos-de-luz-abultados-el-costo-de-la-inteligencia-artificial-sigue-aumentando-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/M37FJGJMENEUDJYG66VLVJVAAM.webp?auth=1503163b2353173300815ed93d0581bd8e8b1d8e2348da86c6c1f6feb9569e69&smart=true&width=1280&height=853",
-      "snippet": "El desarrollo de centros de datos y demás infraestructura clave para la expansión de la inteligencia artificial encarece las facturas de servicios públicos y eleva los precios de c",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T11:24:03.000Z"
-    },
-    {
       "id": "770760479afa",
       "title": "Efectos secundarios de los incendios: el humo que viaja cientos de kilómetros también perjudica a los pulmones y el corazón",
       "link": "https://www.elmundo.es/salud/2026/07/25/6a634986fc6c83be628b4570.html",
@@ -1749,42 +1893,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T11:22:00.000Z"
-    },
-    {
-      "id": "e3ddd628c272",
-      "title": "Así se ve el cielo de Madrid debido a los fuertes incendios forestales",
-      "link": "https://www.elnacional.com/2026/07/asi-se-ve-el-cielo-de-madrid-debido-a-los-fuertes-incendios-forestales/",
-      "image": null,
-      "snippet": "La capital se encuentra a unos 70 kilómetros de la zona afectada por el fuego, que devasta parte de las provincias limítrofes de Madrid y Ávila. The post Así se ve el cielo de Madr",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-07-25T11:22:00.000Z"
-    },
-    {
-      "id": "01f0c80892c1",
-      "title": "Consulta cómo avanza el fuego y el mapa de riesgo",
-      "link": "https://www.abc.es/sociedad/mapa-incendios-dia-dia-hectareas-arrasadas-20260714000641-ntrc.html",
-      "image": "https://s1.abcstatics.com/rc/www/multimedia/2026/07/14/fotolead_incendios_672--1200x672.jpg",
-      "snippet": "Código Desktop Incendios en España .apertura-incendios { width: 100%; margin: 20px auto 28px; padding: 0 20px; box-sizing: border-box; } .apertura-incendios__grafico { width: 100%;",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T11:20:10.000Z"
-    },
-    {
-      "id": "0ad2ba1ba617",
-      "title": "Otro robo en un museo de Francia: desaparece el torque de oro del Tesoro de Vix",
-      "link": "https://www.abc.es/cultura/robo-museo-francia-desaparece-torque-oro-tesoro-20260725131959-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/07/25/torque-oro-R6vzzap8wbEnwSR6g3fh8yH-1200x840@diario_abc.jpg",
-      "snippet": "A plena luz del día, unos ladrones entraron en el museo de Chatillon-sur-Seine, en la región de Borgoña (Francia), y se llevaron un torque de oro de época celta, perteneciente al T",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T11:19:59.000Z"
     },
     {
       "id": "2fe59e9deb02",
@@ -1845,18 +1953,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-25T10:53:00.000Z"
-    },
-    {
-      "id": "ffe8a1d5b2a0",
-      "title": "Las 'cucarachas' de India consiguen su primera victoria: la dimisión del ministro de Educación",
-      "link": "https://www.elmundo.es/internacional/2026/07/25/6a649329e4d4d8643b8b456d.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849762997660.jpg",
-      "snippet": "La renuncia marca la primera gran concesión del Gobierno de Modi a un movimiento estudiantil nacido en las redes sociales Leer",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-25T10:49:48.000Z"
     },
     {
       "id": "7b4a7bf50e2a",
@@ -1979,18 +2075,6 @@
       "isoDate": "2026-07-25T09:14:53.000Z"
     },
     {
-      "id": "cfb09e5a9935",
-      "title": "Sol rojo y cielo naranja mientras Madrid combate el mayor incendio de su historia",
-      "link": "http://es.euronews.com/video/2026/07/25/sol-rojo-y-cielo-naranja-mientras-madrid-combate-el-mayor-incendio-de-su-historia",
-      "image": null,
-      "snippet": "Los incendios forestales cerca de Madrid y Ávila obligaron a decenas de miles de personas a evacuar, tiñendo de naranja el cielo y de rojo intenso el sol sobre los pueblos afectado",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-25T09:13:21.000Z"
-    },
-    {
       "id": "3bc025aab20d",
       "title": "Más de 30 grados, menos del 30% de humedad y viento superior a 30 km/h: el combo del peor incendio de la historia de Madrid",
       "link": "https://www.lavanguardia.com/local/madrid/20260725/11600920/mas-30-grados-30-humedad-viento-superior-30-km-h-combo-peor-incendio-historia-madrid.html",
@@ -2001,30 +2085,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T09:06:06.000Z"
-    },
-    {
-      "id": "0f16105c19e8",
-      "title": "Trump regresa a la cena de corresponsales de la Casa Blanca tras el tiroteo de abril",
-      "link": "http://es.euronews.com/2026/07/25/trump-regresa-a-la-cena-de-corresponsales-de-la-casa-blanca-tras-el-tiroteo-de-abril",
-      "image": null,
-      "snippet": "El presidente se mostró de buen humor durante toda la velada y bromeó sobre un posible tercer mandato.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-25T09:01:03.000Z"
-    },
-    {
-      "id": "495996737841",
-      "title": "Estación de esquí en Lesoto ofrece una inusual escapada invernal en África",
-      "link": "http://es.euronews.com/video/2026/07/25/estacion-de-esqui-en-lesoto-ofrece-una-inusual-escapada-invernal-en-africa",
-      "image": null,
-      "snippet": "Esquiadores acuden al complejo Afriski Mountain Resort, en Lesoto, donde las nieves de las montañas Maluti atraen a principiantes y aficionados africanos a los deportes de invierno",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-25T08:34:23.000Z"
     },
     {
       "id": "fd01c086f2e7",
@@ -2259,7 +2319,7 @@
       "title": "El fuego amenaza Burdeos y obliga a estrenar un megaavión militar para extinguir incendios",
       "link": "https://www.lavanguardia.com/internacional/20260725/11600898/fuego-acerca-burdeos-obliga-mas-evacuaciones.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/25/6a648bbb619fe.jpeg",
-      "snippet": "Las autoridades tienen listas 1,5 millones de mascarillas FFP2 para proteger del humo a la población",
+      "snippet": "Las autoridades acumulan 2,5 millones de mascarillas FFP2 para proteger del humo a la población",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -2318,25 +2378,13 @@
       "id": "ebcbad4c7bdf",
       "title": "Trump arremete contra las \"noticias falsas\" en la cena de corresponsales de la Casa Blanca",
       "link": "https://www.elmundo.es/internacional/2026/07/25/6a6457b6e4d4d8b77c8b4590.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/25/17849609259887.jpg",
+      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
       "snippet": "Trump también reavivó la idea de servir un tercer mandato, algo prohibido por la Constitución estadounidense, aunque insistió en que bromeaba Leer",
       "source": "El Mundo",
       "sourceId": "elmundo",
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T06:29:14.000Z"
-    },
-    {
-      "id": "fb400fe6bfd2",
-      "title": "Lapadula salva a la ‘U’ a los 93: Por qué su gol a Cusco FC es lo único que pagó la entrada de 40 mil en el Monumental",
-      "link": "https://elcomercio.pe/deporte-total/universitario-gianluca-lapadula-salva-a-la-u-a-los-93-por-que-su-gol-a-cusco-fc-es-lo-unico-que-pago-la-entrada-de-40-mil-en-el-estadio-monumental-tlcnota-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/GQXJKGKNHBACTFVCJVRVBNHRHU.jpg?auth=72233950f3eb03dc33acfd81e6b4bb9c311833565dd3d8c18d16e6cae7c191b3&smart=true&width=1200&height=800",
-      "snippet": "Universitario sufrió para ganar 2-1 a Cusco FC con un golazo de Lapadula, quien se abrazó al final con el capitán Corzo como señal de que el ADN crema no se negocia. Valera abrió e",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-07-25T06:18:50.000Z"
     },
     {
       "id": "2e4197016d98",
@@ -2363,6 +2411,18 @@
       "isoDate": "2026-07-25T05:58:21.000Z"
     },
     {
+      "id": "f6b4f6175ce0",
+      "title": "Rosalía en Chile: una noche monumental e impactante que se anota entre los mejores shows del año",
+      "link": "https://www.latercera.com/culto/noticia/rosalia-en-chile-una-noche-monumental-e-impactante-que-se-anota-entre-los-mejores-shows-del-ano/",
+      "image": "https://www.latercera.com/resizer/v2/TAJXKGU4FJBMXGZ6KIST7RH5NQ.jpg?auth=5bbf7126363976cdb198d5ba96d6fd85c168ee73a9d3206f86eaa4cd674574d1&smart=true&width=1802&height=1200",
+      "snippet": "La estrella barcelonesa abrió su serie de shows en Chile con una apabullante presentación. Teatral, dramática y poderosa, se jugó por un espectáculo concentrado en su álbum Lux. Un",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-07-25T05:57:17.000Z"
+    },
+    {
       "id": "2d001644b819",
       "title": "\"Aquello parece un campo de guerra\": la angustia de los vecinos desalojados por los incendios en Madrid",
       "link": "https://www.20minutos.es/madrid/aquello-parece-un-campo-guerra-angustia-los-vecinos-desalojados-por-los-incendios-madrid_7018837_0.html",
@@ -2373,6 +2433,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-25T05:48:43.000Z"
+    },
+    {
+      "id": "c29753286b28",
+      "title": "Flávio Bolsonaro oficializa su candidatura para enfrentar a Lula en Brasil",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260725-fl%C3%A1vio-bolsonaro-oficializa-su-candidatura-para-enfrentar-a-lula-en-brasil",
+      "image": "https://s.france24.com/media/display/8d0e5704-8838-11f1-a93a-005056bfb2b6/w:1024/p:16x9/4e649d69b3eab05e53b32495241d8c68da41dd89.jpg",
+      "snippet": "El senador de derecha Flávio Bolsonaro oficializó este sábado su candidatura a la Presidencia de Brasil, respaldado por el partido de su padre, el exmandatario Jair Bolsonaro, para",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-07-25T05:01:14.000Z"
     },
     {
       "id": "3427c5c8bd44",
@@ -2438,8 +2510,8 @@
       "id": "2e5befa7734c",
       "title": "El avance de las llamas obliga a trasladar el centro de coordinación del incendio a Navalcarnero",
       "link": "https://www.lavanguardia.com/vida/20260725/11600859/incendios-madrid-directo-ultima-hora-emergencia-nacional-situacion-fuegos-forestales-espana.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a638d33ef3e7.r_d.3658-3824-0.jpeg",
-      "snippet": "El Gobierno ha desplegado 3.000 efectivos, 400 medios terrestres y 20 aéreos por los incendios",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a639e1719487.r_d.4027-2865-0.jpeg",
+      "snippet": "Portugal envía 200 bomberos para apoyar en la extinción de los incendios en Ávila",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -2543,18 +2615,6 @@
       "isoDate": "2026-07-25T02:24:40.000Z"
     },
     {
-      "id": "ca30ec0c9cb4",
-      "title": "¿Dónde está la bebé de María Camila Potosí, joven asesinada en Cali?",
-      "link": "https://www.eltiempo.com/colombia/cali/donde-esta-la-bebe-de-maria-camila-potosi-joven-asesinada-en-cali-3573755",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a641c45e2b00.r_d.240-180-0.jpeg",
-      "snippet": "Crece la incertidumbre en Cali por la desaparición de la bebé en su octavo mes de gestación. El 16 de julio pasado, la familia de María Camila Potosí le perdió el rastro y apareció",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-25T02:19:48.000Z"
-    },
-    {
       "id": "cb045f87b44b",
       "title": "Venezuela: refugiados se niegan a ser reubicados hasta que no aparezcan sus familiares",
       "link": "https://www.france24.com/es/video/20260725-venezuela-refugiados-se-niegan-a-ser-reubicados-hasta-que-no-aparezcan-sus-familiares",
@@ -2567,18 +2627,6 @@
       "isoDate": "2026-07-25T02:17:31.000Z"
     },
     {
-      "id": "01e1a7607f08",
-      "title": "Medellín y el Banco de Desarrollo de América Latina sellaron alianza estratégica por 550 millones de dólares: ¿Cuáles proyectos serán financiados?",
-      "link": "https://www.eltiempo.com/colombia/medellin/medellin-y-el-banco-de-desarrollo-de-america-latina-sellaron-alianza-estrategica-por-550-millones-de-dolares-cuales-proyectos-seran-financiados-3573691",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a63e44393313.r_d.888-827-0.png",
-      "snippet": "El anuncio se realizó en un evento que contó con la participación del presidente electo y en el que el CAF anunció una histórica inversión en el país.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-07-25T02:07:48.000Z"
-    },
-    {
       "id": "da716cad0f92",
       "title": "Fiscal Karim Khan es destituido de la CPI por presunta conducta sexual indebida",
       "link": "https://www.france24.com/es/video/20260725-fiscal-karim-khan-es-destituido-de-la-cpi-por-presunta-conducta-sexual-indebida",
@@ -2589,18 +2637,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-07-25T02:07:38.000Z"
-    },
-    {
-      "id": "dd89e31485ce",
-      "title": "Múltiples ataques aéreos sacuden ciudad yemení de Hudeida",
-      "link": "https://www.dw.com/es/múltiples-ataques-aéreos-sacuden-ciudad-yemení-de-hudeida/a-78107355?maca=spa-rss-sp-all-1122-rdf",
-      "image": null,
-      "snippet": "La coalición saudí en Yemen confirmó haber atacado \"objetivos\" militares hutíes en la ciudad portuaria.",
-      "source": "DW Español",
-      "sourceId": "dw",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-25T01:58:00.000Z"
     },
     {
       "id": "2347b1af9c4a",
@@ -2711,18 +2747,6 @@
       "isoDate": "2026-07-25T00:24:04.000Z"
     },
     {
-      "id": "e8f235c5664f",
-      "title": "Un mes después del doble terremoto en Venezuela: los retos a los que se enfrentan los sobrevivientes",
-      "link": "https://www.france24.com/es/video/20260725-un-mes-despu%C3%A9s-del-doble-terremoto-en-venezuela-los-retos-a-los-que-se-enfrentan-los-sobrevivientes",
-      "image": "https://s.france24.com/media/display/4e5baf82-87b8-11f1-9b40-005056bfb2b6/w:1024/p:16x9/ES-20260724-134206-134442-CS.jpg",
-      "snippet": "Un mes después del doble terremoto en Venezuela, los sobrevivientes continúan con la búsqueda de un número desconocido de desaparecidos. Las organizaciones humanitarias advierten q",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-25T00:22:04.000Z"
-    },
-    {
       "id": "0c99acf3a63e",
       "title": "BYD traerá a México sus cargadores ultrarrápidos capaces de recargar autos eléctricos en apenas cinco minutos",
       "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
@@ -2733,18 +2757,6 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-07-25T00:20:52.000Z"
-    },
-    {
-      "id": "6f4ed615e428",
-      "title": "\"Partido de las cucarachas\" suma seguidores mientras India atraviesa crisis de desempleo y educación",
-      "link": "https://www.france24.com/es/video/20260725-partido-de-las-cucarachas-suma-seguidores-mientras-india-atraviesa-crisis-de-desempleo-y-educaci%C3%B3n",
-      "image": "https://s.france24.com/media/display/1124d4ae-87b3-11f1-ba74-005056a90284/w:1024/p:16x9/ES-20260724-134006-134144-CS.jpg",
-      "snippet": "El movimiento de las \"cucarachas\" nació luego de que un funcionario comparara a los jóvenes con estos insectos. Meses después, millones de personas se han unido a la causa, critica",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-07-25T00:20:15.000Z"
     },
     {
       "id": "e9d03f2a67f8",
@@ -2841,18 +2853,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-24T20:44:54.000Z"
-    },
-    {
-      "id": "c77b241ed888",
-      "title": "Alfonso Rueda ensancha su mayoría absoluta mientras el BNG retrocede y el PSOE sigue atrapado en mínimos",
-      "link": "https://www.elmundo.es/espana/encuestas/2026/07/24/6a635958e4d4d883458b459e.html",
-      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
-      "snippet": "El PP obtendría entre 40 y 42 escaños y superaría por sí solo a toda la izquierda. Vox crece hasta el 3,5%, pero continúa fuera del Parlamento, mientras Sumar apenas alcanza el 2% ",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-24T20:44:45.000Z"
     },
     {
       "id": "df918ad942b9",
@@ -3023,18 +3023,6 @@
       "isoDate": "2026-07-23T06:01:41.000Z"
     },
     {
-      "id": "f9096260972f",
-      "title": "48 años de prisión para Antony y Joshua, los asesinos de Eneritz en Bocas del Toro: la investigación reconstruyó con precisión el brutal robo que le costó la vida a la joven vasca",
-      "link": "https://www.elmundo.es/cronica/2026/07/22/6a60f6f421efa0816f8b45ac.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/07/22/17847395579062.jpg",
-      "snippet": "Lo que comenzó como un paseo junto al mar acabó en un crimen atroz. Vecinos y testigos situaron en la escena a un exconvicto y un drogodependiente que mataron a la vecina de Erandi",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-07-22T21:59:52.000Z"
-    },
-    {
       "id": "93390e2a8cda",
       "title": "Los incendios activos en España",
       "link": "https://www.lavanguardia.com/vida/20260722/11598530/incendios-activos-espana.html",
@@ -3045,6 +3033,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-07-22T11:22:46.000Z"
+    },
+    {
+      "id": "ec897f66a3ce",
+      "title": "Quién será el rival de Tanjiro en “Demon Slayer: Infinity Castle II” después de Akaza",
+      "link": "https://elcomercio.pe/mag/fama/que-ver/demon-slayer-infinity-castle-parte-2-a-quien-se-enfrenta-tanjiro-en-la-secuela-de-la-pelicula-anime-nnda-nnlt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ZEQ4KRQDL5GWZOG35WL7KXKBCA.jpg?auth=c426a176e4d6a7f1d07673933e7c40d348766d3bb9be5d845c0d6cd2c916145c&smart=true&width=2400&height=1620",
+      "snippet": "Uno de los enfrentamientos más esperados de “Demon Slayer: Infinity Castle II” es el de Kanao Tsuyuri e Inosuke Hashibira contra Doma. ¿Qué sucederá con Tanjiro?",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-07-18T16:55:27.000Z"
     },
     {
       "id": "8e2c0003c1f3",
