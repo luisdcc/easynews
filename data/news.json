@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T17:26:52.200Z",
+  "updatedAt": "2026-08-04T17:34:43.251Z",
   "count": 258,
   "sources": [
     {
@@ -119,52 +119,100 @@
   ],
   "items": [
     {
-      "id": "71ee5a8ef377",
-      "title": "Venus y Serena Williams jugarán el dobles en Cincinnati",
-      "link": "https://www.elnacional.com/2026/08/venus-y-serena-williams-jugaran-el-dobles-en-cincinnati/",
+      "id": "f96afda79a90",
+      "title": "Se volcó bus escolar en Antioquia: más de 20 estudiantes resultaron heridos",
+      "link": "https://www.infobae.com/colombia/2026/08/04/se-volco-bus-escolar-en-antioquia-mas-de-20-estudiantes-resultaron-heridos/",
+      "image": "https://www.infobae.com/resizer/v2/65FZB6RQ2NDADFJRKU5OVFSYR4.jpg?auth=408109b1931030c41dcb0abbd1f1fedaab0f5ce442fe8fcf336b06e2243fd646&smart=true&width=1200&height=675",
+      "snippet": "El accidente ocurrió en la carretera entre San Martín y Tres Esquinas, en el corregimiento El Reposo, cuando el vehículo descendía por una pendiente y terminó a un costado del cami",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:31:51.000Z"
+    },
+    {
+      "id": "bd95d7afcbe9",
+      "title": "Enfrentamiento en vivo entre Pati Lorena y Pamela López marca el estreno de su programa: “A usted le gustaba Paul Michael”",
+      "link": "https://www.infobae.com/peru/2026/08/04/enfrentamiento-en-vivo-entre-pati-lorena-y-pamela-lopez-marca-el-estreno-de-su-programa-vale-todo-a-usted-le-gustaba-paul-michael/",
+      "image": "https://www.infobae.com/resizer/v2/LAUHOZZCRFGMBEFJ56OULDISTA.jpg?auth=d75b7fa8898ee0861d099098b8cd65fe6b0d0b9ee69c837484bd813ce9971173&smart=true&width=1920&height=1080",
+      "snippet": "El canal oficial de la telenovela en YouTube lanzó su nuevo formato con la presencia de las dos figuras, quienes protagonizaron un tenso intercambio ante la audiencia digital en su",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:31:50.000Z"
+    },
+    {
+      "id": "ba18fa27836f",
+      "title": "Portavoz de Milei dice que decreto que generó huelga en puertos busca mejorar competencia",
+      "link": "https://www.infobae.com/america/agencias/2026/08/04/portavoz-de-milei-dice-que-decreto-que-genero-huelga-en-puertos-busca-mejorar-competencia/",
       "image": null,
-      "snippet": "La última vez que las hermanas Williams compitieron como pareja fue en el US Open del año 2022, donde cayeron eliminadas en primera ronda. The post Venus y Serena Williams jugarán ",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-04T17:22:07.000Z"
-    },
-    {
-      "id": "94a90c97c293",
-      "title": "Claudia Calderón aclaró su violenta reacción durante la revelación de género del bebé de su hermana Juliana: “Me dejó en la quiebra”",
-      "link": "https://www.infobae.com/colombia/2026/08/04/claudia-calderon-aclaro-su-violenta-reaccion-durante-la-revelacion-de-genero-del-bebe-de-juliana-me-dejo-en-la-quiebra/",
-      "image": "https://www.infobae.com/resizer/v2/S4CVEV3YSVCMFFFSAHSFL6JNE4.png?auth=b6774ea708890ceb072ee45d38c56e42cc286b5f2db9cb7cc247aabc903e27db&smart=true&width=1920&height=1080",
-      "snippet": "La hermana de Yina Calderón explicó que su actitud durante el evento no tuvo relación con apuestas, sino con la sorpresa y las emociones por la llegada de una niña a la familia",
+      "snippet": "",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:22:03.000Z"
+      "isoDate": "2026-08-04T17:31:50.000Z"
     },
     {
-      "id": "0c2b11b82dc6",
-      "title": "Juicio por la Causa de los Cuadernos, en vivo: Iguacel apuntó a José López y dijo que los empresarios admitían el reparto de obras",
-      "link": "https://www.infobae.com/judiciales/2026/08/04/juicio-por-la-causa-de-los-cuadernos-en-vivo-las-ultimas-noticias-de-hoy-4-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/MKPRESBIPNAGVE6WKCKCIBSETM.jpg?auth=90b4cb3b0b90744f106b962eb25180d5438672d2b7e7359b6489365980ca9b44&smart=true&width=651&height=300",
-      "snippet": "“Había un marco de impunidad muy grande” dijo otro testigo de la Oficina Anticorrupción y mencionó una “cadena de la felicidad”. Comenzó a declarar el extitular de Vialidad Naciona",
+      "id": "640d1dc722ce",
+      "title": "Venezuela busca reparar casi 4.000 viviendas dañadas en La Guaira por los terremotos",
+      "link": "https://www.infobae.com/america/agencias/2026/08/04/venezuela-busca-reparar-casi-4000-viviendas-danadas-en-la-guaira-por-los-terremotos/",
+      "image": null,
+      "snippet": "",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:21:25.000Z"
+      "isoDate": "2026-08-04T17:31:33.000Z"
     },
     {
-      "id": "29c321dbe3f1",
-      "title": "La crisis en la FIFA, en vivo: la rebelión europea y el futuro de Gianni Infantino, minuto a minuto",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/la-crisis-en-la-fifa-en-vivo-nid04082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ZOXWB6NRFNHHXOMWW7XVXI2V3A.jpg?auth=03c5a9ab1f95cf438e2a366990f26af75667b7cc8ec1461037e0b01c62fefbc9&smart=true&width=960&height=640",
-      "snippet": "Cómo queda el tablero del fútbol luego del fallido plan para privatizar la Copa del Mundo",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "d679fb1bdbbb",
+      "title": "Kast prepara cadena nacional tras la aprobación de la megarreforma",
+      "link": "https://www.latercera.com/politica/noticia/kast-prepara-cadena-nacional-tras-la-aprobacion-de-la-megarreforma/",
+      "image": "https://www.latercera.com/resizer/v2/S6XJRCFCOJAWJM6W34R4T5GEM4.jpeg?auth=9d924061d134a03ead9d507fd8b79bd8a7c16ccde49664e15c887727a4083068&smart=true&width=1600&height=1066",
+      "snippet": "La votación del último artículo pendiente en el Senado dejará este martes la principal iniciativa económica del Ejecutivo a un paso de convertirse en ley. Pese a ello, La Moneda aú",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:31:21.000Z"
+    },
+    {
+      "id": "ffc0e04897ac",
+      "title": "Kike García será operado este miércoles por una lesión en el bíceps femoral",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/04/kike-garcia-sera-operado-este-miercoles-por-una-lesion-en-el-biceps-femoral/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:21:19.000Z"
+      "isoDate": "2026-08-04T17:31:15.000Z"
+    },
+    {
+      "id": "e6af17e85339",
+      "title": "El déficit comercial de Estados Unidos cae un 5,6 % en junio, hasta los 73.300 millones",
+      "link": "https://www.infobae.com/america/agencias/2026/08/04/el-deficit-comercial-de-estados-unidos-cae-un-56-en-junio-hasta-los-73300-millones/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:30:57.000Z"
+    },
+    {
+      "id": "67c81c455a37",
+      "title": "La WNBA da la bienvenida a las Cleveland Sirens para 2028",
+      "link": "https://www.infobae.com/america/agencias/2026/08/04/la-wnba-da-la-bienvenida-a-las-cleveland-sirens-para-2028/",
+      "image": "https://www.infobae.com/resizer/v2/DPRMKDTN7RFSPOE6QQJPRLFMII.jpg?auth=d7f60d76374852defa63f9e36c20dd7d1a4c69ef2613e6fca0460dd5e3bf47fe&smart=true&width=1920&height=1280",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:30:54.000Z"
     },
     {
       "id": "82b0fa8f87b7",
@@ -176,19 +224,271 @@
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:21:14.000Z"
+      "isoDate": "2026-08-04T17:30:49.000Z"
     },
     {
-      "id": "8898847c8b91",
-      "title": "Murió Mary de Rachewiltz, hija y defensora de Ezra Pound",
-      "link": "https://www.infobae.com/cultura/2026/08/04/murio-mary-de-rachewiltz-hija-y-defensora-de-ezra-pound/",
-      "image": "https://www.infobae.com/resizer/v2/YP3IRJV72VDN7MZ2H6L2QN3QPI.png?auth=4dbbcdb5229de3c31d922bf0fd545fbbba6b2801fe37636a618491db9e35c28f&smart=true&width=1920&height=1080",
-      "snippet": "Tras ser enviada lejos de casa siendo bebé, se mantuvo fiel a su famoso padre, traduciendo su poesía mientras luchaba por diferenciar su legado literario de su ideología política f",
+      "id": "470ed31867ee",
+      "title": "Posesión de Abelardo de la Espriella EN VIVO: más de 6.000 policías y equipos especializados refuerzan la seguridad en Cali para la posesión",
+      "link": "https://www.infobae.com/colombia/2026/07/30/posesion-de-abelardo-de-la-espriella-en-vivo-el-gobierno-electo-anuncio-una-revision-y-ampliacion-de-alianzas-con-el-salvador/",
+      "image": "https://www.infobae.com/resizer/v2/H6TKG4EZZ5BZVFXNJRAKCVZVX4.jpg?auth=71c875eed701093994a3323c002d1568f1f81bb6fcf815c4e352ae9010d88e71&smart=true&width=1920&height=1280",
+      "snippet": "El equipo del nuevo gobierno indicó que la emisión será neutra, sin logotipos ni identificación de canales, para que cualquier organización periodística la use en vivo bajo las mis",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:21:09.000Z"
+      "isoDate": "2026-08-04T17:30:48.000Z"
+    },
+    {
+      "id": "0030f55e9e04",
+      "title": "Escala tensión oficialista: malestar republicano y dichos de Quiroz vuelven a enredar a La Moneda por salida de exsubsecretario Rodríguez",
+      "link": "https://www.latercera.com/politica/noticia/escala-tension-oficialista-malestar-republicano-y-dichos-de-quiroz-vuelven-a-enredar-a-la-moneda-por-salida-de-exsubsecretario-rodriguez/",
+      "image": "https://www.latercera.com/resizer/v2/62PM3QGZJRGVNKIBWSJX3PGMME.jpg?auth=86aa9086947a9e5bcf953bb9378e71710cd75b1740f5075ff51c2de7ed96fddb&smart=true&width=900&height=572",
+      "snippet": "Pese a los intentos, el gobierno no ha logrado contener las críticas de sus propias filas tras la remoción de Juan Pablo Rodríguez luego de dar positivo a test de droga. La decisió",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:44.000Z"
+    },
+    {
+      "id": "e8d424df0ff5",
+      "title": "Blatter: \"Ha llegado el momento de que una mujer asuma el liderazgo de la FIFA\"",
+      "link": "https://www.infobae.com/america/agencias/2026/08/04/blatter-ha-llegado-el-momento-de-que-una-mujer-asuma-el-liderazgo-de-la-fifa/",
+      "image": "https://www.infobae.com/resizer/v2/PB27MCNXNBHBJFWMYTFQGZKYCU.jpg?auth=6e9062485e31ba041374b02925c325519c88d3671782af84f969d7da7138b47f&smart=true&width=1920&height=1280",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:30:37.000Z"
+    },
+    {
+      "id": "75e72df3142d",
+      "title": "Activistas denuncian \"mentiras de ICE\" tras muerte de salvadoreño detenido en Nueva Jersey",
+      "link": "https://www.infobae.com/america/agencias/2026/08/04/activistas-denuncian-mentiras-de-ice-tras-muerte-de-salvadoreno-detenido-en-nueva-jersey/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:30:31.000Z"
+    },
+    {
+      "id": "a3859f48a63b",
+      "title": "Acoso en La Bella Luz: Del Barrio Producciones, de Michelle Alexander, cancela serie tras grave denuncia de Naldy Saldaña",
+      "link": "https://www.infobae.com/peru/2026/08/04/acoso-en-la-bella-luz-del-barrio-producciones-de-michelle-alexander-cancela-serie-tras-grave-denuncia-de-naldy-saldana/",
+      "image": "https://www.infobae.com/resizer/v2/ZNUSLKKLO5EFRLFC6OAYMTM6FY.jpg?auth=1101a43d9d03fd568800631d48c6bb5e90a0fca07306261e26363e0355a58e12&smart=true&width=1920&height=1080",
+      "snippet": "El testimonio de la exintegrante y la investigación fiscal motivaron la suspensión inmediata del proyecto televisivo, que buscaba retratar la historia de la popular agrupación de c",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:30:28.000Z"
+    },
+    {
+      "id": "09f7b0d2f9c9",
+      "title": "La trama de un chileno de ascendencia palestina deportado por Israel",
+      "link": "https://www.latercera.com/mundo/noticia/la-trama-de-un-chileno-de-ascendencia-palestina-deportado-por-israel/",
+      "image": "https://www.latercera.com/resizer/v2/GZH24VGUIJAADMWUPZX3MSDC3M.png?auth=f63b1dc4dc71be3678ff33b4becf77333e34326479ba3b4e790722d6cde8e218&smart=true&width=846&height=635",
+      "snippet": "Nicolás Khamis no pudo llegar a Beit Jala, donde esperaba pasar sus vacaciones. Esto, luego de ser interrogado en el aeropuerto de Tel Aviv y después que se le negara la entrada a ",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "d29f082f125b",
+      "title": "Telemedicina: la sugerencia de la Corte de Santiago a Monsalve para que no afectar su derecho a trabajar",
+      "link": "https://www.latercera.com/nacional/noticia/abrir-horas-de-telemedicina-la-sugerencia-de-la-corte-de-santiago-a-monsalve-para-que-no-afectar-su-derecho-a-trabajar/",
+      "image": "https://www.latercera.com/resizer/v2/IUQB3N3VRFBYFCWYPJV5BMIDXA.jpg?auth=1c21bbd1d93128daf4b9ce91bc81e1af9b8d57080ceca0f6cabd21a2fdb64086&smart=true&width=5871&height=3914",
+      "snippet": "El lunes el tribunal de alzada capitalino revocó el cambio de medida cautelar que había dejado al exsubsecretario del Interior solo con arresto nocturno. Su abogado había expuesto ",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "c404bee6f8c0",
+      "title": "Boric se reunirá con Martínez y Yeomans en medio de tensa disputa por la presidencia del FA",
+      "link": "https://www.latercera.com/politica/noticia/boric-se-reunira-con-martinez-y-yeomans-en-medio-de-tensa-disputa-por-la-presidencia-del-fa/",
+      "image": "https://www.latercera.com/resizer/v2/PJ23FXDRIRGM5KHCNN5TGPF4CI.jpg?auth=890497cde9db0e27b8df78df6a76c5b86c14f51f60a1ea3fe36da27d2850e750&smart=true&width=2760&height=1836",
+      "snippet": "El exmandatario -quien ha apostado por la prescindencia y se ha limitado a promover la participación en los comicios- tiene previsto tener una cita este miércoles con ambas.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "5673ea212899",
+      "title": "Relatos que invisibilizan",
+      "link": "https://www.latercera.com/opinion/noticia/relatos-que-invisibilizan/",
+      "image": "https://www.latercera.com/resizer/v2/L6C23YPM2NEXZK5WGT2PT2L7WI.jpg?auth=534bb1871e1530f51f74ee476e1a580ee3cf5d10cc5424ad9e5d9a868d39d7aa&smart=true&width=5236&height=3491",
+      "snippet": "",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "78a3035d4e90",
+      "title": "Ya negocia para ser embajador de una marca: cómo Colo Colo y Vozinha trabajan para comercializar el fenómeno de su llegada",
+      "link": "https://www.latercera.com/el-deportivo/noticia/ya-negocia-para-ser-embajador-de-una-marca-como-colo-colo-y-vozinha-trabajan-para-aprovechar-el-fenomeno-de-su-llegada/",
+      "image": "https://www.latercera.com/resizer/v2/V5GONYQ6CRCWXLE72F74HAGPVQ.jpg?auth=1b29d3b716ee9a6c1710245488d9c2bd6e4693ac426b3d60b135639dfaabcc52&smart=true&width=900&height=600",
+      "snippet": "El arquero africano cumplió su primer entrenamiento en Chile y ya fue presentado a los medios. Ambas anteceden a su encuentro masivo con los hinchas, que ya lo esperaron en el aero",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "648a5caea8b6",
+      "title": "Megarreforma: gobierno llega confiado al Senado para sacar fondo municipal, pero oposición estudia otra acción ante el TC",
+      "link": "https://www.latercera.com/politica/noticia/megarreforma-gobierno-llega-confiado-al-senado-para-sacar-fondo-municipal-pero-oposicion-estudia-otra-accion-ante-el-tc/",
+      "image": "https://www.latercera.com/resizer/v2/ZLZPVU3VQFDY3NH7SSNZEV5USU.jpg?auth=bbde7e8610fca7d89e1bcf62bee6362d9d6ac369f3dab862fb56d3b0755b5621&smart=true&width=3500&height=2333",
+      "snippet": "Esta tarde un grupo de alcaldes de izquierda almorzará con senadores de la DC, el PS, el PPD, el Frente Amplio y el PC, para evaluar escenarios ante la inminente aprobación de esta",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "d196ca8c2589",
+      "title": "La disputa se traslada al Congreso: batallón de alcaldes asiste a votación clave por eximición de contribuciones",
+      "link": "https://www.latercera.com/nacional/noticia/la-disputa-se-traslada-al-congreso-batallon-de-alcaldes-asiste-a-votacion-clave-por-eximicion-de-contribuciones/",
+      "image": "https://www.latercera.com/resizer/v2/JFDZCFQR5BC3JFT3TZRC5XQAMU.jpg?auth=e12d3cb62394f6e022217588455c3461d8b7c3fe9faac2e20644d8b1479cf7b0&smart=true&width=1280&height=854",
+      "snippet": "La medida contenida en la megarreforma será votada este martes a las 16:00 horas en el Senado, y los jefes comunales de izquierda y derecha se dividen en torno a la fórmula en que ",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "fd6f55be0b91",
+      "title": "Arrau busca flexibilizar los requisitos para postular a Carabineros y reducirá la edad mínima de ingreso a 17 años",
+      "link": "https://www.latercera.com/nacional/noticia/arrau-busca-flexibilizar-los-requisitos-para-postular-a-carabineros-y-reducira-la-edad-minima-de-ingreso-a-17-anos/",
+      "image": "https://www.latercera.com/resizer/v2/IWDF6AOHMJAXBEB637QZ2BH7YE.jpeg?auth=38daba9015d5a16eca5d6ededa9cbe9c6e9877d3fecf37c66aae949c90e551cf&smart=true&width=1280&height=960",
+      "snippet": "El Ministerio de Seguridad concretará dichos cambios a través de una modificación al reglamento de Carabineros, que data desde 1959. El nuevo escrito busca revertir algunas exigenc",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:30:00.000Z"
+    },
+    {
+      "id": "2972b181fe6e",
+      "title": "Posta Central obtiene 91,1% en evaluación de gestión y lidera desempeño de hospitales públicos: más de la mitad no cumplió la meta",
+      "link": "https://www.latercera.com/nacional/noticia/posta-central-obtiene-911-en-evaluacion-de-gestion-y-lidera-desempeno-de-hospitales-publicos-mas-de-la-mitad-no-cumplio-la-meta/",
+      "image": "https://www.latercera.com/resizer/v2/KHO5RCBET5F7FOOQN26VLQEUJM.png?auth=a54bfbfbc9ce6c21177662ff7c677965d2741703def7ef3c8d9c835b614d0173&smart=true&width=1702&height=934",
+      "snippet": "",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:29:54.000Z"
+    },
+    {
+      "id": "cd93b8178cae",
+      "title": "Gobierno pedirá que bienes decomisados a narcos o a políticos mexicanos detenidos en EEUU se entreguen a México",
+      "link": "https://www.infobae.com/mexico/2026/08/04/gobierno-pedira-que-bienes-decomisados-a-narcos-o-a-politicos-mexicanos-detenidos-en-eeuu-se-entreguen-a-mexico/",
+      "image": "https://www.infobae.com/resizer/v2/UKTWBAKUNJA63OAR5AHMMM7F4M.jpeg?auth=f85073649b4104dc8eed03e9ff9f860ceba8645c7766880a457ebe764eeffa97&smart=true&width=2560&height=1706",
+      "snippet": "La presidenta Claudia Sheinbaum señaló que México analizará cada caso de incautación para reclamar recursos cuando provengan de delitos que afectaron principalmente al país",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:29:37.000Z"
+    },
+    {
+      "id": "7f286f361587",
+      "title": "Andrés Velásquez rechaza el llamado de Delcy Rodríguez a ahorrar agua y electricidad: \"Ustedes destruyeron todos estos servicios\"",
+      "link": "https://www.elnacional.com/2026/08/andres-velasquez-rechaza-el-llamado-de-delcy-rodriguez-a-ahorrar-agua-y-electricidad-ustedes-destruyeron-todos-estos-servicios/",
+      "image": null,
+      "snippet": "El dirigente opositor aseguró que la crisis de los servicios básicos en el país es consecuencia a la falta de inversión y mantenimiento en las redes de distribución. The post André",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-04T17:29:15.000Z"
+    },
+    {
+      "id": "f255d35b4a92",
+      "title": "James Norton, el villano de House of the Dragon: “Él se percibe a sí mismo como el héroe”",
+      "link": "https://www.latercera.com/culto/noticia/james-norton-el-villano-de-house-of-the-dragon-el-se-percibe-a-si-mismo-como-el-heroe/",
+      "image": "https://www.latercera.com/resizer/v2/OMS7AHNBVVEMDHJFLRDAJNOVPA.jpg?auth=b92da07137713f90b279f309bd535d5f952b59b3cbca97c380f46d8c57527856&smart=true&width=1400&height=933",
+      "snippet": "El actor inglés encarna Ormund, un miembro de la casa Hightower que se alza como la gran pesadilla de Rhaenyra Targaryen durante la tercera temporada de la serie de HBO. En convers",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:29:00.000Z"
+    },
+    {
+      "id": "c7cd6b6157f1",
+      "title": "Última hora de la crisis migratoria de Ceuta, en directo: Interior registra un 164,1% más de llegadas irregulares a Ceuta entre enero y julio de 2026 con respecto al año pasado",
+      "link": "https://www.infobae.com/espana/2026/08/04/ultima-hora-de-la-crisis-migratoria-de-ceuta-y-el-cruce-masivo-de-la-frontera-en-directo-el-ministerio-de-exteriores-ha-afirmado-que-la-practica-totalidad-de-los-migrantes-ya-ha-sido-retornada-a-marruecos/",
+      "image": "https://www.infobae.com/resizer/v2/63B5WENBUJB6TPKXHUXMZM23V4.jpg?auth=f248f1436fcd18c97f9b6f0c048fcbf7b723151beccfa17705e94acceecbb103&smart=true&width=1600&height=1200",
+      "snippet": "Al menos 44 personas siguen en paradero desconocido, mientras sus familiares les buscan a través de imágenes difundidas en la prensa y redes sociales",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:28:53.000Z"
+    },
+    {
+      "id": "29c321dbe3f1",
+      "title": "La crisis en la FIFA, en vivo: la rebelión europea y el futuro de Gianni Infantino, minuto a minuto",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/la-crisis-en-la-fifa-en-vivo-nid04082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZOXWB6NRFNHHXOMWW7XVXI2V3A.jpg?auth=03c5a9ab1f95cf438e2a366990f26af75667b7cc8ec1461037e0b01c62fefbc9&smart=true&width=960&height=640",
+      "snippet": "Cómo queda el tablero del fútbol luego del fallido plan para privatizar la Copa del Mundo",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:25:58.000Z"
+    },
+    {
+      "id": "bb5f8de0a953",
+      "title": "Arriola anuncia despliegue coordinado entre Policía y Fuerzas Armadas para reforzar la seguridad",
+      "link": "https://elcomercio.pe/lima/policiales/oscar-arriola-anuncia-despliegue-coordinado-entre-policia-y-fuerzas-armadas-para-reforzar-la-seguridad-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ACMBSHKNCRCWLFLYOJAICELIRY.jpg?auth=13648bc529138dc0c98a25ea25ec0c2814d38724a62ace76e1cdc9317f36aa4a&smart=true&width=1200&height=800",
+      "snippet": "La Policía Nacional anunció que coordina con las Fuerzas Armadas una estrategia conjunta basada en inteligencia y control territorial para reforzar la lucha contra el crimen organi",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-04T17:25:06.000Z"
+    },
+    {
+      "id": "c4e098968605",
+      "title": "Las subastas de autos que se vienen en el mes de agosto 2026",
+      "link": "https://www.lanacion.com.ar/autos/las-subastas-de-autos-que-se-vienen-en-el-mes-de-agosto-2026-nid04082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/AD5DZQVKZ5D5ZKGPEYE7FJAYIQ.jpeg?auth=de3876813b581f6552786afd3b6220937c436529393aa7f5557dbc15e1a18503&smart=true&width=1024&height=771",
+      "snippet": "Se trata de unidades que corresponden a renovación de flota de varias automotrices y una entidad bancaria; el listado de modelos y su puja inicial",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-04T17:25:01.000Z"
+    },
+    {
+      "id": "71ee5a8ef377",
+      "title": "Venus y Serena Williams jugarán el dobles en Cincinnati",
+      "link": "https://www.elnacional.com/2026/08/venus-y-serena-williams-jugaran-el-dobles-en-cincinnati/",
+      "image": null,
+      "snippet": "La última vez que las hermanas Williams compitieron como pareja fue en el US Open del año 2022, donde cayeron eliminadas en primera ronda. The post Venus y Serena Williams jugarán ",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-04T17:22:07.000Z"
     },
     {
       "id": "6109c9128204",
@@ -203,64 +503,16 @@
       "isoDate": "2026-08-04T17:21:07.000Z"
     },
     {
-      "id": "d3233aae04d6",
-      "title": "El Gobierno reúne a la mesa política para destrabar la Ley de Tierras y ordenar la agenda del Congreso",
-      "link": "https://www.infobae.com/politica/2026/08/04/el-gobierno-reune-a-la-mesa-politica-para-destrabar-la-ley-de-tierras-y-ordenar-la-agenda-del-congreso/",
-      "image": "https://www.infobae.com/resizer/v2/225YA2VLTRA6DCCSS7UMKKD2OQ.jpg?auth=773d55464299f57f836c5bed6eb7d62caebb2b8c2edc0c07086d5c126d31f707&smart=true&width=4880&height=3246",
-      "snippet": "Karina Milei encabeza en la Casa Rosada una cumbre para cerrar los cambios del proyecto de Inviolabilidad de la Propiedad Privada, cuyo punto más sensible es la suba del tope para ",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:20:37.000Z"
-    },
-    {
-      "id": "a89bd8c99377",
-      "title": "Autor de macabro asesinato en Ecuador habría sido un colombiano: el cuerpo de un hombre decapitado fue colgado de un puente en Quito",
-      "link": "https://www.infobae.com/colombia/2026/08/04/autor-de-macabro-asesinato-en-ecuador-habria-sido-un-colombiano-el-cuerpo-de-un-hombre-fue-colgado-de-un-puente-en-quito/",
-      "image": "https://www.infobae.com/resizer/v2/RFZTUU22LRGJNNDCZW4UJIYBO4.jpg?auth=abb2c3a251b05d6dea081ac1cd96d07b7283411491c60fe84ac4ac3d519057b3&smart=true&width=1890&height=1063",
-      "snippet": "El colombiano aseguró ser un vendedor ambulante y no haber sido contradado por el grupo delincuencial Los Lobos, uno de los más temidos en este país junto a Los Choneros",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:20:27.000Z"
-    },
-    {
-      "id": "52d1d52a674c",
-      "title": "Un avión perdió una puerta en pleno vuelo y la FAA investiga incidentes similares con ese modelo",
-      "link": "https://www.infobae.com/estados-unidos/2026/08/04/la-faa-investiga-la-perdida-de-una-puerta-en-una-avioneta-tras-despegar-en-north-las-vegas/",
-      "image": "https://www.infobae.com/resizer/v2/ECKTWVLATBGKHG3KKD6JGJS2RE.jpg?auth=da62456cafea5a00cebef691160715084054c214583906eec09ee99a27079414&smart=true&width=1920&height=1080",
-      "snippet": "El hecho ocurrió en el aeropuerto de North Las Vegas. El piloto alertó a la torre y recibió autorización para volver de inmediato sin lesionados",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:20:01.000Z"
-    },
-    {
-      "id": "8b2b1a96cb2a",
-      "title": "Estos fueron los creadores del movimiento Defensores de la Patria, ahora convertido en el partido político de Abelardo de la Espriella",
-      "link": "https://www.infobae.com/colombia/2026/08/04/estos-fueron-los-creadores-del-movimiento-defensores-de-la-patria-ahora-convertido-en-el-partido-politico-de-abelardo-de-la-espriella/",
-      "image": "https://www.infobae.com/resizer/v2/57NVVEHKSRCMDF4MQIUP4DH3B4.jpeg?auth=593425c2522455c430d25deaae637e52a87785c1263fda0c0f51c5459c150a0f&smart=true&width=738&height=728",
-      "snippet": "El documento de la asamblea, conocido en la madrugada del martes 4 de agosto, vuelve a ubicar a Joaquín Camilo Gutiérrez Caballero y a Carlos Augusto Suárez Rojas en el núcleo del ",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:19:55.000Z"
-    },
-    {
-      "id": "f4bc5bc1cb5c",
-      "title": "Rusia presentó su nuevo submarino Yasen-M: cómo es el arma que redefine el equilibrio naval",
-      "link": "https://www.infobae.com/america/mundo/2026/08/04/rusia-presento-su-nuevo-submarino-yasen-m-como-es-el-arma-que-redefine-el-equilibrio-naval/",
-      "image": "https://www.infobae.com/resizer/v2/3MLRAFXAKJHIZEO2HOOEKLMM34.png?auth=e0f5da9a3296ccd9b51a8c84a297858c8d2dbab1082d8a2f6ffc76d73dae34b7&smart=true&width=832&height=455",
-      "snippet": "El K-563 Ulyanovsk incorpora misiles hipersónicos con capacidad nuclear, recupera el uso de armamento táctico desde submarinos y forma parte del plan de modernización militar de Mo",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:19:42.000Z"
+      "id": "ec6b3b673bb6",
+      "title": "Incluye al Presidente: gobierno ingresa a la Cámara reforma para cesación del cargo de autoridades por consumo de drogas",
+      "link": "https://www.latercera.com/politica/noticia/incluye-al-presidente-gobierno-ingresa-a-la-camara-reforma-para-cesacion-del-cargo-de-autoridades-por-consumo-de-drogas/",
+      "image": "https://www.latercera.com/resizer/v2/GYHTESMN7ZD7LCE3HGOSBOYLRA.jpg?auth=d95f71bb3eba808f3c655bc121ef38c25746841a6f4094791b4f6592c98c3e9d&smart=true&width=653&height=431",
+      "snippet": "El proyecto del Ejecutivo, que había sido anunciado la semana pasada en medio de la controversia por el caso del exsubsecretario de Hacienda, establece la obligatoriedad de realiza",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-04T17:20:12.000Z"
     },
     {
       "id": "3d9e75460f52",
@@ -275,18 +527,6 @@
       "isoDate": "2026-08-04T17:19:26.000Z"
     },
     {
-      "id": "51e55a112bfb",
-      "title": "SIC formuló cargos contra las compañías Enel y Celsia: asegura que habrían “inflado” los precios de la energía",
-      "link": "https://www.infobae.com/colombia/2026/08/04/sic-formulo-cargos-contra-las-companias-enel-y-celsia-asegura-que-habrian-inflado-los-precios-de-la-energia/",
-      "image": "https://www.infobae.com/resizer/v2/M3F7EAIEQJB2VIN4BNLSQF7N6M.png?auth=13a1a6ae527481669b84f1885bc02cbe78ca58787032f872625fb207e827afe2&smart=true&width=1050&height=551",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:18:57.000Z"
-    },
-    {
       "id": "918fe22b574f",
       "title": "Dólar hoy y dólar blue, EN VIVO: a cuánto cotiza el oficial y cuál es el precio del paralelo este martes 4 de agosto, minuto a minuto",
       "link": "https://www.lanacion.com.ar/economia/dolar/dolar-hoy-y-dolar-blue-en-vivo-a-cuanto-cotiza-el-oficial-y-cual-es-el-precio-del-paralelo-este-nid04082026/",
@@ -297,18 +537,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-08-04T17:18:41.000Z"
-    },
-    {
-      "id": "5b216f09d0f8",
-      "title": "7 de agosto en Perú: ¿qué se celebra y por qué es una fecha vinculada a la historia, deporte y cultura?",
-      "link": "https://www.infobae.com/peru/2026/08/04/7-de-agosto-en-peru-que-se-celebra-y-por-que-es-una-fecha-vinculada-a-la-historia-deporte-y-cultura/",
-      "image": "https://www.infobae.com/resizer/v2/COC3GPSJAZF5FB2MTFZTSE52CE.jpg?auth=5e93f26281abceddf7947d7e83ce15473683290e3308dbea365a8d12e5ca576d&smart=true&width=1920&height=1080",
-      "snippet": "En el país, esta fecha agrupa celebraciones del patrimonio natural, avances del periodismo, logros en el fútbol y hechos militares, al coincidir diversos acontecimientos históricos",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:18:31.000Z"
     },
     {
       "id": "e680490e49ca",
@@ -359,42 +587,6 @@
       "isoDate": "2026-08-04T17:18:09.000Z"
     },
     {
-      "id": "f96afda79a90",
-      "title": "Se volcó bus escolar en Antioquia: más de 20 estudiantes resultaron heridos",
-      "link": "https://www.infobae.com/colombia/2026/08/04/se-volco-bus-escolar-en-antioquia-mas-de-20-estudiantes-resultaron-heridos/",
-      "image": "https://www.infobae.com/resizer/v2/65FZB6RQ2NDADFJRKU5OVFSYR4.jpg?auth=408109b1931030c41dcb0abbd1f1fedaab0f5ce442fe8fcf336b06e2243fd646&smart=true&width=1200&height=675",
-      "snippet": "El accidente ocurrió en la carretera entre San Martín y Tres Esquinas, en el corregimiento El Reposo, cuando el vehículo descendía por una pendiente y terminó a un costado del cami",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:18:04.000Z"
-    },
-    {
-      "id": "eb8cb52ddc15",
-      "title": "El incendio de Burgohondo (Ávila) tardará al menos un mes en darse por extinguido",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/04/el-incendio-de-burgohondo-avila-tardara-al-menos-un-mes-en-darse-por-extinguido/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:18:00.000Z"
-    },
-    {
-      "id": "0a457ae731fa",
-      "title": "Abogacía del Estado representará a Ineco y Tragsatec en la causa contra exnovia de Ábalos",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/04/abogacia-del-estado-representara-a-ineco-y-tragsatec-en-la-causa-contra-exnovia-de-abalos/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:17:44.000Z"
-    },
-    {
       "id": "76d6a4a07b45",
       "title": "Perú vs Estados Unidos: cuándo juegan, horarios y canales para ver partido amistoso",
       "link": "https://elcomercio.pe/deporte-total/seleccion/peru-vs-estados-unidos-cuando-juegan-horarios-y-canales-para-ver-partido-amistoso-noticia/",
@@ -419,11 +611,11 @@
       "isoDate": "2026-08-04T17:15:21.000Z"
     },
     {
-      "id": "33e93c936b64",
-      "title": "La ruta del Chancho al Palo: cinco restaurantes en Huaral para disfrutar este plato",
-      "link": "https://elcomercio.pe/somos/gastronomia/la-ruta-del-chancho-al-palo-cinco-restaurantes-en-huaral-para-disfrutar-este-plato-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/VHDNLMJLFVCETNXWYSE5JD2I2E.jpg?auth=2f666036a4625970e6b102e80fb1b15face21c6847ef78bbb5b9fe2ec1382230&smart=true&width=1200&height=810",
-      "snippet": "Hablar de Huaral es hablar de chancho al palo. La técnica de cocción lenta al fuego, la piel crocante y la carne jugosa han convertido a este plato en el mayor símbolo gastronómico",
+      "id": "5b1fc49e78ce",
+      "title": "DanSa y su nueva puesta gastronómica y artística que deja en claro que son mucho más que un restaurante con show",
+      "link": "https://elcomercio.pe/somos/gastronomia/dansa-la-nueva-temporada-del-restaurante-que-combina-alta-cocina-danza-y-musica-en-vivo-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/AS6ESBVAPJFHJAR6KTYOCNXT7I.png?auth=5e26741f415c286530870048e836009de3dc06944479fbf84a784ba4abaebbbf&smart=true&width=1200&height=810",
+      "snippet": "La nueva temporada de DanSa reúne un espectáculo creado junto a Vania Masías y Lucho Quequezana con un menú degustación de nueve tiempos bajo la guía de Cristian Ramírez que dialog",
       "source": "El Comercio",
       "sourceId": "elcomercio",
       "country": "PE",
@@ -431,11 +623,11 @@
       "isoDate": "2026-08-04T17:15:00.000Z"
     },
     {
-      "id": "5b1fc49e78ce",
-      "title": "DanSa y su nueva puesta gastronómica y artística que deja en claro que son mucho más que un restaurante con show",
-      "link": "https://elcomercio.pe/somos/gastronomia/dansa-la-nueva-temporada-del-restaurante-que-combina-alta-cocina-danza-y-musica-en-vivo-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/AS6ESBVAPJFHJAR6KTYOCNXT7I.png?auth=5e26741f415c286530870048e836009de3dc06944479fbf84a784ba4abaebbbf&smart=true&width=1200&height=810",
-      "snippet": "La nueva temporada de DanSa reúne un espectáculo creado junto a Vania Masías y Lucho Quequezana con un menú degustación de nueve tiempos bajo la guía de Cristian Ramírez que dialog",
+      "id": "33e93c936b64",
+      "title": "La ruta del Chancho al Palo: cinco restaurantes en Huaral para disfrutar este plato",
+      "link": "https://elcomercio.pe/somos/gastronomia/la-ruta-del-chancho-al-palo-cinco-restaurantes-en-huaral-para-disfrutar-este-plato-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/VHDNLMJLFVCETNXWYSE5JD2I2E.jpg?auth=2f666036a4625970e6b102e80fb1b15face21c6847ef78bbb5b9fe2ec1382230&smart=true&width=1200&height=810",
+      "snippet": "Hablar de Huaral es hablar de chancho al palo. La técnica de cocción lenta al fuego, la piel crocante y la carne jugosa han convertido a este plato en el mayor símbolo gastronómico",
       "source": "El Comercio",
       "sourceId": "elcomercio",
       "country": "PE",
@@ -453,18 +645,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-08-04T17:14:14.000Z"
-    },
-    {
-      "id": "9f131eae373b",
-      "title": "Iniciativa que sanciona “pelotazos”: Cámara de Diputados aprueba proyecto que fortalece seguridad perimetral en cárceles",
-      "link": "https://www.latercera.com/nacional/noticia/iniciativa-que-sanciona-pelotazos-camara-de-diputados-aprueba-proyecto-que-fortalece-seguridad-perimetral-en-carceles/",
-      "image": "https://www.latercera.com/resizer/v2/UJE4HTLPR5DT5NG72SMAEC7Y54.jpg?auth=72919e1c15f43b90a87adf91d1068dae367db3c5359c0e4a761047dcda5b764b&smart=true&width=1280&height=854",
-      "snippet": "La norma se discutió en comisión mixta y debe ser aprobada por el Senado para su despacho a ley.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T17:13:53.000Z"
     },
     {
       "id": "52e8d817c399",
@@ -489,18 +669,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-08-04T17:13:12.000Z"
-    },
-    {
-      "id": "ab1d6e8da7c2",
-      "title": "La Roja confirma un nuevo amistoso: enfrentará a Estados Unidos en la fecha FIFA de septiembre",
-      "link": "https://www.latercera.com/el-deportivo/noticia/la-roja-confirma-un-nuevo-amistoso-enfrentara-a-estados-unidos-en-la-fecha-fifa-de-septiembre/",
-      "image": "https://www.latercera.com/resizer/v2/TJMSZUL5GRAETLJQWA57R4ZENE.jpg?auth=fdbd5fb9eaa4768740b3e346c9ce22a258d5c120ddecef3559aafd867044368b&smart=true&width=2728&height=1818",
-      "snippet": "El elenco nacional se enfrentará a otro de los anfitriones del último Mundial de Norteamérica 2026.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T17:12:49.000Z"
     },
     {
       "id": "93ff15896174",
@@ -575,18 +743,6 @@
       "isoDate": "2026-08-04T17:08:43.000Z"
     },
     {
-      "id": "015b2a02a101",
-      "title": "Clima en Perú EN VIVO: pronósticos del tiempo según Senamhi, martes 4 de agosto",
-      "link": "https://elcomercio.pe/peru/clima-en-peru-en-vivo-pronosticos-del-tiempo-impactos-de-el-nino-y-ultimas-noticias-del-senamhi-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/BWXRWRD3ZNFJXFAWXLT4S6R22A.jpg?auth=8be29ec42bd2578a16fad6dbe076205dd829deac875da37f6347fc126619e22b&smart=true&width=1200&height=743",
-      "snippet": "Clima en Perú EN VIVO: últimas noticias, pronósticos del tiempo y efectos de El Niño hoy, según Senamhi",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-04T17:07:08.000Z"
-    },
-    {
       "id": "538a0879115b",
       "title": "Rafa Mir, condenado por agresión sexual, firma con el Aris de Salónica con el permiso del juez",
       "link": "https://www.20minutos.es/deportes/futbol/rafa-mir-condenado-por-agresion-sexual-firma-con-aris-salonica-con-permiso-audiencia-nacional_7022611_0.html",
@@ -623,18 +779,6 @@
       "isoDate": "2026-08-04T17:04:58.000Z"
     },
     {
-      "id": "ed5389967602",
-      "title": "El juez encarga a la UDEF investigar la evolución del capital venezolano en Plus Ultra",
-      "link": "http://es.euronews.com/my-europe/2026/08/04/juez-encarga-udef-investigar-evolucion-capital-venezolano-plus-ultra",
-      "image": null,
-      "snippet": "El informe, solicitado por la Fiscalía Anticorrupción, deberá reconstruir la historia accionarial de la aerolínea para analizar el impacto de la entrada de inversores venezolanos e",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-04T17:04:44.000Z"
-    },
-    {
       "id": "7a6acdc2e6c3",
       "title": "Joven de 20 años fue asesinada a disparos tras negarse a bailar con un hombre en un bar de Aguachica, Cesar: revelan reporte de la Policía",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/joven-de-20-anos-fue-asesinada-a-disparos-tras-negarse-a-bailar-con-un-hombre-en-bar-de-aguachica-cesar-revelan-reporte-de-la-policia-3576065",
@@ -669,18 +813,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-04T17:03:53.000Z"
-    },
-    {
-      "id": "af205d0caf7d",
-      "title": "ProCultura: Suprema rechaza recurso de aseguradora y confirma resolución de la CMF que los multó en conflicto con el GORE",
-      "link": "https://www.latercera.com/nacional/noticia/procultura-suprema-rechaza-recurso-de-aseguradora-y-confirma-resolucion-de-la-cmf-que-los-multo-en-conflicto-con-el-gore/",
-      "image": "https://www.latercera.com/resizer/v2/G67KO7ZBVZDPHC7U7SWSGYRREE.jpg?auth=1a937b77bc8ca3639d4463051f749fbcc8a1e5c8a68ffa122de11aa2c565c066&smart=true&width=5184&height=3456",
-      "snippet": "\"Luego de 2 años y medio de juicios civiles tan innecesarios como injustos, exigimos que Aspor pague, tal como lo ha señalado la Corte Suprema. Nadie, por importante que sea, está ",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T17:03:20.000Z"
     },
     {
       "id": "a81b4afae973",
@@ -779,18 +911,6 @@
       "isoDate": "2026-08-04T17:02:26.000Z"
     },
     {
-      "id": "ed3b8f0c7204",
-      "title": "Gabriel Rolón, psicólogo: “La vida se vuelve mucho más luminosa y mucho más atractiva cuando uno se esfuerza”",
-      "link": "https://www.lanacion.com.ar/sociedad/gabriel-rolon-psicologo-la-vida-se-vuelve-mucho-mas-luminosa-y-mucho-mas-atractiva-cuando-uno-se-nid29072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/JYIIPBGOPJEOLBZ42CF7LVDGNM.jpg?auth=65b9f8445c87af93f8b9cae22546a87bbc1bcb7e62578060e71c5a645e80970b&smart=true&width=950&height=534",
-      "snippet": "En una entrevista exclusiva para LA NACION, el psicoanalista describió cómo los mandatos externos y las opiniones ajenas alejan al individuo de su propia voluntad",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-04T17:02:22.000Z"
-    },
-    {
       "id": "736ebf1037f3",
       "title": "Los inmigrantes buscan respuestas: «Qué van a hacer con nosotros»",
       "link": "https://www.abc.es/espana/inmigrantes-ceuta-buscan-respuestas-sumidos-apagon-informativo-20260804133027-nt.html",
@@ -827,42 +947,6 @@
       "isoDate": "2026-08-04T17:00:00.000Z"
     },
     {
-      "id": "eb8745917be0",
-      "title": "Los descuentos que permiten ahorrar hasta $300 por litro de bencina durante agosto",
-      "link": "https://www.latercera.com/servicios/noticia/los-descuentos-que-permiten-ahorrar-hasta-300-por-litro-de-bencina-durante-agosto/",
-      "image": "https://www.latercera.com/resizer/v2/JLC5VXQF3ZBLJK2XV6NEVVCKKQ.jpg?auth=2f4eaa49da680c46282e8eebe7f823fdb4adc3cd1b47d007079752b6a41c9825&smart=true&width=4000&height=2667",
-      "snippet": "Revisa la lista de convenios disponibles en las estaciones de servicio, que se activan al usar determinados medios de pago o comprar en un día concreto de la semana.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:59:41.000Z"
-    },
-    {
-      "id": "64e6fbad7455",
-      "title": "Rating del lunes 3 de agosto en Chile: cómo le fue a CHV, Mega, Canal 13 y TVN",
-      "link": "https://www.latercera.com/servicios/noticia/rating-del-lunes-3-de-agosto-en-chile-como-le-fue-a-chv-mega-canal-13-y-tvn/",
-      "image": "https://www.latercera.com/resizer/v2/P6WOH7U5VNBFDIG7TIRNBKVMPE.jpg?auth=e2f590b47b28d9d2fdc823774ecd30df23b978c66cb17286c0ec832e759fa8d6&smart=true&width=1555&height=800",
-      "snippet": "Revisa cuáles fueron los contenidos más vistos en la televisión abierta durante la jornada.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:58:42.000Z"
-    },
-    {
-      "id": "3604985ad140",
-      "title": "Detienen a dos sujetos por fraude para obtener licencias de conducir en Antofagasta: cobraban $350 mil por las respuestas",
-      "link": "https://www.latercera.com/nacional/noticia/detienen-a-dos-sujetos-por-fraude-para-obtener-licencias-de-conducir-en-antofagasta-cobraban-350-mil-por-las-respuestas/",
-      "image": "https://www.latercera.com/resizer/v2/ZFFGH5VPDRAJVBPS3STBOPJTYI.png?auth=6ed4d20f58869358b96e8c6304a5b1b29dfa71cce407fbc5305ea81c0d36aaa7&smart=true&width=827&height=451",
-      "snippet": "Los sujetos utilizaban un chaleco con cámaras y equipos de comunicación para dar las respuestas en tiempo real.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:57:38.000Z"
-    },
-    {
       "id": "62e204cf5ea2",
       "title": "Emerge la flota fantasma: la sequía desvela decenas de barcos nazis hundidos en la IIGM",
       "link": "https://www.abc.es/historia/emerge-flota-fantasma-sequia-desvela-decenas-barcos-20260804121547-nt.html",
@@ -875,16 +959,16 @@
       "isoDate": "2026-08-04T16:55:40.000Z"
     },
     {
-      "id": "b85c2f1a6fca",
-      "title": "El recado de la joven promesa colombiana a Gabriel Castellón en su arribo a la U: “Soy portero de selección”",
-      "link": "https://www.latercera.com/el-deportivo/noticia/el-recado-de-la-joven-promesa-colombiana-a-gabriel-castellon-en-su-arribo-a-la-u-soy-portero-de-seleccion/",
-      "image": "https://www.latercera.com/resizer/v2/AM32PI5DIBDN3NBRQVPBZA4J5Q.jpg?auth=f357d4f8ffc6c682f97f2167213efdcd9ce53e2ca23141c246a0ade1c64cd967&smart=true&width=1080&height=720",
-      "snippet": "Jordan García se refirió a su llegada a los azules. Su incorporación provocará la salida de Cristopher Toselli.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:54:56.000Z"
+      "id": "e0ff7db6954c",
+      "title": "Antes de comprar un auto a crédito, haz esta cuenta con tu sueldo para saber si puedes pagarlo",
+      "link": "https://expansion.mx/finanzas-personales/2026/08/04/credito-automotriz-cuenta-sueldo-confirmar-si-puedes-pagar",
+      "image": "https://cdn-3.expansion.mx/dims4/default/d646ffe/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbe%2F8d%2Fe8ba06844e43a7c0e2574c79a485%2Fcredito-automotriz-cuenta-sueldo-confirmar-si-puedes-pagar.jpg",
+      "snippet": "Muchos compradores se enfocan en conseguir la aprobación del crédito, cuando la decisión más importante comienza mucho antes de firmar el contrato.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T16:53:49.000Z"
     },
     {
       "id": "979fbd9caf96",
@@ -947,18 +1031,6 @@
       "isoDate": "2026-08-04T16:49:47.000Z"
     },
     {
-      "id": "f6fbb10898f4",
-      "title": "¿Qué es lo que pasa con Ariana Grande? El complejo momento de la estrella que anunció su retiro temporal",
-      "link": "https://www.latercera.com/culto/noticia/que-es-lo-que-pasa-con-ariana-grande-el-complejo-momento-de-la-estrella-que-anuncio-su-retiro-temporal/",
-      "image": "https://www.latercera.com/resizer/v2/Q3ZZBZC6WZCQFE37XJLA6GR5YQ.jpg?auth=4e2881d62a3102dfde22d122dcb05a3ebc9fb57e46f7d8ce9252b15adaea26e3&smart=true&width=1889&height=1261",
-      "snippet": "La artista, una de las figuras más importantes en el pop, sorprendió con el anuncio de un retiro temporal de la vida pública en septiembre, una vez que termine su actual gira Etern",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:46:28.000Z"
-    },
-    {
       "id": "d805e8d86ec8",
       "title": "Reforzar fronteras, retornos y alertas tempranas: claves de lo acordado en la UE tras crisis migratoria en Ceuta",
       "link": "https://www.france24.com/es/europa/20260804-reforzar-fronteras-retornos-y-alertas-tempranas-claves-de-lo-acordado-en-la-ue-tras-crisis-migratoria-en-ceuta",
@@ -983,18 +1055,6 @@
       "isoDate": "2026-08-04T16:45:21.000Z"
     },
     {
-      "id": "d557d700bc99",
-      "title": "A un año de fatal accidente, Codelco suspende proyecto estructural de El Teniente",
-      "link": "https://www.latercera.com/pulso/noticia/a-un-ano-de-fatal-accidente-codelco-suspende-proyecto-estructural-de-el-teniente/",
-      "image": "https://www.latercera.com/resizer/v2/QLY4W5EDFNE5JLHUSWTFR25AZY.jpg?auth=7426bcdeb56bb4224098f6b470d164bb3f3de2cede2d6236e1bf5c9e917e7cff&smart=true&width=4096&height=2732",
-      "snippet": "Fuentes de la empresa confirmaron que por razones de seguridad se suspenden temporalmente las faenas en Andes Norte, iniciativa que se había reabierto para su construcción tras el ",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:44:36.000Z"
-    },
-    {
       "id": "c9d40c5dc23e",
       "title": "Hallaron una impresionante estructura subterránea tras retirar 40 toneladas de tierra: ocupaba unos 50 metros cuadrados con túneles, cámaras y pasadizos que mostraron la extraordinaria capacidad de organización de las hormigas",
       "link": "https://www.clarin.com/estados-unidos/hallaron-impresionante-estructura-subterranea-retirar-40-toneladas-tierra-ocupaba-50-metros-cuadrados-tuneles-camaras-pasadizos-mostraron-extraordinaria-capacidad-organizacion-hormigas_0_RBLYcujQTi.html",
@@ -1005,18 +1065,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-08-04T16:42:46.000Z"
-    },
-    {
-      "id": "4d24f9ec1b65",
-      "title": "Estudiantes se manifiestan contra el gobierno y obligan a cortar el tránsito en la Alameda",
-      "link": "https://www.latercera.com/videos/noticia/estudiantes-se-manifiestan-contra-el-gobierno-y-obligan-a-cortar-el-transito-en-la-alameda/",
-      "image": "https://www.latercera.com/resizer/v2/TKIHBZSHWVCXVDWEO4C36Z35IU.jpg?auth=417fb69d4d44f2b0ecfc1737d4d30c2c264c0aa1c4b67a8eff4bba2e5a3abc39&smart=true&width=888&height=500",
-      "snippet": "Durante la mañana de este martes, el denominado “Cordón Secundario” que agrupa a estudiantes de liceos emblemáticos, se reunió en la estación Universidad Católica para iniciar una ",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:41:49.000Z"
     },
     {
       "id": "5fd0b43b0498",
@@ -1091,18 +1139,6 @@
       "isoDate": "2026-08-04T16:33:00.000Z"
     },
     {
-      "id": "cd936b33755b",
-      "title": "Día del Vinilo anuncia su V edición celebrando el regreso del 7″ fabricado en Chile",
-      "link": "https://www.latercera.com/culto/noticia/dia-del-vinilo-anuncia-su-v-edicion-celebrando-el-regreso-del-7-fabricado-en-chile/",
-      "image": "https://www.latercera.com/resizer/v2/WIWCLBPOI5HS7OMSHYYTEA4JBI.jpg?auth=c6bd8e0c82d1d54eb5bf85646399a7fa81edfd4c01e2daf02d104f1f8f4fb289&smart=true&width=1880&height=1254",
-      "snippet": "Con firmas de discos, escuchas y conversatorios sobre títulos fundamentales, fabricación, desarrollo y diseño; y un especial foco en la elaboración local del formato 7\", la quinta ",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:32:37.000Z"
-    },
-    {
       "id": "c7cd0fd5197a",
       "title": "Un colegio de Villa Urquiza en crisis y en peligro de cierre: deudas con los docentes y cada vez menos alumnos",
       "link": "https://www.clarin.com/sociedad/colegio-villa-urquiza-crisis-peligro-cierre-deudas-docentes-vez-alumnos_0_5HjbYGEM0W.html",
@@ -1163,6 +1199,18 @@
       "isoDate": "2026-08-04T16:23:00.000Z"
     },
     {
+      "id": "9dbd877a44d2",
+      "title": "¿Cuánto cuesta hospedarse en el histórico y lujoso Hotel Geneve de Carlos Slim en CDMX?",
+      "link": "https://expansion.mx/empresas/2026/08/04/hotel-geneve-carlos-slim-cdmx-historia-precios-hospedaje",
+      "image": "https://cdn-3.expansion.mx/dims4/default/6b2bbd1/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F75%2Fdf%2F2d946eaf4c5689f71502ef0223b0%2Fhotel-geneve-carlos-slim.jpg",
+      "snippet": "Abierto desde 1907, es uno de los hoteles más antiguos y emblemáticos del país, y funciona como un \"Hotel Museo\", con pasillos y rincones que exhiben antigüedades y obras de arte.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T16:22:27.000Z"
+    },
+    {
       "id": "a08b08a418e7",
       "title": "Marco Rubio espera que la transición en Venezuela tome \"meses, no años\"",
       "link": "https://www.elnacional.com/2026/08/marco-rubio-espera-que-la-transicion-en-venezuela-tome-meses-no-anos/",
@@ -1221,30 +1269,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-04T16:18:10.000Z"
-    },
-    {
-      "id": "2b5e9625373b",
-      "title": "En medio de carrera por la ONU: Bachelet participa en lanzamiento de informe sobre geopolítica de la Cepal",
-      "link": "https://www.latercera.com/politica/noticia/en-medio-de-carrera-por-la-onu-bachelet-participa-en-lanzamiento-de-informe-sobre-geopolitica-de-la-cepal/",
-      "image": "https://www.latercera.com/resizer/v2/3VONLIVVD5BELL4YCNOBE2HJGU.jpg?auth=26b7a910a82c19cc3d043fe82b606da4bad3edeb02e875863f2217f0a8d0aa18&smart=true&width=1600&height=1070",
-      "snippet": "La exmandataria, que por razones de salud se ausentó de un diálogo de candidatos al organismo multilateral en Montevideo este lunes, la jornada de este martes optó por asistir de m",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:16:28.000Z"
-    },
-    {
-      "id": "5884d1bc5d1d",
-      "title": "Salida de subsecretario Rodríguez instala nueva tensión en el oficialismo y provoca disputa entre Squella y Alvarado",
-      "link": "https://www.latercera.com/politica/noticia/salida-de-rodriguez-instala-nueva-tension-en-el-oficialismo-y-genera-intercambio-entre-squella-y-alvarado/",
-      "image": "https://www.latercera.com/resizer/v2/62PM3QGZJRGVNKIBWSJX3PGMME.jpg?auth=86aa9086947a9e5bcf953bb9378e71710cd75b1740f5075ff51c2de7ed96fddb&smart=true&width=900&height=572",
-      "snippet": "Ayer, según trascendidos de prensa, el presidente del Partido Republicano, Arturo Squella, envió un mensaje en un chat en el que emplazó al subsecretario del Interior, Máximo Pavez",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-04T16:16:26.000Z"
     },
     {
       "id": "b3694359a0cc",
@@ -1703,6 +1727,18 @@
       "isoDate": "2026-08-04T14:49:00.000Z"
     },
     {
+      "id": "cb92243aa5c1",
+      "title": "Principal Afore: un aliado para construir tu futuro con confianza",
+      "link": "https://expansion.mx/bespoke-ad/2026/08/04/principal-afore-un-aliado-para-construir-tu-futuro-con-confianza",
+      "image": "https://cdn-3.expansion.mx/dims4/default/1c55fc6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F9d%2F82%2F421aae5844bc9ce6f9cf92e4d8ba%2Fafre-2.jpg",
+      "snippet": "¿Qué debes buscar en una Afore para formar un retiro laboral con tranquilidad?",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T14:48:49.000Z"
+    },
+    {
       "id": "589dc9ca7642",
       "title": "EE.UU. está agotando en Irán sus reservas de misiles de largo alcance de alta precisión",
       "link": "https://www.lavanguardia.com/internacional/20260804/11607782/ee-uu-esta-agotando-iran-reservas-misiles-alcance-alta-precision.html",
@@ -1797,18 +1833,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-04T14:09:45.000Z"
-    },
-    {
-      "id": "5884d3dd2ff4",
-      "title": "Diosdado Cabello: El PSUV apoya el diálogo con la Asamblea Nacional electa en 2015",
-      "link": "https://www.elnacional.com/2026/08/diosdado-cabello-el-psuv-apoya-el-dialogo-con-la-asamblea-nacional-electa-en-2015/",
-      "image": null,
-      "snippet": "Cabello afirmó que el gobierno está dispuesto a sostener conversaciones con la oposición \"las veces que sean necesarias, bajo las premisas del respeto a la Constitución\". The post ",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-04T14:08:38.000Z"
     },
     {
       "id": "0fdcf10cf0e3",
@@ -2039,6 +2063,18 @@
       "isoDate": "2026-08-04T13:02:20.000Z"
     },
     {
+      "id": "1aef41e8046e",
+      "title": "Uzbekistán revela secretos del desierto, paisajes antiguos y tradiciones vivas",
+      "link": "http://es.euronews.com/viajes/2026/08/04/uzbekistan-revela-secretos-del-desierto-paisajes-antiguos-y-tradiciones-vivas",
+      "image": null,
+      "snippet": "Antiguas fortalezas, monumentos sagrados y estepas recuperadas muestran cómo la población se adapta a la vida en los desiertos de Uzbekistán, donde el agua ha determinado asentamie",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-04T13:00:26.000Z"
+    },
+    {
       "id": "d80e45a1e13d",
       "title": "Ucrania denuncia la \"caza de civiles\" por Rusia después de la persecución y el ataque de un dron a un vendedor de un mercado en Jersón",
       "link": "https://www.elmundo.es/internacional/2026/08/04/6a71dc11e4d4d8b3198b4599.html",
@@ -2193,6 +2229,42 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-04T11:59:04.000Z"
+    },
+    {
+      "id": "e335f5590d80",
+      "title": "Los electores en EU rechazan a Trump, pero a los demócratas les cuesta capitalizarlo",
+      "link": "https://expansion.mx/mundo/2026/08/04/los-electores-en-eu-rechazan-a-trump-pero-a-los-democratas-les-cuesta-capitalizarlo",
+      "image": "https://cdn-3.expansion.mx/dims4/default/26eff29/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F14%2F5314df4a48bba0f7e2cc960ed4f5%2Fdonald-trump-niveles-bajos-aprobacion-democratas.jpg",
+      "snippet": "La desaprobación del presidente alcanza su peor nivel, pero el rechazo a su gestión aún no se traduce en una ventaja suficiente para que la oposición recupere el Congreso.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T11:55:50.000Z"
+    },
+    {
+      "id": "b4c8fbf52602",
+      "title": "Google, Amazon y Microsoft disparan sus ingresos 'en papel' gracias a Anthropic y OpenAI",
+      "link": "https://expansion.mx/tecnologia/2026/08/04/openai-anthropic-hacen-ganar-mas-google-amazon-y-microsoft",
+      "image": "https://cdn-3.expansion.mx/dims4/default/cb9bc0c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2F81%2Fe17003bc4323bb55b0e0d1cf05d6%2Fia-dispara-ingresos-google-amazon-microsoft.jpg",
+      "snippet": "La revaluación de sus inversiones en empresas de inteligencia artificial elevó las utilidades reportadas, aunque ese efecto contable aún no se traduce en flujo de efectivo.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T11:55:14.000Z"
+    },
+    {
+      "id": "dcf4cee2616e",
+      "title": "El PIB de México perderá impulso tras el rebote del Mundial 2026",
+      "link": "https://expansion.mx/economia/2026/08/04/economia-mexicana-sena-recuperacion-no-convence",
+      "image": "https://cdn-3.expansion.mx/dims4/default/25f324e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2F81%2Fe9dfcc034f8a872df3301aa36624%2Fla-economia-mexicana-dio-senales-de-recuperacion-pero-los-analistas-no-estan-convencidos.jpeg",
+      "snippet": "El crecimiento de 1.5% entre abril y junio no convenció al mercado de que la economía haya entrado en una recuperación sostenida, ante la debilidad de la inversión y el consumo.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T11:55:12.000Z"
     },
     {
       "id": "405bc8d55477",
@@ -2747,6 +2819,18 @@
       "isoDate": "2026-08-04T01:28:46.000Z"
     },
     {
+      "id": "75c28ae71fae",
+      "title": "Guanajuato conquista al turismo de alta gama",
+      "link": "https://expansion.mx/tendencias/2026/08/03/guanajuato-conquista-al-turismo-de-alta-gama",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9be5547/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6a%2F37%2F73834bdf4cd2805e2867d3eae876%2Fguanajuato-turismo-de-alta-gama.JPG",
+      "snippet": "Este verano, la variedad de propuestas de este destino atrae a un perfil de visitantes que priorizan la excelencia y calidad en el servicio, así como el carácter único y la esencia",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-04T00:33:30.000Z"
+    },
+    {
       "id": "8f9790cfac70",
       "title": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
       "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
@@ -2831,18 +2915,6 @@
       "isoDate": "2026-08-03T22:15:01.000Z"
     },
     {
-      "id": "94a7aa2a4fd4",
-      "title": "La razón por la que Tiendas 3B prefirió Wall Street sobre la Bolsa Mexican de Valores",
-      "link": "https://expansion.mx/empresas/2026/08/03/por-que-tiendas-3b-cotiza-acciones-wall-street",
-      "image": "https://cdn-3.expansion.mx/dims4/default/86e3346/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ffb%2F7b%2Fd8e334334a92a322c484e2ea194a%2Fdiseno-sin-titulo.png",
-      "snippet": "Con miles de tiendas abiertas en México, Tiendas 3B necesitaba capital para seguir creciendo y su solución fue llegar hasta la Bolsa de Nueva York.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T22:12:50.000Z"
-    },
-    {
       "id": "b25813fece13",
       "title": "Una guerra sin fin y 3,8 millones de desplazados en Birmania",
       "link": "https://www.elmundo.es/internacional/2026/08/04/6a70bf56fdddff3b048b456d.html",
@@ -2853,78 +2925,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-03T22:12:15.000Z"
-    },
-    {
-      "id": "affb691cba82",
-      "title": "Las ganancias mineras se disparan 21% gracias a altos precios de los metales, pero la inversión cae",
-      "link": "https://expansion.mx/empresas/2026/08/03/ganancias-mineras-se-disparan-21-altos-precios-metales",
-      "image": "https://cdn-3.expansion.mx/dims4/default/b0e44f7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F97%2F88%2F86155c534ab59a0f452ad1a14865%2Fwhatsapp-image-2026-08-03-at-12.47.06%20PM.jpeg",
-      "snippet": "El valor de la producción minero-metalúrgica alcanzó un récord de 379,290 millones de pesos impulsado por el alza del oro, la plata y el cobre, mientras la inversión y el PIB del s",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T22:09:00.000Z"
-    },
-    {
-      "id": "af99576c5915",
-      "title": "ChatGPT quintuplicó las visitas a tiendas en línea, pero la decisión de compra sigue en manos humanas",
-      "link": "https://expansion.mx/tecnologia/2026/08/03/chatgpt-quintuplico-visitas-tiendas-en-linea",
-      "image": "https://cdn-3.expansion.mx/dims4/default/29b1598/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F77%2Fb1%2F9388405e43c0afbcf7057a9df341%2Fistock-1675579652.jpg",
-      "snippet": "El tráfico que ChatGPT y otros asistentes de IA envían a tiendas en línea creció 396%, pero solo entre 3% y 5% de esas visitas termina en una compra.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T22:00:37.000Z"
-    },
-    {
-      "id": "75c28ae71fae",
-      "title": "Guanajuato conquista al turismo de alta gama",
-      "link": "https://expansion.mx/tendencias/2026/08/03/guanajuato-conquista-al-turismo-de-alta-gama",
-      "image": "https://cdn-3.expansion.mx/dims4/default/9be5547/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F6a%2F37%2F73834bdf4cd2805e2867d3eae876%2Fguanajuato-turismo-de-alta-gama.JPG",
-      "snippet": "Este verano, la variedad de propuestas de este destino atrae a un perfil de visitantes que priorizan la excelencia y calidad en el servicio, así como el carácter único y la esencia",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T21:33:30.000Z"
-    },
-    {
-      "id": "b900c6838fb5",
-      "title": "Donald Trump asegura que EU está en negociaciones con Irán",
-      "link": "https://expansion.mx/mundo/2026/08/03/donald-trump-asegura-que-eu-esta-en-negociaciones-con-iran",
-      "image": "https://cdn-3.expansion.mx/dims4/default/d22d0b8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F58%2F23%2Fc7fb7b544ffa9242cf84e753b36f%2Firan-estados-unidos.jpg",
-      "snippet": "El presidente asegura que accedió a conversar con Teherán a petición de Arabia Saudita, Emiratos Árabes Unidos, Catar y otros países.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T21:27:47.000Z"
-    },
-    {
-      "id": "6a672de81bcc",
-      "title": "¿Qué pasa con WhatsApp? Reportan fallas este 3 de agosto",
-      "link": "https://expansion.mx/tecnologia/2026/08/03/falla-whatsapp-no-puedo-enviar-fotos",
-      "image": "https://cdn-3.expansion.mx/dims4/default/e18d3e3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F45%2Ffb%2F334ffd884bebae170e8cede8f943%2Fwhatsapp-etiquetas-usuario-nombre-ciberseguridad.jpg",
-      "snippet": "Usuarios de la aplicación de mensajería reportaron fallas después del mediodía de este lunes.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T21:17:07.000Z"
-    },
-    {
-      "id": "cf2a5e3110d1",
-      "title": "Carlos Slim vende 74,000 millones de pesos gracias a esta empresa: el verdadero negocio de Grupo Carso",
-      "link": "https://expansion.mx/empresas/2026/08/03/carlos-slim-gana-74000-mdp-verdadero-negocio-grupo-carso",
-      "image": "https://cdn-3.expansion.mx/dims4/default/a285739/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F21%2Fd1%2F666d5b004c7c97ee8d41acbab426%2Fcarlos-slim.jpeg",
-      "snippet": "Aunque lo relacionan con la construcción o la energía, la división que sostiene las finanzas de Carso pertenece a otro sector. Así está conformado el negocio que lidera sus ventas.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-03T21:12:17.000Z"
     },
     {
       "id": "3a87763eeb64",
