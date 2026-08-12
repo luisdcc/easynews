@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-12T21:47:50.787Z",
-  "count": 244,
+  "updatedAt": "2026-08-12T22:42:23.408Z",
+  "count": 230,
   "sources": [
     {
       "id": "20minutos",
@@ -63,12 +63,6 @@
       "countryLabel": "Colombia"
     },
     {
-      "id": "euronews",
-      "name": "Euronews Español",
-      "country": "INT",
-      "countryLabel": "Internacional"
-    },
-    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -113,6 +107,654 @@
   ],
   "items": [
     {
+      "id": "adcbab939efc",
+      "title": "Colombia abre la puerta a rescatistas extranjeros tras dos días de polémica por el rechazo a la ayuda internacional",
+      "link": "https://www.lanacion.com.ar/el-mundo/colombia-abre-la-puerta-a-rescatistas-extranjeros-tras-dos-dias-de-polemica-por-el-rechazo-a-la-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/6TWPXWX6Z5BEPGCKEWEF6N5LF4.JPG?auth=30af029b6af6dc383922ccc3ff238543a165a49b489696b8a592c0de6628eee7&smart=true&width=8256&height=5504",
+      "snippet": "El nuevo director de la agencia de emergencias anunció que el país aceptará equipos internacionales certificados; la decisión modifica el criterio adoptado por su antecesor, un fun",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:38:27.000Z"
+    },
+    {
+      "id": "96b21e1f4e5e",
+      "title": "Así llegó Cristian Castro a su ceremonia de graduación de preparatoria",
+      "link": "https://www.infobae.com/mexico/2026/08/12/asi-llego-cristian-castro-a-su-ceremonia-de-graduacion-de-preparatoria/",
+      "image": "https://www.infobae.com/resizer/v2/4LC6JV52YRHSFECOO6API3Z7EE.jpg?auth=db10ea1ec4d8c7c8db632ff37e6548553081f4885bbd32e8244c2f7d7ac44774&smart=true&width=1920&height=1080",
+      "snippet": "El cantante es uno de los graduados de honor de la institución",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:37:18.000Z"
+    },
+    {
+      "id": "8bb59dd03982",
+      "title": "Golpe a la Familia Michoacana: capturan a “El Loco”, se le atribuye el control del narcomenudeo en Metepec",
+      "link": "https://www.infobae.com/mexico/2026/08/12/golpe-a-la-familia-michoacana-capturan-a-el-loco-se-le-atribuye-el-control-del-narcomenudeo-en-metepec/",
+      "image": "https://www.infobae.com/resizer/v2/Z5U5VJ462FCFLDDGOCWJGSQEM4.jpg?auth=1bca33e1cf46ec0582a4458e1f48f0c2ab679f4aed7970d56c120b90b5e2374f&smart=true&width=1920&height=1080",
+      "snippet": "La autoridad mexiquense lo ubica como responsable del narcomenudeo tras la muerte de “El Tomás”; además, ya van tres arrestados por los hechos contra un negocio en San Mateo Atenco",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:37:00.000Z"
+    },
+    {
+      "id": "269dc1c1006d",
+      "title": "Los bancos de Colombia informaron que dejarán de hacer cobros a miles de deudores en el país debido al terremoto: a quiénes aplica",
+      "link": "https://www.infobae.com/colombia/2026/08/12/los-bancos-de-colombia-informaron-que-dejaran-de-hacer-cobros-a-miles-de-deudores-en-el-pais-debido-al-terremoto-a-quienes-aplica/",
+      "image": "https://www.infobae.com/resizer/v2/YEYMMGBTQVAQPGRSRKONRSLKDA.png?auth=f6c079a74b5e6bcae60f9f930246286552ce6417f8dc064c910f9444a640061e&smart=true&width=1408&height=768",
+      "snippet": "El sector financiero implementó canales de atención virtual y un plan de apoyos para hogares y empresas afectados, coordinando esquemas diferenciados según las necesidades de cada ",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:36:36.000Z"
+    },
+    {
+      "id": "1d3a4d1c9a18",
+      "title": "Brahim Díaz le da la victoria al Real Madrid en amistoso en La Coruña",
+      "link": "https://www.elnacional.com/2026/08/brahim-diaz-le-da-la-victoria-al-real-madrid-en-amistoso-en-la-coruna/",
+      "image": null,
+      "snippet": "El conjunto español ganó su décimo título del Trofeo Teresa Herrera con el tanto anotado por el futbolista de Marruecos. The post Brahim Díaz le da la victoria al Real Madrid en am",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-12T22:36:36.000Z"
+    },
+    {
+      "id": "211c1c101a64",
+      "title": "EN VIVO | Fuerte temblor de 7,4 se sintió en Colombia el 10 de agosto: Fiscalía informó sobre el proceso de entrega de cuerpos en Risaralda; hay 241 muertos y más de 3.700 heridos",
+      "link": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/",
+      "image": "https://www.infobae.com/resizer/v2/5B6KIG7SQBDRXO7KNLAPRFMFUM.jpg?auth=6c4e08dd3d88f70af74a2fde122e2a42b5032cb69e50e112d82f09e03e0fd3f9&smart=true&width=1920&height=1282",
+      "snippet": "A las 7:34 a. m. del lunes 10 de agosto, un sismo prolongado se sintió en gran parte del país. Las autoridades desplegaron equipos para evaluar los daños y los organimismo de emerg",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:36:07.000Z"
+    },
+    {
+      "id": "f6516216820d",
+      "title": "El día en que Zaragoza se quedó a oscuras: así se vivió el eclipse solar total",
+      "link": "https://www.lanacion.com.ar/salud/el-dia-en-que-zaragoza-se-quedo-a-oscuras-asi-se-vivio-el-eclipse-solar-total-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/MDUOYDG3ERHC7PV4FYVQRAX4NM.jpg?auth=4772cad42129d1a45fdb5d49dd0c310bd7e077aa0b7b576142b5335abd92ba5d&smart=true&width=2000&height=1333",
+      "snippet": "La ciudad española se preparó durante semanas para recibir a los miles de visitantes que llegaron atraídos por el fenómeno; los puntos de observación desbordaron y el río Ebro y la",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:36:05.000Z"
+    },
+    {
+      "id": "ce9eb663a407",
+      "title": "Tras pleito en el Senado, Mancilla acusa a Arturo Ávila de ser “traficante de armas”",
+      "link": "https://www.infobae.com/mexico/2026/08/12/tras-pleito-en-el-senado-mancilla-acusa-a-arturo-avila-de-ser-traficante-de-armas/",
+      "image": "https://www.infobae.com/resizer/v2/AF6LO4L3PVFPBAAWZ43HCPV35I.png?auth=be9745e8f02f74ae8a0506b467e039a6e827d58fd593422c7945c60fdb89d514&smart=true&width=2752&height=1536",
+      "snippet": "El diputado del PRI lanzó nuevos señalamientos contra el morenista y lo vinculó con presuntos contratos gubernamentales y la venta de armamento",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:35:57.000Z"
+    },
+    {
+      "id": "9f7b3a5d0176",
+      "title": "Ignacio Mier llama a evitar “teatro o circo” tras choque entre Arturo Ávila y Carlos Mancilla",
+      "link": "https://www.infobae.com/mexico/2026/08/12/ignacio-mier-llama-a-evitar-teatro-o-circo-tras-choque-entre-arturo-avila-y-carlos-mancilla/",
+      "image": "https://www.infobae.com/resizer/v2/WFDBAXTRD5BZJKZWSCB4HAUYRE.png?auth=53d4fd2a68715dca0986f84ed180e0358342e7ae202cef29fa75d8f4baddbef7&smart=true&width=1920&height=1080",
+      "snippet": "El morenista consideró que los legisladores deben actuar con serenidad y respeto ante las diferencias políticas",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:35:55.000Z"
+    },
+    {
+      "id": "35d95d13f33e",
+      "title": "Platense vence a Coquimbo Unido por el partido de ida de los octavos de la Copa Libertadores",
+      "link": "https://www.infobae.com/deportes/2026/08/12/platense-abrira-la-serie-de-octavos-de-la-copa-libertadores-como-local-ante-coquimbo-unido-hora-tv-y-formaciones/",
+      "image": "https://www.infobae.com/resizer/v2/OUNY4C7ZBNEK5DIN2T7XBAI3IA.png?auth=95c87c05f31fc98371aed75c5d8ac347459111987832091a30e3e81a408101fb&smart=true&width=2752&height=1536",
+      "snippet": "El Calamar recibe al conjunto chileno en Vicente López, en el primer cruce de eliminación directa continental de su historia",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:35:53.000Z"
+    },
+    {
+      "id": "98a3f9ec792b",
+      "title": "EN VIVO Made by Google: lanzamiento de Google Pixel 11 Pro, Pixel Watch 5, Pixel Buds Pro 2 y Gemini",
+      "link": "https://www.infobae.com/tecno/2026/08/12/en-vivo-made-by-google-lanzamiento-de-google-pixel-11-pro-pixel-watch-5-pixel-buds-pro-2-y-gemini/",
+      "image": "https://www.infobae.com/resizer/v2/V2RBKC4X6FGUNHXLZH3V4MZGL4.png?auth=18175668e850317ed8356d7be1150d321aae993c7da09856de9630f75382b847&smart=true&width=1920&height=1080",
+      "snippet": "La próxima generación de teléfonos Google Pixel encabezará el evento, con la introducción de los modelos Pixel 11, Pixel 11 Pro y Pixel 11 Pro XL",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:35:30.000Z"
+    },
+    {
+      "id": "4e8396df876b",
+      "title": "Bill Gates propone una medida ante el avance de los robots: “Si un robot hace lo mismo que tú, debe pagar impuestos”",
+      "link": "https://www.infobae.com/tecno/2026/08/12/bill-gates-propone-una-medida-ante-el-avance-de-los-robots-si-un-robot-hace-lo-mismo-que-tu-debe-pagar-impuestos/",
+      "image": "https://www.infobae.com/resizer/v2/YT7YP65ZBRGRPEZATDRC5MMKGI.JPG?auth=84158ed264175df23e4f5ced28d17a76e77a3ac6f4b70acef5a79bf46eedc837&smart=true&width=4911&height=3274",
+      "snippet": "La propuesta del fundador de Microsoft busca compensar la pérdida de ingresos fiscales asociada a la automatización",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:35:28.000Z"
+    },
+    {
+      "id": "7507061f5cfd",
+      "title": "El tribunal electoral de Guatemala descarta el voto electrónico para los connacionales en Estados Unidos en 2027",
+      "link": "https://www.infobae.com/guatemala/2026/08/12/el-tribunal-electoral-de-guatemala-descarta-el-voto-electronico-para-los-connacionales-en-estados-unidos-en-2027/",
+      "image": "https://www.infobae.com/resizer/v2/RFHFGFBEJVHYVHK2T6XGRVVK4A.png?auth=eeced737c708c38ebbf9ca89cc9846dfa3d58291b77907981cbd32928e986bdf&smart=true&width=2752&height=1536",
+      "snippet": "El funcionario del Tribunal Supremo Electoral dijo que el proceso exigiría un registro con protocolos de seguridad e identificación capaces de evitar suplantaciones, un esquema que",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:34:44.000Z"
+    },
+    {
+      "id": "61715a57ba3b",
+      "title": "Portabilidad, comisiones y las opciones: la CNV publicó la letra chica de los fondos que financiarán las indemnizaciones",
+      "link": "https://www.lanacion.com.ar/economia/portabilidad-comisiones-y-las-opciones-la-cnv-publico-la-letra-chica-de-los-fondos-que-financiaran-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZR3T2LGDNBELZCRTWRATSPF5FU.jpg?auth=27f171f1ea4d4f714ae50a7ffb6081fd47451b4b13b3682af8c25dc32675a2ed&smart=true&width=2000&height=1333",
+      "snippet": "El organismo puso en consulta pública la norma que establece cómo se estructurarán los FAL, que podrán canalizarse a través de fondos comunes de inversión o fideicomisos financiero",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:34:10.000Z"
+    },
+    {
+      "id": "4d5b6861b757",
+      "title": "Régimen de Nicaragua difunde un video del obispo Abelardo Mata y lo presenta como “prueba de vida” ante presión internacional",
+      "link": "https://www.infobae.com/nicaragua/2026/08/12/regimen-de-nicaragua-difunde-un-video-del-obispo-abelardo-mata-y-lo-presenta-como-prueba-de-vida-ante-presion-internacional/",
+      "image": "https://www.infobae.com/resizer/v2/5FJK5OM5J5EYVLMCVQORHZUS6U.jpg?auth=48955289172bd35389e6b40e5990dfeea63c8176a5e234a8717f1eeaa76e1182&smart=true&width=1024&height=683",
+      "snippet": "La entrevista fue emitida por canales estatales tras el arresto del religioso el 29 de junio, pero la ausencia de constatación externa sostiene la incertidumbre sobre su paradero y",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:33:54.000Z"
+    },
+    {
+      "id": "aa65e3c61ee0",
+      "title": "Independiente iguala con Atlético Tucumán por los octavos de final de la Copa Argentina",
+      "link": "https://www.infobae.com/deportes/2026/08/12/atletico-tucuman-e-independiente-se-juegan-un-lugar-en-los-cuartos-de-final-de-la-copa-argentina-en-rosario-hora-tv-y-formaciones/",
+      "image": "https://www.infobae.com/resizer/v2/SLZEHLUJ2BHZRJZFV5BWG4KR64.png?auth=7a7d396c752520cdbe23a1a467fc773093f91c72f042604e8a0f627226a7eb55&smart=true&width=2752&height=1536",
+      "snippet": "El Decano y el Rojo se miden este miércoles desde en el Estadio Marcelo Bielsa, con el arbitraje de Facundo Tello",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:33:31.000Z"
+    },
+    {
+      "id": "773ba40ca6c5",
+      "title": "Iván Cepeda arremetió contra De la Espriella tras anuncio de EE. UU. de lanzar operaciones militares desde Colombia: “Entrega nuestra soberanía”",
+      "link": "https://www.infobae.com/colombia/2026/08/12/ivan-cepeda-arremetio-contra-de-la-espriella-tras-anuncio-de-ee-uu-de-lanzar-operaciones-militares-desde-colombia-entrega-nuestra-soberania/",
+      "image": "https://www.infobae.com/resizer/v2/ANDCDB2Z7BHGFJLLCULN2H2SSY.png?auth=e4319cde3043febffa57d944b0c135454487ac16658c44506e9b7598f86f3011&smart=true&width=1920&height=1080",
+      "snippet": "El senador del Pacto Histórico señaló que el presidente colombiano, en el poder desde hace apenas cinco días y en medio de la crisis por el terremoto del lunes 10 de agosto de 2026",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:33:23.000Z"
+    },
+    {
+      "id": "1781983e31c2",
+      "title": "Israel confirmó un ataque contra el jefe de una célula terrorista de Hamas en Gaza que planeaba atentar contra sus fuerzas",
+      "link": "https://www.infobae.com/america/mundo/2026/08/12/israel-confirmo-un-ataque-contra-el-jefe-de-una-celula-terrorista-de-hamas-en-gaza-que-planeaba-atentar-contra-sus-fuerzas/",
+      "image": "https://www.infobae.com/resizer/v2/TW3SW6QQQ5FJNEJXT3I2X63S7I.JPG?auth=db4135aae3732783b399673848ca3a3f674aa436f0c3bf23dd01507b99e0536c&smart=true&width=6000&height=4000",
+      "snippet": "La ofensiva se produjo en Beit Lahia, donde fuentes médicas informaron de la muerte de un hombre y de varios heridos",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:32:33.000Z"
+    },
+    {
+      "id": "0d531107802d",
+      "title": "Cuántos Mundiales ganaron las Leonas, en la previa de Bélgica-Países Bajos 2026",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/cuantos-mundiales-ganaron-las-leonas-en-la-previa-de-belgica-paises-bajos-2026-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/RTFJTNUJEJCOTP5KFVY44V4L7I.JPG?auth=d9d7adc740e62820a1972737e8edfcac988db08046dfb639bb7d7701441dae39&smart=true&width=2000&height=1333",
+      "snippet": "La selección argentina femenina es una de las cuatro que sabe lo que es ganar el título más importante",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:32:16.000Z"
+    },
+    {
+      "id": "73d213338807",
+      "title": "Temblor en Estados Unidos EN VIVO hoy, 12 de agosto 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía USGS",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/temblor-en-estados-unidos-en-vivo-hoy-11-y-12-de-agosto-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-usgs-california-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/U2T7XXG5SFGZTF2MBWAXK63AMM.png?auth=1a41c63904ed5fffb79e5ffa120787c9a129ac8489c4d75672221667c8ea6998&smart=true&width=3600&height=2430",
+      "snippet": "Siga los reportes de actividad sísmica en Estados Unidos este 12 de agosto de 2026. Verifique la hora exacta, magnitud y epicentro de los últimos temblores en California vía USGS.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:32:06.000Z"
+    },
+    {
+      "id": "a8efdbee983d",
+      "title": "Las Leonas en el Mundial 2026: esta es la lista de convocadas de la selección argentina de hockey",
+      "link": "https://www.lanacion.com.ar/deportes/hockey/las-leonas-en-el-mundial-2026-esta-es-la-lista-de-convocadas-de-la-seleccion-argentina-de-hockey-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/7HMQFK6ZFZBYNG7IHIXFTTHXGM.jpg?auth=2044b1a918471f464a3b3a8aaf873dc0c8a3d44c90e52921add797fd5185e759&smart=true&width=4096&height=2870",
+      "snippet": "El seleccionado femenino inicia el camino en una nueva Copa del Mundo; las dirigidas por Fernando Ferrara fueron subcampeonas en la última edición",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:32:00.000Z"
+    },
+    {
+      "id": "dcb3f593f4ce",
+      "title": "Números ganadores del Powerball hoy, 12 de agosto 2026: mira los resultados del sorteo jackpot de la lotería con premio mayor de 975 millones de dólares",
+      "link": "https://elcomercio.pe/mag/usa/loterias/numeros-ganadores-del-powerball-mira-los-resultados-del-sorteo-jackpot-del-12-de-agosto-2026-con-premio-mayor-de-975-millones-de-dolares-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/SL3HI5JRZNFIFAJRAJ3VMV5IKM.png?auth=c6eee065988fb42c7a5f5740a1e0d7de75091f31a198ec963b8ee7fcbaa2a0a2&smart=true&width=3600&height=2430",
+      "snippet": "Revisa los números ganadores del sorteo del Powerball del miércoles 12 de agosto de 2026. Conoce la combinación oficial y los resultados del acumulado de 975 millones de dólares en",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:30:00.000Z"
+    },
+    {
+      "id": "dea82310a38f",
+      "title": "​🌠​ ¿A qué hora empieza y dónde ver la lluvia de meteoros Perseidas 2026 EN VIVO hoy en España?",
+      "link": "https://elcomercio.pe/mag/respuestas/ciencias/a-que-hora-empieza-y-donde-ver-la-lluvia-de-meteoros-perseidas-2026-en-vivo-hoy-en-espana-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/UNMDWIAZXNBGBPKLEWCDREFKPY.jpg?auth=edc88cbbef60d17e21cbafdac3f1950fac321fc24efcdb032a042ec73113b769&smart=true&width=2400&height=1620",
+      "snippet": "Conoce a qué hora se podrán ver las Perseidas 2026 en España, cuándo será su máximo, hacia dónde mirar y cómo seguir la lluvia de meteoros EN DIRECTO.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:30:00.000Z"
+    },
+    {
+      "id": "bfba78917072",
+      "title": "Los mensajes de apoyo a Lionel Messi tras la carta de despedida a su padre: de Beckham y Ronaldo a La Sole y Marley",
+      "link": "https://www.lanacion.com.ar/deportes/los-mensajes-de-apoyo-a-lionel-messi-tras-la-carta-de-despedida-a-su-padre-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GTK5I3QJNBEK5HQTUFYZXWJTIA.png?auth=f5da87f9f68db4cd19cbcf29d9a16c19296b352409f85ae638b0781515f761d8&smart=true&width=2000&height=1333",
+      "snippet": "Muchas celebridades de la cultura y el deporte le brindaron el pésame al futbolista en Instagram",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:29:18.000Z"
+    },
+    {
+      "id": "da16ff655fc1",
+      "title": "De Cristiano Ronaldo a Lionel Messi: “Un abrazo enorme en estos duros momentos, Leo, mucha fuerza”",
+      "link": "https://www.lanacion.com.ar/deportes/de-cristiano-ronaldo-a-lionel-messi-un-abrazo-enorme-en-estos-duros-momentos-leo-mucha-fuerza-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ERU77O2OUFAELOIMSKNWYMFGRA.png?auth=998ba4d3b1326da87617a93b402811c8346b1d43559e0fa05ce866d6d05405a1&smart=true&width=2000&height=1333",
+      "snippet": "Tras el posteo que hizo el capitán de la selección argentina por la muerte de su padre Jorge, el delantero portugués se sumó a la ola de respuestas en apoyo",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:29:14.000Z"
+    },
+    {
+      "id": "82afaf9c8559",
+      "title": "Lionel Messi publicó una carta tras la muerte de su padre Jorge: qué dice el texto completo",
+      "link": "https://www.lanacion.com.ar/deportes/lionel-messi-publico-un-mensaje-tras-la-muerte-de-su-padre-jorge-que-dice-el-texto-completo-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/OCIZB74RMJHYNJ4W2GLQMO5S7A.png?auth=7cd63d320ee52554c6fcb12d35b54d47b12f8c97646c630ab6b3a1dd4ffe5ff2&smart=true&width=2000&height=1333",
+      "snippet": "A cuatro días del fallecimiento de Jorge Messi, el futbolista de la selección compartió un emotivo mensaje de despedida y reveló todo lo que vivió durante el Mundial",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:29:08.000Z"
+    },
+    {
+      "id": "274239918497",
+      "title": "Lionel Messi: “Tengo bastantes dudas...”, y otras diez frases que le escribió a su papá en una carta",
+      "link": "https://www.lanacion.com.ar/deportes/lionel-messi-tengo-bastantes-dudas-de-que-vaya-a-seguir-haciendolo-por-mucho-tiempo-mas-y-otras-10-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GTK5I3QJNBEK5HQTUFYZXWJTIA.png?auth=f5da87f9f68db4cd19cbcf29d9a16c19296b352409f85ae638b0781515f761d8&smart=true&width=2000&height=1333",
+      "snippet": "El futbolista se expresó mediante su cuenta de Instagram tras la muerte de su padre Jorge Messi; puso en duda su continuidad en el fútbol y habló de todo lo que pasó durante el últ",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:29:04.000Z"
+    },
+    {
+      "id": "331e0d35bce3",
+      "title": "Brian Lanzelotta sufrió una estafa de casi 20 millones de pesos y pide ayuda: “Me arruinaron”",
+      "link": "https://www.lanacion.com.ar/espectaculos/brian-lanzelotta-sufrio-una-estafa-de-casi-20-millones-de-pesos-y-pide-ayuda-me-arruinaron-nid11082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/IQ2JJQJHCRB3HGLRHVJPIB4LGA.jpg?auth=cd1ff1d3351f1714212349b975cb4d29db4a43bfcba3d1538e923a91f2bc4f5f&smart=true&width=2000&height=1333",
+      "snippet": "El cantante y ex Gran Hermano relató la estafa que sufrió en su emprendimiento de papel higiénico; los detalles",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:28:55.000Z"
+    },
+    {
+      "id": "b46a70ef4020",
+      "title": "Presidente José Raúl Mulino afirma que el narcotráfico es el peor enemigo del Canal de Panamá",
+      "link": "https://elcomercio.pe/mundo/centroamerica/panama-presidente-jose-raul-mulino-afirma-que-el-narcotrafico-es-el-peor-enemigo-del-canal-de-panama-coalicion-contra-los-carteles-de-las-americas-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/FLZIE4ZIRBH77ANSACVOVTNLNY.jpg?auth=006d70081329aacad615def9ff9464a58d1d6090a48b1048f436996f824ee432&smart=true&width=1200&height=800",
+      "snippet": "El presidente panameño, José Raúl Mulino, afirmó este miércoles que el narcotráfico es el principal enemigo del Canal de Panamá, que sirve al comercio mundial, en la reunión de la ",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:28:54.000Z"
+    },
+    {
+      "id": "9fb6fc52c615",
+      "title": "Nicole Neumann recordó el día que marcó un antes y un después en su vida y la llevó a dejar de comer carne",
+      "link": "https://www.lanacion.com.ar/espectaculos/nicole-neumann-recordo-el-dia-que-marco-un-antes-y-un-despues-en-su-vida-y-la-llevo-a-dejar-de-comer-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/D6HY4ZD4WNCTRF5MUYA4XHEUW4.png?auth=0700e2f99af8db8fc39528942dc2e9164273a0b240228b1b19e18d85f835e390&smart=true&width=2000&height=1333",
+      "snippet": "La modelo se sinceró sobre la situación con una oveja que la movilizó profundamente y que la hizo seguir una dieta vegetariana",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:28:47.000Z"
+    },
+    {
+      "id": "7d031be02731",
+      "title": "Juan Manuel Catoyra, veterinario: “La castración es una de las medidas más importantes para mejorar la salud y el bienestar de perros y gatos”",
+      "link": "https://www.lanacion.com.ar/lifestyle/mascotas/juan-manuel-catoyra-veterinario-la-castracion-es-una-de-las-medidas-mas-importantes-para-mejorar-la-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/DN6FCJNZZJEDDEW73ZSXZK5ZZI.jpg?auth=33be1b44c99089c13fbf715efada7aee9b1a06d6fd54443a53616124a5300b33&smart=true&width=6000&height=4000",
+      "snippet": "El especialista explicó cuáles son las falsas creencias más frecuentes sobre nuestras mascotas, por qué este procedimiento es clave para su bienestar y cada cuánto deben vacunarse ",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:28:44.000Z"
+    },
+    {
+      "id": "ab79f0f618bd",
+      "title": "De qué murió Jorge Messi, el padre de Lionel",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/de-que-murio-jorge-messi-el-padre-de-lionel-nid08082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/4KZYVCJ7AZCWTN2ZNKCQZKZRCA.jpg?auth=33fdace3023725fa5c417dff8408ca65246e7478cea57ae2a050a6e1f417f402&smart=true&width=2000&height=1333",
+      "snippet": "Falleció a los 68 años en Rosario; a mediados de junio, durante el arranque del Mundial, se conoció que atravesaba un delicado cuadro de salud",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:28:40.000Z"
+    },
+    {
+      "id": "5eef2e2c9225",
+      "title": "Brad Pitt habló del alto precio que pagó por protagonizar Troya: “Cambié mi vida por completo”",
+      "link": "https://www.lanacion.com.ar/espectaculos/brad-pitt-hablo-del-alto-precio-que-pago-por-protagonizar-troya-cambie-mi-vida-por-completo-nid11082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/GMM22K4JXJCIXMZKUXULFYS6IQ.png?auth=897122e4007f4bc167c273aeb94063fce81be69e60a27a1b5170ffc186188186&smart=true&width=2000&height=1333",
+      "snippet": "Aunque Aquiles es uno de los personajes más destacados de su filmografía, a lo largo de los años el actor dejó en claro que tanto la preparación como el rodaje fueron una pesadilla",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:28:29.000Z"
+    },
+    {
+      "id": "1ef212a5ee94",
+      "title": "Temblor en México EN VIVO hoy, 12 de agosto 2026: hora exacta, magnitud y dónde fue el epicentro del último sismo vía SSN",
+      "link": "https://elcomercio.pe/mag/respuestas/mx/temblor-en-mexico-en-vivo-hoy-11-y-12-de-agosto-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-ssn-microsismo-cdmx-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/SIKOYILRUJHEBD4CTDMK36SR44.png?auth=c8b4bacf53b12d073f8082307d58383d04e2c75d67e68b75c62bb2d1a3541180&smart=true&width=3600&height=2430",
+      "snippet": "Consulte el reporte de sismos en México este 12 de agosto de 2026. Verifique la hora exacta, magnitud y epicentro del último temblor o microsismo en la CDMX registrado por el SSN.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:27:42.000Z"
+    },
+    {
+      "id": "45a4c3a8f3fd",
+      "title": "Equipos técnicos inspeccionan hospitales y viviendas en 90 municipios de Antioquia, mientras brigadas de rescate y expertos auxilian a otras regiones",
+      "link": "https://www.eltiempo.com/colombia/medellin/equipos-tecnicos-inspeccionan-hospitales-y-viviendas-en-90-municipios-de-antioquia-mientras-brigadas-de-rescate-y-expertos-auxilian-a-otras-regiones-3577982",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/10/6a79f6c8132fa.jpeg",
+      "snippet": "El terremoto del pasado 10 de agosto generó afectaciones en varias estructuras, por lo que deben ser evaluadas por personal experto.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-08-12T22:25:44.000Z"
+    },
+    {
+      "id": "3e3569ffb848",
+      "title": "Morat apoyará reconstrucción de colegios afectados por terremoto en Colombia",
+      "link": "https://elcomercio.pe/luces/musica/morat-apoyara-reconstruccion-de-colegios-afectados-por-terremoto-en-colombia-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/KN7WZJ3M2BERHNNIB4XTUM7CVE.png?auth=55716db66d2a33610957816141680e73dafafc720435e71fdd2eecd3b4b6621b&smart=true&width=1200&height=800",
+      "snippet": "La banda colombiana destinará parte de los ingresos de sus presentaciones y habilitará puntos de apoyo durante sus seis conciertos en Bogotá",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:23:34.000Z"
+    },
+    {
+      "id": "7210c484c2f1",
+      "title": "Así se vive el gran eclipse total de sol del siglo XXI",
+      "link": "https://elcomercio.pe/tecnologia/actualidad/asi-se-vivio-el-gran-eclipse-total-de-sol-del-siglo-xxi-noticia/",
+      "image": null,
+      "snippet": "Redes sociales, transmisiones en directo y realidad aumentada transformaron la experiencia, aunque algunos criticaron la sobreinformación.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:23:07.000Z"
+    },
+    {
+      "id": "afe255d7d7f5",
+      "title": "El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta",
+      "link": "https://www.abc.es/espana/sanchez-interrumpe-vacaciones-ver-eclipse-guadalajara-guarda-20260812210249-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/12/yebes-kOC-U301241457247eDG-1200x840@diario_abc.jpg",
+      "snippet": "La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para opacar la propia actualidad que les concierne y a la q",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T22:22:17.000Z"
+    },
+    {
+      "id": "56240d066104",
+      "title": "España se rindió ante un eclipse solar total que no se vivía desde hacía más de 120 años",
+      "link": "https://www.clarin.com/mundo/espana-rindio-eclipse-solar-total-vivia-120-anos_0_z0NzDtdUJV.html",
+      "image": "https://www.clarin.com/img/2026/08/12/piHjHvHlF_1200x630__1.jpg",
+      "snippet": "La comunidad científica lo considera el más largo del siglo XXI visible desde Europa. La escena, que oscureció una franja de 290 kilómetros de ancho de España, entre Galicia y las ",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:17:59.000Z"
+    },
+    {
+      "id": "94507f3311ed",
+      "title": "Así quedó Salento, Quindío, tras el fuerte terremoto de 7,4: varias casas tradicionales resultaron afectadas",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/asi-quedo-salento-quindio-tras-el-fuerte-terremoto-de-7-4-varias-casas-tradicionales-resultaron-afectadas-3577880",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cac62df23c.r_d.1081-210-0.png",
+      "snippet": "Las autoridades realizan visitas técnicas para establecer qué inmuebles requieren intervención y cuáles pueden ser habitados nuevamente.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-08-12T22:17:28.000Z"
+    },
+    {
+      "id": "76214babe0bf",
+      "title": "Vélez por la mañana | Natalia Molano, portavoz de EE. UU., detalló el destino de 15,5 millones de dólares para Colombia tras terremoto de magnitud 7,4",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/velez-por-la-manana-natalia-molano-portavoz-de-ee-uu-detallo-el-destino-de-15-5-millones-de-dolares-para-colombia-tras-terremoto-de-magnitud-7-3577974",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/12/6a7ce9590be0c.png",
+      "snippet": "La funcionaria señaló las entidades encargadas de ejecutar los recursos y las prioridades para atender a las comunidades afectadas.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-08-12T22:13:22.000Z"
+    },
+    {
+      "id": "b08b44dd337e",
+      "title": "El dos de Caputo anticipó que el Banco Central comprará otros US$ 10.000 millones antes de las elecciones",
+      "link": "https://www.clarin.com/economia/caputo-anticipo-banco-central-comprara-us-10000-millones-elecciones_0_MqkRRju42o.html",
+      "image": "https://www.clarin.com/img/2026/08/12/6cQhFqpPB_1200x630__1.jpg",
+      "snippet": "El secretario de Política Económica, José Luis Daza, aseguró que la Argentina llegará a los comicios de 2027 con US$ 20.000 millones más de reservas que en 2025. Empresarios reclam",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:06:22.000Z"
+    },
+    {
+      "id": "ae3de0025083",
+      "title": "50 segundos a oscuras desde Meco: así se vivió el eclipse en un rincón de Madrid",
+      "link": "https://www.elnacional.com/2026/08/eclipse-solar-meco-madrid-12-agosto-2026/",
+      "image": null,
+      "snippet": "Miles de espectadores congregados en la localidad madrileña presenciaron la fase de totalidad del fenómeno astronómico entre aplausos, caída de temperatura y un despliegue de segur",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-12T22:05:03.000Z"
+    },
+    {
+      "id": "605d6bb97427",
+      "title": "Inflación se aceleró hasta 19,9% en julio, reporta Banco Central (BCV)",
+      "link": "https://www.elnacional.com/2026/08/inflacion-se-acelero-hasta-199-en-julio-reporta-banco-central-bcv/",
+      "image": null,
+      "snippet": "El acumulado del año alcanza al 175,5%, según el BCV, que pronostica una desaceleración a partir de agosto. The post Inflación se aceleró hasta 19,9% en julio, reporta Banco Centra",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-12T22:03:39.000Z"
+    },
+    {
+      "id": "4fde00d1e562",
+      "title": "Temblor en Colombia HOY 12 de agosto: consulta la magnitud y epicentro de los últimos sismos",
+      "link": "https://elcomercio.pe/respuestas/colombia/temblor-hoy-en-colombia-en-vivo-intensidad-epicentro-hora-y-magnitud-del-ultimo-sismo-reportado-este-11-y-12-de-agosto-de-2026-segun-el-sgc-servicio-geologico-colombiano-santander-co-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/3Q2HI67XGRGW7KIQ7FLIUZH4H4.jpeg?auth=10f284a6a25508ca1b2e5fb211d91719821a57570329b988b4613a771548d32b&smart=true&width=1200&height=700",
+      "snippet": "Temblor en Colombia EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Servicio Geológico Colombiano (SGC).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:03:00.000Z"
+    },
+    {
+      "id": "158e55f61f94",
+      "title": "Dos muertos al estrellarse un helicóptero del ejército de Estados Unidos en un campo de Texas",
+      "link": "https://www.clarin.com/mundo/muertos-estrellarse-helicoptero-ejercito-estados-unidos-campo-texas_0_tdZjoxuRUm.html",
+      "image": "https://www.clarin.com/img/2026/08/12/_1NW2amYl_1200x630__1.jpg",
+      "snippet": "La aeronave llevaba a dos personas a bordo y había salido de una base militar. A causa de la explosión, se produjo un incendio y hubo que evacuar viviendas.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:02:57.000Z"
+    },
+    {
+      "id": "836123765ea6",
+      "title": "El jefe del Pentágono asegura que De la Espriella autorizó \"operaciones militares conjuntas\" en Colombia",
+      "link": "https://www.france24.com/es/am%C3%A9rica-latina/20260812-el-jefe-del-pent%C3%A1gono-asegura-que-de-la-espriella-autoriz%C3%B3-operaciones-militares-conjuntas-en-colombia",
+      "image": "https://s.france24.com/media/display/c1afb544-6f7d-11f1-8dd5-005056a97e36/w:1024/p:16x9/trump-espriella.jpg",
+      "snippet": "El secretario de Defensa de Estados Unidos, Pete Hegseth, aseguró este miércoles 12 de agosto que el nuevo presidente de Colombia, Abelardo de la Espriella, autorizó \"operaciones m",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-12T22:02:19.000Z"
+    },
+    {
+      "id": "0ab8a45ef1fc",
+      "title": "Expertos en limpieza revelan por qué el vinagre blanco elimina el mal olor de la ropa después del lavado",
+      "link": "https://www.clarin.com/informacion-general/expertos-limpieza-revelan-vinagre-blanco-elimina-mal-olor-ropa-despues-lavado_0_HdeShqpFpp.html",
+      "image": "https://www.clarin.com/img/2026/08/04/-kE0F7Y6f_1200x630__1.jpg",
+      "snippet": "El problema no siempre está en el detergente: las bacterias que sobreviven al lavado suelen ser las responsables del olor. Este ingrediente económico y fácil de conseguir puede ayu",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T22:00:24.000Z"
+    },
+    {
+      "id": "0dd3bd5df406",
+      "title": "Temblor en México HOY 12 de agosto: consulta la magnitud y el epicentro de los últimos sismos",
+      "link": "https://elcomercio.pe/respuestas/mexico/temblor-en-mexico-hoy-en-vivo-ultimo-sismo-11-y-12-de-agosto-2026-hora-exacta-epicentro-y-magnitud-del-ultimo-sismo-servicio-sismologico-nacional-mexico-cdmx-mx-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/BRMRHTCNGRHVRONDKW4YQO2N5A.webp?auth=a1b9fc996185e04d95d6562572aebd48311efc87af43fa0c36685f294b05d1cd&smart=true&width=1200&height=700",
+      "snippet": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T22:00:07.000Z"
+    },
+    {
+      "id": "0a49cb8db2be",
+      "title": "El jefe del Pentágono asegura que De la Espriella autorizó \"operaciones militares conjuntas\" en Colombia",
+      "link": "https://www.france24.com/es/minuto-a-minuto/20260812-el-jefe-del-pent%C3%A1gono-asegura-que-de-la-espriella-autoriz%C3%B3-operaciones-militares-conjuntas-en-colombia",
+      "image": null,
+      "snippet": "",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-12T21:59:34.000Z"
+    },
+    {
+      "id": "8f4106772b01",
+      "title": "Primer Plano: Terremoto en Colombia deja 239 muertos, 3.755 heridos y 287 desaparecidos |",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/primer-plano-terremoto-en-colombia-deja-239-muertos-3-755-heridos-y-287-desaparecidos-3577976",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cec02e6ec3.r_d.239-204-0.jpeg",
+      "snippet": "Tras dos días del terremoto de magnitud 7,4 que sacudió a Colombia, continúan las labores de búsqueda y rescate en las zonas más afectadas.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-08-12T21:57:17.000Z"
+    },
+    {
+      "id": "f1562fd9733b",
+      "title": "Justicia, Encuentro y Perdón registra 502 presos políticos",
+      "link": "https://www.elnacional.com/2026/08/justicia-encuentro-y-perdon-registra-502-presos-politicos/",
+      "image": null,
+      "snippet": "Entre las denuncias más graves, la organización destaca la situación de 36 detenidos con patologías severas que carecen de atención médica oportuna, la reclusión de 19 adultos mayo",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-12T21:57:02.000Z"
+    },
+    {
+      "id": "2a59e440270b",
+      "title": "El aeropuerto internacional de Maiquetía habilitará dos terminales temporales para atender operaciones de llegada y salida",
+      "link": "https://www.elnacional.com/2026/08/el-aeropuerto-internacional-de-maiquetia-habilitara-dos-terminales-temporales-para-atender-operaciones-de-llegada-y-salida/",
+      "image": null,
+      "snippet": "Ante los daños por el doblete sísmico del 24 de junio, el terminal aéreo desplegará más de 9.800 metros cuadrados de infraestructura modular a partir del 24 de agosto, luego de una",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-12T21:52:09.000Z"
+    },
+    {
+      "id": "558da4d567b0",
+      "title": "Parteras y mujeres embarazadas en el Chocó se ven afectadas por el terremoto en Colombia",
+      "link": "https://www.france24.com/es/video/20260812-parteras-y-mujeres-embarazadas-en-el-choc%C3%B3-se-ven-afectadas-por-el-terremoto-en-colombia",
+      "image": "https://s.france24.com/media/display/e5f40f0c-9694-11f1-ae21-005056bfb2b6/w:1024/p:16x9/FORMATO-CONTENT-2-1.png",
+      "snippet": "🇨🇴 En France 24 hablamos con Ledy Manuela Mosquera, partera tradicional y directora ejecutiva de la Asociación de la Red Interétnica de Parteras y Parteros del Chocó, quien nos c",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-12T21:49:45.000Z"
+    },
+    {
       "id": "47b9a76705ba",
       "title": "La Vinotinto de futsal triunfa sobre Colombia en su tercer partido del Sudamericano Sub-17",
       "link": "https://www.elnacional.com/2026/08/la-vinotinto-de-futsal-triunfa-sobre-colombia-en-su-tercer-partido-del-sudamericano-sub-17/",
@@ -123,234 +765,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-08-12T21:47:35.000Z"
-    },
-    {
-      "id": "7958db5180fe",
-      "title": "Eva Bargiela sorprendió al contar una pesadilla recurrente: “Mi mayor miedo es ese”",
-      "link": "https://www.infobae.com/teleshow/2026/08/12/eva-bargiela-sorprendio-al-contar-una-pesadilla-recurrente-mi-mayor-miedo-es-ese/",
-      "image": "https://www.infobae.com/resizer/v2/JI2Q6GAETFAUDKNRYUHJFL34WM.png?auth=2f2952a3683594f5862f6a6f7947203e088cbc2e80d86e1704f35457de9f9cbc&smart=true&width=1920&height=1080",
-      "snippet": "En una confesión ante sus seguidores, la modelo compartió el sueño que la persigue con frecuencia y que involucra a su pareja, Gianluca Simeone",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:43:55.000Z"
-    },
-    {
-      "id": "b7c920377eff",
-      "title": "Hollywood recupera terreno: la taquilla en Estados Unidos alcanza USD 4.000 millones y se acerca a los niveles prepandemia",
-      "link": "https://www.infobae.com/entretenimiento/2026/08/12/hollywood-recupera-terreno-la-taquilla-en-estados-unidos-alcanza-usd-4000-millones-y-se-acerca-a-los-niveles-prepandemia/",
-      "image": "https://www.infobae.com/resizer/v2/YGKJONHMRZHYFJEBY75HVIHJME.png?auth=cb0240cf7933f275e331dc4ef4f27e936af24b249fe52796924bb3e717c09df8&smart=true&width=1408&height=768",
-      "snippet": "Spider-Man: Brand New Day, Toy Story 5 y La Odisea lideraron una cartelera que rompió esa barrera por segunda vez desde la crisis sanitaria. Los analistas proyectaban ese resultado",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:43:11.000Z"
-    },
-    {
-      "id": "d2e3f314e52e",
-      "title": "Aprendió a manejar un camión a los 12 años y muestra en redes cómo es la vida de una camionera",
-      "link": "https://www.infobae.com/tendencias/2026/08/12/aprendio-a-manejar-un-camion-a-los-12-anos-y-muestra-en-redes-como-es-la-vida-de-una-camionera/",
-      "image": "https://www.infobae.com/resizer/v2/FNHKBBQ6FZHNPMSLP66KWE2LRU.png?auth=166115b482ad2c2477ffa892daae3be89c6002b1590852d3766246a0b614a0c0&smart=true&width=968&height=563",
-      "snippet": "Marianela Gariboglio creció en una familia de transportistas y recorre las rutas entre Paraná y Córdoba. En diálogo con Infobae a la Tarde, contó cómo se abrió camino en un oficio ",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:42:24.000Z"
-    },
-    {
-      "id": "8416b3a24c8a",
-      "title": "Funciones de cine a 35 pesos en la CDMX: estas son las mejores películas en la cartelera",
-      "link": "https://www.infobae.com/mexico/2026/08/12/funciones-de-cine-a-35-pesos-en-la-cdmx-estas-son-las-mejores-peliculas-en-la-cartelera/",
-      "image": "https://www.infobae.com/resizer/v2/C2E5TX6BNRGBVE2LOKWMOTPVME.png?auth=c964d4ef9df9d73f0e30d7b09b6640d6818d0a6998631f1fe7aec1558d61cc55&smart=true&width=1408&height=768",
-      "snippet": "En este mes de agosto habrá importantes descuentos en el cine para funciones tradicionales, IMAX y 4DX; estas son las fechas y mejores películas en cartelera",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:42:14.000Z"
-    },
-    {
-      "id": "401aa9be3542",
-      "title": "Elecciones de 2026 marcan un nuevo hito en la vigilancia electoral de Colombia",
-      "link": "https://www.infobae.com/america/inhouse/2026/08/12/elecciones-de-2026-marcan-un-nuevo-hito-en-la-vigilancia-electoral-de-colombia/",
-      "image": "https://www.infobae.com/resizer/v2/OXZSSPGOTJBYZPM77U5K7TPW3U.png?auth=5b8b388c443c9b32eb0046535b618fd282ce09e2e178eb5390b52faf24c99279&smart=true&width=1625&height=915",
-      "snippet": "La acreditación digital implementada por LinkTIC permitió validar identidades y reforzar la vigilancia electoral en Colombia y el exterior",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:42:10.000Z"
-    },
-    {
-      "id": "44defba98df7",
-      "title": "Javier Milei y sus medidas, en vivo: el Gobierno busca retomar la iniciativa en el Congreso y reactiva la mesa política",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-el-gobierno-busca-retomar-la-iniciativa-en-el-congreso-y-reactiva-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/M3AR3ZFHCNHWPKMFOIAINH73HQ.jpg?auth=bda2004d26abe97bdc5bf7a8dffd4c1f3244c79a783aded82d65bc934d992761&smart=true&width=2000&height=1333",
-      "snippet": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:40:00.000Z"
-    },
-    {
-      "id": "62f52494470d",
-      "title": "Una pareja de motochorros, formada por un hombre y su hijo, fue baleada por un policía que repelió un intento de robo",
-      "link": "https://www.lanacion.com.ar/seguridad/una-pareja-de-motochorros-formada-por-un-hombre-y-su-hijo-fue-baleada-por-un-policia-que-repelio-un-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/DISVLTFO2FGEDOSGKOG7WUIFQM.jpg?auth=1c532f042d4f17e31fa26ca8539fb3f8e2e9250d8bc3daa5a8db159af8b37fa1&smart=true&width=1200&height=675",
-      "snippet": "El enfrentamiento se registró en la localidad platense de Los Hornos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:39:55.000Z"
-    },
-    {
-      "id": "48122c7fa618",
-      "title": "Desilusión sin nostalgia: señales de un cambio en el humor social",
-      "link": "https://www.lanacion.com.ar/opinion/desilusion-sin-nostalgia-senales-de-un-cambio-en-el-humor-social-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/3YVEAS2AYFCRVCXMWHY73AAWPE.jpg?auth=d32281141c1bccd0c50c12b927c679af29d1bcd224497371a2370121d7dd8ea4&smart=true&width=4337&height=2891",
-      "snippet": "¿Empieza a modificarse en un sector de la opinión pública la percepción sobre el liderazgo de Milei? ¿Se ensancha el universo de los decepcionados, aun entre quienes apoyan los tra",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:39:38.000Z"
-    },
-    {
-      "id": "286514845f1f",
-      "title": "EN VIVO | Fuerte temblor de 7,4 se sintió en Colombia el 10 de agosto: aumenta la cantidad de muertos a 241 y hay más de 3.700 heridos; se prepara más ayuda humanitaria",
-      "link": "https://www.infobae.com/colombia/2026/08/10/en-vivo-fuerte-temblor-de-74-se-sintio-en-colombia-cali-y-manizales-reportan-derrumbes-en-edificaciones/",
-      "image": "https://www.infobae.com/resizer/v2/5B6KIG7SQBDRXO7KNLAPRFMFUM.jpg?auth=6c4e08dd3d88f70af74a2fde122e2a42b5032cb69e50e112d82f09e03e0fd3f9&smart=true&width=1920&height=1282",
-      "snippet": "A las 7:34 a. m. del lunes 10 de agosto, un sismo prolongado se sintió en gran parte del país. Las autoridades desplegaron equipos para evaluar los daños y los organimismo de emerg",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:39:28.000Z"
-    },
-    {
-      "id": "5b7d82b5a823",
-      "title": "Gabriel Milito confirma tres ausencias para el último juego de Chivas en Leagues Cup",
-      "link": "https://www.infobae.com/mexico/deportes/2026/08/12/gabriel-milito-confirma-tres-ausencias-para-el-ultimo-juego-de-chivas-en-leagues-cup/",
-      "image": "https://www.infobae.com/resizer/v2/IKQNS6XMQJDG3EKZWUQTXBGU4Y.jpg?auth=17944017f82bb258aa39e5d907a116c9c065d36f5d436bff4b7d607f6ddd0e57&smart=true&width=1080&height=608",
-      "snippet": "El estratega del rebaño no contará con todos sus elementos para su último encuentro del torneo en Estados unidos",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:39:22.000Z"
-    },
-    {
-      "id": "4b5f0289e153",
-      "title": "No fue el histórico show de Queen en Live Aid: Brian May eligió la actuación más importante de su carrera",
-      "link": "https://www.infobae.com/historias/2026/08/12/no-fue-el-historico-show-de-queen-en-live-aid-brian-may-eligio-la-actuacion-mas-importante-de-su-carrera/",
-      "image": "https://www.infobae.com/resizer/v2/GFUSWJIB5BBZRPDMH7OOVYTAK4?auth=e9b22f7b607db8dbb3008d5acbd7a1f5fc02bdb692ca2a122b2e81bbbce234d8&smart=true&width=5500&height=3094",
-      "snippet": "El guitarrista explicó en una entrevista con The Guardian que aquella situación no solo fue un punto clave en su trayectoria artística, sino que además fue una prueba de resistenci",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:39:17.000Z"
-    },
-    {
-      "id": "764d1e3e5440",
-      "title": "Jorge Abdiel Gutiérrez, anunciado como nuevo futbolista de Universitario de Deportes: reforzará el carril izquierdo en Liga 1 2026",
-      "link": "https://www.infobae.com/peru/deportes/2026/08/12/jorge-abdiel-gutierrez-anunciado-como-nuevo-futbolista-de-universitario-de-deportes-reforzara-el-carril-izquierdo-en-liga-1-2026/",
-      "image": "https://www.infobae.com/resizer/v2/YMRUOMB7OBCQLCKHOBYOWZF2OA.jpg?auth=d909c22a34a2871721dcc376699dfe20dc6d8509a716984ccc035d1a31062a15&smart=true&width=1920&height=1080",
-      "snippet": "A sus 27 años, el defensor ‘canalero’ experimentará el desafío más complicado de su carrera. Los altos mandos del club de Ate consideran que el movimiento es el adecuado para reemp",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:38:47.000Z"
-    },
-    {
-      "id": "b5e90edf0659",
-      "title": "Se lanzó el kicillofismo porteño: dirigentes de CABA se reunieron bajo la consigna “Axel 2027”",
-      "link": "https://www.infobae.com/politica/2026/08/12/se-lanzo-el-kicillofismo-porteno-dirigentes-de-caba-se-reunieron-bajo-la-consigna-axel-2027/",
-      "image": "https://www.infobae.com/resizer/v2/YOOMUU6275BI3DJ3YMOVFLMF3M.jpg?auth=e867592553476c2b06cda53fd2f33ea9adbaa8565c9f4782e8c8fd130ecd6bec&smart=true&width=2847&height=2057",
-      "snippet": "El encuentro fue en el Centro Cultural Morán y tuvo como objetivo principal ampliar en la Capital Federal la base del Movimiento Derecho al Futuro, espacio que lidera el gobernador",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:38:29.000Z"
-    },
-    {
-      "id": "e65a4729c6cc",
-      "title": "Trasladan a 376 reclusos de un centro de detención de Buenaventura tras un incendio provocado en un enfrentamiento entre Los Shottas y Los Espartanos",
-      "link": "https://www.infobae.com/colombia/2026/08/12/trasladan-a-376-reclusos-de-un-centro-de-detencion-de-buenaventura-tras-un-incendio-provocado-en-un-enfrentamiento-entre-los-shottas-y-los-espartanos/",
-      "image": "https://www.infobae.com/resizer/v2/Y374OVHZTJA3NFBYW3KLVRPH7U.png?auth=4bc0b38ba64219fe653abac1766a70edd126d7fb278eb3a0a33f4e2a2f9b8ed5&smart=true&width=1920&height=1080",
-      "snippet": "Mientras las autoridades atendían la emergencia por el terremoto del 10 de agosto de 2026, un enfrentamiento entre internos pertenecientes a Los Shottas y Los Espartanos causó la l",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:37:56.000Z"
-    },
-    {
-      "id": "a8845fd3b6ba",
-      "title": "Karina Milei y Mauricio Macri hablaron para avanzar con un acuerdo entre los libertarios y Pro",
-      "link": "https://www.lanacion.com.ar/politica/karina-milei-y-mauricio-macri-se-reuniran-para-avanzar-con-un-acuerdo-entre-los-libertarios-y-pro-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/D2YHMBAN4JA7BAVMJ5O3NIJL5A.png?auth=892913ed5b6aedb9ce5b5064e761fd653fbd1a034cc5f717990ad2f718f4f69a&smart=true&width=2000&height=1333",
-      "snippet": "Será en la Casa Rosada, luego de las diferencias que habían distanciado al expresidente con Javier Milei",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:37:46.000Z"
-    },
-    {
-      "id": "1e789e8df657",
-      "title": "Aspyr relanza por sorpresa ‘The Lord of the Rings: War in the North’ en PC y consolas",
-      "link": "https://www.infobae.com/malditos-nerds/2026/08/12/aspyr-relanza-por-sorpresa-the-lord-of-the-rings-war-in-the-north-en-pc-y-consolas/",
-      "image": "https://www.infobae.com/resizer/v2/AARVUCKCDVHLHPD64X3SOHRUAI.jpg?auth=733b168757af82bca3c65ae8a6a08f5869c591384ed402d327fd137fc6302c26&smart=true&width=3840&height=2160",
-      "snippet": "Las versiones para Nintendo Switch 2 y Nintendo Switch llegarán el 18 de agosto",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:37:27.000Z"
-    },
-    {
-      "id": "08b0df37e93d",
-      "title": "Rodrigo Arana, oftalmólogo, sobre el rol del médico para que un paciente no abandone el tratamiento: “si escucha y resuelve sus dudas, es más probable que lo cumpla”",
-      "link": "https://elcomercio.pe/mag/respuestas/rodrigo-arana-oftalmologo-sobre-el-rol-del-medico-para-que-un-paciente-no-abandone-el-tratamiento-si-escucha-y-resuelve-sus-dudas-es-mas-probable-que-lo-cumpla-nnda-nnni-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/UNR75JFNDNGEPE342GKNCJ3RZ4.jpg?auth=936e092d6f8330656efd98146b56b5f23cac8396cf3eadeb722f724196d0a22c&smart=true&width=1200&height=800",
-      "snippet": "Seguir correctamente un tratamiento puede ser un desafío para muchos pacientes.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:37:02.000Z"
-    },
-    {
-      "id": "5792193876d0",
-      "title": "El Gobierno consiguió otros USD 50 millones para pagar la deuda y renovó el 100% de los vencimientos en pesos",
-      "link": "https://www.infobae.com/economia/2026/08/12/el-gobierno-consiguio-otros-usd-50-millones-para-pagar-la-deuda-y-renovo-el-100-de-los-vencimientos-en-pesos/",
-      "image": "https://www.infobae.com/resizer/v2/7LQ4ENSTUNEIPGQ2EYHCXIJVLM.JPG?auth=19114f8aa5710dfd221e0c626c7a2bfd8cf038387dee912ea7fd2d637f1b6c63&smart=true&width=5500&height=3667",
-      "snippet": "La Secretaría de Finanzas continuó con la estrategia de no liberar pesos al mercado y sumó nuevos fondos en dólares a través del bono A029",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:36:34.000Z"
-    },
-    {
-      "id": "25b7a9da9f3d",
-      "title": "El clavadista olímpico Osmar Olvera se pone nervioso frente a Sheinbaum: así fue el momento",
-      "link": "https://www.infobae.com/mexico/deportes/2026/08/12/el-clavadista-olimpico-osmar-olvera-se-pone-nervioso-frente-a-sheinbaum-asi-fue-el-momento/",
-      "image": "https://www.infobae.com/resizer/v2/KJ635VMYMFGD5DTONEA7E6FSUM.jpg?auth=a2b5a6ddc4fe3de127308aa70cd4f53eb0319eb4e9aa6f1fc2bf358f98657824&smart=true&width=1920&height=1080",
-      "snippet": "El campeón en Juegos Centroamericanos se encargó de encabezar el discurso en representación de los atletas, pero confesó lo difícil que es hablar en público",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:36:24.000Z"
     },
     {
       "id": "51821d3f8162",
@@ -377,16 +791,16 @@
       "isoDate": "2026-08-12T21:34:56.000Z"
     },
     {
-      "id": "a7fffbf05a34",
-      "title": "Insólito: se filtró el ganador de Operación Triunfo USA en plena final y arruinó la sorpresa",
-      "link": "https://www.lanacion.com.ar/espectaculos/insolito-se-filtro-el-ganador-de-operacion-triunfo-usa-en-plena-final-y-arruino-la-sorpresa-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/2LNNXMNHRNCRLAR7OCPCOFCTEQ.jpg?auth=61532648dc736b4486e3eb9705d0e6ff25a62fbe1cfeb12d25f20d20f20eeac6&smart=true&width=2000&height=1333",
-      "snippet": "La culminación del certamen musical en Telemundo estuvo marcada por una revelación anticipada del ganador en pantalla; el jurado David Bisbal manifestó su desconcierto ante un dese",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "f1b4d381ee2e",
+      "title": "Economía emitió deuda de corto plazo y renovó vencimientos por $ 4,5 billones",
+      "link": "https://www.clarin.com/economia/economia-emitio-deuda-corto-plazo-renovo-vencimientos-45-billones_0_J1qJJh1TZP.html",
+      "image": "https://www.clarin.com/img/2018/09/29/bS4FmTrmQ_1200x630__1.jpg",
+      "snippet": "Los instrumentos que entraron a la licitación venden antes de las elecciones de 2027. Pese a lo que se esperaba no volcaron más pesos al mercado para estimular la actividad.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:32:01.000Z"
+      "isoDate": "2026-08-12T21:32:26.000Z"
     },
     {
       "id": "51d6b052cb78",
@@ -401,52 +815,40 @@
       "isoDate": "2026-08-12T21:31:56.000Z"
     },
     {
-      "id": "d187694af078",
-      "title": "San Isidro lanza un bono en el mercado de capitales: busca hasta $30.000 millones",
-      "link": "https://www.lanacion.com.ar/economia/san-isidro-lanza-un-bono-en-el-mercado-de-capitales-busca-hasta-30000-millones-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/GQS4RIQEBNCOLBMWODKQBU6GAY.jpg?auth=02416c401c6104cdaeadc9278470b8d6e6fafa899b5c7f44a90972c1fcf8fac5&smart=true&width=2000&height=1333",
-      "snippet": "El municipio sale a colocar deuda para financiar obra pública; el título, que se licitará mañana, tendrá un plazo de 36 meses y pagará intereses trimestralmente",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "d7ec6c8ac62e",
+      "title": "El eclipse hechiza a España",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612862/eclipse-hechiza-espana.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7ce423b4146.r_d.2912-2007-0.jpeg",
+      "snippet": "Millones de personas se vuelcan para contemplar el fenómeno histórico",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T21:31:38.000Z"
+    },
+    {
+      "id": "b10fb66711e6",
+      "title": "Se robaron más de 200 mini estatuas de Mozart y su perro que formaban parte de una instalación en Salzburgo por el 270° aniversario del nacimiento del compositor",
+      "link": "https://www.clarin.com/internacional/robaron-200-mini-estatuas-mozart-perro-casa-museo-compositor_0_TMRKuxhk6l.html",
+      "image": "https://www.clarin.com/img/2026/08/12/Ihr4uWl3L_1200x630__1.jpg",
+      "snippet": "Las esculturas fueron realizadas por el artista alemán conceptual Ottmar Hörl. Se habían realizado 320 y se robaron 210.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:30:35.000Z"
+      "isoDate": "2026-08-12T21:29:17.000Z"
     },
     {
-      "id": "dff8bd5f0cb7",
-      "title": "Resultados Powerball hoy, 12 de agosto 2026: mira los números ganadores del premio de $1 mil millones en Estados Unidos",
-      "link": "https://elcomercio.pe/mag/usa/loterias/resultados-powerball-hoy-12-de-agosto-de-2026-mira-los-numeros-ganadores-del-premio-de-1-mil-millones-en-estados-unidos-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/R5DHQLBKHNFK5AKI3BQ3GHHIUE.jpg?auth=1418c28dc365d0131c598c134c7265a527678e227179d8ab98d7922594f7b886&smart=true&width=2400&height=1620",
-      "snippet": "¿Cuáles son los números ganadores del Powerball hoy? Revisa el resultado del sorteo del 12 de agosto y el premio mayor de $1 mil millones.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:30:00.000Z"
-    },
-    {
-      "id": "bd1d21914ba6",
-      "title": "Qué es la subducción de placas que provocó el mayor terremoto en Colombia en la última década (y por qué no está conectado con los de Venezuela)",
-      "link": "https://elcomercio.pe/tecnologia/actualidad/que-es-la-subduccion-de-placas-que-provoco-el-mayor-terremoto-en-colombia-en-la-ultima-decada-y-por-que-no-esta-conectado-con-los-de-venezuela-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/GQ2DCMJNGA4C2MJRKQ2DAORUGQ.jpg?auth=b145eeb8b24393ee0d2714e26ff89b5eb72df5f8d08ff2df2ca9e580403661c0&smart=true&width=1024&height=576",
-      "snippet": "Te explicamos el fenómeno que provocó el terremoto magnitud 7,4 que sacudió el occidente de Colombia",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:30:00.000Z"
-    },
-    {
-      "id": "a133601407c6",
-      "title": "Will Smith sobre la autoestima y la importancia de aceptar sus errores: “Soy un ser humano y no soy perfecto”",
-      "link": "https://elcomercio.pe/tvmas/famosos/will-smith-sobre-la-autoestima-y-la-importancia-de-aceptar-sus-errores-soy-un-ser-humano-y-no-soy-perfecto-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/SGV7VNK4E5ADJNPWNJNH2FZAQ4.jpg?auth=c23d06b2d1772937de599d9fd9de9517326c8cbb12b47068c48f6a44cd63aec2&smart=true&width=924&height=530",
-      "snippet": "El reconocido actor estadounidense habló sobre los cambios que atravesó con los años y destacó la importancia de aceptar sus errores y entender que no es una persona perfecta.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:26:24.000Z"
+      "id": "3c48c99cf20c",
+      "title": "El privilegio de Baleares",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612838/privilegio-baleares-eclipse-solar-total.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cd1af48026.r_d.4085-3223-0.jpeg",
+      "snippet": "Un espectáculo que, en el sur de Mallorca y el norte de Menorca, pudo contemplarse prácticamente a la perfección y con algunas nubes en Eivissa que empañaron parcialmente la visión",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T21:27:11.000Z"
     },
     {
       "id": "325386683ecf",
@@ -473,30 +875,6 @@
       "isoDate": "2026-08-12T21:25:16.000Z"
     },
     {
-      "id": "0a3b87b229be",
-      "title": "La Granja Azul es el Mejor Restaurante campestre de los Premios Somos 2026",
-      "link": "https://elcomercio.pe/somos/gastronomia/la-granja-azul-es-el-mejor-restaurante-campestre-de-los-premios-somos-2026-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/FJZB3GUZABHI7AOAWT3RXVIC5I.jpg?auth=6c62441546c8bdc53ff23dff304d87c0b7531597353629ababef09fea0ef2a40&smart=true&width=1600&height=1067",
-      "snippet": "Espacios al aire libre, vegetación y una propuesta culinaria que rinde tributo a la identidad peruana son la fórmula perfecta para huir de la rutina limeña. La categoría de Restaur",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:25:00.000Z"
-    },
-    {
-      "id": "bd1e8cb2a259",
-      "title": "Alimentos gratis en Florida del 14 al 16 de agosto: lugares y programas que entregarán comida",
-      "link": "https://elcomercio.pe/mag/usa/local-us/alimentos-gratis-en-florida-del-14-al-16-de-agosto-lugares-y-programas-que-entregaran-comida-nnda-nnni-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/BH6CGORFUVACZMYQ2LH4HJHCQU.jpg?auth=782bba8368b93affde95a67947f6cad16d8ff040dbf91d67bb320940622d107f&smart=true&width=1200&height=810",
-      "snippet": "Conoce los lugares y horarios para recibir alimentos gratis en Florida, además de los requisitos que debes cumplir durante estas jornadas.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:24:38.000Z"
-    },
-    {
       "id": "a1eb4fb2d47f",
       "title": "El eclipse solar del 12 de agosto de 2026 en España, en imágenes",
       "link": "https://elpais.com/ciencia/2026-08-12/el-eclipse-solar-de-agosto-en-espana-en-imagenes.html",
@@ -507,66 +885,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T21:24:28.000Z"
-    },
-    {
-      "id": "eca3b38706a2",
-      "title": "Chivas vs. Seattle Sounders en vivo hoy: a qué hora juegan y dónde ver partido por Leagues Cup 2026",
-      "link": "https://elcomercio.pe/deporte-total/mexico/chivas-vs-seattle-sounders-en-vivo-gratis-por-leagues-cup-via-apple-tv-mls-season-pass-futbol-libre-tv-a-que-hora-juegan-canal-tv-y-donde-ver-partido-online-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/KP2ESMTGZRAP3EWVAHSUZDFHAA.jpeg?auth=47e9ac9df68070c58e73e15791fd558759e37ac698d6ee9a0a285a1632cdf95e&smart=true&width=2048&height=1366",
-      "snippet": "Sigue la transmisión del partido de Chivas vs. Seattle Sounders en vivo por la fecha 3 del Grupo A de la Leagues Cup 2026, desde el Lumen Field.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:24:08.000Z"
-    },
-    {
-      "id": "ae5a9a4f0e50",
-      "title": "Resultados Lotería de Panamá: números y primer premio del miércoles 12 de agosto",
-      "link": "https://elcomercio.pe/respuestas/loteria-nacional-de-panama-en-vivo-resultados-hoy-miercoles-12-de-agosto-2026-numeros-ganadores-del-primer-premio-sorteo-intermedio-numeros-ganadores-chances-premios-lnbpma-pa-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/AYGZEU5YDREUNPGKOBTK5L3VZU.jpg?auth=65b161e2ac700fa235e3bcc6ff551f66d508d1492fb8c184d69916fd0bf8cf1d&smart=true&width=1200&height=700",
-      "snippet": "Lotería Nacional de Panamá EN VIVO: Conoce los resultados y números ganadores del sorteo intermedio de la Lotería Nacional de Beneficencia de Panamá y descubre si eres uno de los g",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:24:07.000Z"
-    },
-    {
-      "id": "199f2f7c699e",
-      "title": "Monterrey vs. Nashville SC en vivo hoy: a qué hora juegan y dónde ver partido por Leagues Cup 2026",
-      "link": "https://elcomercio.pe/deporte-total/mexico/monterrey-vs-nashville-sc-en-vivo-gratis-por-leagues-cup-via-apple-tv-mls-season-pass-a-que-hora-juegan-canal-tv-y-donde-ver-partido-online-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/5Q6GPIPKWRF3JB575OHEUAR7HQ.jpeg?auth=ddce925ac17940cd7f12fc2b7c3b830bc7f0848e1a94593e68f3a8630a3e9d49&smart=true&width=4096&height=2731",
-      "snippet": "Sigue la transmisión del partido de Monterrey vs. Nashville SC en vivo por la fecha 3 del Grupo A de la Leagues Cup 2026, desde el Geodis Park.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:24:03.000Z"
-    },
-    {
-      "id": "9bf47d533edb",
-      "title": "Mel Robbins, experta en desarrollo personal: “Tenés que aprender a amar a tus padres por quienes son, no por quienes deseás que sean”",
-      "link": "https://www.lanacion.com.ar/sociedad/mel-robbins-experta-en-desarrollo-personal-tenes-que-aprender-a-amar-a-tus-padres-por-quienes-son-no-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/FQX2JENVUZEAJJZSKCASXPKWDE.jpeg?auth=56fedbd3f7e8bca2bc127d3e206903d4271791207fcf450c73237fb5350d5a6a&smart=true&width=2000&height=1333",
-      "snippet": "La especialista advirtió sobre la intención de muchos hijos de modificar a los progenitores; sugiere que la aceptación es el camino hacia vínculos más sanos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:23:00.000Z"
-    },
-    {
-      "id": "8637151cf938",
-      "title": "El mensaje de Milei a Messi por la carta del astro ante la muerte de su padre: “¡Fuerza, capitán!\"",
-      "link": "https://www.lanacion.com.ar/politica/el-mensaje-de-milei-a-messi-por-la-carta-del-astro-ante-la-muerte-de-su-padre-fuerza-capitan-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/AWP3DWEINNCH7H2GVEJCB63URQ.jpg?auth=febe6a991584e4dc09b9ae685705eac2213c389a9ff8399e1373991ce9581bf8&smart=true&width=2000&height=1333",
-      "snippet": "El Presidente le dedicó un posteo al jugador rosarino en sus redes sociales, donde le agradeció por las alegrías que brindó a los argentinos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:22:42.000Z"
     },
     {
       "id": "5dbb2a7749f5",
@@ -585,12 +903,24 @@
       "title": "Brahim lleva el Teresa Herrera a Madrid y Mourinho sigue engrasando la máquina",
       "link": "https://www.abc.es/deportes/real-madrid/brahim-lleva-teresa-herrera-madrid-mourinho-sigue-20260812231129-nt.html",
       "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/08/12/brahim-RTGcSeD0RvaZIgWkRlRt41H-1200x840@diario_abc.jpg",
-      "snippet": "El Real Madrid se impone al Deportivo De La Coruña y se alza con su décimo Trofeo Teresa Herrera. Brahim Díaz decidió el encuentro con un control y una carrera excepcionales para h",
+      "snippet": "El Real Madrid se impone al Deportivo De La Coruña y se alza con su décimo Trofeo Teresa Herrera. 0-1. Brahim Díaz decidió el encuentro con un control y una carrera excepcionales p",
       "source": "ABC",
       "sourceId": "abc",
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T21:22:09.000Z"
+    },
+    {
+      "id": "a6b8133127ef",
+      "title": "Eclipse en la Mar Bella",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612850/eclipse-mar-bella-barcelona.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cc371e712a.r_d.2949-2083-0.jpeg",
+      "snippet": "Hay gafas homologadas, sin homologar, gafas de sol y gente que guiña ahora un ojo, ahora otro, en un intento supremo de engañar con sus respectivas retinas",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T21:21:53.000Z"
     },
     {
       "id": "1a76a7dfe738",
@@ -605,16 +935,28 @@
       "isoDate": "2026-08-12T21:21:36.000Z"
     },
     {
-      "id": "8b65f13321ff",
-      "title": "Platense vs. Coquimbo Unido en vivo: a qué hora juegan y dónde ver partido por Copa Libertadores 2026",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/video-platense-vs-coquimbo-unido-en-vivo-hoy-gratis-por-copa-libertadores-2026-a-que-hora-juegan-canales-tv-y-donde-ver-por-fox-sports-espn-disney-plus-futbol-libre-tv-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/XSBMKGQDCNFJBNLSJESAJMUGB4.jpg?auth=75f698dc50922fb688a493d08b55a811a18b6f63b2ce5928a38943a968d98f01&smart=true&width=1600&height=900",
-      "snippet": "Platense vs. Coquimbo Unido EN VIVO: conoce los horarios, canales TV y dónde ver el partido ONLINE por octavos de final de la Copa Libertadores 2026.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T21:21:23.000Z"
+      "id": "fbb85cdc49c3",
+      "title": "Un minuto de lágrimas en Tarraco",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612851/minuto-lagrimas-tarraco.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7ca6b0252a1.jpeg",
+      "snippet": "",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T21:20:58.000Z"
+    },
+    {
+      "id": "8e142d799b48",
+      "title": "Caso Loan: el oficial que estaba de guardia cuando desapareció el chico sembró más dudas sobre cómo se manejaron pruebas claves",
+      "link": "https://www.clarin.com/policiales/caso-loan-oficial-guardia-desaparecio-chico-sembro-dudas-manejaron-pruebas-claves_0_QUyDiUttMO.html",
+      "image": "https://www.clarin.com/img/2024/06/20/F6X8jYTpP_1200x630__1.jpg",
+      "snippet": "El oficial de guardia de la comisaría de 9 de Julio el día que desapareció el chico de 5 años dijo que los celulares secuestrados se analizaron sin testigos. Además dijo no recorda",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-12T21:20:27.000Z"
     },
     {
       "id": "820325425061",
@@ -629,30 +971,6 @@
       "isoDate": "2026-08-12T21:20:01.000Z"
     },
     {
-      "id": "bfb2cbe7583e",
-      "title": "Eclipse solar total: cuándo es el próximo y desde dónde se verá",
-      "link": "https://www.lanacion.com.ar/ciencia/eclipse-solar-total-cuando-es-el-proximo-y-desde-donde-se-vera-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/Y7HLKWLSB5CO3BSFDKD4LQMC5Q.jpg?auth=8d98511f17d4e6ba8146e61ff4ba0ac5ed6e0d1af28a8c726072db54d06d2201&smart=true&width=2000&height=1333",
-      "snippet": "Este 12 de agosto ocurrió un fenómeno astronómico que cautivó a miles de espectadores; conocé desde dónde se apreció y cuándo serán los próximos eventos de este tipo",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:18:53.000Z"
-    },
-    {
-      "id": "a3f5ea343b4a",
-      "title": "“No es un arma”: cómo son los G.L.O.V.E., los guantes que emiten descargas eléctricas que usaría el ICE en EE.UU.",
-      "link": "https://www.lanacion.com.ar/estados-unidos/no-es-un-arma-como-son-los-glove-los-guantes-que-emiten-descargas-electricas-que-usaria-el-ice-en-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/CFCNKTECVRFBDNM33PXPZ4MLJM.png?auth=8baaf1631b8f27ed60716fb7872aa183b827451f84ed55407448e4bef2c7e372&smart=true&width=2000&height=1333",
-      "snippet": "Conoce cómo funcionan los G.L.O.V.E., los guantes con descargas eléctricas que el ICE planea incorporar y cuyo efecto comparan con una picadura de abeja.",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:18:41.000Z"
-    },
-    {
       "id": "cd5b6675a8e1",
       "title": "Messi se despide de su padre con una carta y abre la puerta a su retirada",
       "link": "https://www.abc.es/gente/leo-messi-despide-padre-traves-carta-quedaba-20260812160725-nt.html",
@@ -665,6 +983,18 @@
       "isoDate": "2026-08-12T21:18:11.000Z"
     },
     {
+      "id": "ec3eda2b2d71",
+      "title": "Aurora boreal romana sobre el Miño",
+      "link": "https://www.lavanguardia.com/vida/20260812/11612859/aurora-boreal-romana-sobre-mino-eclipse-solar.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7ce1bb17077.r_d.2730-2140-0.jpeg",
+      "snippet": "Las manchas marrones, lilas y naranjas, quizá mezcladas con los colores del atardecer, querían recrear en el horizonte una aurora boreal",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T21:18:07.000Z"
+    },
+    {
       "id": "fe2dc14580a7",
       "title": "A bordo de un velero de 1841 para ver cómo se apaga el Sol",
       "link": "https://www.abc.es/ciencia/bordo-velero-1841-ver-apaga-sol-20260812211701-nt.html",
@@ -675,42 +1005,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T21:17:58.000Z"
-    },
-    {
-      "id": "c2dfe486f09f",
-      "title": "PSG le ganó 2-1 a Aston Villa y se consagró campeón de la Supercopa de Europa",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/psg-vs-aston-villa-en-vivo-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/5Y3FRBRI5JHN3MPZTIOQ3UBNVM.JPG?auth=25dc478fed88f6f3cc1962e690516d5e20f45a2aa1841de9df1f5c712c69f6a4&smart=true&width=6000&height=4000",
-      "snippet": "Kvaratskhelia y Doué marcaron para el conjunto francés en el Red Bull Arena de Salzburgo",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:17:43.000Z"
-    },
-    {
-      "id": "442197b82168",
-      "title": "Por primera vez en el mundo: aislaron bacterias que podrían frenar enfermedades de los cultivos",
-      "link": "https://www.lanacion.com.ar/economia/campo/por-primera-vez-en-el-mundo-aislaron-bacterias-que-podrian-frenar-enfermedades-de-los-cultivos-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YXB6J6I7L5E25G2UBLBNU3LOKE.jpeg?auth=4d6af1f96ec36b88e1ee3f60f637df32f9e25b7cbc2103c6a8e8989b3a4eb33a&smart=true&width=1920&height=1440",
-      "snippet": "Un equipo de investigadores de la Fauba y el Conicet identificó un microorganismo capaz de degradar la micotoxina que produce el hongo Fusarium, responsable de importantes pérdidas",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:17:01.000Z"
-    },
-    {
-      "id": "3564a56849e5",
-      "title": "Vale Laco, coach financiera: “Muchas mujeres quieren ganar más dinero, pero inconscientemente siguen creyendo que lo importante es dar”",
-      "link": "https://www.lanacion.com.ar/salud/mente/vale-laco-coach-financiera-muchas-mujeres-quieren-ganar-mas-dinero-pero-inconscientemente-siguen-nid10082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SIYTNX6MBZBCNGWQ3NJ5TYHL6Y.JPG?auth=9f060902b627deaced0675bef89fc02129394493ccee555cd50f3910f1e37ae1&smart=true&width=1853&height=2316",
-      "snippet": "La especialista desarrolla conceptos clave que ayudan a derribar tabúes, romper barreras, sistematizar procesos para lograr independencia financiera, tranquilidad y libertad",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:16:19.000Z"
     },
     {
       "id": "b152c6ffdc62",
@@ -735,18 +1029,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T21:12:56.000Z"
-    },
-    {
-      "id": "5a583d61aab5",
-      "title": "La exnovia del Pity Álvarez dijo que la víctima fue a buscarlo para pelear y admitió que descartó el arma homicida",
-      "link": "https://www.lanacion.com.ar/seguridad/la-exnovia-del-pity-alvarez-dijo-que-la-victima-fue-a-buscarlo-para-pelear-y-admitio-que-descarto-el-nid12082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/VOW7AZQHDNEOLLF7TGN2D724MA.jpeg?auth=2b9db23b8905ba75d5896aacbe26212b88af37e1dc164852ffe437fa5abfa0c5&smart=true&width=1360&height=910",
-      "snippet": "Agustina Inbernoz declaró vía Zoom desde California ante una sala en la que solo quedaron las partes y el acusado; luego, su padrastro declaró que Cristian Díaz le dijo al cantante",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:12:34.000Z"
     },
     {
       "id": "c191ce73f5e8",
@@ -776,7 +1058,7 @@
       "id": "30109974b4b7",
       "title": "Millones de españoles se maravillan con el eclipse de Sol: “¡Quiero otro!, ¿cuándo hay otro?”",
       "link": "https://elpais.com/ciencia/2026-08-12/millones-de-espanoles-se-maravillan-con-el-eclipse-de-sol-quiero-otro-cuando-hay-otro.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5UPP26DD2ZGARKEON6ZIIZFJOA.JPG?auth=d1146ac3490ef6bbe5846036397f4a4916609537d06d61fb82e32b200401f780",
+      "image": null,
       "snippet": "Desde playas, huertas, miradores oficiales, campos de fútbol, castillos medievales y páramos, España ha celebrado el primer eclipse total en cruzar la Península en más de un siglo",
       "source": "El País",
       "sourceId": "elpais",
@@ -833,66 +1115,6 @@
       "isoDate": "2026-08-12T21:04:21.000Z"
     },
     {
-      "id": "78a44d0a1f03",
-      "title": "Mauricio Macri habló con Karina Milei y pactaron una reunión para avanzar en un acuerdo entre PRO y La Libertad Avanza",
-      "link": "https://www.clarin.com/politica/mauricio-macri-hablo-karina-milei-pactaron-reunion-avanzar-acuerdo-pro-libertad-avanza_0_VcR4q4Rscb.html",
-      "image": "https://www.clarin.com/img/2026/06/09/r-gKuWWDW_1200x630__1.jpg",
-      "snippet": "El ex presidente dialogó con la secretaria general y reactivó el vínculo con el Gobierno después de mucho tiempo. El jueves, en Casa Rosada, se verán Diego Santilli, \"Lule\" Menem, ",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:03:22.000Z"
-    },
-    {
-      "id": "e2ca3836ce29",
-      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, miércoles 12 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-miercoles-12-agosto_0_Bv9AUxEjP1.html",
-      "image": "https://www.clarin.com/img/2020/09/01/rX73bpwcD_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:03:02.000Z"
-    },
-    {
-      "id": "0cf4cb80610d",
-      "title": "El doble drama de Sipí, Chocó: el terremoto que golpeó a un municipio cercado por la violencia del conflicto",
-      "link": "https://www.eltiempo.com/colombia/otras-ciudades/el-doble-drama-de-sipi-choco-el-terremoto-que-golpeo-a-un-municipio-cercado-por-la-violencia-del-conflicto-3577920",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/12/6a7cc3608da09.jpeg",
-      "snippet": "El alcalde Jairo Antonio Murillo aseguró que 260 viviendas quedaron totalmente destruidas y otras 300 presentan afectaciones tras el terremoto.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-08-12T21:02:22.000Z"
-    },
-    {
-      "id": "94c7b1055e0b",
-      "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, miércoles 12 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-miercoles-12-agosto_0_TAzpS7D8ui.html",
-      "image": "https://www.clarin.com/img/2020/09/07/wmCN4uf2c_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:02:01.000Z"
-    },
-    {
-      "id": "a7f792fc7158",
-      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, miércoles 12 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-miercoles-12-agosto_0_X1lmNd2u6y.html",
-      "image": "https://www.clarin.com/img/2020/06/30/7Q57WRXhE_1200x630__1.jpg",
-      "snippet": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:01:01.000Z"
-    },
-    {
       "id": "daaa7a7bc7f6",
       "title": "Trump insiste en que tiene \"control total\" de Ormuz en medio de unas negociaciones estancadas con Irán",
       "link": "https://www.france24.com/es/medio-oriente/20260812-trump-insiste-en-que-tiene-control-total-de-ormuz-en-medio-de-unas-negociaciones-estancadas-con-ir%C3%A1n",
@@ -915,42 +1137,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T21:00:41.000Z"
-    },
-    {
-      "id": "cb41e1830fec",
-      "title": "Repensar la democracia",
-      "link": "https://www.clarin.com/opinion/repensar-democracia_0_hGJ93DdBQh.html",
-      "image": "https://www.clarin.com/img/2026/08/12/GvjRGAy8i_1200x630__1.jpg",
-      "snippet": "Los índices que miden la calidad institucional —controles al Ejecutivo, respeto a la deliberación, trato a la prensa— detectan un deterioro que la creencia democrática de los ciuda",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:00:23.000Z"
-    },
-    {
-      "id": "6a112d88e37d",
-      "title": "Bertrand Russell, filósofo británico: \"El problema del mundo es que los estúpidos están seguros de todo y los inteligentes están llenos de dudas\"",
-      "link": "https://www.clarin.com/informacion-general/bertrand-russell-filosofo-britanico-problema-mundo-estupidos-seguros-inteligentes-llenos-dudas_0_cOVafnRiOu.html",
-      "image": "https://www.clarin.com/img/2025/09/04/3oYSmAoAB_1200x630__1.jpg",
-      "snippet": "Una de las reflexiones más conocidas plantea una paradoja sobre la seguridad con la que algunas personas defienden sus ideas y la cautela de quienes conocen los límites de lo que s",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:00:23.000Z"
-    },
-    {
-      "id": "514d4f05b150",
-      "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, miércoles 12 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-miercoles-12-agosto_0_Vu7j8TQiAR.html",
-      "image": "https://www.clarin.com/img/2022/06/08/drhUfy89H_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-12T21:00:01.000Z"
     },
     {
       "id": "7466f44dddd5",
@@ -1004,7 +1190,7 @@
       "id": "198bce67a0c6",
       "title": "El eclipse sobrecoge a media España",
       "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c8123e4d4d8662c8b45b7.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/12/17865647028816.jpg",
+      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
       "snippet": "El cielo del Observatorio Astronómico de Yebes, en Guadalajara, regaló anoche un minuto de magia que supo a poco. Cuatro ministros, astronautas, científicos y decenas de invitados ",
       "source": "El Mundo",
       "sourceId": "elmundo",
@@ -1025,8 +1211,8 @@
       "isoDate": "2026-08-12T20:49:38.000Z"
     },
     {
-      "id": "267b805cc532",
-      "title": "Los madrileños se muestran entusiasmados: \"El eclipse superó mis expectativas\"",
+      "id": "5dc8bb67141a",
+      "title": "Los madrileños se muestran entusiasmados: \"El eclipse superó mis expectativas, me puso los pelos de punta\"",
       "link": "https://www.20minutos.es/madrid/los-madrilenos-presencian-dia-que-se-hizo-noche-dos-veces-eclipse-ha-superado-mis-expectativas-me-puso-los-pelos-punta_7025250_0.html",
       "image": "https://imagenes.20minutos.es/uploads/imagenes/2026/08/12/6a7cd7ef87f146-16901407.gif",
       "snippet": "Miles de madrileños se han congregado en el Parque Forestal Valdebernardo, en Vicálvaro, para presenciar el evento astronómico del año.",
@@ -1097,16 +1283,16 @@
       "isoDate": "2026-08-12T20:37:20.000Z"
     },
     {
-      "id": "80fba62b4c57",
-      "title": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
-      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
-      "image": "https://cdn-3.expansion.mx/dims4/default/fe9bed2/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fb3%2Ff0%2F45fd9c994177a7e773a02cfe09ed%2Fbyd-racco-competencia-olinia-kei-car.jpg",
-      "snippet": "La compañía china BYD incursionó en la categoría de los llamados kei cars, que por años había sido exclusiva de las marcas japonesas.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-12T20:31:37.000Z"
+      "id": "b8ce6314fe31",
+      "title": "El 45% de peruanos tiene disposición para innovar, pero solo 18% lo lleva a la práctica, ¿por qué?",
+      "link": "https://elcomercio.pe/economia/peru/el-45-de-peruanos-tiene-disposicion-para-innovar-pero-solo-18-lo-lleva-a-la-practica-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/6E767Y2JMVBSTM42EBAIVFITQA.jpg?auth=60485fe6772a1c3791d619e961915fee07ea027cf0485cfb6c3f416b32499a7b&smart=true&width=1200&height=811",
+      "snippet": "Estudio de Ipsos y UPC revela que el uso de herramientas digitales está ampliamente extendido entre los peruanos, pero todavía existe una brecha en su aprovechamiento productivo: l",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T20:33:16.000Z"
     },
     {
       "id": "337524db0832",
@@ -1133,18 +1319,6 @@
       "isoDate": "2026-08-12T20:31:20.000Z"
     },
     {
-      "id": "d98f0271472f",
-      "title": "Protestan en Caracas para exigir transparencia en las negociaciones entre el gobierno interino y la oposición",
-      "link": "https://www.elnacional.com/2026/08/protestan-en-caracas-para-exigir-transparencia-en-las-negociaciones-entre-el-gobierno-interino-y-la-oposicion/",
-      "image": null,
-      "snippet": "Manifestantes exigen transparencia, la liberación de los presos políticos y mejoras salariales al cierre de la primera ronda de diálogo en la que no participa María Corina Machado.",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-12T20:28:58.000Z"
-    },
-    {
       "id": "5d2b3af68f94",
       "title": "Los 'haters' del eclipse",
       "link": "https://www.elmundo.es/ciencia/2026/08/12/6a7c815de4d4d8347f8b4590.html",
@@ -1155,18 +1329,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T20:28:11.000Z"
-    },
-    {
-      "id": "84e397d33e4b",
-      "title": "Más de 600 migrantes salen de Ceuta voluntariamente en las últimas 48 horas",
-      "link": "http://es.euronews.com/my-europe/2026/08/12/mas-600-migrantes-salen-ceuta-voluntariamente-ultimas-48-horas",
-      "image": null,
-      "snippet": "Más de 600 de los cerca de 10.000 migrantes que, según las autoridades ceutíes, permanecen en la ciudad tras la entrada masiva desde Marruecos del pasado 30 de julio han abandonado",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T20:27:12.000Z"
     },
     {
       "id": "c502f3c57ad4",
@@ -1181,16 +1343,16 @@
       "isoDate": "2026-08-12T20:26:47.000Z"
     },
     {
-      "id": "7fad1d7277fc",
-      "title": "Russell Westbrook anuncia su retiro tras 18 años en la NBA",
-      "link": "https://www.elnacional.com/2026/08/russell-westbrook-anuncia-su-retiro-tras-18-anos-en-la-nba/",
-      "image": null,
-      "snippet": "Finalizó su recorrido en la NBA con un acumulado de 27.176 puntos, 9.025 rebotes y 10.351 asistencias registradas a lo largo de sus 18 campañas en activo. The post Russell Westbroo",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-12T20:15:54.000Z"
+      "id": "0d979da92123",
+      "title": "València vive el eclipse entre el bullicio de su paseo marítimo y el encanto de L'Albufera",
+      "link": "https://www.lavanguardia.com/local/valencia/20260812/11612840/valencia-vive-eclipse-bullicio-paseo-maritimo-encanto-l-albufera.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cd163ea958.r_d.2580-2246-0.jpeg",
+      "snippet": "El fenómeno se vive sin incidencias en la capital, mientras Peñíscola registra un incendio junto al punto de visualización que calcina 34 coches, no deja heridos pero sí obliga a d",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T20:22:40.000Z"
     },
     {
       "id": "fa4276fe0933",
@@ -1203,18 +1365,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T20:15:08.000Z"
-    },
-    {
-      "id": "54d401ec3795",
-      "title": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
-      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
-      "image": "https://cdn-3.expansion.mx/dims4/default/67cdc6f/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fef%2Fcb%2F4ab6420d49859354b4f31ff2f220%2Fistock-2192973968.jpg",
-      "snippet": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-12T20:13:51.000Z"
     },
     {
       "id": "1c2ea62fe7e1",
@@ -1241,18 +1391,6 @@
       "isoDate": "2026-08-12T20:12:59.000Z"
     },
     {
-      "id": "187476a604ab",
-      "title": "Países Bajos elige a Xavi Hernández como su nuevo seleccionador",
-      "link": "https://www.elnacional.com/2026/08/paises-bajos-elige-a-xavi-hernandez-como-su-nuevo-seleccionador/",
-      "image": null,
-      "snippet": "El entrenador español no dirige desde 2024 cuando terminó su etapa de tres años con el FC Barcelona. The post Países Bajos elige a Xavi Hernández como su nuevo seleccionador appear",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-12T20:10:26.000Z"
-    },
-    {
       "id": "654fb547a615",
       "title": "El eclipse llegó cuando Roca Rey más brillaba",
       "link": "https://www.abc.es/cultura/toros/eclipse-llego-roca-rey-brillaba-20260812215755-nt.html",
@@ -1263,6 +1401,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T20:09:49.000Z"
+    },
+    {
+      "id": "e4361753b328",
+      "title": "La portavoz de Trump, Karoline Leavitt, deja el cargo “para pasar más tiempo con su familia”",
+      "link": "https://www.lavanguardia.com/internacional/20260812/11612839/portavoz-trump-karoline-leavitt-deja-cargo-pasar-mas-familia.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cd23055112.jpeg",
+      "snippet": "A sus 28 años, se convirtió el año pasado en la secretaria de prensa más joven en la historia de la Casa Blanca",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T20:06:49.000Z"
     },
     {
       "id": "155792292527",
@@ -1313,30 +1463,6 @@
       "isoDate": "2026-08-12T20:04:44.000Z"
     },
     {
-      "id": "7e405e167b9f",
-      "title": "La erupción del Etna obliga a cerrar el aeropuerto de Catania y la ceniza llega a Malta",
-      "link": "http://es.euronews.com/my-europe/2026/08/12/erupcion-etna-obliga-cerrar-aeropuerto-catania-ceniza-llega-malta",
-      "image": null,
-      "snippet": "La erupción del Etna sigue paralizando los vuelos en Sicilia y obliga al aeropuerto de Catania Fontanarossa a cerrar temporalmente. La ceniza ha llegado hasta Malta y Libia.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T20:04:19.000Z"
-    },
-    {
-      "id": "571daaf357b7",
-      "title": "Lenny Fernández, la abogada que murió abrazada a su perro bajo los escombros en Cali",
-      "link": "https://www.elnacional.com/2026/08/lenny-fernandez-la-abogada-que-murio-abrazada-a-su-perro-bajo-los-escombros-en-cali/",
-      "image": null,
-      "snippet": "Equipos de rescate observaron que el cuerpo de la joven quedó en una posición específica que le sirvió como escudo protector a su mascota Salomón logrando ser extraída con vida. Th",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-12T20:02:10.000Z"
-    },
-    {
       "id": "d433b9c81ab8",
       "title": "El olvidado asombro de estar vivos",
       "link": "https://elpais.com/ciencia/2026-08-12/el-olvidado-asombro-de-estar-vivos.html",
@@ -1373,6 +1499,18 @@
       "isoDate": "2026-08-12T19:59:04.000Z"
     },
     {
+      "id": "7c3903a38209",
+      "title": "Eclipse colectivo en Montjuïc",
+      "link": "https://www.lavanguardia.com/local/barcelona/20260812/11612834/eclipse-colectivo-montjuic.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7ccc8fbd255.r_d.459-306-0.jpeg",
+      "snippet": "Miles de barceloneses toman su montaña y viven una inesperada experiencia comunitaria",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-12T19:56:41.000Z"
+    },
+    {
       "id": "835e8df30cd0",
       "title": "Tarragona, a oscuras: \"La naturaleza puede darte momentos que son únicos\"",
       "link": "https://www.20minutos.es/cataluna/eclipse-solar-deja-oscuras-tarragona-emociona-miles-personas-naturaleza-puede-darte-momentos-que-son-unicos_7024952_0.html",
@@ -1397,44 +1535,8 @@
       "isoDate": "2026-08-12T19:46:00.000Z"
     },
     {
-      "id": "f4ab766a34cf",
-      "title": "Tres agresiones sexuales y otros delitos: crece la preocupación por la situación en Ceuta",
-      "link": "https://www.elnacional.com/2026/08/tres-agresiones-sexuales-y-otros-delitos-crece-la-preocupacion-por-la-situacion-en-ceuta/",
-      "image": null,
-      "snippet": "Entre las víctimas hay dos menores. Una de ellas habría sido obligada a vender sustancias estupefacientes. The post Tres agresiones sexuales y otros delitos: crece la preocupación ",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-12T19:45:14.000Z"
-    },
-    {
-      "id": "56c7b0271fd4",
-      "title": "Trump asegura que EE.UU. controla el estrecho de Ormuz mientras Irán desafía el bloqueo",
-      "link": "http://es.euronews.com/2026/08/12/trump-asegura-que-eeuu-controla-el-estrecho-de-ormuz-mientras-iran-desafia-el-bloqueo",
-      "image": null,
-      "snippet": "Irán sostiene que controla de forma efectiva gran parte de la vía marítima y quiere imponer un sistema de peajes en respuesta a la guerra de Estados Unidos lanzada por Trump el 28 ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T19:43:33.000Z"
-    },
-    {
-      "id": "afe255d7d7f5",
-      "title": "El Gobierno monta un gran despliegue para eclipsar la crisis de Ceuta",
-      "link": "https://www.abc.es/espana/sanchez-interrumpe-vacaciones-ver-eclipse-guadalajara-guarda-20260812210249-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/12/yebes-kOC-U301241457247eDG-1200x840@diario_abc.jpg",
-      "snippet": "La factoría Moncloa ha vuelto a utilizar un evento de interés internacional, como es el eclipse solar de este miércoles, para eclipsar la propia actualidad que les concierne y a la",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T19:41:36.000Z"
-    },
-    {
-      "id": "df678b15f32a",
-      "title": "¿Dónde está Elon Musk?: Lerma espera ver aparecer al magnate sudafricano en sus calles",
+      "id": "6c748c4d1b5d",
+      "title": "¿Dónde está Elon Musk? Lerma espera ver aparecer al magnate sudafricano en sus calles",
       "link": "https://www.lavanguardia.com/vida/20260812/11612821/donde-esta-elon-musk-lerma-busca-magnate-sudafricano-calles.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cc03e59235.jpeg",
       "snippet": "La empresa SpaceX reservó hace dieciocho meses el parador nacional de la ciudad para estos días",
@@ -1505,54 +1607,6 @@
       "isoDate": "2026-08-12T19:34:05.000Z"
     },
     {
-      "id": "426272e003d9",
-      "title": "Xavi Hernández, nuevo seleccionador de Países Bajos hasta el 2030",
-      "link": "https://www.lavanguardia.com/deportes/futbol/20260812/11612831/xavi-hernandez-nuevo-seleccionador-paises-bajos-2030.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/13/6a54ab55060c0.jpeg",
-      "snippet": "El técnico de Terrassa regresa a los banquillos para relevar a Ronald Koeman en el equipo neerlandés",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T19:29:24.000Z"
-    },
-    {
-      "id": "78103fbd3692",
-      "title": "‘Estaba feliz con su nuevo primito’: el doloroso adiós a Anthony Ríos, niño de 8 años víctima del terremoto en Calima-El Darién",
-      "link": "https://www.eltiempo.com/colombia/cali/estaba-feliz-con-su-nuevo-primito-el-doloroso-adios-a-anthony-rios-nino-de-8-anos-victima-del-terremoto-en-calima-el-darien-3577916",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cc66143c24.r_d.514-308-0.jpeg",
-      "snippet": "Familiar de la víctima también denuncia que familiares de otros menores fallecidos no han podido reclamar sus cuerpos.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-08-12T19:29:17.000Z"
-    },
-    {
-      "id": "660c7256cb6c",
-      "title": "Rusia sufre una nueva crisis de combustible con escasez en 16 regiones",
-      "link": "http://es.euronews.com/2026/08/12/rusia-sufre-nueva-crisis-combustible-escasez-16-regiones",
-      "image": null,
-      "snippet": "Los ataques de drones ucranianos han provocado en Rusia una nueva ola de crisis de combustible, con colas en las gasolineras, subida de precios y límites a la venta de gasolina y d",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T19:25:56.000Z"
-    },
-    {
-      "id": "efda9afa9be8",
-      "title": "Buscan angustiosamente a hombre de Cartagena desaparecido en Bogotá: salió para su trabajo en las obras del Metro y su familia no sabe de su paradero",
-      "link": "https://www.eltiempo.com/colombia/otras-ciudades/buscan-angustiosamente-a-hombre-de-cartagena-desaparecido-en-bogota-salio-para-su-trabajo-en-las-lineas-del-metro-y-su-familia-no-sabe-de-su-paradero-3577923",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/12/6a7cc7d03562a.png",
-      "snippet": "En diálogo con EL TIEMPO, el hijo del hombre relató que las primeras señales de preocupación surgieron entre la noche del lunes y la mañana siguiente.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-08-12T19:25:00.000Z"
-    },
-    {
       "id": "e6648da07616",
       "title": "El momento de la totalidad del eclipse solar en España",
       "link": "https://elpais.com/videos/2026-08-12/el-momento-de-la-totalidad-del-eclipse-solar-en-espana.html",
@@ -1577,18 +1631,6 @@
       "isoDate": "2026-08-12T19:23:10.000Z"
     },
     {
-      "id": "417d873c9b61",
-      "title": "Eurovisión cambia las reglas para 2027: un país en guerra no podrá acoger el festival",
-      "link": "http://es.euronews.com/cultura/2026/08/12/eurovision-cambia-las-reglas-para-2027-un-pais-en-guerra-no-podra-acoger-el-festival",
-      "image": null,
-      "snippet": "La UER podrá encargar evaluaciones independientes de seguridad antes de decidir si el país ganador puede albergar Eurovisión, mientras las nuevas normas impiden organizar el certam",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T19:22:49.000Z"
-    },
-    {
       "id": "34507d4d3100",
       "title": "Nadie puja por televisar el fútbol femenino",
       "link": "https://www.abc.es/deportes/futbol/puja-televisar-futbol-femenino-20260812211956-nt.html",
@@ -1601,8 +1643,8 @@
       "isoDate": "2026-08-12T19:21:51.000Z"
     },
     {
-      "id": "a2f1f77b894c",
-      "title": "Los vídeos del eclipse total así se ha vivido este fenómeno único",
+      "id": "df93c39fde2a",
+      "title": "Los vídeos del eclipse total: así se ha vivido este fenómeno único",
       "link": "https://www.20minutos.es/nacional/los-videos-eclipse-total-sol-espana-asi-se-ha-vivido-historico-fenomeno_7025243_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/12/6a7cc61ccd5332-75094349.webp",
       "snippet": "Miles de personas han vivido e inmortalizado el eclipse solar en la franja de totalidad, momento en el que la Luna ocultó por completo el disco solar.",
@@ -1635,30 +1677,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-12T19:13:00.000Z"
-    },
-    {
-      "id": "93acab4d5bc2",
-      "title": "Padres no han podido recuperar el cuerpo de su bebé tras terremoto en Cali porque análisis de ADN no está disponible y Medicina Legal no da abasto",
-      "link": "https://www.eltiempo.com/colombia/cali/padres-no-han-podido-recuperar-el-cuerpo-de-su-bebe-tras-terremoto-en-cali-porque-analisis-de-adn-no-esta-disponible-y-medicina-legal-no-da-abasto-3577917",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/12/6a7cb9b25d4e7.jpeg",
-      "snippet": "Salma Lloreda, de 13 meses, falleció junto a su abuela. El padre de la menor pide que sector privado apoye labores para la identificación.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-08-12T19:12:10.000Z"
-    },
-    {
-      "id": "3c3e6e7af851",
-      "title": "El eclipse solar del 12 de agosto lleva a miles de turistas hasta la fortaleza de Gormaz, en Soria",
-      "link": "http://es.euronews.com/next/2026/08/12/eclipse-solar-12-agosto-miles-turistas-fortaleza-gormaz-soria",
-      "image": null,
-      "snippet": "La fortaleza califal de Gormaz, en Soria, se convierte en un privilegiado mirador para contemplar el eclipse solar total, un fenómeno que atrae a numerosos visitantes nacionales e ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T19:07:51.000Z"
     },
     {
       "id": "70c674f6b188",
@@ -1697,30 +1715,6 @@
       "isoDate": "2026-08-12T18:52:57.000Z"
     },
     {
-      "id": "470b2bc6dfee",
-      "title": "¿Vas a pagar la colegiatura? Revisa las quejas que tiene la escuela ante Profeco antes de inscribir",
-      "link": "https://expansion.mx/finanzas-personales/2026/08/12/como-revisar-quejas-escuela-privada-profeco",
-      "image": "https://cdn-3.expansion.mx/dims4/default/f1f20a6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F23%2F4e%2Fa9b987444b6cbf2ec3c5f7d84b2d%2Fdiseno-sin-titulo.png",
-      "snippet": "El Buró Comercial de Profeco permite consultar gratuitamente las quejas presentadas contra una escuela, sus motivos y el estado de las reclamaciones.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-12T18:48:23.000Z"
-    },
-    {
-      "id": "7f94310e8890",
-      "title": "El eclipse solar total oscurece España y fascina a millones de personas",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612816/eclipse-total-sol-espana-12-agosto-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7cdf391ca4f.r_d.1993-1476-0.jpeg",
-      "snippet": "El eclipse ya es visible en España y miles de personas siguen en directo la evolución del fenómeno astronómico",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T18:45:29.000Z"
-    },
-    {
       "id": "3d4ea5ec5d49",
       "title": "Putin amenaza con apresar buques europeos \"en cualquier lugar\" si la UE confisca barcos de la flota fantasma rusa",
       "link": "https://www.elmundo.es/internacional/2026/08/12/6a7c7420fc6c83d97b8b4595.html",
@@ -1745,6 +1739,18 @@
       "isoDate": "2026-08-12T18:28:44.000Z"
     },
     {
+      "id": "af9827342457",
+      "title": "Los Lakers vendidos por US$12.000 millones a los empresarios Kushner e Iger",
+      "link": "https://elcomercio.pe/economia/mundo/los-lakers-vendidos-por-us12000-millones-a-los-empresarios-kushner-e-iger-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/FLA4BPVTDBAHFICUBWIRN2T67Y.webp?auth=82529a793001e9f144c503c6777fa95824ca7d450730c2bcfc22a6dcad3a3847&smart=true&width=1200&height=800",
+      "snippet": "El dueño de Los Ángeles Lakers, Mark Walter, alcanzó un acuerdo para vender la franquicia angelina a los empresarios Josh Kushner y Bob Iger por US$12.000 millones, según informa e",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T18:28:07.000Z"
+    },
+    {
       "id": "4e833bc389e0",
       "title": "¿Por qué los Topos mexicanos aún no pueden trabajar en el rescate en Colombia?",
       "link": "https://www.france24.com/es/video/20260812-por-qu%C3%A9-los-topos-mexicanos-a%C3%BAn-no-pueden-trabajar-en-el-rescate-en-colombia",
@@ -1755,18 +1761,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-12T18:14:27.000Z"
-    },
-    {
-      "id": "6286c4853ffe",
-      "title": "Marruecos amenaza con suspender la extradición con España y exige el regreso de los menores de Ceuta",
-      "link": "http://es.euronews.com/my-europe/2026/08/12/marruecos-amenaza-con-suspender-la-extradicion-con-espana-y-exige-el-regreso-de-los-menore",
-      "image": null,
-      "snippet": "El ministro marroquí de Justicia, Abdellatif Ouahbi, estudia suspender el acuerdo de extradición con España, reclama el regreso de los menores marroquíes que llegaron a Ceuta y acu",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T18:14:07.000Z"
     },
     {
       "id": "a1c4b5bed8c8",
@@ -1793,30 +1787,6 @@
       "isoDate": "2026-08-12T18:10:49.000Z"
     },
     {
-      "id": "38201154b953",
-      "title": "¿Cómo están las comunidades indígenas en Colombia tras el terremoto?",
-      "link": "https://www.france24.com/es/video/20260812-c%C3%B3mo-est%C3%A1n-las-comunidades-ind%C3%ADgenas-en-colombia-tras-el-terremoto",
-      "image": "https://s.france24.com/media/display/2ce720bc-9676-11f1-be89-005056a90284/w:1024/p:16x9/ES-20260812-110618-111119-CS.jpg",
-      "snippet": "El terremoto en Colombia también afectó a las comunidades indígenas de los departamentos de Caldas, Chocó, Quindío, Risaralda y Valle del Cauca. De los 115 pueblos indígenas recono",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T18:10:41.000Z"
-    },
-    {
-      "id": "0ae833796457",
-      "title": "Hellen Cuero: \"Las afectaciones más significativas en San José del Palmar son estructurales\"",
-      "link": "https://www.france24.com/es/video/20260812-hellen-cuero-las-afectaciones-m%C3%A1s-significativas-en-san-jos%C3%A9-del-palmar-son-estructurales",
-      "image": "https://s.france24.com/media/display/9a494c28-9673-11f1-82c3-005056a97e36/w:1024/p:16x9/ES-20260812-110424-110546-CS.jpg",
-      "snippet": "San José del Palmar fue el epicentro del terremoto de magnitud 7,4 que sacudió a Colombia el pasado 10 de agosto. En France 24 hablamos con Hellen Cuero, personera municipal de San",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T18:10:15.000Z"
-    },
-    {
       "id": "6bbc8cdbe69c",
       "title": "Servicios secretos: Alemania entre el reforzamiento y la cautela",
       "link": "https://www.dw.com/es/servicios-secretos-alemania-entre-el-reforzamiento-y-la-cautela/a-78341988?maca=spa-rss-sp-all-1122-rdf",
@@ -1827,18 +1797,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-12T18:10:00.000Z"
-    },
-    {
-      "id": "6875be168d96",
-      "title": "Rescatistas mexicanos independientes logran ingresar a Cali para apoyar labores tras el sismo de 7,4",
-      "link": "https://www.france24.com/es/video/20260812-rescatistas-mexicanos-independientes-logran-ingresar-a-cali-para-apoyar-labores-tras-el-sismo-de-7-4",
-      "image": "https://s.france24.com/media/display/6790dc3a-9671-11f1-aaf6-005056a90284/w:1024/p:16x9/ES-20260812-100157-100641-CS.jpg",
-      "snippet": "El grupo de voluntarios mexicanos independientes, Los Topos, unos brigadistas especializados en atender desastres, llegaron a Cali para apoyar las operaciones de rescate tras el si",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T18:09:53.000Z"
     },
     {
       "id": "741b4e54f70a",
@@ -1853,30 +1811,6 @@
       "isoDate": "2026-08-12T18:03:22.000Z"
     },
     {
-      "id": "b929c3fbe42f",
-      "title": "Cómo saber si el eclipse ha dañado sus ojos: estos son los síntomas de alerta",
-      "link": "http://es.euronews.com/salud/2026/08/12/como-saber-si-el-eclipse-ha-danado-sus-ojos-estos-son-los-sintomas-de-alerta",
-      "image": null,
-      "snippet": "La sequedad o sensación de arenilla tras el eclipse puede ser una molestia pasajera, pero una mancha en el centro de la visión puede indicar una lesión en la retina. Una experta ex",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T18:00:54.000Z"
-    },
-    {
-      "id": "b22758a31007",
-      "title": "\"La españolidad de Ceuta y Melilla está fuera de toda duda\", aseguran fuentes de Exteriores a 'Euronews'",
-      "link": "http://es.euronews.com/my-europe/2026/08/12/espanolidad-de-ceuta-melilla-fuera-de-toda-duda-aseguran-fuentes-exteriores-euronews",
-      "image": null,
-      "snippet": "El ministro de Justicia marroquí, Abdellatif Ouahbi, ha vuelto a situar públicamente Ceuta y Melilla como una reivindicación territorial de Marruecos. Ouahbi afirmó que la cuestión",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T17:55:18.000Z"
-    },
-    {
       "id": "305634979eb2",
       "title": "Un eclipse solar regala a millones de europeos una fugaz noche en pleno atardecer",
       "link": "https://www.dw.com/es/un-eclipse-solar-regala-a-millones-de-europeos-una-fugaz-noche-en-pleno-atardecer/a-78342050?maca=spa-rss-sp-all-1122-rdf",
@@ -1887,18 +1821,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-12T17:50:00.000Z"
-    },
-    {
-      "id": "490b2fd1a43a",
-      "title": "Incendios forestales en Europa: ¿es 2026 ya el peor año registrado?",
-      "link": "http://es.euronews.com/business/2026/08/12/incendios-forestales-en-europa-es-2026-ya-el-peor-ano-registrado",
-      "image": null,
-      "snippet": "A comienzos de agosto, 2026 es el peor año de los últimos 15 para varios países europeos por superficie quemada. Euronews Business analiza cuáles son los más afectados.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T17:48:11.000Z"
     },
     {
       "id": "39f377ae7fb8",
@@ -1925,18 +1847,6 @@
       "isoDate": "2026-08-12T17:35:00.000Z"
     },
     {
-      "id": "86e5a243d219",
-      "title": "Así ha sido el eclipse total solar que ha cruzado gran parte de España",
-      "link": "http://es.euronews.com/next/2026/08/12/siga-el-eclipse-total-solar-que-cruzara-gran-parte-de-espana-en-directo",
-      "image": null,
-      "snippet": "España ha vivido este miércoles un eclipse total de Sol visible desde Galicia hasta Baleares. En Euronews sw ha podido vivir en directo este maravilloso evento. Les damos las clave",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T17:30:00.000Z"
-    },
-    {
       "id": "2b657b8b0d82",
       "title": "Gemini alcanza los 1,000 millones de usuarios",
       "link": "https://expansion.mx/tecnologia/2026/08/12/gemini-alcanza-1-000-millones-usuarios",
@@ -1947,18 +1857,6 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-08-12T17:28:34.000Z"
-    },
-    {
-      "id": "59d6f5c06790",
-      "title": "Tensión entre residentes y megayates por la ocupación de las playas en Mallorca",
-      "link": "https://www.lavanguardia.com/vida/20260812/11612799/tension-mallorca-residentes-pasajeros-megayates-ocupacion-playas.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7caa9c5ee88.r_d.546-516-0.jpeg",
-      "snippet": "Agentes de Medio Ambiente retiraron sombrillas, tumbonas y otros elementos de un parque natural",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T17:11:43.000Z"
     },
     {
       "id": "e027e1606484",
@@ -1973,23 +1871,11 @@
       "isoDate": "2026-08-12T17:05:00.000Z"
     },
     {
-      "id": "0d46e7bac5f9",
-      "title": "Arden 34 vehículos a 200 metros del punto de observación del eclipse en Peñíscola",
-      "link": "https://www.lavanguardia.com/local/valencia/20260812/11612801/movilizan-medios-aereos-extinguir-incendios-declarados-xativa-peniscola.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7ca5102e943.jpeg",
-      "snippet": "",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T16:55:07.000Z"
-    },
-    {
-      "id": "6a99e6abe825",
-      "title": "Las imágenes más espectaculares que deja el eclipse solar sobre la Península",
+      "id": "56013f98b4a8",
+      "title": "Las imágenes más espectaculares que deja el eclipse solar",
       "link": "https://www.lavanguardia.com/vida/20260812/11612791/primeras-imagenes-deja-eclipse-solar-sobre-peninsula.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7cbfb3da8be.jpeg",
-      "snippet": "El fenómeno ha generado mucha expectación expectación, puesto que el cielo no ofrecía ha ofrecido un espectáculo que España no contemplaba desde hace más de un siglo",
+      "snippet": "El fenómeno ha generado mucha expectación, puesto que el cielo ha ofrecido un espectáculo que España no contemplaba desde hace más de un siglo",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -2009,18 +1895,6 @@
       "isoDate": "2026-08-12T16:49:38.000Z"
     },
     {
-      "id": "67a6caa28b55",
-      "title": "Sophie Adenot será la primera francesa en salir al espacio: \"Una gran noticia\"",
-      "link": "http://es.euronews.com/next/2026/08/12/sophie-adenot-sera-la-primera-francesa-en-salir-al-espacio-una-gran-noticia",
-      "image": null,
-      "snippet": "\"Tengo una gran noticia, el 18 de agosto será mi turno de salir de la Estación\", anuncia Sophie Adenot, a bordo de la ISS desde febrero, que se convertirá en la primera francesa en",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T16:48:29.000Z"
-    },
-    {
       "id": "9000c400b82c",
       "title": "Robles advierte a Marruecos: “Ceuta y Melilla no se tocan. Son españolísimas”",
       "link": "https://www.lavanguardia.com/politica/20260812/11612782/robles-advierte-marruecos-ceuta-melilla-tocan-son-espanolisimas.html",
@@ -2031,18 +1905,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T16:40:39.000Z"
-    },
-    {
-      "id": "fc2846a024ef",
-      "title": "Presos de la cárcel de Girona hackean el sistema de la Generalitat",
-      "link": "https://www.lavanguardia.com/local/girona/20260812/11612786/presos-carcel-girona-hackean-sistema-generalitat.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2024/08/26/66cd9cf022b84.r_d.1500-1000-0.jpeg",
-      "snippet": "Los piratas no han accedido a sistemas de información críticos ni han comprometido el funcionamiento del centro",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T16:32:32.000Z"
     },
     {
       "id": "2f24ca2ba287",
@@ -2057,18 +1919,6 @@
       "isoDate": "2026-08-12T16:28:51.000Z"
     },
     {
-      "id": "34e91a9239e0",
-      "title": "Quiénes no verán el eclipse del 12 de agosto: geografía, nubes o trabajo",
-      "link": "http://es.euronews.com/2026/08/12/quienes-no-veran-el-eclipse-del-12-de-agosto-geografia-nubes-o-trabajo",
-      "image": null,
-      "snippet": "Mientras el país se prepara para el primer eclipse total peninsular desde 1912, una parte importante de la población se quedará fuera de la experiencia completa: por dónde vive, po",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T16:26:47.000Z"
-    },
-    {
       "id": "40356e0dd827",
       "title": "El eclipse solar total captado desde un avión de Iberia en pleno vuelo",
       "link": "https://elpais.com/videos/2026-08-12/el-eclipse-solar-total-captado-desde-un-avion-de-iberia-en-pleno-vuelo.html",
@@ -2081,22 +1931,22 @@
       "isoDate": "2026-08-12T16:22:27.000Z"
     },
     {
-      "id": "0003934392dd",
-      "title": "Europa, bajo otra ola de calor: más de 90 millones afrontan más de 35ºC",
-      "link": "http://es.euronews.com/my-europe/2026/08/12/europa-prepara-afrontar-nueva-ola-calor",
-      "image": null,
-      "snippet": "El calor más intenso se espera en el oeste y sur de Europa, con Francia, Italia y España entre los países más afectados. Los Balcanes y Reino Unido también afrontarán temperaturas ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-12T16:12:57.000Z"
+      "id": "a710fbc97076",
+      "title": "Día del Bodeguero: resiliencia y desafíos detrás del mostrador",
+      "link": "https://elcomercio.pe/economia/opinion/dia-del-bodeguero-resiliencia-y-desafios-detras-del-mostrador-por-katerina-ananos-opinion-ism-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/LDFCA5MA6VHXZAFGEL5PFXQAYM.jpeg?auth=8d90bf0fb5bb202245ee95d15ac9b1179422b281c01495c90273416f5943e79c&smart=true&width=600&height=341",
+      "snippet": "“Las bodegas son y seguirán siendo parte esencial de nuestra vida cotidiana, lo que nos exige asumir un compromiso multisectorial firme: crear condiciones estructurales que garanti",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-12T16:19:51.000Z"
     },
     {
       "id": "fef5a97ac361",
       "title": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
       "link": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
-      "image": "https://cdn-3.expansion.mx/dims4/default/35230f6/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4d%2F0c%2Fb7ea7c7f4e858d88c78f4547e5a3%2Frestaurantes-alzas-40-insumos-precios-platillos.jpeg",
+      "image": "https://cdn-3.expansion.mx/dims4/default/7f8b867/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fed%2Fa0%2F497274464e769614add10f708f64%2Frestaurantes-alzas-40-insumos-precios-platillos.jpeg",
       "snippet": "Carne, lácteos, verduras, jitomate y aguacate acumularon alzas durante el primer semestre, mientras los restaurantes evalúan la automatización de procesos para contener el impacto ",
       "source": "Expansión",
       "sourceId": "expansion",
@@ -2151,18 +2001,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T14:59:03.000Z"
-    },
-    {
-      "id": "23f7a16e7597",
-      "title": "Ventajas de llegar tarde al tren (o al eclipse)",
-      "link": "https://www.lavanguardia.com/opinion/20260812/11612644/ventajas-llegar-tarde-tren.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/07/21/6a5f43fae64df.jpeg",
-      "snippet": "El Mundial de fútbol y el eclipse tienen mucho de rito colectivo",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T14:38:37.000Z"
     },
     {
       "id": "147106e23d89",
@@ -2235,18 +2073,6 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-08-12T13:45:48.000Z"
-    },
-    {
-      "id": "73282b78804e",
-      "title": "El emotivo adiós de Messi a su padre: “No sé si seguiré jugando durante mucho tiempo más”",
-      "link": "https://www.lavanguardia.com/deportes/fc-barcelona/20260812/11612677/te-amo-pa-emotivo-mensaje-despedida-leo-messi-padre-fallecimiento.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7c82a882781.png",
-      "snippet": "“Fuiste papa, amigo y representante” señala el jugador. “Yo solo jugaba al fútbol” y ahora “no sé qué voy a hacer sin vos, no sé cómo seguir” reconoce",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T13:36:16.000Z"
     },
     {
       "id": "b49a14e0dc00",
@@ -2355,18 +2181,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-12T10:57:27.000Z"
-    },
-    {
-      "id": "2d2d9c7b5b1c",
-      "title": "Israel cancela su plan de construir una cárcel con cocodrilos en base a la ley de protección animal",
-      "link": "https://www.lavanguardia.com/internacional/20260812/11612587/israel-cancela-plan-contruir-carcel-cocodrilos-base-ley-proteccion-animal.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/12/6a7c4b1744573.r_d.1494-886-0.jpeg",
-      "snippet": "La idea del ministro ultra Itamar Ben Gvir abre el debate sobre las condiciones de las prisiones israelíes",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T10:34:57.000Z"
     },
     {
       "id": "634810e640a3",
@@ -2609,18 +2423,6 @@
       "isoDate": "2026-08-12T09:09:50.000Z"
     },
     {
-      "id": "56e930364998",
-      "title": "Si te faltan créditos para el Seguro Social, ¿es posible sumar años de trabajo en el extranjero para calificar a la SSA de Estados Unidos?",
-      "link": "https://elcomercio.pe/mag/usa/local-us/si-te-faltan-creditos-para-el-seguro-social-es-posible-sumar-anos-de-trabajo-en-el-extranjero-para-calificar-a-la-ssa-de-estados-unidos-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/GL7NBGVREVEFXCE6KSHY6YRGBA.jpg?auth=f925babc044371f99da197edbe5fd86c5bc016eeeb617ee437fa8efb12a70909&smart=true&width=1200&height=809",
-      "snippet": "Si te faltan créditos para acceder a la jubilación estadounidense, revisar tu historial laboral en el extranjero puede ser clave. Conoce cómo funcionan los acuerdos de totalización",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T06:56:42.000Z"
-    },
-    {
       "id": "95299691cf10",
       "title": "El entorno de Carlota en 'shock' tras ser detenida junto a su novio por el asesinato de los padres: \"Pero si es un amor de chica\"",
       "link": "https://www.elmundo.es/espana/2026/08/11/6a7b699ce9cf4ab22a8b457b.html",
@@ -2631,18 +2433,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T06:12:03.000Z"
-    },
-    {
-      "id": "dc56d2a1531b",
-      "title": "Atención, cambios en el Seguro Social para 2027: cómo saber si recibirás más dinero y si pagarás más impuestos",
-      "link": "https://elcomercio.pe/mag/usa/local-us/atencion-cambios-en-el-seguro-social-para-2027-que-varia-y-como-impactara-en-tu-cheque-mensual-e-impuestos-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/6WMMW4RHQJAUJOELKQBYDJP4UY.jpg?auth=deae7b0ae9d75b438ed82935d3d01221c12861569ba0af335e56bbbfc5f9c001&smart=true&width=1200&height=811",
-      "snippet": "La Administración del Seguro Social en EE.UU. anunciará las cifras definitivas en octubre. Mientras tanto, esta guía te ayuda a entender qué ajustes se esperan, quiénes podrían pag",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-12T05:49:28.000Z"
     },
     {
       "id": "3a639a14e563",
@@ -2751,6 +2541,42 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-08-12T01:09:54.000Z"
+    },
+    {
+      "id": "14ffe23ec6e2",
+      "title": "Más allá de la IA: estas son las habilidades que las empresas consideran esenciales",
+      "link": "https://expansion.mx/carrera/2026/08/11/ia-habilidades-esperan-empresas-mexicanas",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5d68287/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2a%2Fbf%2Fb48ca75644b09002baab6a5782f0%2Fclean-office-table.jpg",
+      "snippet": "El mercado laboral mexicano tendrá una mayor demanda de habilidades tecnológicas, pero las competencias humanas seguirán ocupando un lugar central en las estrategias de contratació",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-12T01:04:25.000Z"
+    },
+    {
+      "id": "2224622f0f4c",
+      "title": "Equipo infantil de futbol de Tijuana pide ayuda para salir tras terremoto en Colombia",
+      "link": "https://expansion.mx/mundo/2026/08/11/equipo-infantil-futbol-tijuana-ayuda-salir-colombia-sismo",
+      "image": "https://cdn-3.expansion.mx/dims4/default/a684034/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff5%2F6c%2Fe7f2728d4da18fd31a160c43a31a%2F6-afp-20260810-c4by82q-v1-midres-colombiaearthquake.jpeg",
+      "snippet": "El equipo Leyendas de Obeliz disputó un torneo internacional en Colombia y ahora pide apoyo para volver a casa.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-11T23:54:25.000Z"
+    },
+    {
+      "id": "c37ef2df0c36",
+      "title": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
+      "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
+      "image": "https://cdn-3.expansion.mx/dims4/default/961daa8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa6%2F12%2F821aaf014cbf9cd75d423d21a431%2Fdiseno-sin-titulo-2.png",
+      "snippet": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-11T23:40:20.000Z"
     },
     {
       "id": "b49e6d6c6bab",
@@ -3017,11 +2843,11 @@
       "isoDate": "2022-06-09T16:34:00.000Z"
     },
     {
-      "id": "077cafb2600f",
-      "title": "Así fue el espectacular eclipse solar total que se vivió en España",
-      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2afb/live/6d106830-9683-11f1-9854-73d5e7b83e3b.jpg",
-      "snippet": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
+      "id": "a50eb6b41205",
+      "title": "Sigue la búsqueda de desaparecidos en Colombia tras el terremoto que dejó al menos 239 muertos y 3.700 heridos",
+      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8434/live/e6b011a0-9673-11f1-a6eb-474cf36e6c34.jpg",
+      "snippet": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró eme",
       "source": "BBC Mundo",
       "sourceId": "bbcmundo",
       "country": "INT",
@@ -3029,11 +2855,11 @@
       "isoDate": null
     },
     {
-      "id": "6d0c02e069ea",
-      "title": "Buscan a contrarreloj a los desaparecidos en Colombia tras el terremoto que dejó al menos 239 muertos y 3.700 heridos",
-      "link": "https://www.bbc.co.uk/mundo/live/ck87nw81jv2qt?at_medium=RSS&at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8434/live/e6b011a0-9673-11f1-a6eb-474cf36e6c34.jpg",
-      "snippet": "Rescatistas y vecinos buscan sobrevivientes tras el terremoto de magnitud 7,4 que sacudió Colombia este lunes. El presidente De la Espriella decretó desastre nacional y declaró eme",
+      "id": "8e326d779d7a",
+      "title": "Así fue el espectacular eclipse solar total que se pudo ver en parte de Europa",
+      "link": "https://www.bbc.co.uk/mundo/live/crwyjxjzj763t?at_medium=RSS&at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2afb/live/6d106830-9683-11f1-9854-73d5e7b83e3b.jpg",
+      "snippet": "España fue el escenario de un eclipse solar total, el primero que se observa desde la península ibérica en más de un siglo y que forma parte de una inusual trilogía de eclipses.",
       "source": "BBC Mundo",
       "sourceId": "bbcmundo",
       "country": "INT",
