@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-13T08:06:32.921Z",
-  "count": 230,
+  "updatedAt": "2026-08-13T08:22:02.361Z",
+  "count": 244,
   "sources": [
     {
       "id": "20minutos",
@@ -63,6 +63,12 @@
       "countryLabel": "Colombia"
     },
     {
+      "id": "euronews",
+      "name": "Euronews Español",
+      "country": "INT",
+      "countryLabel": "Internacional"
+    },
+    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -107,40 +113,268 @@
   ],
   "items": [
     {
-      "id": "016bd3f4d098",
-      "title": "EN VIVO | Clima CDMX y resto de México hoy 13 de agosto: onda tropical causará fuertes lluvias en más de 10 estados",
-      "link": "https://www.infobae.com/mexico/2026/08/13/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-jueves-13-de-agosto/",
-      "image": "https://www.infobae.com/resizer/v2/MOLQVT7T4FFHBFH7W5KLLMEJRI.jpg?auth=acc4419068ce9b34a9c75541c011615b05d6d0dc037db289f74916f87902dee8&smart=true&width=1920&height=1080",
-      "snippet": "Consulta las últimas noticias y actualizaciones del clima: pronóstico, alertas y reportes sobre las condiciones meteorológicas más importantes",
+      "id": "2ef3faef2fc6",
+      "title": "Revelan supuestas fotografías inéditas de Iván Archivaldo y Jesús Alfredo Guzmán Salazar, líderes de Los Chapitos",
+      "link": "https://www.infobae.com/mexico/2026/08/13/revelan-supuestas-fotografias-ineditas-de-ivan-archivaldo-y-jesus-alfredo-guzman-salazar-lideres-de-los-chapitos/",
+      "image": "https://www.infobae.com/resizer/v2/XWKZWYGJYRCJJBVPZTYDH5Z75Q.jpg?auth=029bed4067dcd8cc1f2a3abbb61c6d2975438a63a31f08bdf772bb012a9188d8&smart=true&width=1920&height=1080",
+      "snippet": "Dos hombres con barba y un pastel de cumpleaños aparecen en imágenes que circulan en redes atribuidas a los herederos del Cártel de Sinaloa",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:01:30.000Z"
+      "isoDate": "2026-08-13T08:20:01.000Z"
     },
     {
-      "id": "29e95dc1e26d",
-      "title": "Experta alimentaria avisa del riesgo de desabastecimiento si controles asfixian a empresas",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/13/experta-alimentaria-avisa-del-riesgo-de-desabastecimiento-si-controles-asfixian-a-empresas/",
+      "id": "d85faffd97db",
+      "title": "El lobo ibérico afronta su Día Internacional bajo cambios legales y disputa institucional",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/13/el-lobo-iberico-afronta-su-dia-internacional-bajo-cambios-legales-y-disputa-institucional/",
       "image": null,
       "snippet": "",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:01:15.000Z"
+      "isoDate": "2026-08-13T08:17:20.000Z"
     },
     {
-      "id": "8f7692255a07",
-      "title": "Así se vivió el eclipse en altamar: el ferri Ibiza-Valencia se convirtió en observatorio flotante con expertos",
-      "link": "https://www.infobae.com/america/agencias/2026/08/13/asi-se-vivio-el-eclipse-en-altamar-el-ferri-ibiza-valencia-se-convirtio-en-observatorio-flotante-con-expertos/",
-      "image": "https://www.infobae.com/resizer/v2/EP64OJHND5GTVKMWW4GI7WQ2XI.jpg?auth=e5b289d3c5755cbbeb809201a878e4cf7d24ea7d7f8fd581ed0bea004b4bcc24&smart=true&width=1920&height=1281",
+      "id": "3b507f5dfccd",
+      "title": "Desarticulada en La Línea una organización criminal dedicada a la trata de mujeres",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/13/desarticulada-en-la-linea-una-organizacion-criminal-dedicada-a-la-trata-de-mujeres/",
+      "image": null,
       "snippet": "",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:01:11.000Z"
+      "isoDate": "2026-08-13T08:17:04.000Z"
+    },
+    {
+      "id": "72a88c4390e1",
+      "title": "Cinco detenidos en Algeciras por empadronamientos falsos para facilitar regularizaciones",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/13/cinco-detenidos-en-algeciras-por-empadronamientos-falsos-para-facilitar-regularizaciones/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:16:47.000Z"
+    },
+    {
+      "id": "b3185aa28d5f",
+      "title": "Un español fallecido en el terremoto de Colombia",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/un-espanol-fallecido-en-el-terremoto-de-colombia/",
+      "image": "https://www.infobae.com/resizer/v2/SCSGS5MSJVEQVOPBJ2K7GK2JTI.jpg?auth=6d86cad9f1d833e0a83ee75bc7709ee8cba1af09992ebdc3963466ad3564afea&smart=true&width=1920&height=1280",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:16:29.000Z"
+    },
+    {
+      "id": "b08249d142ae",
+      "title": "Protestas en Pakistán tras una operación antiterrorista del Ejército con víctimas civiles",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/protestas-en-pakistan-tras-una-operacion-antiterrorista-del-ejercito-con-victimas-civiles/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:16:28.000Z"
+    },
+    {
+      "id": "962abeb7d0a4",
+      "title": "Bruselas actualiza las medidas de control de viruela ovina y caprina en Bulgaria y Rumanía",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/bruselas-actualiza-las-medidas-de-control-de-viruela-ovina-y-caprina-en-bulgaria-y-rumania/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:16:12.000Z"
+    },
+    {
+      "id": "e2c00f9fa823",
+      "title": "Sebastià Barceló, doctor en astrofísica, tras el eclipse: \"Ha sido una experiencia única\"",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/sebastia-barcelo-doctor-en-astrofisica-tras-el-eclipse-ha-sido-una-experiencia-unica/",
+      "image": "https://www.infobae.com/resizer/v2/3PCQO3564VGK5NZMCE3IBWRCQA.jpg?auth=b0116e6f1284bd2ca46bdb9a31830c3d0fb971472a925df66b0594c62fdb241a&smart=true&width=1920&height=1278",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:16:11.000Z"
+    },
+    {
+      "id": "6fb2a5cb69c3",
+      "title": "Groenlandia aplaza inicio de polémico proyecto petrolero estadounidense",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/groenlandia-aplaza-inicio-de-polemico-proyecto-petrolero-estadounidense/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:15:56.000Z"
+    },
+    {
+      "id": "4034b0db392d",
+      "title": "Buque Escuela Cervantes Saavedra hace del Mediterráneo su aula para ver el eclipse solar desde las Columbretes",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/buque-escuela-cervantes-saavedra-hace-del-mediterraneo-su-aula-para-ver-el-eclipse-solar-desde-las-columbretes/",
+      "image": "https://www.infobae.com/resizer/v2/THJG7WHTNZEDFH6R2VIOARV5DQ.jpg?auth=ee0d4e905a749c381d134d6bf4174a15f7dadb322532ad216c10947558d1f376&smart=true&width=1920&height=1537",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:15:54.000Z"
+    },
+    {
+      "id": "0f516f0e37cf",
+      "title": "Japón castiga el ultraje a la bandera entre críticas por amenaza a la libre expresión",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/japon-castiga-el-ultraje-a-la-bandera-entre-criticas-por-amenaza-a-la-libre-expresion/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:15:39.000Z"
+    },
+    {
+      "id": "e25d40f8a54a",
+      "title": "La Policía desarticula una red criminal que producía cocaína en España para otras redes y detiene a 27 personas",
+      "link": "https://www.infobae.com/america/agencias/2026/08/13/la-policia-desarticula-una-red-criminal-que-producia-cocaina-en-espana-para-otras-redes-y-detiene-a-27-personas/",
+      "image": "https://www.infobae.com/resizer/v2/B7VOYV4ZRRFZJN5MC66P3ETNYU.jpg?auth=afba2eb76062c189581c3630141a0aa86b7893e0bd98a5c2cf5436742890cf39&smart=true&width=1920&height=1464",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:15:36.000Z"
+    },
+    {
+      "id": "0c54a25b0545",
+      "title": "Fabien Barthez, nuevo entrenador de los porteros con los 'bleus' en el equipo de Zidane",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/13/fabien-barthez-nuevo-entrenador-de-los-porteros-con-los-bleus-en-el-equipo-de-zidane/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:15:22.000Z"
+    },
+    {
+      "id": "50ebeedbc055",
+      "title": "Japón rechazó la primera visita de Vladimir Putin a las disputadas islas de las Kuriles: “Absolutamente inaceptable”",
+      "link": "https://www.infobae.com/america/mundo/2026/08/13/japon-rechazo-energicamente-la-primera-visita-de-vladimir-putin-a-las-disputadas-islas-de-las-kuriles/",
+      "image": "https://www.infobae.com/resizer/v2/45X7XQJ7BBCXNMTEIA4KLDTLFQ.JPG?auth=e60cff198703f32a42025acabf826ecb97d8723352521beac159721d7e542eb2&smart=true&width=5229&height=3606",
+      "snippet": "Tokio elevó una queja formal después de que el mandatario ruso acudiera a la región controlada por Moscú y disputada por el Gobierno nipón, en una nueva fricción diplomática entre ",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:15:07.000Z"
+    },
+    {
+      "id": "ba712c42c628",
+      "title": "La inflación en España subió en julio al 3,6%, su peor dato desde mayo de 2024",
+      "link": "http://es.euronews.com/business/2026/08/13/la-inflacion-en-espana-subio-en-julio-al-36-su-peor-dato-desde-mayo-de-2024",
+      "image": null,
+      "snippet": "España acumula cinco meses consecutivos con una tasa interanual superior al 3%, explicada en parte por el auge de la electridad y de los carburantes mientras pervive el bloqueo par",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T08:15:01.000Z"
+    },
+    {
+      "id": "2c01eba311fc",
+      "title": "Oficial y confirmado: todos los candidatos demócratas a las elecciones primarias de Florida 2026",
+      "link": "https://www.lanacion.com.ar/estados-unidos/florida/oficial-y-confirmado-todos-los-candidatos-democratas-a-las-elecciones-primarias-de-florida-2026-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/G2N4Z5FPRREWFHRWZFK2Y6Q3VA.jpg?auth=e4df4e2c06c6efcd6c35b092c5dabcd9e3fb64501c39299ec6c1a933721ba1db&smart=true&width=2000&height=1333",
+      "snippet": "Consulta los candidatos demócratas de las primarias de Florida y las fechas clave para votar, incluida la elección del 18 de agosto.",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:11:00.000Z"
+    },
+    {
+      "id": "7f222179aae8",
+      "title": "Las mantas raya provocan un récord de picaduras en las playas de California",
+      "link": "http://es.euronews.com/video/2026/08/13/mas-rayas-en-playas-de-california-provocan-record-de-picaduras",
+      "image": null,
+      "snippet": "California registra un número inusualmente alto de pastinacas redondas cerca de sus playas, ya que el calentamiento del agua costera y un El Niño fuerte previsto las atraen hacia l",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T08:06:00.000Z"
+    },
+    {
+      "id": "cc3fdaffbc6c",
+      "title": "Turmiel, el pueblo de 9 habitantes que llevaba 44 años esperando al eclipse",
+      "link": "https://www.abc.es/ciencia/pueblo-nueve-habitantes-espero-anos-ver-eclipse-20260812020413-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/ciencia/2026/08/12/1515892077-RZIcRe8i3g1y58D8g05xX6I-1200x840@diario_abc.jpg",
+      "snippet": "La vocación por las estrellas le llegó a Pedro García Lario durante los veranos que pasaba en el pueblo de su abuela, que había emigrado desde Turmiel, un pueblecito de la comarca ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T08:05:23.000Z"
+    },
+    {
+      "id": "7f92b7e2481c",
+      "title": "Albares confirma el primer español muerto en el terremoto de Colombia",
+      "link": "https://www.elmundo.es/internacional/2026/08/13/6a7d64afe9cf4af85c8b45ad.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/13/17866028547976.jpg",
+      "snippet": "La cifra de nacionales sin localizar ha descendido de 75 a 12 Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T08:04:05.000Z"
+    },
+    {
+      "id": "f230ac1789f5",
+      "title": "Un truco único en pleno eclipse: las espectaculares imágenes del 'desafío' al cielo del skater Danny León",
+      "link": "https://www.20minutos.es/deportes/futbol/un-truco-unico-historia-pleno-eclipse-total-las-espectaculares-imagenes-desafio-cielo-skater-danny-leon_7025298_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/files/fp/uploads/imagenes/2026/08/13/6a7d7c1eb7f612-18476674.r_d.250-209-36295.jpeg",
+      "snippet": "El patinador olímpico español inmortalizó un salto con su skate en el momento exacto en el que se produjo el eclipse total.",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T08:03:38.000Z"
+    },
+    {
+      "id": "b5a102debd4d",
+      "title": "Exteriores confirma un español fallecido en el terremoto de Colombia",
+      "link": "https://www.abc.es/internacional/terremoto-colombia-directo-muertos-heridos-desaparecidos-aeropuertos-20260810170846-di.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/08/10/colombia-U20658988564K6G-U301228173932fuD-1200x840@diario_abc.JPG",
+      "snippet": "Sigue en directo la última hora del terremoto en Colombia, que también ha afectado a Ecuador y Panamá, con la cifra de muertos, heridos y poblaciones afectadas por el seísmo con ep",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T08:02:51.000Z"
+    },
+    {
+      "id": "f4a6a03da005",
+      "title": "Tokio protesta por la primera visita de Putin a las disputadas islas Kuriles",
+      "link": "http://es.euronews.com/2026/08/13/tokio-protesta-por-la-primera-visita-de-putin-a-las-disputadas-islas-kuriles",
+      "image": null,
+      "snippet": "Las cuatro islas en disputa, ocupadas por Rusia durante la Segunda Guerra Mundial, han ganado importancia desde el final de la guerra, al albergar bases militares estratégicas para",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T08:01:05.000Z"
     },
     {
       "id": "6eee9b284aa4",
@@ -155,35 +389,11 @@
       "isoDate": "2026-08-13T08:01:00.000Z"
     },
     {
-      "id": "3848f889a70c",
-      "title": "La cesta de la compra se abarata 7 décimas en un mes en el que las frutas bajaron un 4,5 %",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/13/la-cesta-de-la-compra-se-abarata-7-decimas-en-un-mes-en-el-que-las-frutas-bajaron-un-45/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:00:58.000Z"
-    },
-    {
-      "id": "10dba608b8ef",
-      "title": "OHLA ganó 0,5 millones de euros hasta junio pese al impacto de un litigio en Nueva York",
-      "link": "https://www.infobae.com/america/agencias/2026/08/13/ohla-gano-05-millones-de-euros-hasta-junio-pese-al-impacto-de-un-litigio-en-nueva-york/",
-      "image": "https://www.infobae.com/resizer/v2/KWBEAZY6TFAYVNPYZMU5BLER4Q.jpg?auth=13210b5b5cae41091ecccf0c537d57cd95e60410f82277111b1a51463784c47a&smart=true&width=1920&height=1438",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:00:53.000Z"
-    },
-    {
       "id": "34666ce2e4ac",
       "title": "El Gobierno confirma la muerte de un ciudadano español en el terremoto de Colombia",
       "link": "https://www.20minutos.es/internacional/gobierno-confirma-un-espanol-muerto-terremoto-colombia_7025312_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/13/6a7d797663c3f9-71626720.jpeg",
-      "snippet": "La cifra de nacionales sin localizar ha descendido de 75 a 12.",
+      "snippet": "La cifra de nacionales que siguen sin localizar ha descendido de 75 a 12.",
       "source": "20minutos",
       "sourceId": "20minutos",
       "country": "ES",
@@ -191,28 +401,16 @@
       "isoDate": "2026-08-13T08:00:49.000Z"
     },
     {
-      "id": "71cc2441f871",
-      "title": "La Sagrada Familia desde las escaleras del metro, el \"videoselfi\" que los turistas desean",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/13/la-sagrada-familia-desde-las-escaleras-del-metro-el-videoselfi-que-los-turistas-desean/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:00:42.000Z"
-    },
-    {
-      "id": "94846280ae91",
-      "title": "Un español muerto en el terremoto de Colombia, según Exteriores",
-      "link": "https://www.infobae.com/america/agencias/2026/08/13/un-espanol-muerto-en-el-terremoto-de-colombia-segun-exteriores/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T08:00:23.000Z"
+      "id": "1870b2512332",
+      "title": "Eclipse solar total, en directo | Última hora de cómo se vio ayer en España el eclipse y las mejores imágenes",
+      "link": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/13/6a7d6fba0fcd1.jpeg",
+      "snippet": "El tiempo, la única preocupación de los espectadores, dio una tregua en casi toda la franja de visibilidad",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T08:00:18.000Z"
     },
     {
       "id": "b088bb8d7afc",
@@ -224,6 +422,18 @@
       "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T08:00:00.000Z"
+    },
+    {
+      "id": "e97dbcbea8ec",
+      "title": "Compradores y vendedores se activan en un mercado inmobiliario agitado",
+      "link": "https://www.elnacional.com/2026/08/mercado-inmobiliario-venezuela-ley-arrendamiento-alquileres-2026/",
+      "image": null,
+      "snippet": "El mercado de compraventa y alquileres en Venezuela da señales de reactivación tras la nueva ley de arrendamiento, el impacto de las petroleras y las secuelas de los sismos del 24 ",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
       "isoDate": "2026-08-13T08:00:00.000Z"
     },
     {
@@ -239,52 +449,40 @@
       "isoDate": "2026-08-13T08:00:00.000Z"
     },
     {
-      "id": "dec3739686c7",
-      "title": "El Gobierno confirma la muerte de un español en el terremoto de magnitud 7,4 de Colombia",
-      "link": "https://www.infobae.com/espana/2026/08/13/el-gobierno-confirma-la-muerte-de-un-espanol-en-el-terremoto-de-magnitud-74-de-colombia/",
-      "image": "https://www.infobae.com/resizer/v2/M7Z3TFTNLRGSPLNVCU5PB6LWQQ.jpg?auth=1bb2d577f4829bb7a3a7e04e4fae5a4980f9e54999b9ea4320525f5f4c7de440&smart=true&width=1920&height=1282",
-      "snippet": "El seísmo que sacudió el país este lunes ha dejado un balance de 265 muertos y 3.500 heridos",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:59:59.000Z"
+      "id": "af717e3650cc",
+      "title": "Los jabalíes ya recorren las calles de Setúbal, hay vídeos cruzando pasos de peatones",
+      "link": "http://es.euronews.com/2026/08/13/jabalies-ya-recorren-las-calles-de-setubal-hay-videos-cruzando-pasos-de-peatones",
+      "image": null,
+      "snippet": "Un grupo de jabalíes fue visto de noche por las calles de Setúbal y cruzó una carretera con tráfico; el Ayuntamiento pide prudencia a los vecinos.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T07:57:18.000Z"
     },
     {
-      "id": "4fca261e2022",
-      "title": "El video que expone el supuesto casting de extrabajador de Del Barrio Producciones a joven actriz",
-      "link": "https://www.infobae.com/peru/2026/08/13/del-barrio-producciones-el-video-que-expone-el-supuesto-casting-de-extrabajador-de-del-barrio-producciones-a-joven-actriz/",
-      "image": "https://www.infobae.com/resizer/v2/W2DD3EG6YRBCDCPFFAIK2LQ5HU.png?auth=3d108f5bdd5a1a8d202d8a2cda1f95a6fddf9fd011067be841397b007b6d2b71&smart=true&width=2752&height=1536",
-      "snippet": "Patricia Villarreal relató en Magaly TV La Firme que aceptó reunirse con Erick García Vilca para un supuesto casting debido a que ya lo conocía por actividades vinculadas a Del Bar",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:59:06.000Z"
-    },
-    {
-      "id": "33196248a5c1",
-      "title": "Intentó robar en un local de Córdoba, pero lo echaron con agua caliente y golpes de un cajón de cerveza",
-      "link": "https://www.infobae.com/sociedad/policiales/2026/08/13/intento-robar-en-un-local-de-cordoba-pero-lo-echaron-con-agua-caliente-y-golpes-de-un-cajon-de-cerveza/",
-      "image": "https://www.infobae.com/resizer/v2/YEDGSGFUB5BFDN2TYUJMYMMTNU.jpg?auth=05c2eb4bfad70f82fc72ae5e44abf3d83db3f30b6eba557427b10ad10e75051c&smart=true&width=1980&height=1080",
-      "snippet": "A pesar de que la dueña identificó al delincuente, este todavía continuaría en libertad. “Es la primera vez que nos pasa con esta violencia”, aseguró",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:55:05.000Z"
-    },
-    {
-      "id": "7f92b7e2481c",
-      "title": "Albares confirma el primer español muerto en el terremoto de Colombia",
-      "link": "https://www.elmundo.es/internacional/2026/08/13/6a7d64afe9cf4af85c8b45ad.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/13/17866028547976.jpg",
-      "snippet": "La cifra de nacionales sin localizar ha descendido de 75 a 12 Leer",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
+      "id": "f165061798eb",
+      "title": "La nueva rentabilidad: cómo hacer que tu dinero cunda más con imagin sin buscar la TAE más alta",
+      "link": "https://www.abc.es/economia/guia-financiera/nueva-rentabilidad-dinero-cunda-imagin-buscar-tae-20260813095010-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/economia/2026/08/13/Imagin%2000-RFnJutky1N51wfAwx8MgDOP-1200x840@diario_abc.jpg",
+      "snippet": "¿Has llegado aquí porque llevas meses buscando una cuenta de ahorro de alta rentabilidad ? Si es así, sabes de sobra qué es la Tasa Anual Equivalente (TAE) —el indicador que nos pe",
+      "source": "ABC",
+      "sourceId": "abc",
       "country": "ES",
       "countryLabel": "España",
-      "isoDate": "2026-08-13T07:51:04.000Z"
+      "isoDate": "2026-08-13T07:51:54.000Z"
+    },
+    {
+      "id": "919fb795c8d5",
+      "title": "Vídeo a cámara rápida del eclipse solar parcial desde el Real Observatorio de Greenwich",
+      "link": "http://es.euronews.com/video/2026/08/13/video-a-camara-rapida-del-eclipse-solar-parcial-desde-el-real-observatorio-de-greenwich",
+      "image": null,
+      "snippet": "Reino Unido vivió su eclipse solar más importante desde 1999, con más del 90% del Sol oculto en algunas zonas. Multitudes se reunieron para ver el raro fenómeno, y en Londres el ci",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T07:49:04.000Z"
     },
     {
       "id": "d1fbc53724ed",
@@ -323,54 +521,6 @@
       "isoDate": "2026-08-13T07:46:56.000Z"
     },
     {
-      "id": "57885377cb0f",
-      "title": "Dos detenidos por más de 60 empadronamientos fraudulentos en Sonseca y Ajofrín (Toledo)",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/13/dos-detenidos-por-mas-de-60-empadronamientos-fraudulentos-en-sonseca-y-ajofrin-toledo/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:46:47.000Z"
-    },
-    {
-      "id": "cd9c54a52219",
-      "title": "Los precios de la energía disparan la inflación al 3,6% en julio y obligan a elevar a 20 céntimos la rebaja en el gasóleo",
-      "link": "https://www.infobae.com/espana/2026/08/13/los-precios-de-la-energia-disparan-la-inflacion-al-36-en-julio-y-obligan-a-elevar-a-20-centimos-la-rebaja-en-el-gasoleo/",
-      "image": "https://www.infobae.com/resizer/v2/XJLQDYC3ARC2PKKZVVEER4K2TU.JPG?auth=40ac5a16ab0990cc9639b2b7eb991756a267ce6c498fec65ec6d662a53d71a31&smart=true&width=800&height=533",
-      "snippet": "Según el dato definitivo del IPC del INE, el gasóleo superó el umbral del 15% fijado en el decreto anticrisis, lo que activa de forma automática la cláusula de salvaguarda del plan",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:46:47.000Z"
-    },
-    {
-      "id": "2ba2b7c8b83f",
-      "title": "Un eclipse se acaba y otros dos esperan a España en 2027 y 2028",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/13/un-eclipse-se-acaba-y-otros-dos-esperan-a-espana-en-2027-y-2028/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:46:31.000Z"
-    },
-    {
-      "id": "8b2e869c3e00",
-      "title": "Detenido en Badalona (Barcelona) un narcotraficante que estaba siendo buscado en 31 países",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/13/detenido-en-badalona-barcelona-un-narcotraficante-que-estaba-siendo-buscado-en-31-paises/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T07:46:14.000Z"
-    },
-    {
       "id": "bf94c2f147ce",
       "title": "Dylan, albañil argentino que trabaja en Australia: “Después de 8 horas de trabajo, nos vamos a casa con 320 dólares”",
       "link": "https://www.lanacion.com.ar/lifestyle/dylan-albanil-argentino-que-trabaja-en-australia-despues-de-8-horas-de-trabajo-nos-vamos-a-casa-con-nid13082026/",
@@ -395,6 +545,18 @@
       "isoDate": "2026-08-13T07:42:44.000Z"
     },
     {
+      "id": "17f45befc477",
+      "title": "Es raro, pero me gustan los vaqueros para la alfombra roja",
+      "link": "https://www.abc.es/estilo/moda/raro-gustan-vaqueros-alfombra-roja-20260813095734-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/estilo/2026/08/13/puntadas-vaqueros-portada-Rv91G6EiHYYHLzCkiUTZc1O-1200x840@diario_abc.jpg",
+      "snippet": "El relajo estilístico impera en los últimos tiempos. Más allá de calzar unas chanclas 'random', asistimos a un doble salto mortal: el uso de vaqueros desgastados en el photocall de",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T07:41:11.000Z"
+    },
+    {
       "id": "f99c96840051",
       "title": "¿A qué hora juegan Cienciano vs. Botafogo y en qué canal transmiten partido por Copa Sudamericana 2026?",
       "link": "https://elcomercio.pe/deporte-total/futbol-peruano/en-que-canal-transmiten-cienciano-vs-botafogo-en-vivo-hoy-gratis-por-copa-sudamericana-2026-a-que-hora-juegan-y-donde-ver-partido-online-streaming-noticia/",
@@ -407,16 +569,16 @@
       "isoDate": "2026-08-13T07:40:45.000Z"
     },
     {
-      "id": "158b1998f50a",
-      "title": "Eclipse solar total, en directo | Última hora: las mejores imágenes y el resumen de cómo se vivió en España",
-      "link": "https://www.lavanguardia.com/vida/20260813/11613024/eclipse-total-sol-espana-reacciones-imagenes-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/12/6a7ce432c78e7.jpeg",
-      "snippet": "El tiempo, la única preocupación de los espectadores, dio una tregua en casi toda la franja de visibilidad",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-13T07:38:44.000Z"
+      "id": "fc0887819312",
+      "title": "Colombia, \"escena de horror\" mientras rescatistas buscan escombros en Pereira",
+      "link": "http://es.euronews.com/video/2026/08/13/colombia-escena-de-horror-mientras-rescatistas-buscan-escombros-en-pereira",
+      "image": null,
+      "snippet": "El balance de muertos del terremoto en Colombia ascendió a 265 en Pereira a 12 de agosto de 2026, con casi 500 personas aún desaparecidas. Los equipos de rescate describieron escen",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T07:32:47.000Z"
     },
     {
       "id": "4fd53995150c",
@@ -429,6 +591,18 @@
       "country": "PE",
       "countryLabel": "Perú",
       "isoDate": "2026-08-13T07:32:33.000Z"
+    },
+    {
+      "id": "9b9abaab85e2",
+      "title": "Viajó en bus al Priorat pensando volver ese mismo día y se quedó 40 años: “Si no me hubiera dedicado al vino tendría más patrimonio, pero no habría sido tan feliz”",
+      "link": "https://www.clarin.com/internacional/viajo-bus-priorat-pensando-volver-mismo-dia-quedo-40-anos-dedicado-vino-patrimonio-feliz_0_YcDT9XUYV5.html",
+      "image": "https://www.clarin.com/img/2026/08/12/xTA6cktg9_1200x630__1.jpg",
+      "snippet": "Jordi Vidal fue a matricularse a la Escuela de Enología de Falset y terminó enlazando veinte días de vendimia. Años después, una boda lo llevó a fundar la bodega La Conreria d’Esca",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-13T07:30:30.000Z"
     },
     {
       "id": "a0a1e6e9073b",
@@ -489,6 +663,18 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-08-13T07:23:55.000Z"
+    },
+    {
+      "id": "171a9cabb641",
+      "title": "El ébola en Congo apunta a ser el más mortal de la historia, según la OMS",
+      "link": "http://es.euronews.com/2026/08/13/el-ebola-en-congo-apunta-a-ser-el-mas-mortal-de-la-historia-segun-la-oms",
+      "image": null,
+      "snippet": "\"Al ritmo actual, va camino de superar el brote de ébola en África Occidental de 2014 a 2016\", declaró el director de la OMS, Tedros Adhanom Ghebreyesus, a los periodistas el miérc",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T07:20:52.000Z"
     },
     {
       "id": "dbea5f4384ac",
@@ -573,6 +759,30 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-08-13T07:08:41.000Z"
+    },
+    {
+      "id": "3bb74fc27b0f",
+      "title": "Ampliación de la UE, Bruselas afronta su momento de la verdad",
+      "link": "http://es.euronews.com/my-europe/2026/08/13/ampliacion-de-la-ue-bruselas-afronta-su-momento-de-la-verdad",
+      "image": null,
+      "snippet": "La ampliación de la UE afrontará en los próximos meses su momento de la verdad, con Montenegro y Albania cerca de entrar, Ucrania y Moldavia avanzando y Bruselas sopesando reformas",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T07:04:49.000Z"
+    },
+    {
+      "id": "2d06de020260",
+      "title": "El gobierno colombiano eleva las víctimas del terremoto a 265 muertos, 3.500 heridos y 496 desaparecidos",
+      "link": "https://www.20minutos.es/internacional/menos-265-muertos-496-desaparecidos-terremoto-colombia-segun-gobierno_7025281_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/13/6a7d6a2dee1192-49986924.jpeg",
+      "snippet": "\"Tenemos 25.872 familias afectadas, 53.816 personas, lamentablemente 265 fallecidos, 3.494 heridos\"",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-13T07:03:16.000Z"
     },
     {
       "id": "f1d1a572f369",
@@ -695,6 +905,18 @@
       "isoDate": "2026-08-13T06:57:30.000Z"
     },
     {
+      "id": "125c22c4f9a7",
+      "title": "Banderas, la realeza europea y Trump: así ha vivido la fama mundial el eclipse",
+      "link": "http://es.euronews.com/my-europe/2026/08/13/antonio-banderas-brian-may-o-donald-trump-asi-ha-vivido-la-fama-mundial-el-eclipse-solar",
+      "image": null,
+      "snippet": "Desde Málaga hasta un observatorio del siglo XVII en Copenhague, el eclipse que ha oscurecido España de punta a punta también ha tenido a sus estrellas particulares.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T06:56:41.000Z"
+    },
+    {
       "id": "57a8f1d79dd3",
       "title": "Actriz Gloria María Solari presenta “Saltimbanquis”, su nueva obra de teatro familiar",
       "link": "https://elcomercio.pe/luces/teatro/actriz-gloria-maria-solari-presenta-saltimbanquis-su-nueva-obra-de-teatro-familiar-ultimas-noticia/",
@@ -731,6 +953,18 @@
       "isoDate": "2026-08-13T06:56:09.000Z"
     },
     {
+      "id": "c7b93f459e62",
+      "title": "Travis Kelce ve su boda íntima con Taylor Swift como \"la mejor noche de su vida\"",
+      "link": "http://es.euronews.com/cultura/2026/08/13/travis-kelce-ve-su-boda-intima-con-taylor-swift-como-la-mejor-noche-de-su-vida",
+      "image": null,
+      "snippet": "El jugador de fútbol americano Travis Kelce ha hablado por primera vez de su discreto matrimonio con Taylor Swift y de cómo se siente al unirse a la estrella del pop.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T06:47:58.000Z"
+    },
+    {
       "id": "c469e69eff0b",
       "title": "Fricción entre Marruecos y España tras crisis migratoria en Ceuta",
       "link": "https://www.france24.com/es/video/20260813-fricci%C3%B3n-entre-marruecos-y-espa%C3%B1a-tras-crisis-migratoria-en-ceuta",
@@ -741,18 +975,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-13T06:43:56.000Z"
-    },
-    {
-      "id": "03a835e6ccd6",
-      "title": "Mercadona busca trabajadores sin experiencia con sueldos de hasta 2.346 euros más plus de nocturnidad",
-      "link": "https://www.abc.es/espana/comunidad-valenciana/mercadona-busca-trabajadores-experiencia-sueldos-2346-euros-20260813075102-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/08/13/mercadona-supermercado-empleo-RMBflVZg99trfjLGvfIqhON-1200x840@diario_abc.jpg",
-      "snippet": "Mercadona busca personal en sus bloques logísticos ubicados en diferentes puntos de España para puestos de reponedores, preparadores de pedidos y mozos de almacén con sueldos que p",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-13T06:41:11.000Z"
     },
     {
       "id": "f41785e97e1d",
@@ -791,6 +1013,30 @@
       "isoDate": "2026-08-13T06:32:41.000Z"
     },
     {
+      "id": "32d7080d9b39",
+      "title": "Un vertido de un petrolero ruso alcanza la costa de Omán, según las autoridades de Mascate",
+      "link": "http://es.euronews.com/2026/08/13/un-vertido-de-un-petrolero-ruso-alcanza-la-costa-de-oman-segun-las-autoridades-de-mascate",
+      "image": null,
+      "snippet": "Las playas de Ras Madrakah, en el territorio continental de Omán y situadas unos 200 kilómetros al norte de la isla de Qabiliyah, también se han contaminado de acuerdo con la Autor",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T06:31:01.000Z"
+    },
+    {
+      "id": "7113de8d74d7",
+      "title": "Medio millón de visitantes acude a España para ver el eclipse solar total",
+      "link": "http://es.euronews.com/video/2026/08/13/medio-millon-de-visitantes-acude-a-la-franja-espanola-del-eclipse-total",
+      "image": null,
+      "snippet": "España vivió su primer eclipse solar total en más de un siglo el miércoles 12 de agosto, que llevó a millones de personas a puntos de observación en el norte del país mientras la L",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T06:30:08.000Z"
+    },
+    {
       "id": "9ebd5d006857",
       "title": "Blanca Boto, nutricionista: “Si después de comer necesitas beber café o una bebida con azúcar, puede ser que la comida no haya sido completa y equilibrada”",
       "link": "https://www.clarin.com/internacional/blanca-boto-nutricionista-despues-comer-necesitas-beber-cafe-bebida-azucar-puede-comida-completa-equilibrada_0_WNnZf11hrZ.html",
@@ -815,16 +1061,16 @@
       "isoDate": "2026-08-13T06:27:54.000Z"
     },
     {
-      "id": "5be4fed59d65",
-      "title": "¿",
-      "link": "https://www.abc.es/favorito/electronica/wearables/un-reloj-con-wear-os-de-20260811085900-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/08/11/portada-20260811090115-R0GUtRtkAe8Tx7ejSaeqY5M-1200x840@diario_abc.jpg",
-      "snippet": "Cada vez que me pongo a mirar un smartwatch con el sistema de Google dentro, la ilusión me dura hasta que llego a la línea de la batería. Wear OS trae lo bueno, las apps de siempre",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-13T06:26:06.000Z"
+      "id": "25c2e4f4c1b5",
+      "title": "El eclipse solar sumergió a parte de Europa en la oscuridad",
+      "link": "http://es.euronews.com/video/2026/08/13/un-raro-eclipse-sumerge-a-parte-de-europa-en-la-oscuridad",
+      "image": null,
+      "snippet": "Observadores del cielo de toda Europa se han reunido para contemplar un inusual eclipse solar, usando gafas protectoras mientras la Luna pasaba por delante del Sol.",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T06:26:11.000Z"
     },
     {
       "id": "c44196664838",
@@ -837,18 +1083,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-08-13T06:19:00.000Z"
-    },
-    {
-      "id": "4420a675c7c6",
-      "title": "Google lanza la gama 11 del Pixel y toda la familia Pixel 10 baja de precio en el mejor momento",
-      "link": "https://www.abc.es/favorito/electronica/moviles-smartphones/google-lanza-gama-pixel-familia-pixel-baja-20260813081000-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/favorito/2026/08/13/image-ROmQlM4D3nCZ66Z0E3SzzZI-1200x840@diario_abc.png",
-      "snippet": "Si llevas meses siguiendo cada filtración de Google y esperando el momento de dar el salto a un Pixel, hoy te conviene mirar el precio con lupa . No por lo que se estrena, sino por",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-13T06:10:00.000Z"
     },
     {
       "id": "be2e56e2fe74",
@@ -873,6 +1107,18 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-08-13T06:05:00.000Z"
+    },
+    {
+      "id": "f73b2296e2a5",
+      "title": "Suben a 265 los muertos, entre ellos un español, y a 496 los desaparecidos por el terremoto de Colombia",
+      "link": "http://es.euronews.com/2026/08/13/el-terremoto-de-colombia-eleva-a-265-los-muertos-y-a-496-los-desaparecidos",
+      "image": null,
+      "snippet": "Abelardo De La Espriella explica que los equipos de rescate continúan trabajando sobre el terreno para intentar encontrar supervivientes. El chef español José Andrés dona un millón",
+      "source": "Euronews Español",
+      "sourceId": "euronews",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-13T06:03:26.000Z"
     },
     {
       "id": "682a281da25e",
@@ -1127,30 +1373,6 @@
       "isoDate": "2026-08-13T05:06:09.000Z"
     },
     {
-      "id": "1722b809e4d7",
-      "title": "La reflexión de Séneca, filósofo: \"Cuando uno es amigo de sí mismo, lo es también de todo el mundo”",
-      "link": "https://www.clarin.com/internacional/reflexion-seneca-filosofo-amigo-mismo-mundo_0_OqfcTmL087.html",
-      "image": "https://www.clarin.com/img/2026/08/12/CV9G4r5Ty_1200x630__1.jpg",
-      "snippet": "La frase aparece dentro de las Epístolas morales a Lucilio, una de las obras centrales del estoicismo romano. El pasaje relaciona la amistad con uno mismo, la vida compartida y la ",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T05:00:29.000Z"
-    },
-    {
-      "id": "548b688fdb93",
-      "title": "Rafa Nadal: «Me levanto a las 6, llevo a mi hijo al colegio y voy al gimnasio tres veces a la semana»",
-      "link": "https://www.abc.es/gente/rafa-nadal-anos-levanto-llevo-hijo-colegio-20260813132317-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/gente/2026/08/12/newspaint-1786533687262-1200x840-kZUC-U301242672790hXB-1200x840@diario_abc.jpg",
-      "snippet": "En octubre se cumplirán dos años desde que Rafa Nadal anunciara su retirada del tenis tras toda una vida dedicada a este deporte y una carrera de leyenda. A sus 40 años y ya alejad",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-13T05:00:13.000Z"
-    },
-    {
       "id": "7deb6acb77c5",
       "title": "Informe desde Cali: continúa carrera por encontrar sobrevivientes, pero las esperanzas disminuyen",
       "link": "https://www.france24.com/es/video/20260813-informe-desde-cali-contin%C3%BAa-carrera-por-encontrar-sobrevivientes-pero-las-esperanzas-disminuyen",
@@ -1281,18 +1503,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-08-13T04:14:56.000Z"
-    },
-    {
-      "id": "9b912a2fad08",
-      "title": "Así quedó conformada la final masculina del Masters 1000 de Montreal",
-      "link": "https://www.lanacion.com.ar/deportes/tenis/asi-quedo-conformada-la-final-masculina-del-masters-1000-de-montreal-nid13082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/4ABGS5QJ5RET7PPVZZKTPSWKOM.jpg?auth=be4b4e89ef6744a045bba19779134401fe7e45f0d1c407e25334f8e59ca37a09&smart=true&width=2000&height=1333",
-      "snippet": "Brandon Nakashima y Ben Shelton superaron sus respectivos compromisos de semifinales y se disputarán el trofeo en la definición de este jueves",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-13T04:12:34.000Z"
     },
     {
       "id": "cf9a2c160f9c",
@@ -1763,18 +1973,6 @@
       "isoDate": "2026-08-12T22:57:45.000Z"
     },
     {
-      "id": "caaf9d96942e",
-      "title": "Secretaria de prensa Karoline Leavitt dejará la Casa Blanca a finales de agosto",
-      "link": "https://www.elnacional.com/2026/08/secretaria-de-prensa-karoline-leavitt-dejara-la-casa-blanca-a-finales-de-agosto/",
-      "image": null,
-      "snippet": "A pesar de su salida de la estructura oficial, Leavitt no se alejará del proyecto político del presidente; por el contrario, asumirá un rol estratégico como asesora externa y voz i",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-12T22:51:28.000Z"
-    },
-    {
       "id": "afef932e99ce",
       "title": "Mexicana vs. Volaris y Viva: ¿cómo compite la aerolínea estatal por los pasajeros de bajo costo?",
       "link": "https://expansion.mx/empresas/2026/08/12/mexicana-vs-volaris-y-viva-que-aerolinea-tiene-mas-vuelos",
@@ -1847,8 +2045,8 @@
       "isoDate": "2026-08-12T21:49:29.000Z"
     },
     {
-      "id": "0a18049d1e02",
-      "title": "Nos pagan 6 pesos por paquete”: la experiencia real de convertir una tiendita en punto Mercado Libre",
+      "id": "bad7dedd4f15",
+      "title": "\"Nos pagan 6 pesos por paquete”: la experiencia real de convertir una tiendita en punto Mercado Libre",
       "link": "https://expansion.mx/tecnologia/2026/08/12/mercado-libre-nos-da-6-pesos-por-paquete-tienditas",
       "image": "https://cdn-3.expansion.mx/dims4/default/f1ccf98/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4e%2F0e%2F40a1fd624d66ba560cd32aae9e63%2Fabarrotes-22omega-22.jpg",
       "snippet": "El registro es gratuito y la empresa paga por cada paquete procesado, aquí los requisitos, el proceso y cuánto podría ganar un negocio.",
@@ -2051,18 +2249,6 @@
       "isoDate": "2026-08-12T20:49:12.000Z"
     },
     {
-      "id": "5172f481f3c4",
-      "title": "Testigos de un evento único: \"Superó mis expectativas, me puso los pelos de punta\"",
-      "link": "https://www.20minutos.es/madrid/los-madrilenos-presencian-dia-que-se-hizo-noche-dos-veces-eclipse-ha-superado-mis-expectativas-me-puso-los-pelos-punta_7025250_0.html",
-      "image": "https://imagenes.20minutos.es/uploads/imagenes/2026/08/12/6a7cd7ef87f146-16901407.gif",
-      "snippet": "Miles de madrileños se han congregado en el Parque Forestal Valdebernardo, en Vicálvaro, para presenciar el evento astronómico del año.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T20:47:32.000Z"
-    },
-    {
       "id": "f9d1eb0a8638",
       "title": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
       "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
@@ -2217,18 +2403,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-12T19:23:35.000Z"
-    },
-    {
-      "id": "4c0c9d1c2321",
-      "title": "Decepción en Asturias: las nubes impiden ver el eclipse en la costa y gran parte del interior",
-      "link": "https://www.20minutos.es/asturias/decepcion-asturias-las-nubes-impiden-ver-eclipse-costa-gran-parte-interior_7025242_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/08/12/6a7cc542857134-41090761.jpeg",
-      "snippet": "La región era un de las mejores zonas para poder disfrutar del evento.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-12T19:13:11.000Z"
     },
     {
       "id": "a9aeb9881f4b",
