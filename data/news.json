@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:18:52.641Z",
+  "updatedAt": "2026-08-15T02:52:58.832Z",
   "count": 257,
   "sources": [
     {
@@ -119,6 +119,654 @@
   ],
   "items": [
     {
+      "id": "8f98e347cef9",
+      "title": "Resultados de los cuartos de final del Mundial Sub 17 de vóley 2026 HOY: así quedaron los partidos",
+      "link": "https://www.infobae.com/peru/deportes/2026/08/14/resultados-de-los-cuartos-de-final-del-mundial-sub-17-de-voley-2026-hoy-asi-van-los-partidos/",
+      "image": "https://www.infobae.com/resizer/v2/VUGM7WACPREFZMZ6NSWARFL3MA.jpg?auth=c23be40108c4cba3d7c13c3e2a4466a16cc54e9553b4958a51e5018c5beae5d9&smart=true&width=1920&height=1080",
+      "snippet": "Arranca la ronda final de la competencia y solo cuatro equipos llegarán a las semifinales. Perú luchará frente Argentina por el puesto del 9° al 16°",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:48:20.000Z"
+    },
+    {
+      "id": "a663371f9475",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy 14 de agosto: se mantiene la Alerta Amarilla por fuertes lluvias con granizo y caída de rayos en la capital",
+      "link": "https://www.infobae.com/mexico/2026/08/14/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-viernes-14-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/B2MHGBTOQVC2DLPAIKHZED3A4E.jpg?auth=64019d7e70ad69587efc4d294d449f2028257b5013ea60bd8a8ad9ab79e402e5&smart=true&width=1920&height=1080",
+      "snippet": "Consulta las últimas noticias y actualizaciones del clima: pronóstico, alertas y reportes sobre las condiciones meteorológicas más importantes",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:47:40.000Z"
+    },
+    {
+      "id": "95b1933c8ef9",
+      "title": "Previsión meteorológica del clima en Sevilla para este sábado 15 de agosto",
+      "link": "https://www.infobae.com/espana/2026/08/15/prevision-meteorologica-del-clima-en-sevilla-para-este-sabado-15-de-agosto/",
+      "image": "https://www.infobae.com/resizer/v2/D5M4UOHTJJDYVKGN2PM7G2CDAE.png?auth=e74057fdd387b4050eb9331ee303e8d3f3d20ca3b0adf3aeffeddba5e656eb2e&smart=true&width=1920&height=1080",
+      "snippet": "Los fenómenos meteorológicos y análisis de probabilidad permiten dar información sobre la temperatura, lluvias y vientos para las próximas horas",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:46:10.000Z"
+    },
+    {
+      "id": "3cdb36bce9f1",
+      "title": "Armilla (Granada) abre parques y un complejo deportivo a vecinos asustados por el seísmo",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/15/armilla-granada-abre-parques-y-un-complejo-deportivo-a-vecinos-asustados-por-el-seismo/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:46:08.000Z"
+    },
+    {
+      "id": "68485d905a3b",
+      "title": "Una quincena de temblores se suman al terremoto de intensidad 5 de Alhendín (Granada)",
+      "link": "https://www.infobae.com/espana/agencias/2026/08/15/una-quincena-de-temblores-se-suman-al-terremoto-de-intensidad-5-de-alhendin-granada/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:45:51.000Z"
+    },
+    {
+      "id": "1dfc1af8e391",
+      "title": "Taiwán aprueba el presupuesto de 2026, con financiación para drones, tras retraso récord",
+      "link": "https://www.infobae.com/america/agencias/2026/08/15/taiwan-aprueba-el-presupuesto-de-2026-con-financiacion-para-drones-tras-retraso-record/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:45:34.000Z"
+    },
+    {
+      "id": "37a077fa3076",
+      "title": "La Fundación Santo Domingo donará $100.000 millones y Estados Unidos aumentó su ayuda tras el terremoto en Colombia, que deja casi 300 muertos",
+      "link": "https://www.infobae.com/colombia/2026/08/15/la-fundacion-santo-domingo-donara-100000-millones-y-estados-unidos-aumento-su-ayuda-tras-el-terremoto-en-colombia-que-deja-casi-300-muertos/",
+      "image": "https://www.infobae.com/resizer/v2/SVOH2KCWVBCMVFPVFODFTKJYBY.jpeg?auth=d9f4a941cf2f760c03760e231a8dcb480306545e5d5fe054cf549dd53484dcd7&smart=true&width=1013&height=554",
+      "snippet": "El sismo de 7,4 que se registró el 10 de agosto ya deja un saldo de 288 muertos y miles de damnificados en varios departamentos",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:45:21.000Z"
+    },
+    {
+      "id": "1ddcdd90080f",
+      "title": "Un terremoto de magnitud 5 en el sur de España provoca daños materiales",
+      "link": "https://www.infobae.com/america/agencias/2026/08/15/un-terremoto-de-magnitud-5-en-el-sur-de-espana-provoca-danos-materiales/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:45:17.000Z"
+    },
+    {
+      "id": "0aad43343824",
+      "title": "Terremoto en Colombia: por qué sentimos que “en cualquier momento volverá a temblar” y cuándo debemos pedir ayuda",
+      "link": "https://www.infobae.com/colombia/2026/08/15/terremoto-en-colombia-por-que-sentimos-que-en-cualquier-momento-volvera-a-temblar-y-cuando-debemos-pedir-ayuda/",
+      "image": "https://www.infobae.com/resizer/v2/B2FYEEOGB5DMDHAOIC2SWS7ZEM.png?auth=aad502258153de88d8775bde30659d85edb3f3e20dbe71763bfb0717579ba393&smart=true&width=2752&height=1536",
+      "snippet": "La Universidad de La Sabana publicó una guía con recomendaciones para afrontar el miedo, la ansiedad y la exposición constante a información sobre nuevos sismos, además de identifi",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:43:01.000Z"
+    },
+    {
+      "id": "7f0c06ede43c",
+      "title": "Se mantiene alerta por el fenómeno El Niño Costero: podría continuar hasta el verano de 2027",
+      "link": "https://www.infobae.com/peru/2026/08/15/se-mantiene-alerta-por-el-fenomeno-el-nino-costero-podria-continuar-hasta-el-verano-de-2027/",
+      "image": "https://www.infobae.com/resizer/v2/ORT5MQ7YOVGNLNWICJPXRJUGGQ.jpg?auth=133e792275a2cb4b5590a7743bb5034066882e417d547582a117d4abbb35e7ca&smart=true&width=1920&height=1080",
+      "snippet": "ENFEN proyecta temperaturas superiores a lo habitual en la costa y cambios en la distribución de especies marinas, mientras recomienda reforzar las medidas de prevención ante posib",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:42:58.000Z"
+    },
+    {
+      "id": "f0a2e5260dfd",
+      "title": "Driulys Rivas hace historia para Perú y conquista el bronce en el Grand Prix de Judo Lima 2026",
+      "link": "https://elcomercio.pe/deporte-total/polideportivo/driulys-rivas-hace-historia-para-peru-y-conquista-el-bronce-en-el-grand-prix-de-judo-lima-2026-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/KV2HVZOLYVACTLUC6B2E53T7C4.jpeg?auth=86b2cebe8dbdd0f4b8e4a5887745e9e3fe2421dfd58b398eea365103fe0d6f90&smart=true&width=4517&height=3011",
+      "snippet": "La judoca peruana subió al podio en la jornada inaugural del torneo internacional, que reúne a 350 deportistas de 60 países en Lima.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:42:52.000Z"
+    },
+    {
+      "id": "9c4a27916194",
+      "title": "Un terremoto de magnitud 5 hizo temblar Granada: provocó daños materiales y evacuaciones de emergencia",
+      "link": "https://www.infobae.com/espana/2026/08/15/un-terremoto-de-magnitud-5-hizo-temblar-granada-provoco-danos-materiales-y-evacuaciones-de-emergencia/",
+      "image": "https://www.infobae.com/resizer/v2/ZLHBPCVOHJHHVJID77BTGZ7JMA.jpg?auth=b4781cd81e1add1f9414147f0ce4dd7461d231f747cd382b0dc1f992639b7073&smart=true&width=1920&height=1080",
+      "snippet": "El sismo, con epicentro en Alhendín, se produjo a la 1:04 horas de este sábado y a 10 kilómetros de profundidad, según el Instituto Geográfico Nacional, y fue percibido por la pobl",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:42:45.000Z"
+    },
+    {
+      "id": "90cc2f752e28",
+      "title": "Marco Trungelliti logró su primera victoria en el Masters 1000 de Cincinnati con un punto para el recuerdo",
+      "link": "https://www.lanacion.com.ar/deportes/marco-trungelliti-logro-su-primera-victoria-en-el-masters-1000-de-cincinnati-con-un-punto-para-el-nid14082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/4VCSEESQRBETNPP4ADNHRNWREU.jpg?auth=7512444033247bb4e2124efa3734458fa99631c7cff7fd560b71886552fd41e0&smart=true&width=1080&height=762",
+      "snippet": "El santiagueño de 36 años tuvo un partido memorable frente al serbio Hamad Medjedovic y se impuso por 7-5 y 7-6 (7-2)",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:41:44.000Z"
+    },
+    {
+      "id": "ab783ffe7035",
+      "title": "Temblor de 7,4 en Colombia el 10 de agosto En VIVO: Estados Unidos aumentó los recursos en ayuda humanitaria; el número de muertos ascendió a 288",
+      "link": "https://www.infobae.com/colombia/2026/08/14/temblor-de-74-en-colombia-el-10-de-agosto-se-actualizo-el-numero-de-fallecidos-en-todo-el-pais/",
+      "image": "https://www.infobae.com/resizer/v2/ZEIEQARANNEGRIKD4EKDETJG7Q.JPG?auth=036cc5b9517f993ea5282eec914be30fdb77bd9786fb924d442f02a2b320330b&smart=true&width=5500&height=3667",
+      "snippet": "La Ungrd informó que a las víctimas se suman 3.975 heridos y 379 desaparecidos",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:39:55.000Z"
+    },
+    {
+      "id": "2c84a2b8710e",
+      "title": "España: Sismo de magnitud 5,2 sacude Granada y deja daños materiales",
+      "link": "https://elcomercio.pe/mundo/espana/espana-sismo-de-magnitud-52-sacude-granada-y-deja-danos-materiales-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/3E7VMOF6GFC2FAPTXHT4GIGNKU.jpg?auth=6380bd49bd9d0f2d2e957ce85de45208da4397674dd4fa2cdfc378f2cb977886&smart=true&width=1200&height=800",
+      "snippet": "Un sismo de magnitud 5,2 remeció la provincia española de Granada durante la madrugada del sábado y fue sentido en varias regiones del país. El movimiento provocó más de 80 llamada",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:39:51.000Z"
+    },
+    {
+      "id": "675355786b43",
+      "title": "Sorteo Superior 2894: Resultados viernes 14 de agosto del 2026 de la Lotería Nacional",
+      "link": "https://www.infobae.com/mexico/2026/08/15/sorteo-superior-2894-resultados-viernes-14-de-agosto-del-2026-de-la-loteria-nacional/",
+      "image": "https://www.infobae.com/resizer/v2/PNJK6AERQZC3XLM643ID2CXLBE.png?auth=6a60a512a9f9a6783c36cdf4a46f9c84b6a117c508b6eef5b2704f3f23508057&smart=true&width=396&height=234",
+      "snippet": "Si compraste uno de los cachitos ganadores puedes cobrar el premio en un lapso de 60 días después de que se dieran a conocer los resultados",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:39:16.000Z"
+    },
+    {
+      "id": "5e9e3eae0aa3",
+      "title": "Cofepris responde a alerta de EEUU y descarta Salmonella en jalapeños mexicanos",
+      "link": "https://www.infobae.com/mexico/2026/08/15/cofepris-responde-a-alerta-de-eeuu-y-descarta-salmonella-en-jalapenos-mexicanos/",
+      "image": "https://www.infobae.com/resizer/v2/C5FVTQZ3FBDTZHDKY626X2QI2Y.png?auth=810e151d2435a69e3ce2e186af9b4a6ba2671dacee43fe6c4f279233c494190b&smart=true&width=2752&height=1536",
+      "snippet": "La investigación sanitaria se realizó luego de que autoridades estadounidenses relacionaran estos productos con un brote de salmonelosis",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:38:40.000Z"
+    },
+    {
+      "id": "3250498acd80",
+      "title": "Precio del dólar en Perú hoy, sábado 15 de agosto: cuál es el tipo de cambio del día",
+      "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-hoy-en-peru-a-cuanto-esta-el-dolar-y-tipo-de-cambio-este-sabado-15-de-agosto-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/B2IKNO7NK5DOXAIV4TB56YWB74.jpg?auth=7f69964a975d3ff4b58cd1752e34fa321b71506e496f92e17b7cfc74e96344e7&smart=true&width=1200&height=700",
+      "snippet": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 15 de agosto. Revisa los movimientos de la moneda estadounidense en el ",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:37:03.000Z"
+    },
+    {
+      "id": "c8631cb38c08",
+      "title": "Gobierno de Bolivia elimina por decreto los ministerios de Planificación y Turismo",
+      "link": "https://www.latercera.com/mundo/noticia/gobierno-de-bolivia-elimina-por-decreto-los-ministerios-de-planificacion-y-turismo/",
+      "image": "https://www.latercera.com/resizer/v2/CFVAJRJRFZCS3M2JC4EPYFGKRU.jpeg?auth=4d1c0bbb60fd7628a43de0e46671ac64fe48c1d71e1cdf170429382741c111f7&smart=true&width=1270&height=768",
+      "snippet": "El extenso decreto 5675 también establece los principios que orientan la gestión de los servidores públicos y le entrega al mandatario boliviano, Rodrigo Paz, la posibilidad de des",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-15T02:35:27.000Z"
+    },
+    {
+      "id": "7dbdaf7e109a",
+      "title": "'Atrapados' en la espera: los cuatro días de angustia frente al derrumbe de una parte del Hospital Universitario del Valle",
+      "link": "https://www.eltiempo.com/colombia/cali/atrapados-en-la-espera-los-cuatro-dias-de-angustia-frente-al-derrumbe-de-una-parte-del-hospital-universitario-del-valle-3578522",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/14/6a7f9406da9d7.png",
+      "snippet": "Aunque Medicina Legal no opera a plenitud por sus afectaciones, en su parqueadero, varias personas esperan noticias de sus familiares entre escombros.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-08-15T02:32:37.000Z"
+    },
+    {
+      "id": "cc82a50d731d",
+      "title": "Aditi Nerurkar, médica de Harvard: “Escribe cinco cosas por las que estás agradecido cada día”",
+      "link": "https://www.lanacion.com.ar/lifestyle/aditi-nerurkar-medica-de-harvard-escribe-cinco-cosas-por-las-que-estas-agradecido-cada-dia-nid14082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/T6KX6HTAYBBF3ISOW5VJ4TUEYM.png?auth=4a78d31ff4ade1ac43fef17c535b5d02aa8f46c1d88174012955cb42c78947a4&smart=true&width=2000&height=1333",
+      "snippet": "Descubre la técnica de Aditi Nerurkar para reducir la ansiedad y mejorar el ánimo mediante una práctica diaria de gratitud y hábitos antiestrés.",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:30:00.000Z"
+    },
+    {
+      "id": "148258963e84",
+      "title": "Sorteo Superior del viernes 14 de agosto: mira la tabla de premios de la Lotería Nacional",
+      "link": "https://elcomercio.pe/respuestas/mexico/resultados-sorteo-superior-2894-en-vivo-hoy-viernes-14-de-agosto-de-2026-pizarra-y-lista-de-numeros-ganadores-loteria-de-mexico-mx-cdmx-estados-unidos-eeuu-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/BRSZFAVHFBHCTG52LM2JALSWUY.png?auth=b14feba1c4844c5ee56481b251d23c6d83cffeca5f0b0f09544361b138685656&smart=true&width=1200&height=700",
+      "snippet": "Sorteo Superior EN VIVO hoy viernes 14 de agosto: resultados, números ganadores y premio mayor del sorteo 2894 de la Lotería Nacional de México, que tiene un premio mayor de 17 mil",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:27:19.000Z"
+    },
+    {
+      "id": "0f36a231e3ee",
+      "title": "Resultados del Sorteo Superior 2894: números ganadores y premios del viernes 14 de agosto",
+      "link": "https://elcomercio.pe/respuestas/mexico/sorteo-superior-2894-en-vivo-hoy-resultados-y-ganadores-del-viernes-14-de-agosto-de-2026-de-loteria-nacional-loteria-de-mexico-mx-cdmx-estados-unidos-eeuu-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/6VR4B5CCSZENNBGMU56LQMSO5M.jfif?auth=93e8d8cde8ce81a8f4ac54f4053772f72dfb533093c32784761a1e00f2885a19&smart=true&width=800&height=471",
+      "snippet": "Sorteo Superior EN VIVO hoy viernes 14 de agosto resultados, números ganadores y premio mayor del sorteo 2894 de la Lotería Nacional de México, que tiene un premio mayor de 17 mill",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:27:14.000Z"
+    },
+    {
+      "id": "f877be6525eb",
+      "title": "Qué ver en Netflix: las mejores series y películas para disfrutar este fin de semana largo",
+      "link": "https://www.lanacion.com.ar/espectaculos/que-ver-en-netflix-las-mejores-series-y-peliculas-para-disfrutar-este-fin-de-semana-largo-nid14082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/VQXOM467VRCGNJUGVHRWNXFS2A.jpg?auth=76cddba72d70937850f9a7735dd91d6ec094c76f05defb59307a167eebbd01e2&smart=true&width=2000&height=1333",
+      "snippet": "La lista de las producciones más vistas por los suscriptores de Argentina para que disfrutes de un fin de semana a puro streaming; la lista completa",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:26:49.000Z"
+    },
+    {
+      "id": "921a12378247",
+      "title": "Gian Piero Díaz y Rossana Fernández-Maldonado regresan al cine con “Amigo, por ahí no es”",
+      "link": "https://elcomercio.pe/luces/cine/gian-piero-diaz-y-rossana-fernandez-maldonado-regresan-al-cine-con-amigo-por-ahi-no-es-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/I6MNODQZCNHH5DTTXNRLWYBKN4.jpeg?auth=e2ca14b0b566d2efe2eeb3409f0249a4d2910cf83abb40f21a44d23ad0706464&smart=true&width=1600&height=900",
+      "snippet": "Los actores interpretarán a los padres del personaje de Miranda Capurro, ‘influencer’ que debutará en el cine con este nuevo proyecto",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:26:41.000Z"
+    },
+    {
+      "id": "0db21dc7ccc1",
+      "title": "Construyeron el Gran Anillo: ganó un Récord Guinness como la estructura de madera más grande del mundo y ahora quieren demolerla",
+      "link": "https://www.lanacion.com.ar/el-mundo/construyeron-el-gran-anillo-gano-un-record-guinness-como-la-estructura-de-madera-mas-grande-del-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/TJ43SW7VR5AKRNOD5LDU4CP66Q.jpg?auth=e1ef41398c1120396e7c766897f895021593ef557a4953bdd335ce4941a4b6d6&smart=true&width=2000&height=1333",
+      "snippet": "La obra monumental, diseñada por Sou Fujimoto para la Expo 2025 de Osaka, se convirtió en un hito de la arquitectura sustentable; su continuidad enfrenta ahora un insólito debate p",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:25:01.000Z"
+    },
+    {
+      "id": "c949099dbb33",
+      "title": "Fue la mujer más deseada del mundo, transmitía sex appeal a los argentinos y ahora no le alcanza para vivir",
+      "link": "https://www.lanacion.com.ar/espectaculos/fue-la-mujer-mas-deseada-del-mundo-transmitia-sex-appeal-a-los-argentinos-y-ahora-no-le-alcanza-para-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/QYACDY3X35E4VGTTRUHSZQQAMM.jpg?auth=0a13a56207b8407f4388779f7363099e85e13d008511e655b5e1d75ecd2b8696&smart=true&width=2000&height=1333",
+      "snippet": "Ilona Staller, conocida mundialmente como Cicciolina, enfrenta hoy una realidad económica compleja tras décadas de fama; su historia mezcla espionaje, política, escándalos judicial",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:24:47.000Z"
+    },
+    {
+      "id": "ad2c418f8535",
+      "title": "Los niños que tocan un instrumento pueden mejorar la atención y la memoria, según un estudio de neurocientíficos",
+      "link": "https://www.lanacion.com.ar/ciencia/los-ninos-que-tocan-un-instrumento-pueden-mejorar-la-atencion-y-la-memoria-segun-un-estudio-de-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/42NUO5GPO5DTXKW2CL5HMDDSPM.jpg?auth=f74d26d1ea1b10338421527487f4b23e923e68f1771741b5c27c02c36341f5dc&smart=true&width=6000&height=4000",
+      "snippet": "Científicos evaluaron a cuarenta niños de entre 10 y 13 años y descubrieron que aquellos que practicaban un instrumento tenían grandes ventajas relacionadas con distintas funciones",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:24:32.000Z"
+    },
+    {
+      "id": "02598fd3f6ad",
+      "title": "Cómo preparar chimichurri para pizza: el truco infalible que utilizan todas las pizzerías",
+      "link": "https://www.lanacion.com.ar/recetas/como-preparar-chimichurri-para-pizza-el-truco-infalible-que-utilizan-todas-las-pizzerias-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZTCNPKSVHVAG5N6VFYLPKC344A.jpg?auth=65e480582a87df3197e5580eb6113bb413d499ed394cf536a9cc5f24682992c5&smart=true&width=6000&height=4000",
+      "snippet": "Con aceite, ajo, orégano, ají molido y algunos condimentos se puede preparar en pocos minutos el clásico aderezo que potencia el sabor de la muzzarella",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:24:12.000Z"
+    },
+    {
+      "id": "41f0e769e96c",
+      "title": "Rafa Nadal: “Creo que cada día hay más personas con más información sobre la importancia de cuidar el cuerpo”",
+      "link": "https://www.lanacion.com.ar/deportes/rafa-nadal-creo-que-cada-dia-hay-mas-personas-con-mas-informacion-sobre-la-importancia-de-cuidar-el-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/EW3I2ZSJ2JASJFV5VIVDOUC35E.jpg?auth=834ec60e02de7d24290ed8c71bd674bf9d1d473bec78102349400e2cea13589e&smart=true&width=6000&height=4000",
+      "snippet": "A los 40 años y retirado del tenis profesional, el español comenzó una nueva etapa vinculada con los negocios hoteleros, la educación y la promoción de vida saludable",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:23:43.000Z"
+    },
+    {
+      "id": "6ee27071f6dc",
+      "title": "Dylan, albañil argentino en Australia: “Después de 8 horas de trabajo, nos vamos a casa con 320 dólares”",
+      "link": "https://www.lanacion.com.ar/lifestyle/dylan-albanil-argentino-que-trabaja-en-australia-despues-de-8-horas-de-trabajo-nos-vamos-a-casa-con-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/6KBKXK5GFBD65MILQKOCXPMCZY.jpg?auth=b998d557be87df6980d3f9207c03c06a9ba5788534cd7e07062f7ebbf4f33722&smart=true&width=2000&height=1333",
+      "snippet": "A través de un video, el hombre mostró parte de su rutina laboral en Oceanía y explicó cuánto puede llegar a ganar; descubrí los detalles en la nota",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:23:18.000Z"
+    },
+    {
+      "id": "cf7251d61070",
+      "title": "De ver a su padre trabajar en los sets a compartir pantalla con él: la historia del heredero de Hollywood",
+      "link": "https://www.lanacion.com.ar/espectaculos/de-ver-a-su-padre-trabajar-en-los-sets-a-compartir-pantalla-con-el-la-historia-del-heredero-de-nid12082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/6IH77C5QMJDCTPVKRZ6DLH4ZCI.JPG?auth=4404421465d99b70a66a7dfa2ad7c221ade903acce50ac656fad02db0009bd80&smart=true&width=1964&height=1333",
+      "snippet": "A los 40 años, Wyatt Russell es uno de los nepo babies que resuena en Hollywood: fue convocado por Steven Spielberg y se sumó a Marvel con un icónico personaje que volverá en Aveng",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:22:40.000Z"
+    },
+    {
+      "id": "95a5514dce3c",
+      "title": "Rafa, albañil de 75 años: “Llegó un momento que dije la gente fuera, voy a trabajar con tres personas y los hago autónomos”",
+      "link": "https://www.lanacion.com.ar/lifestyle/rafa-albanil-de-75-anos-llego-un-momento-que-dije-la-gente-fuera-voy-a-trabajar-con-tres-personas-y-nid11082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/VANG7ISXEZD33I233NSEOMJ6EA.jpg?auth=d8174421c3db0dc5219a0afba946ff40effefdcf5ef6e717afa0276ed404aae0&smart=true&width=2000&height=1333",
+      "snippet": "El veterano constructor relata cómo la presión fiscal y la incertidumbre del sector lo obligaron a rediseñar su modelo de negocio; sostiene que el oficio atraviesa una crisis de re",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:22:23.000Z"
+    },
+    {
+      "id": "323ea7209092",
+      "title": "Gabriel Rolón: “La infidelidad mental no es infidelidad, vos no rompiste un pacto con tu pareja”",
+      "link": "https://www.lanacion.com.ar/lifestyle/gabriel-rolon-la-infidelidad-mental-no-es-infidelidad-vos-no-rompiste-un-pacto-con-tu-pareja-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/HXIF6IUUKFASZPXEBLDFVDOE44.png?auth=bb702cdbe443a25e608394459360f0e450f91806e247e1538918da25bffc7c5a&smart=true&width=2000&height=1333",
+      "snippet": "En diálogo con Perros de la Calle, el especialista reflexionó sobre los límites y los acuerdos dentro de una relación",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:22:03.000Z"
+    },
+    {
+      "id": "ba494b3692b5",
+      "title": "Rescate heroico: formaron una cadena humana para salvar a un perro atrapado en un canal",
+      "link": "https://www.lanacion.com.ar/lifestyle/mascotas/rescate-heroico-formaron-una-cadena-humana-para-salvar-a-un-perro-atrapado-en-un-canal-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/K5EOWX6U6ZBZ7LDHMOLNCW266U.jpg?auth=bfccd2140ad70f4ceb7e3a2d9d318088f5c0f9d8204d4fec7d6fe0fa9228b1e6&smart=true&width=2000&height=1333",
+      "snippet": "Vecinos del barrio El Tintal en Bogotá coordinaron un salvataje colectivo ante la mirada atónita de los transeúntes; el video del momento recorrió las redes sociales y despertó elo",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:21:42.000Z"
+    },
+    {
+      "id": "8825a0fb30ab",
+      "title": "Confucio, filósofo chino: “Cuando camino con otras dos personas, ambas pueden ser mis maestras”",
+      "link": "https://www.lanacion.com.ar/lifestyle/confucio-filosofo-chino-cuando-camino-con-otras-dos-personas-ambas-pueden-ser-mis-maestras-nid13082026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/MMB3AEDRQNDYVKE5VXP4L2U62U.jpg?auth=6fbefb690efcf38ecd1b6a432698c6f73d220708dac8b11b26ea5ac5f9a27dd8&smart=true&width=2000&height=1333",
+      "snippet": "El pensamiento milenario propone transformar cualquier encuentro humano en una oportunidad de aprendizaje, a través de la observación reflexiva y la humildad intelectual",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:21:22.000Z"
+    },
+    {
+      "id": "190879409cae",
+      "title": "Los expertos en psicología coinciden: las personas que imaginan obstáculos antes de comenzar una tarea esconden un miedo a decepcionarse de sí mismas",
+      "link": "https://elcomercio.pe/mag/respuestas/mx/los-expertos-en-psicologia-coinciden-las-personas-que-imaginan-obstaculos-antes-de-comenzar-una-tarea-esconden-un-miedo-a-decepcionarse-de-si-mismas-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/VO77NG4BENDDHNV3A3L55O652M.jpg?auth=2832d952aa8d102b3327197df1fec619051f4182e902157299997e8017815a69&smart=true&width=2400&height=1600",
+      "snippet": "Es un comportamiento que presentan millones de personas.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:21:08.000Z"
+    },
+    {
+      "id": "1575a4abaa89",
+      "title": "Temblor en Colombia hoy, viernes 14 de agosto: epicentro del último sismo según SGC",
+      "link": "https://elcomercio.pe/respuestas/colombia/temblor-hoy-en-colombia-en-vivo-hora-intensidad-epicentro-y-magnitud-del-ultimo-sismo-reportado-el-13-y-14-de-agosto-de-2026-segun-el-sgc-servicio-geologico-colombiano-santander-co-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/SG5GXNTE3ZHX3I2DSKJ2CRI64M.jpeg?auth=b550b8c5f9c2d300e36522c08200567fc8d5746a7493aa3a62e816c1c97626cc&smart=true&width=1200&height=700",
+      "snippet": "Temblor en Colombia EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Servicio Geológico Colombiano (SGC).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:16:51.000Z"
+    },
+    {
+      "id": "6376a6d48d3d",
+      "title": "Temblor en México hoy, viernes 14 de agosto: epicentro del último sismo según reporte SSN",
+      "link": "https://elcomercio.pe/respuestas/mexico/temblor-hoy-en-mexico-en-vivo-ultimos-sismos-de-agosto-cual-fue-el-epicentro-y-magnitud-segun-ultimo-reporte-del-ssn-servicio-sismologico-nacional-mexico-cdmx-mx-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/KVH35W3755A53GFRUI4DUQAWVI.png?auth=661df31113230a01aefe9289dcfb539568b2e70e42ca7e9203645401155e5fa0&smart=true&width=1200&height=700",
+      "snippet": "Temblor en México EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Servicio Sismológico Nacional (SSN).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:16:41.000Z"
+    },
+    {
+      "id": "b6d2caca9ed3",
+      "title": "Marta Fort reconoció que blanqueó a su nuevo novio como parte de una estrategia: “Quería quemarlo”",
+      "link": "https://www.clarin.com/fama/marta-fort-reconocio-blanqueo-nuevo-novio-parte-estrategia-queria-quemarlo_0_ewH71uHqyk.html",
+      "image": "https://www.clarin.com/img/2026/08/14/ErfABAUhJ_1200x630__1.jpg",
+      "snippet": "La influencer develó la insólita jugada detrás de la confirmación del vinculo sentimental. Explicó que lo hizo para despejar dudas sobre las verdaderas intenciones de su pretendien",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:10:40.000Z"
+    },
+    {
+      "id": "871ca19f2ab2",
+      "title": "Al menos dos muertos y estructuras derrumbadas tras un poderoso sismo de 7,7 en Indonesia",
+      "link": "https://www.france24.com/es/asia-pac%C3%ADfico/20260815-al-menos-dos-muertos-y-estructuras-derrumbadas-tras-un-poderoso-sismo-de-7-7-en-indonesia",
+      "image": "https://s.france24.com/media/display/9921f86e-984d-11f1-a805-005056a90284/w:1024/p:16x9/2026-08-15T014113Z-1023403747-RC2PYMA1SGBY-RTRMADP-3-INDONESIA-QUAKE.jpg",
+      "snippet": "Edificios y viviendas quedaron reducidos a escombros y dos personas perdieron la vida en un nuevo terremoto que sacudió en la madrugada del 15 de agosto la región de Flores, en Ind",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-15T02:05:36.000Z"
+    },
+    {
+      "id": "f38bccc76d16",
+      "title": "Tasa de interés: El BCR se muestra cauteloso, ¿qué tendría que ocurrir para que la tasa se eleve?",
+      "link": "https://elcomercio.pe/economia/peru/tasa-de-interes-el-bcr-se-muestra-cauteloso-que-tendria-que-ocurrir-para-que-la-tasa-se-eleve-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ST45BQP5TVH4VKV6XHC6HHFMV4.jpg?auth=31563dbfb68f8bffce0c5ee16c5040bec864717fa7a287ee7a50e3abce046ab3&smart=true&width=600&height=400",
+      "snippet": "Adrián Armas, gerente central de Estudios Económicos del BCR, señaló que las expectativas de inflación a 12 meses subieron a 3% en julio, mientras que las de 24 meses permanecieron",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T02:04:18.000Z"
+    },
+    {
+      "id": "0e1613be5cc2",
+      "title": "Chase Burns poncha a 8 en 7 innings y supera a Sandy Alcántara en triunfo de Rojos, 1-0 ante Marlins",
+      "link": "https://www.clarin.com/estados-unidos/chase-burns-poncha-a-8-en-7-innings-y-supera-a-sandy-alcantara-en-triunfo-de-rojos-1-0-ante-marlins_0_eBe3N9dnBJ.html",
+      "image": "https://www.clarin.com/img/2026/05/13/yk6nZwyum_1200x630__1.jpg",
+      "snippet": "Chase Burns brilló con ocho ponches y cuatro imparables permitidos en siete innings, liderando a Cincinnati a un triunfo 1-0 sobre Miami. Sandy Alcántara extendió su racha sin carr",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T02:00:06.000Z"
+    },
+    {
+      "id": "1fb261ccfeba",
+      "title": "En Quinta Normal detienen a “narcomilitar” colombiano requerido por Interpol por múltiples delitos",
+      "link": "https://www.latercera.com/nacional/noticia/en-quinta-normal-detienen-a-narcomilitar-colombiano-requerido-por-interpol-por-multiples-delitos/",
+      "image": "https://www.latercera.com/resizer/v2/V25VCQZM7VF6NDGVLAVSGJGNQQ.png?auth=a1f5a38fd3cea0f31cd723f8478a965bf841755afdf9e3bf46a6a23617a411c0&smart=true&width=1360&height=822",
+      "snippet": "El sujeto está asociado el Ejército Revolucionario Popular Antisubversivo de Colombia (ERPAC) y es investigado por homicidio y concierto para delinquir agravado.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-15T01:56:48.000Z"
+    },
+    {
+      "id": "cfc595257040",
+      "title": "Temblor en Perú: sismos reportados el viernes 14 de agosto",
+      "link": "https://elcomercio.pe/respuestas/hoy-temblor-en-peru-en-vivo-ultimos-sismos-13-y-14-de-agosto-2026-hora-magnitud-y-epicentro-del-reporte-segun-el-igp-instituto-geofisico-del-peru-lima-callao-junin-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ASZ3MSLGXREQFCQOXUUCXJM3MQ.webp?auth=6018930d414e3ff9e5501aee9889cdc11c6c95c6807def9e5dbd48884fd13a9e&smart=true&width=1200&height=700",
+      "snippet": "Temblor en Perú EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Instituto Geofísico del Perú (IGP).",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-15T01:56:27.000Z"
+    },
+    {
+      "id": "c260e5eb4950",
+      "title": "Mundial Vóleibol Femenino U17: las Guerreras Rojas se hicieron fuertes ante Argelia en San Felipe",
+      "link": "https://www.latercera.com/el-deportivo/noticia/mundial-voleibol-femenino-u17-las-guerreras-rojas-se-hicieron-fuertes-ante-argelia-en-san-felipe/",
+      "image": "https://www.latercera.com/resizer/v2/P6Q5UP4U7RFV7MQQDSUKAFRUKQ.jpeg?auth=93535302648f597a675fa3991f72ba63a04a1b0cfba3b4c81a1a17a08fa5b17c&smart=true&width=2560&height=1706",
+      "snippet": "Chile se anotó su segunda victoria tras derrotar a las africanas por 3-0 y ahora va por su premio final: ser vigésimo primero del torneo. Para lograrlo, deberá superar a Puerto Ric",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-15T01:55:00.000Z"
+    },
+    {
+      "id": "1fc8950392fa",
+      "title": "Terremoto en Colombia: ¿qué pasa con los contratos de arrendamiento y seguros inmobiliarios?",
+      "link": "https://www.france24.com/es/video/20260815-terremoto-en-colombia-qu%C3%A9-pasa-con-los-contratos-de-arrendamiento-y-seguros-inmobiliarios",
+      "image": "https://s.france24.com/media/display/b299c0d6-984a-11f1-a4d2-005056bfb2b6/w:1024/p:16x9/2026-08-14t211913z-1471403704-rc2dymatlmvf-rtrmadp-3-colombia-quake.jpg",
+      "snippet": "El movimiento telúrico del 10 de agosto no solo dejó decenas de pérdidas humanas y decenas de miles de damnificados. También quedaron miles de viviendas destruidas y muchas más ave",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-15T01:45:23.000Z"
+    },
+    {
+      "id": "4f678ee500a0",
+      "title": "Trump eleva la tensión con Irán por Ormuz y pide a los hogares de EE. UU. soportar el golpe económico",
+      "link": "https://www.france24.com/es/medio-oriente/20260815-trump-eleva-la-tensi%C3%B3n-con-ir%C3%A1n-por-ormuz-y-pide-a-los-hogares-de-ee-uu-soportar-el-golpe-econ%C3%B3mico",
+      "image": "https://s.france24.com/media/display/61eaaa56-8a5d-11f1-8f74-005056a97e36/w:1024/p:16x9/000-C39X7A2.jpg",
+      "snippet": "El presidente Donald Trump dijo este 14 de agosto que pronto declarará el estrecho de Ormuz como territorio estadounidense, escalando la tensión sobre una ruta clave para el petról",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-15T01:40:16.000Z"
+    },
+    {
+      "id": "1afbb3552934",
+      "title": "Excarcelaron sin libertad plena a decenas de presos políticos en El Rodeo I",
+      "link": "https://www.elnacional.com/2026/08/presos-politicos-excarcelados-el-rodeo-i-miranda-2026/",
+      "image": null,
+      "snippet": "Al menos 64 presos políticos salieron de El Rodeo I bajo régimen de presentación cada 30 días, medida que el Gobierno sitúa en 131 excarcelaciones y que se produce tras el término ",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-08-15T01:32:57.000Z"
+    },
+    {
+      "id": "96c2e7b75e29",
+      "title": "Un sismo en Granada, en el sur de España, generó temor entre los pobladores en la madrugada de este sábado",
+      "link": "https://www.clarin.com/mundo/sismo-granada-sur-espana-genero-temor-pobladores-madrugada-sabado_0_INQ2gv7xFJ.html",
+      "image": "https://www.clarin.com/img/2026/08/14/rOkxZT1Rl_1200x630__1.jpg",
+      "snippet": "El fuerte temblor de 5,2 ocurrió pasada la 1 de la madrugada de este sábado en España. Se reportan daños en casas y edificios. Hasta el momento no hay víctimas fatales. Numerosas p",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-15T01:27:16.000Z"
+    },
+    {
+      "id": "e66c9a0f0fc5",
+      "title": "Venezuela anuncia la excarcelación de más de 130 personas detenidas por motivos políticos",
+      "link": "https://www.latercera.com/mundo/noticia/venezuela-anuncia-la-excarcelacion-de-mas-de-130-personas-detenidas-por-motivos-politicos/",
+      "image": "https://www.latercera.com/resizer/v2/VFDS72W3WVEZNKFZDCPAKPA4IY.jpg?auth=113d806d3753f3e479eb6cc4c09eae770e55f5385659c560dc996ebad3ed2237&smart=true&width=1200&height=800",
+      "snippet": "El Programa para la Paz y la Convivencia Democrática venezolano informó que \"las referidas medidas fueron acordadas por los tribunales de la República, a petición del Ministerio Pú",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-08-15T01:22:36.000Z"
+    },
+    {
+      "id": "6765784a173c",
+      "title": "Terremoto en Colombia: habla en France 24 el tío de las hermanas Saavedra",
+      "link": "https://www.france24.com/es/video/20260815-terremoto-en-colombia-habla-en-france-24-el-t%C3%ADo-de-las-hermanas-saavedra",
+      "image": "https://s.france24.com/media/display/369dd40e-9845-11f1-ac85-005056bf30b7/w:1024/p:16x9/TRILLIZAS-SAAVEDRA.png",
+      "snippet": "🇨🇴 Ana María Saavedra Caicedo lo perdió todo en el terremoto de 7,4 que sacudió a Colombia el pasado 10 de agosto. Es la única sobreviviente de su núcleo familiar, luego de que e",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-15T01:20:48.000Z"
+    },
+    {
+      "id": "d7c9e9350262",
+      "title": "Araqchi: Irán aún no decide reanudar negociación con E.E.UU.",
+      "link": "https://www.dw.com/es/araqchi-irán-aún-no-decide-reanudar-negociación-con-e-e-uu/a-78378047?maca=spa-rss-sp-all-1122-rdf",
+      "image": null,
+      "snippet": "\"No existe un alto el fuego que deba prorrogarse\" porque Washington violó ese acuerdo, declaró el canciller iraní.",
+      "source": "DW Español",
+      "sourceId": "dw",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-08-15T01:20:00.000Z"
+    },
+    {
+      "id": "e7f3750c7ad5",
+      "title": "Medicina Legal entregó primer listado de desaparecidos por terremoto en Colombia: estos son los nombres completos y último lugar donde los vieron",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/medicina-legal-entrego-primer-listado-de-desaparecidos-por-terremoto-en-colombia-estos-son-los-nombres-completos-y-ultimo-lugar-donde-los-vieron-3578519",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/14/6a7f39cc50684.jpeg",
+      "snippet": "La entidad informó que reveló estos datos para apoyar a los organismos de rescate en las labores de búsqueda.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-08-15T01:16:07.000Z"
+    },
+    {
       "id": "31f3898cd85a",
       "title": "La Serena derrota a Universidad de Concepción en el barro de Collao y se aleja de la zona de descenso",
       "link": "https://www.latercera.com/el-deportivo/noticia/la-serena-derrota-a-universidad-de-concepcion-en-el-barro-de-collao-y-se-aleja-de-la-zona-de-descenso/",
@@ -129,114 +777,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-08-15T01:13:29.000Z"
-    },
-    {
-      "id": "6455dd2591c3",
-      "title": "Presidente Asfura anuncia programa de conectividad entre municipios y promete más apoyo para las 298 alcaldías de Honduras",
-      "link": "https://www.infobae.com/honduras/2026/08/15/presidente-asfura-anuncia-programa-de-conectividad-entre-municipios-y-promete-mas-apoyo-para-las-298-alcaldias-de-honduras/",
-      "image": "https://www.infobae.com/resizer/v2/T74DAKHS5BCEJA7RIGGVXC47MM.webp?auth=d5e2396773c9ec034956b49b85d1d2216697926f2dab3a5b45d9a6210aecf9c0&smart=true&width=1000&height=599",
-      "snippet": "El presidente Nasry Asfura adelantó que en las próximas semanas presentará un programa de conectividad entre municipios que, según afirmó, busca transformar el desarrollo territori",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:12:43.000Z"
-    },
-    {
-      "id": "b632c075c8fd",
-      "title": "Así fue la llegada de la delegación israelí para apoyar el rescate de personas tras el terremoto: “Israel con Colombia”",
-      "link": "https://www.infobae.com/colombia/2026/08/15/asi-fue-la-llegada-de-la-delegacion-israeli-para-apoyar-el-rescate-de-personas-tras-el-terremoto-israel-con-colombia/",
-      "image": "https://www.infobae.com/resizer/v2/N5ITNPTSJVD2LE7NQCYWT7G5K4.png?auth=cf09ea42b1fe3781c61a93861ea47543caaabe92ed54d8a70039820a2493f1c5&smart=true&width=1920&height=1080",
-      "snippet": "En un avión de la Fuerza Aérea de Israel llegó un equipo de rescatistas y expertos del Comando de Defensa Civil israelí para contribuir a las labores de socorro en las ciudades con",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:12:29.000Z"
-    },
-    {
-      "id": "73fe3168e03f",
-      "title": "Javier Milei y sus medidas, en vivo: las repercusiones de la inflación de julio y el armado electoral de cara al 2027",
-      "link": "https://www.lanacion.com.ar/politica/javier-milei-y-sus-medidas-en-vivo-las-repercusiones-de-la-inflacion-de-julio-y-el-armado-electoral-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HDSXF3KTAZCI7ATQWTZNNNLAZE.jpg?auth=4e1dcdae5b7be85fad290423c11a2683c123ada73803b92a7b75d3479a5a3e8f&smart=true&width=5638&height=3759",
-      "snippet": "El minuto a minuto de las decisiones del Presidente, las reacciones de la oposición y las declaraciones de los funcionarios",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:12:04.000Z"
-    },
-    {
-      "id": "368f02f1c111",
-      "title": "Con Succar: cuatro jugadores de Cienciano en el once ideal de la Sudamericana",
-      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/con-matias-succar-cuatro-jugadores-de-cienciano-en-el-once-ideal-de-la-copa-sudamericana-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/RBWEG26D5BAJZACYH3LUJISWMU.jpg?auth=da28133140a76c3c77b1eb13ef8ced3b49ea2af11e87e1ecc9b10e444d1c6b6f&smart=true&width=3805&height=2537",
-      "snippet": "La goleada 6-1 del cuadro cusqueño tuvo amplio reconocimiento. Cuatro futbolistas del ‘Papá’ fueron incluidos en el equipo destacado de la jornada de la Copa Sudamericana.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T01:12:00.000Z"
-    },
-    {
-      "id": "55a67323a196",
-      "title": "Momo Guzmán protagoniza pelea y termina desgreñada en pleno programa",
-      "link": "https://www.infobae.com/mexico/2026/08/15/momo-guzman-protagoniza-pelea-y-termina-desgrenada-en-pleno-programa/",
-      "image": "https://www.infobae.com/resizer/v2/NKHBYDHSKFFEVHJY3YFHNBNUPM.png?auth=63923959ad5e3b9e91dfde1e16d27c5aeab13f3e7a8a527349ff2d0d409f7112&smart=true&width=2752&height=1536",
-      "snippet": "El público de Es Show presenció en tiempo real la bronca de Momo Guzmán, mientras caracterizaba a su personaje Renata Dragón Real",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:11:47.000Z"
-    },
-    {
-      "id": "c22201ce253c",
-      "title": "La Fundación del Río exige la liberación inmediata de guardabosques Mayangna presos en Nicaragua",
-      "link": "https://www.infobae.com/nicaragua/2026/08/14/la-fundacion-del-rio-exige-la-liberacion-inmediata-de-guardabosques-mayangna-presos-en-nicaragua/",
-      "image": "https://www.infobae.com/resizer/v2/TEL4AKMMSJEMRFLTWXTKZ3BFXE.png?auth=6d7389260e4b0afdc6db56037ed51974f20d0d6843c114482644311c391c6481&smart=true&width=2752&height=1536",
-      "snippet": "La organización ambientalista alertó que varios detenidos presentan cuadros médicos delicados y que su permanencia en prisión debilita el resguardo de los territorios indígenas del",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:10:58.000Z"
-    },
-    {
-      "id": "1ebd1aab0229",
-      "title": "El Salvador: Hombre recibe condena por agredir sexualmente a menor en el Día de la Madre",
-      "link": "https://www.infobae.com/el-salvador/2026/08/15/el-salvador-hombre-recibe-condena-por-agredir-sexualmente-a-menor-en-el-dia-de-la-madre/",
-      "image": "https://www.infobae.com/resizer/v2/DGPHM3MF4ZCBHH5T2UFVVFCD4M.png?auth=92354e62eded897f5bc066e81db80606a7865579f52a6399ca8a884370a2b64a&smart=true&width=2752&height=1536",
-      "snippet": "La justicia salvadoreña dictó sentencia contra un procesado que agredió a una menor durante un convivio familiar, fundamentando el fallo en pruebas testimoniales y periciales",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:10:24.000Z"
-    },
-    {
-      "id": "39045a84bd2b",
-      "title": "Ernesto Laguardia imita los regaños de Cynthia Klitbo y desata la risa de todos",
-      "link": "https://www.infobae.com/mexico/2026/08/15/ernesto-laguardia-imita-los-reganos-de-cynthia-klitbo-y-desata-la-risa-de-todos/",
-      "image": "https://www.infobae.com/resizer/v2/QQFGXINLANCVLK2MSOJXHF5C4A.png?auth=4cb34d234931fd9ac7f95966a1d1aa403150d3b87111fbfd5a095c6c4b475347&smart=true&width=1413&height=884",
-      "snippet": "El actor imitó a Cynthia Klitbo y sus reclamos por la limpieza dentro de La Casa de los Famosos México 2026",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:10:23.000Z"
-    },
-    {
-      "id": "db16ac9bf622",
-      "title": "La violencia lleva a dos distritos de Panamá a recurrir a restricciones de movilidad",
-      "link": "https://www.infobae.com/panama/2026/08/15/la-violencia-lleva-a-dos-distritos-de-panama-a-recurrir-a-restricciones-de-movilidad/",
-      "image": "https://www.infobae.com/resizer/v2/EIU7S5CZIZH5LCDJDECSPLLF3A.png?auth=f7aad0591c25ee519e54c0d63a00eb7921bdb4e870cd6905defb6ae7e06a5aed&smart=true&width=1408&height=768",
-      "snippet": "Antón aplicará controles a menores en Río Hato y la cabecera del distrito, mientras San Miguelito define qué zonas quedarían sujetas a medidas especiales.",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:09:56.000Z"
     },
     {
       "id": "9d74bbb86b79",
@@ -251,172 +791,88 @@
       "isoDate": "2026-08-15T01:09:54.000Z"
     },
     {
-      "id": "c4d9ee0de535",
-      "title": "Un sismo de magnitud 5,2 golpeó el sur de España y provocó destrozos en Granada",
-      "link": "https://www.lanacion.com.ar/el-mundo/un-sismo-de-magnitud-52-golpeo-el-sur-de-espana-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OXGX2FABB5DJPJUKYJARVOMRP4.png?auth=48383883955b352dfc53be25bc495b2e11b058d42b5823d330031827d98b4101&smart=true&width=1013&height=631",
-      "snippet": "El temblor ocurrió de madrugada y su epicentro se ubicó un kilómetro al suroeste de Otura; se reportaron daños en casas y edificios, pero no hubo víctimas fatales",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "909e8dcc3b1a",
+      "title": "Horóscopo de hoy, sábado 15 de agosto: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-hoy-sabado-15-agosto-predicciones-salud-amor-dinero_0_fXCXSKkNMj.html",
+      "image": "https://www.clarin.com/img/2020/07/07/Fpk73rLHR_1200x630__1.jpg",
+      "snippet": "Conocé qué dice el horóscopo hoy para los signos del zodiaco en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:09:46.000Z"
+      "isoDate": "2026-08-15T01:05:16.000Z"
     },
     {
-      "id": "28ca2411953b",
-      "title": "“Tal vez por mi apariencia no me llamaban mucho para hacer comedias”: Devan Chandler Long, el ‘Vikingo’ que brilla en “Ghosts”",
-      "link": "https://elcomercio.pe/respuestas/quien/tal-vez-por-mi-apariencia-no-me-llamaban-mucho-para-hacer-comedias-devan-chandler-long-el-vikingo-que-brilla-en-ghosts-universal-series-tdpe-streaming-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/G4XQ2L567FGXFEXOJ4WIGUD4NQ.jpg?auth=30e51c225cb6927a65eccf700dafdebbfb9e6d3af88102eabbabd7a03092c2ed&smart=true&width=900&height=600",
-      "snippet": "Entrevista a Deavan Chandler Long, actor de la serie \"Ghosts\" en Universal+",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T01:09:01.000Z"
-    },
-    {
-      "id": "b6ef881be8e9",
-      "title": "Terremoto de magnitud 7.7 en Indonesia: Marina de Guerra “intensifica vigilancia” ante posible tsunami en Perú",
-      "link": "https://www.infobae.com/peru/2026/08/14/terremoto-de-magnitud-77-en-indonesia-marina-de-guerra-intensifica-vigilancia-ante-posible-tsunami-en-peru/",
-      "image": "https://www.infobae.com/resizer/v2/GSPA4UF4XNCOBOFLDZEXWWE7BI.png?auth=236217e8409e96ebcf9da6405795002b2a0e10ed445a0e76660cb2bd54db70bc&smart=true&width=1920&height=1080",
-      "snippet": "Aunque la diferencia fue de solo 0.3 grados, el movimiento telúrico de Indonesia generó ondas sísmicas aproximadamente dos veces mayores que las del terremoto en Colombia",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "7ec14522dc99",
+      "title": "Horóscopo Piscis de hoy, 15 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-piscis-hoy-15-agosto-2026-predicciones-salud-amor-dinero_0_U1bmBjY1g8.html",
+      "image": "https://www.clarin.com/img/2020/07/07/CARw9hXRq_1200x630__1.jpg",
+      "snippet": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 20 de febrero y el 20 de marzo en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:08:36.000Z"
+      "isoDate": "2026-08-15T01:00:10.000Z"
     },
     {
-      "id": "99d802e355bd",
-      "title": "Los memes que dejó la caída de la app de BBVA",
-      "link": "https://www.infobae.com/mexico/2026/08/15/los-memes-que-dejo-la-caida-de-la-app-de-bbva/",
-      "image": "https://www.infobae.com/resizer/v2/ED3CJH5GRRCKXNV5VATMRDTTCM.jpg?auth=9bfc08e6a0b6802684621cea105af82ced4be44db3a08ac449491c0172721f13&smart=true&width=1920&height=1080",
-      "snippet": "Luego de que el sistema de la app cayera, no tardaron salir memes respecto a la situación que afectó a miles de usuarios",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "d74dad93479d",
+      "title": "Horóscopo Capricornio de hoy, 15 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-capricornio-hoy-15-agosto-2026-predicciones-salud-amor-dinero_0_OcRCgVh6r6.html",
+      "image": "https://www.clarin.com/img/2020/07/07/oBXiT9egH_1200x630__1.jpg",
+      "snippet": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 23 de diciembre y el 20 de enero en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:06:59.000Z"
+      "isoDate": "2026-08-15T01:00:09.000Z"
     },
     {
-      "id": "e255f93898c3",
-      "title": "Solo quienes tienen gran razonamiento resuelven esta operación combinada en 7 segundos: ¿cuánto es 50−(16+8)÷4×3+2?",
-      "link": "https://elcomercio.pe/mag/respuestas/solo-quienes-tienen-gran-razonamiento-resuelven-esta-operacion-combinada-en-7-segundos-cuanto-es-50168432-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/ZEB3VORTKBHHLMKFYV26B2XPXY.jpg?auth=6eb4a0ec0358eb0bd6cd84407d74c1de97ca1d72515c9b175f29d6d43504b323&smart=true&width=2400&height=1600",
-      "snippet": "Es una buena oportunidad para que apliques tus conocimientos en matemáticas.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T01:04:41.000Z"
-    },
-    {
-      "id": "65e015b4310b",
-      "title": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia: desactivaron la alerta de tsunami",
-      "link": "https://www.infobae.com/america/mundo/2026/08/14/un-terremoto-de-magnitud-77-sacudio-la-costa-de-indonesia-hay-alerta-de-tsunami/",
-      "image": "https://www.infobae.com/resizer/v2/LPBQABZ3KZGX7KNEFKEGS22K3E.jpg?auth=c828e10c9bda97855656552957fa128a39c7c9e1d92687756f2f0790fadfefce&smart=true&width=4032&height=2688",
-      "snippet": "Las autoridades emitieron advertencias preventivas para varias provincias del este del país tras los primeros reportes de los organismos sismológicos",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "7191532a6a71",
+      "title": "Horóscopo Acuario de hoy, 15 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-acuario-hoy-15-agosto-2026-predicciones-salud-amor-dinero_0_LbGehAPBfp.html",
+      "image": "https://www.clarin.com/img/2020/07/07/3aUZrbf7g_1200x630__1.jpg",
+      "snippet": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 21 de enero y el 19 de febrero en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:03:24.000Z"
+      "isoDate": "2026-08-15T01:00:09.000Z"
     },
     {
-      "id": "8d5907ea5835",
-      "title": "Reece James, estrella de Inglaterra, asegura que el Estadio Azteca es el mejor del mundo",
-      "link": "https://www.infobae.com/mexico/deportes/2026/08/15/reece-james-estrella-de-inglaterra-afirma-que-el-estadio-azteca-es-el-mejor-del-mundo/",
-      "image": "https://www.infobae.com/resizer/v2/CVN3AR3NVRC7ZM5KX2HFYPKD3U.png?auth=761f103dd0ac34c6ae4a4434e45acd6c712d37de93149a01e82c7c715b65b0d6&smart=true&width=1920&height=1080",
-      "snippet": "El referente del Chelsea se rindió ante el Coloso de Santa Úrsula tras enfrentar al Tri en el Mundial 2026, asegurando que ningún recinto de la Premier iguala su atmósfera históric",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "0bae478b6b31",
+      "title": "Horóscopo Sagitario de hoy, 15 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-sagitario-hoy-15-agosto-2026-predicciones-salud-amor-dinero_0_2iPuHVbQPG.html",
+      "image": "https://www.clarin.com/img/2020/07/07/YS7h77-K__1200x630__1.jpg",
+      "snippet": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 23 de noviembre y el 22 de diciembre en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:02:37.000Z"
+      "isoDate": "2026-08-15T01:00:08.000Z"
     },
     {
-      "id": "82c5f4329a25",
-      "title": "Ronald Johnson destaca cooperación en seguridad energética tras reunión entre México y EEUU por etanol",
-      "link": "https://www.infobae.com/mexico/2026/08/15/ronald-johnson-destaca-cooperacion-en-seguridad-energetica-tras-reunion-entre-mexico-y-eeuu-por-etanol/",
-      "image": "https://www.infobae.com/resizer/v2/X4NNRDQUQRDEZGI4HHVZWHVWMY.png?auth=f125bc42c9cf0333c453059150236e07ce5bfe553c4c9e4c29d79a190bcb2c6c&smart=true&width=1920&height=1080",
-      "snippet": "La Secretaría de Energía destalló que México planea incorporar el alcohol etílico en las gasolinas del país",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "9c2380e6a403",
+      "title": "Horóscopo Escorpio de hoy, 15 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-escorpio-hoy-15-agosto-2026-predicciones-salud-amor-dinero_0_7xu5D5ONAN.html",
+      "image": "https://www.clarin.com/img/2020/07/07/ue6e-5xau_1200x630__1.jpg",
+      "snippet": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 24 de octubre y el 22 de noviembre en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:02:35.000Z"
+      "isoDate": "2026-08-15T01:00:07.000Z"
     },
     {
-      "id": "7b6cb2871b20",
-      "title": "Fenómeno El Niño: 317 municipalidades ejecutaron menos del 40% de recursos para afrontar la crisis",
-      "link": "https://elcomercio.pe/lima/fenomeno-el-nino-controlaria-detecta-que-317-municipalidades-ejecutaron-menos-del-40-de-recursos-para-afrontar-la-crisis-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/XRHDAWHY2NDENORXXKYYWAMR4Q.jpg?auth=d5429ef6b37d620ed0b8b60de62dbb08c3339188d5047e9e05c3854f19e9e018&smart=true&width=1214&height=800",
-      "snippet": "Según la Contraloría, 109 gobiernos locales registraron una ejecución de 0% al 31 de julio de 2026.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T01:02:05.000Z"
-    },
-    {
-      "id": "5fdd743c35c5",
-      "title": "¿Quién ganó la Lotería Medellín HOY, viernes 14 de agosto? últimos resultados EN VIVO",
-      "link": "https://elcomercio.pe/respuestas/colombia/quien-gano-la-loteria-medellin-hoy-viernes-14-de-agosto-ultimos-resultados-en-vivo-tdpe-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/I3XQ5UO55RHKPPSI6YHQ5YFRBE.png?auth=5e6c0f162d783042fbdf06633315868744cbadaddf24e03565024bceaf4e4b8b&smart=true&width=1300&height=800",
-      "snippet": "Mucha suerte. Compra tu boleto de la lotería y revisa aquí los resultados de la lotería de Medellín.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T01:02:00.000Z"
-    },
-    {
-      "id": "3713685faa9b",
-      "title": "Manuel Martín-Loeches, neurocientífico: “Las personas más inteligentes suelen conocer y regular mejor sus emociones, aunque existen excepciones”",
-      "link": "https://www.lanacion.com.ar/salud/manuel-martin-loeches-neurocientifico-las-personas-mas-inteligentes-suelen-conocer-y-regular-mejor-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/CEW3PZ4ZK5ENPH46TH3ODLISIY.jpg?auth=e900d2e8db89703886ffd5f86963c8bfaf14671c723976953757c58f180e3f5a&smart=true&width=2000&height=1333",
-      "snippet": "El especialista, catedrático en la Universidad Complutense de Madrid y referente en el estudio del cerebro humano, cuestiona ideas arraigadas sobre aprendizaje, emociones y educaci",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "7c3396e27e03",
+      "title": "Horóscopo Virgo de hoy, 15 de agosto de 2026: las predicciones para la salud, el amor y el dinero",
+      "link": "https://www.clarin.com/astrologia/horoscopo-virgo-hoy-15-agosto-2026-predicciones-salud-amor-dinero_0_dtgbABxDoc.html",
+      "image": "https://www.clarin.com/img/2020/07/07/ff-2UbFdW_1200x630__1.jpg",
+      "snippet": "Enterate qué dice el horóscopo de hoy para los nacidos entre el 24 de agosto y el 23 de septiembre en este día de la semana.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:01:36.000Z"
-    },
-    {
-      "id": "2bfc4d655fe1",
-      "title": "La Casa de los Famosos México 2026 en vivo: Ernesto Laguardia cumple su promesa y se corta el cabello",
-      "link": "https://www.infobae.com/mexico/2026/08/13/la-tercera-nominacion-en-la-casa-de-los-famosos-mexico-2026-alianzas-este-12-de-agosto-en-vivo/",
-      "image": "https://www.infobae.com/resizer/v2/ANWHDNWNZVBWJAFKHSPMS4NQ3Y.jpg?auth=c41f0c85feb30d53c5379899c1b11601e7e3306e0c60d1320f124491c0c878be&smart=true&width=1920&height=1080",
-      "snippet": "Sigue todos los encuentros, peleas, chismes, nominaciones y demás retos del reality de Televisa transmitido 24/7 en ViX+",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:01:11.000Z"
-    },
-    {
-      "id": "6b1bd01ff3c2",
-      "title": "Enfermedades inflamatorias intestinales: los avances y las nuevas formas de tratamiento",
-      "link": "https://www.lanacion.com.ar/salud/vida_sana/enfermedades-inflamatorias-intestinales-los-avances-y-las-nuevas-formas-de-tratamiento-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/4CU3NPXUKFGOLM42347LYNTPXM.jpg?auth=2b99cd206944bf314d11b6fbf472da85e0607ca2026546fb89f4e82c283580bc&smart=true&width=2000&height=1337",
-      "snippet": "Tanto la colitis ulcerosa como la enfermedad de Chron y sus complicaciones complejas pueden ser atendidas con técnicas miniinvasivas, decisiones consensuadas y terapias de precisió",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:00:59.000Z"
-    },
-    {
-      "id": "aa6e71bd3344",
-      "title": "Caso Alex Murdaugh: qué dictaminó la jueza en la audiencia preliminar antes del nuevo juicio",
-      "link": "https://www.infobae.com/estados-unidos/2026/08/15/caso-alex-murdaugh-que-dictamino-la-jueza-en-la-audiencia-preliminar-antes-del-nuevo-juicio/",
-      "image": "https://www.infobae.com/resizer/v2/7FBITU6BYJEVHETN5WN72ZYEPM.jpg?auth=7df7ede8c516e2f6fd03ace8abd7f96c61a2fe71b6df82d809fef2e119a72c8a&smart=true&width=2557&height=1705",
-      "snippet": "El tribunal autorizó el uso condicionado de declaraciones del primer debate, habilitó nuevas pruebas independientes de ADN, asumió supervisión directa sobre la conformación del jur",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:00:41.000Z"
+      "isoDate": "2026-08-15T01:00:06.000Z"
     },
     {
       "id": "54bad0a82e65",
@@ -429,42 +885,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-15T01:00:01.000Z"
-    },
-    {
-      "id": "65b67741aae3",
-      "title": "Reid Wiseman, de Artemis II, tras la misión: “No creo que la mente humana haya evolucionado lo suficiente como para entender esto”",
-      "link": "https://www.lanacion.com.ar/el-mundo/reid-wiseman-de-artemis-ii-tras-la-mision-no-creo-que-la-mente-humana-haya-evolucionado-lo-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/H2FTNTD7FFDNHAWGSTQ3CRRSUE.jpg?auth=871ccd3659b5d1083638a37ff4924aee29b2fff3db0d04db22da046c7651c994&smart=true&width=2000&height=1333",
-      "snippet": "El piloto de la cápsula Orión volvió a reflexionar sobre los momentos vividos durante el viaje y remarcó la importancia de los seres queridos en momentos de extrema tensión",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T01:00:00.000Z"
-    },
-    {
-      "id": "68914e6f874b",
-      "title": "Temblor en México EN VIVO hoy, viernes 14 de agosto 2026: hora exacta, dónde fue y de cuántos grados el último sismo vía SSN",
-      "link": "https://elcomercio.pe/mag/respuestas/mx/temblor-en-mexico-en-vivo-hoy-13-y-14-de-agosto-2026-hora-exacta-magnitud-y-donde-fue-el-epicentro-del-ultimo-sismo-via-ssn-microsismo-cdmx-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/EQEI7SAJAFD3ZMLXGXWHJPSUAQ.jpg?auth=5c7b05e78a8565449adf76222654f952de8058dbbd4c0f718097996013b8d56b&smart=true&width=2400&height=1620",
-      "snippet": "Consulta cuál fue el último temblor en México para este viernes 14 de agosto de 2026, con la hora, epicentro y magnitud del sismo que reporte el Servicio Sismológico Nacional.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T01:00:00.000Z"
-    },
-    {
-      "id": "8f2795ca934f",
-      "title": "“El oro de los incas”: qué efectos tiene la lúcuma en el cuerpo y quienes no deberían consumirla",
-      "link": "https://www.lanacion.com.ar/salud/nutricion/el-oro-de-los-incas-que-efectos-tiene-la-lucuma-en-el-cuerpo-y-quienes-no-deberian-consumirla-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/NVE3GLM5XFED3BOXGRAV2MRKRI.jpg?auth=65389ad8b6186cd33909f8e161b2874379f3ae15bb1d56e1f0351a5cee3c8933&smart=true&width=1280&height=719",
-      "snippet": "Esta fruta exótica, similar a la palta, se destaca por tener fibra, antioxidantes y carbohidratos complejos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:58:57.000Z"
     },
     {
       "id": "cc467d18cf0e",
@@ -503,18 +923,6 @@
       "isoDate": "2026-08-15T00:56:00.000Z"
     },
     {
-      "id": "bcaa4427efa0",
-      "title": "Las autoridades de Indonesia piden evacuaciones tras el terremoto de magnitud 7,7",
-      "link": "https://elcomercio.pe/mundo/asia/las-autoridades-de-indonesia-piden-evacuaciones-tras-el-terremoto-de-magnitud-77-ultimas-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/QPHOFIVHMJDNZG2DBDCZG2BPH4.jpg?auth=8985e1ecf98a9f1eca5fb338f6b04a4871d3147e1f45668dbea90d9b69c90390&smart=true&width=1200&height=800",
-      "snippet": "Las autoridades de Indonesia ordenaron a los residentes de zonas costeras de la isla de Flores evacuar hacia terrenos elevados tras un terremoto de magnitud 7,7. El movimiento telú",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T00:55:36.000Z"
-    },
-    {
       "id": "0513862d81e0",
       "title": "Luigi Mangione se declaró culpable en el asesinato de un ejecutivo de UnitedHealthcare. ¿Qué sigue para él?",
       "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260815-luigi-mangione-se-declar%C3%B3-culpable-en-el-asesinato-de-un-ejecutivo-de-unitedhealthcare-qu%C3%A9-sigue-para-%C3%A9l",
@@ -525,18 +933,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-15T00:54:55.000Z"
-    },
-    {
-      "id": "d7a65e3128c2",
-      "title": "Un terremoto de magnitud 7,7 sacudió la costa de Indonesia y disparó una alerta por tsunami",
-      "link": "https://www.lanacion.com.ar/el-mundo/un-terremoto-de-magnitud-77-sacudio-la-costa-de-indonesia-y-disparo-una-alerta-por-tsunami-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OZEWFYNMFFHYBJYNC7VX4A2M4A.png?auth=16bc9e2122121b99f8b9728fdad767a1b5be82c305f197e54d99fb8b63b957c2&smart=true&width=1029&height=666",
-      "snippet": "El sismo tuvo su epicentro en la isla de Flores, al este del país asiático, a una profundidad de 10 kilómetros; las autoridades descartaron la posibilidad de maremoto",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:54:18.000Z"
     },
     {
       "id": "1b08ec1982d0",
@@ -561,18 +957,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-08-15T00:52:00.000Z"
-    },
-    {
-      "id": "60671af52413",
-      "title": "Adiós al sueño americano: deportaron a su padre a México y tuvo que irse de Houston, pero espera volver",
-      "link": "https://www.lanacion.com.ar/estados-unidos/texas/adios-al-sueno-americano-deportaron-a-su-padre-a-mexico-y-tuvo-que-irse-de-houston-pero-espera-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/UCBWH3WKRBAVBP34PACH5ZNRAA.png?auth=05da50dc7e4b611b59358d87087d1150759d4cc222bd15252b3f01294c2ce3ce&smart=true&width=2000&height=1333",
-      "snippet": "Conoce cómo la deportación del padre de Omar Compean cambió su vida en Houston, frenó su banda y obligó a su familia a mudarse a México",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:50:00.000Z"
     },
     {
       "id": "411089f003ba",
@@ -635,42 +1019,6 @@
       "isoDate": "2026-08-15T00:48:00.000Z"
     },
     {
-      "id": "05f2cabc366a",
-      "title": "¿Totalitarismo encubierto?",
-      "link": "https://www.latercera.com/cartas-al-director/noticia/totalitarismo-encubierto/",
-      "image": "https://www.latercera.com/resizer/v2/KV2MRPIHOVHCVK3NEY62MFMJRY.jpg?auth=229d3e93473909836f732b26c13310461fbacc4ef093c3c16334c7a61a57de5e&smart=true&width=7026&height=4686",
-      "snippet": "",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-15T00:46:00.000Z"
-    },
-    {
-      "id": "1a2996f67aa7",
-      "title": "Campaña en poesía, pero se gobierna en prosa",
-      "link": "https://www.latercera.com/cartas-al-director/noticia/campana-en-poesia-pero-se-gobierna-en-prosa/",
-      "image": "https://www.latercera.com/resizer/v2/XQZS4W4TRVFZXAPNA3L5U5WOKQ.jpg?auth=736323c29498fa401917e94b372238ab1def43c4e231a6aecee74f3f6605fd6e&smart=true&width=3000&height=2139",
-      "snippet": "",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-15T00:44:00.000Z"
-    },
-    {
-      "id": "4742f389bc24",
-      "title": "BCR: Julio ya recoge el efecto del fenómeno de El Niño, ¿qué expectativas tiene el Banco Central para los próximos meses?",
-      "link": "https://elcomercio.pe/economia/peru/bcr-julio-ya-recoge-el-efecto-del-fenomeno-de-el-nino-que-expectativas-tiene-el-banco-central-para-los-proximos-meses-fen-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/EVJJXDVOYVD3VJ7UUHIC75JYQE.jpg?auth=ddcc782216bfa50f868eea707ed5dabb887ec32a61122c51578bfecb2fff98d2&smart=true&width=1200&height=675",
-      "snippet": "Adrián Armas, gerente central de Estudios Económicos del BCR, señaló que un fenómeno de El Niño extraordinario podría generar mayores presiones sobre los precios de los alimentos. ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T00:43:39.000Z"
-    },
-    {
       "id": "b58247c9f79e",
       "title": "Tragedia de las trillizas Saavedra: habla en France 24 el tío de las jóvenes",
       "link": "https://www.france24.com/es/video/20260815-tragedia-de-las-trillizas-saavedra-habla-en-france-24-el-t%C3%ADo-de-las-j%C3%B3venes",
@@ -693,54 +1041,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-08-15T00:41:28.000Z"
-    },
-    {
-      "id": "cd637a7645e2",
-      "title": "Quiniela de la Provincia: resultado del sorteo de la Nocturna de hoy, viernes 14 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-nocturna-hoy-viernes-14-agosto_0_rQPIbfSGTI.html",
-      "image": "https://www.clarin.com/img/2020/06/25/QWj8idQPo_1200x630__1.jpg",
-      "snippet": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:40:30.000Z"
-    },
-    {
-      "id": "94e78e143ee5",
-      "title": "Quiniela de Santa Fe: resultado del sorteo de la Nocturna de hoy, viernes 14 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-santa-fe-resultado-sorteo-nocturna-hoy-viernes-14-agosto_0_EZ82OikAVE.html",
-      "image": "https://www.clarin.com/img/2020/09/07/7CL7ed_nH_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:40:30.000Z"
-    },
-    {
-      "id": "673c161c65ed",
-      "title": "El Gobierno oficializó la medida que flexibiliza los préstamos en dólares para empresas",
-      "link": "https://www.lanacion.com.ar/economia/el-gobierno-oficializo-la-medida-de-flexibilizacion-de-prestamos-en-dolares-para-empresas-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/DJ33XV5FKJHHNB6WQ6XRRSUKRA.png?auth=e36be6bf3f65d7a262ece10cdd8945364e62c7cb6bacc981b93169c944f2e075&smart=true&width=1365&height=767",
-      "snippet": "Lo hizo a través del DNU 736/2026, publicado este viernes por la noche en una edición complementaria del Boletín Oficial; qué establece la iniciativa",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:40:11.000Z"
-    },
-    {
-      "id": "2382d2b88081",
-      "title": "Un águila calva rescatada en estado crítico con múltiples lesiones y una severa intoxicación volvió a volar en libertad: \"Probablemente solo tuvimos unos 10 segundos para observarla antes de que desapareciera de nuestra vista, ¡pero fueron 10 segundos increíbles!\"",
-      "link": "https://www.clarin.com/internacional/aguila-calva-rescatada-estado-critico-multiples-lesiones-severa-intoxicacion-volvio-volar-libertad-probablemente-solo-10-segundos-observarla-desapareciera-vista-10-segundos-increibles_0_Fd8k1AvCb9.html",
-      "image": "https://www.clarin.com/img/2026/08/14/SufcrBM2z_1200x630__1.jpg",
-      "snippet": "Un ave regresó a la naturaleza tras haber afrontado un largo proceso de recuperación. El hecho ocurrió en Virginia, Estados Unidos.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:38:44.000Z"
     },
     {
       "id": "b38677fd6011",
@@ -767,54 +1067,6 @@
       "isoDate": "2026-08-15T00:33:09.000Z"
     },
     {
-      "id": "eec79f8d9f90",
-      "title": "Solo el 13% de las áreas de recursos humanos aprovecha la IA para gestionar talento, ¿cómo aprovecharla?",
-      "link": "https://elcomercio.pe/economia/peru/solo-el-13-de-las-areas-de-recursos-humanos-aprovecha-la-ia-para-gestionar-talento-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/YZYQKT7ZYFGIZKZOAAODXGZQUE.jpeg?auth=cf2b3018d1e418ceed4838bc3143f51edaa402883c9e592775baed3fc561e8c2&smart=true&width=626&height=418",
-      "snippet": "Según Talana, la inteligencia artificial ha logrado niveles de productividad de hasta 80% en tareas de gestión de personal, mientras que Microsoft sostiene que la automatización pe",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-15T00:33:02.000Z"
-    },
-    {
-      "id": "d7038e8abedf",
-      "title": "La psicología dice que las personas que pulsan el botón del ascensor ya iluminado no son impacientes; la ilusión de control es una de las peculiaridades mejor documentadas de la mente humana, y pulsarlo realmente hace que la espera parezca más corta",
-      "link": "https://www.clarin.com/estados-unidos/psicologia-dice-personas-pulsan-boton-ascensor-iluminado-impacientes-ilusion-control-peculiaridades-mejor-documentadas-mente-humana-pulsarlo-realmente-hace-espera-parezca-corta_0_DqhoE6KGzQ.html",
-      "image": "https://www.clarin.com/img/2026/01/25/vqiyW8Jwo_1200x630__1.jpg",
-      "snippet": "Una percepción que ayuda a disminuir la incertidumbre.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:30:58.000Z"
-    },
-    {
-      "id": "43e271312c14",
-      "title": "Deportado a Colombia: usó el nombre y Seguro Social de un ciudadano para sacar licencia y pasaporte en Florida",
-      "link": "https://www.lanacion.com.ar/estados-unidos/florida/deportado-a-colombia-uso-el-nombre-y-seguro-social-de-un-ciudadano-para-sacar-licencia-y-pasaporte-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/3HUKY66K7RB7TPIBQBNRZ3ZNFE.jpg?auth=3a0afbba7102fe38cea87d5180d2975a42735e17f433774f82f763be6198b185&smart=true&width=2000&height=1333",
-      "snippet": "Conoce cómo un colombiano usó la identidad y el Seguro Social de un ciudadano para obtener licencia y pasaporte en Florida durante más de dos décadas.",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:30:00.000Z"
-    },
-    {
-      "id": "c3fc1b7904d1",
-      "title": "El debate que se instaló sobre ciencia y humanidades",
-      "link": "https://www.latercera.com/editorial/noticia/el-debate-que-se-instalo-sobre-ciencia-y-humanidades/",
-      "image": "https://www.latercera.com/resizer/v2/3YWAUHYFGNFH3KGK5JPPBYABCU.jpg?auth=37b15ea5062917ecfd391edd39e138be863f1a0fad5d994a06e3f6965e477c5c&smart=true&width=3500&height=2334",
-      "snippet": "Siendo válido que el Ministerio de Ciencia busque potenciar algunas áreas científicas, es lamentable que la forma en que ha planteado este debate contribuya a alimentar los sesgos ",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-15T00:30:00.000Z"
-    },
-    {
       "id": "c06b7d2ca220",
       "title": "Terremoto en Colombia: Festival Petronio Álvarez se vuelva a ayudar a los damnificados",
       "link": "https://www.france24.com/es/video/20260815-terremoto-en-colombia-festival-petronio-%C3%A1lvarez-se-vuelva-a-ayudar-a-los-damnificados",
@@ -825,90 +1077,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-15T00:28:20.000Z"
-    },
-    {
-      "id": "8bf3193dde8e",
-      "title": "Quiniela de Córdoba: resultado del sorteo de la Nocturna de hoy, viernes 14 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-nocturna-hoy-viernes-14-agosto_0_7BxqTsg33J.html",
-      "image": "https://www.clarin.com/img/2020/09/07/M4VJWcr6c_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:25:15.000Z"
-    },
-    {
-      "id": "d44f22e61068",
-      "title": "Horror en Michigan: un hombre mató a tiros a cinco personas y se habría suicidado",
-      "link": "https://www.clarin.com/internacional/horror-michigan-hombre-mato-tiros-personas-suicidado_0_vJeYizbfZS.html",
-      "image": "https://www.clarin.com/img/2026/08/14/o5GO-_aix_1200x630__1.jpg",
-      "snippet": "Ocurrió este viernes por la tarde en Missaukee, una ciudad a casi 300 kilómetros al norte de Detroit. Chad Hickman, de 39 años, atentó contra sus víctimas en distintos puntos de la",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:25:14.000Z"
-    },
-    {
-      "id": "1d4e8795ef6a",
-      "title": "Quiniela Nacional: resultado del sorteo de la Nocturna de hoy, viernes 14 de agosto",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-nacional-resultado-sorteo-nocturna-hoy-viernes-14-agosto_0_0HhzTKXMtR.html",
-      "image": "https://www.clarin.com/img/2022/06/08/dyrb7wNL6_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:25:13.000Z"
-    },
-    {
-      "id": "761b1fff05e2",
-      "title": "Venden dos terrenos al lado de donde Costantini proyecta tres torres en lo que será el skyline más moderno de Buenos Aires",
-      "link": "https://www.lanacion.com.ar/propiedades/venden-dos-terrenos-al-lado-de-donde-costantini-proyecta-tres-torres-en-lo-que-sera-el-skyline-mas-nid03072026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/4V5Q7DAUFFEGBKLLOJHDESUX7A.jpg?auth=7ccfe85420109321af551a6f0501dbf49ebcc150d8f460de3a9219da1ec9ef2b&smart=true&width=2000&height=1333",
-      "snippet": "Son siete parcelas frente a Catalinas en las que Eduardo Costantini planea hacer tres torres de oficinas conectadas con propuestas de arte y paseos comerciales",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:21:50.000Z"
-    },
-    {
-      "id": "90f73e8f492f",
-      "title": "Científicos dejaron una pantalla táctil en la selva y 16 monos capuchinos descubrieron cómo lograr recompensas con bananas",
-      "link": "https://www.lanacion.com.ar/lifestyle/cientificos-dejaron-una-pantalla-tactil-en-la-selva-y-16-monos-capuchinos-descubrieron-como-lograr-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/AHDH4OAPFJHVDDEETZFX6UQJDI.jpg?auth=cd8d52b2c1237228be36293b3b10f583a05abd6412ac1d29522280277ac48b86&smart=true&width=2000&height=1333",
-      "snippet": "Un grupo de científicos instaló dispositivos táctiles en la reserva de Taboga, en Costa Rica; algunos ejemplares lograron comprender el mecanismo para obtener premios",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:21:00.000Z"
-    },
-    {
-      "id": "3898220fe7ed",
-      "title": "Gastó 90 millones de dólares en la compra de 54.000 acres de terreno talado para recuperar uno de los bosques más importantes de Estados Unidos: tiempo después, los pinos perdidos están regresando",
-      "link": "https://www.clarin.com/estados-unidos/gasto-90-millones-dolares-compra-54000-acres-terreno-talado-recuperar-bosques-importantes-estados-unidos-tiempo-despues-pinos-perdidos-regresando_0_Jnf8t8vvqi.html",
-      "image": "https://www.clarin.com/img/2026/08/11/kDJGOebc9_1200x630__1.jpg",
-      "snippet": "M.C. Davis hizo su fortuna como jugador y empresario antes de destinar gran parte de ella a recuperar un ecosistema que había sido destruido por décadas de explotación forestal. Pl",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:20:58.000Z"
-    },
-    {
-      "id": "c0a3c6c460c3",
-      "title": "En 1933, Estados Unidos completó una vía fluvial de 549 kilómetros a través de Illinois para transportar carga entre los Grandes Lagos y el Misisipi; décadas después, se convirtió en una ruta para la carpa invasora",
-      "link": "https://www.clarin.com/estados-unidos/1933-estados-unidos-completo-via-fluvial-549-kilometros-traves-illinois-transportar-carga-grandes-lagos-misisipi-decadas-despues-convirtio-ruta-carpa-invasora_0_QjxH6ZgByI.html",
-      "image": "https://www.clarin.com/img/2026/08/11/Ztm5p2HB0_1200x630__1.jpg",
-      "snippet": "La Illinois Waterway fue inaugurada en 1933 para conectar los Grandes Lagos con el río Misisipi y facilitar el transporte de mercadería. Décadas después, esa misma conexión artific",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:20:57.000Z"
     },
     {
       "id": "5133651d4895",
@@ -935,30 +1103,6 @@
       "isoDate": "2026-08-15T00:17:00.000Z"
     },
     {
-      "id": "ec011e7f4cb9",
-      "title": "Hallazgo de dientes de Megalodón en el Pacífico revela detalles sobre el temido monstruo marino",
-      "link": "https://www.lanacion.com.ar/lifestyle/hallazgo-de-dientes-de-megalodon-en-el-pacifico-revela-detalles-sobre-el-temido-monstruo-marino-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/FD6BOEZJSNESJOGQXJENSOFNEA.jpg?auth=81aca3625b1f7f2b7c3dce8763d6b677de96267a40efd2c312821881c55ad771&smart=true&width=2000&height=1333",
-      "snippet": "Descubre qué revelan los dientes de Megalodón hallados en el Pacífico por la NOAA sobre el antiguo depredador y el pasado del océano.",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:15:00.000Z"
-    },
-    {
-      "id": "e02e8bc3d6a4",
-      "title": "Suspendieron a ocho pilotos de helicópteros Apache tras un vuelo en Carolina del Sur, pero el Pentágono revirtió la sanción",
-      "link": "https://www.clarin.com/estados-unidos/suspendieron-pilotos-helicopteros-apache-vuelo-carolina-sur-pentagono-revirtio-sancion_0_uuBU3tQyhV.html",
-      "image": "https://www.clarin.com/img/2026/07/23/17MUlajan_1200x630__1.jpg",
-      "snippet": "Participaban de una exhibición con motivo del 250º aniversario de la Independencia. El episodio del que participaron motivó la intervención del Pentágono.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:14:57.000Z"
-    },
-    {
       "id": "10c32621763f",
       "title": "Donald Trump compara la situación fronteriza del mandato de Biden con los recientes sucesos migratorios en Ceuta",
       "link": "https://www.elnacional.com/2026/08/donald-trump-compara-la-situacion-fronteriza-del-mandato-de-biden-con-los-recientes-sucesos-migratorios-en-ceuta/",
@@ -981,18 +1125,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-15T00:08:00.000Z"
-    },
-    {
-      "id": "c8fa66d8f793",
-      "title": "En el clásico de los contrastes, Estudiantes y Gimnasia invirtieron los roles",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/en-el-clasico-de-los-contrastes-estudiantes-y-gimnasia-invirtieron-los-roles-nid14082026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/V55VR57MPZD3VKH7N5KCZ7FN5E.JPG?auth=f8a008eadc2cdea2c364ebee7e5868140df65815955f2712c9aa1b4cb5072c62&smart=true&width=2000&height=1333",
-      "snippet": "Se viene el partido más importante de la ciudad de La Plata y ambos clubes atraviesan presentes peculiares, que poco se vinculan a lo sucedido en los últimos años; el Pincha llega ",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-15T00:06:52.000Z"
     },
     {
       "id": "1907bc421a6d",
@@ -1247,18 +1379,6 @@
       "isoDate": "2026-08-14T23:29:05.000Z"
     },
     {
-      "id": "e6f032838d36",
-      "title": "Presidente de Colombia anuncia un “plan especial” para Chocó, epicentro del terremoto de 7,4",
-      "link": "https://www.latercera.com/mundo/noticia/presidente-de-colombia-anuncia-un-plan-especial-para-choco-epicentro-del-terremoto-de-74/",
-      "image": "https://www.latercera.com/resizer/v2/7Z2AU72BA5DU3CKBRJ4BMEDFUQ.jpeg?auth=4b02b47bea378df0956da9ab93a4b2df29172cc44c5be739adb175a46cfb42c6&smart=true&width=1280&height=854",
-      "snippet": "La iniciativa dada a conocer por Abelardo de la Espriella incluye un \"gerente especial\" para coordinar las necesidades del departamento más pobre del país con el gobierno central.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-08-14T23:25:58.000Z"
-    },
-    {
       "id": "7d493a8dbed7",
       "title": "Emergencia en Chocó | Tras inundación del albergue en Quibdó, habilitan nuevos refugios e internet Starlink: estos son los puntos establecidos",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-choco-tras-inundacion-del-albergue-en-quibdo-habilitan-nuevos-refugios-e-internet-starlink-estos-son-los-puntos-establecidos-3578537",
@@ -1295,18 +1415,6 @@
       "isoDate": "2026-08-14T23:14:48.000Z"
     },
     {
-      "id": "e7f3750c7ad5",
-      "title": "Medicina Legal entregó primer listado de desaparecidos por terremoto en Colombia: estos son los nombres completos y último lugar donde los vieron",
-      "link": "https://www.eltiempo.com/colombia/otras-ciudades/medicina-legal-entrego-primer-listado-de-desaparecidos-por-terremoto-en-colombia-estos-son-los-nombres-completos-y-ultimo-lugar-donde-los-vieron-3578519",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/14/6a7f39cc50684.jpeg",
-      "snippet": "La entidad informó que reveló estos datos para apoyar a los organismos de rescate en las labores de búsqueda.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-08-14T23:11:54.000Z"
-    },
-    {
       "id": "2151b4fc8db6",
       "title": "En El-Obeid, Sudán, mujeres y bebés quedan a merced de los ataques con drones de las FAR",
       "link": "https://www.france24.com/es/video/20260814-en-el-obeid-sud%C3%A1n-mujeres-y-beb%C3%A9s-quedan-a-merced-de-los-ataques-con-drones-de-las-far",
@@ -1329,18 +1437,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-14T23:09:32.000Z"
-    },
-    {
-      "id": "98d6767e10b7",
-      "title": "Informe desde Quibdó: De la Espriella anuncia plan de reconstrucción del Chocó",
-      "link": "https://www.france24.com/es/video/20260814-informe-desde-quibd%C3%B3-de-la-espriella-anuncia-plan-de-reconstrucci%C3%B3n-del-choc%C3%B3",
-      "image": "https://s.france24.com/media/display/8e9c6892-982b-11f1-b37a-005056a90284/w:1024/p:16x9/ES-20260814-150156-150320-CS.jpg",
-      "snippet": "El presidente de Colombia, Abelardo de la Espriella, visitó el departamento del Chocó, la región que fue epicentro de uno de los terremotos más fuertes que ha sacudido a Colombia e",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-14T23:08:59.000Z"
     },
     {
       "id": "65dfd024af95",
@@ -1427,18 +1523,6 @@
       "isoDate": "2026-08-14T22:41:47.000Z"
     },
     {
-      "id": "7dbdaf7e109a",
-      "title": "'Atrapados' en la espera: los cuatro días de angustia frente al derrumbe de una parte del Hospital Universitario del Valle",
-      "link": "https://www.eltiempo.com/colombia/cali/atrapados-en-la-espera-los-cuatro-dias-de-angustia-frente-al-derrumbe-de-una-parte-del-hospital-universitario-del-valle-3578522",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/14/6a7f9406da9d7.png",
-      "snippet": "Aunque Medicina Legal no opera a plenitud por sus afectaciones, en su parqueadero, varias personas esperan noticias de sus familiares entre escombros.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-08-14T22:33:32.000Z"
-    },
-    {
       "id": "72784f65681f",
       "title": "Ana María, la única joven sobreviviente de su familia y de un edificio en Cali | Dice que su vida tiene un propósito; así era la vida con sus hermanas",
       "link": "https://www.eltiempo.com/colombia/cali/ana-maria-la-unica-joven-sobreviviente-de-su-familia-y-de-un-edificio-en-cali-dice-que-su-vida-tiene-un-proposito-asi-era-la-vida-con-sus-hermanas-3578524",
@@ -1511,18 +1595,6 @@
       "isoDate": "2026-08-14T22:07:39.000Z"
     },
     {
-      "id": "0d676b828639",
-      "title": "UnitedHealth y la familia del ejecutivo asesinado Brian Thompson valoran la admisión de culpabilidad de Luigi Mangione",
-      "link": "https://www.elnacional.com/2026/08/unitedhealth-y-la-familia-del-ejecutivo-asesinado-brian-thompson-valoran-la-admision-de-culpabilidad-de-luigi-mangione/",
-      "image": null,
-      "snippet": "La corporación y los allegados de la víctima reaccionaron a la comparecencia en la que el acusado aceptó los cargos federales, mientras la defensa solicitó la desestimación del pro",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-08-14T22:02:35.000Z"
-    },
-    {
       "id": "fc23296781b4",
       "title": "'El Son de Negro le canta a la libertad': Santa Lucía celebra 25 años de un festival que preserva la memoria afro del Caribe colombiano",
       "link": "https://www.eltiempo.com/colombia/barranquilla/el-son-de-negro-le-canta-a-la-libertad-santa-lucia-celebra-25-anos-de-un-festival-que-preserva-la-memoria-afro-del-caribe-colombiano-3578506",
@@ -1535,6 +1607,18 @@
       "isoDate": "2026-08-14T22:01:00.000Z"
     },
     {
+      "id": "04f35605a185",
+      "title": "Wall Street retrocede ligeramente tras caída de las ventas minoristas",
+      "link": "https://elcomercio.pe/economia/wall-street-retrocede-ligeramente-tras-caida-de-las-ventas-minoristas-l-mercados-l-wall-street-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/O5RYS74I6NDYNKU7GTDHYXNOOI.jpg?auth=bd0a491a2c4cd9626f83025868cf65d09251de29f45a47390b30bf1a39fbb68b&smart=true&width=1200&height=800",
+      "snippet": "Wall Street cerró a la baja el viernes, perdiendo terreno en medio de la caída del gasto de los hogares estadounidenses el mes pasado, en un mercado con escasa actividad.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-14T21:56:25.000Z"
+    },
+    {
       "id": "c97726687660",
       "title": "Trump dice que declarará el estrecho de Ormuz como \"territorio de Estados Unidos\"",
       "link": "https://www.dw.com/es/trump-dice-que-declarará-el-estrecho-de-ormuz-como-territorio-de-estados-unidos/a-78377696?maca=spa-rss-sp-all-1122-rdf",
@@ -1545,6 +1629,18 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-14T21:51:00.000Z"
+    },
+    {
+      "id": "53ded410241b",
+      "title": "Terremoto en Colombia: Yape elimina la comisión en el envío de remesas a billeteras digitales de ese país",
+      "link": "https://elcomercio.pe/economia/peru/terremoto-en-colombia-yape-elimina-la-comision-en-el-envio-de-remesas-a-billeteras-digitales-de-ese-pais-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/GUYDCNRNGA4C2MJUKQZTEORVGA.jpg?auth=d96ec610d1f37119b2b7b075bbb8dfc61822aa4ad3bb38940837d882e9dbf8bb&smart=true&width=4832&height=3092",
+      "snippet": "",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-14T21:46:24.000Z"
     },
     {
       "id": "9b664af3e0d4",
@@ -1571,30 +1667,6 @@
       "isoDate": "2026-08-14T21:43:41.000Z"
     },
     {
-      "id": "fecbfc5daadd",
-      "title": "Alemania: ¿hasta dónde puede llegar el poder de sus servicios de inteligencia?",
-      "link": "https://www.france24.com/es/programas/ventana-a-europa/20260814-alemania-hasta-d%C3%B3nde-puede-llegar-el-poder-de-sus-servicios-de-inteligencia",
-      "image": "https://s.france24.com/media/display/40a2ecc8-981d-11f1-8318-005056a97e36/w:1024/p:16x9/WEB-PORTADA-VAE-14AGO.png",
-      "snippet": "En un giro sin precedentes desde 1945, el Gobierno de Alemania aprobó una reforma para ampliar las capacidades de sus servicios de inteligencia, incluidas operaciones cibernéticas ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-14T21:39:28.000Z"
-    },
-    {
-      "id": "5ccd3b9f4761",
-      "title": "Italia: El volcán Etna paraliza el turismo y los vuelos de Sicilia",
-      "link": "https://www.france24.com/es/video/20260814-italia-el-volc%C3%A1n-etna-paraliza-el-turismo-y-los-vuelos-de-sicilia",
-      "image": "https://s.france24.com/media/display/ceb6f07e-9825-11f1-86a9-005056a97e36/w:1024/p:16x9/VOLCA%CC%81N-ETNA.png",
-      "snippet": "El Monte Etna, en Sicilia, entró en una nueva fase eruptiva desde el 7 de agosto y continúa expulsando lava, cenizas y gases tóxicos. La erupción ha paralizado el aeropuerto de Cat",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-14T21:37:11.000Z"
-    },
-    {
       "id": "db7e861a67fa",
       "title": "Don William Cantor lo perdió todo tras el terremoto en Colombia: duerme en un colchón y pide ayuda para reconstruir su hogar",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/don-william-cantor-lo-perdio-todo-tras-el-terremoto-en-colombia-duerme-en-un-colchon-y-pide-ayuda-para-reconstruir-su-hogar-3578502",
@@ -1605,6 +1677,18 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-08-14T21:36:10.000Z"
+    },
+    {
+      "id": "8d9ea75993d1",
+      "title": "Dólar cierra sin cambios en S/3,36 para este viernes 14 de agosto",
+      "link": "https://elcomercio.pe/economia/peru/dolar-cierra-sin-cambios-en-s336-para-este-viernes-14-de-agosto-l-tipo-de-cambio-l-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/ZIWYMN5ES5DULE7U5DOKK2225A.jpg?auth=0fda5a10fcdc7c5b01c3fa9e2039b0311ae949f48a53ae0a94d9823efe766981&smart=true&width=611&height=458",
+      "snippet": "El precio del dólar cerró la sesión de hoy sin cambios en S/3,366 frente al cierre previo, en un contexto de debilidad del dólar a nivel global tras la publicación de datos económi",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-08-14T21:30:01.000Z"
     },
     {
       "id": "57ded786d45e",
@@ -1641,18 +1725,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-14T21:14:14.000Z"
-    },
-    {
-      "id": "d83f3c61bc72",
-      "title": "“¿Me extrañaron?“: así fue el cameo de Demi Lovato en ”Camp Rock 3″, la nueva película de Disney",
-      "link": "https://elcomercio.pe/mag/fama/que-ver/camp-rock-3-asi-fue-el-cameo-de-demi-lovato-en-la-nueva-pelicula-de-disney-video-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/PWXRMM625BHF5NMOICKWHKPZCI.jpg?auth=ecac706b21e3abf78705cd9e77e743f9f16bbd755d4de2b73554d703afa7b86d&smart=true&width=2400&height=1620",
-      "snippet": "Demi Lovato volvió a interpretar a Mitchie Torres en la tercera película de \"Camp Rock\", pero su aparición solo duró unos minutos.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-14T21:07:22.000Z"
     },
     {
       "id": "629a81e648a7",
@@ -1737,18 +1809,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-14T20:40:20.000Z"
-    },
-    {
-      "id": "8213e60dec16",
-      "title": "Trump enfrenta demanda por lucrarse con el acceso pago a sus publicaciones en Truth Social",
-      "link": "https://www.france24.com/es/ee-uu-y-canad%C3%A1/20260814-trump-enfrenta-demanda-por-lucrarse-con-el-acceso-pago-a-sus-publicaciones-en-truth-social",
-      "image": "https://s.france24.com/media/display/b81e7eac-9813-11f1-8ed5-005056bfb2b6/w:1024/p:16x9/AP24222794762739.jpg",
-      "snippet": "El presidente de Estados Unidos, Donald Trump, fue demandado en un tribunal de Manhattan por dos medios de comunicación que buscan cerrar un nuevo servicio de su plataforma Truth S",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-14T20:37:10.000Z"
     },
     {
       "id": "5c40522bb4cc",
@@ -1847,6 +1907,18 @@
       "isoDate": "2026-08-14T19:31:24.000Z"
     },
     {
+      "id": "ce936dde043a",
+      "title": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
+      "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
+      "image": "https://cdn-3.expansion.mx/dims4/default/e7f23b7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4b%2F60%2F0fe9a25543a693f28a641143fc3f%2F7-changan-eado-plus-idd.jpeg",
+      "snippet": "La oferta de vehículos híbridos en México ha crecido durante los últimos años; estos modelos destacan por sus características y precios.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-14T19:30:42.000Z"
+    },
+    {
       "id": "6c852dd77aea",
       "title": "Llegan lluvias y fuertes tormentas a casi toda España en las próximas horas: estas son las zonas en aviso",
       "link": "https://www.20minutos.es/nacional/llegan-lluvias-fuertes-tormentas-casi-toda-espana-las-proximas-horas-estas-son-las-zonas-aviso-que-esperan-mas-agua_7025988_0.html",
@@ -1895,6 +1967,18 @@
       "isoDate": "2026-08-14T19:18:00.000Z"
     },
     {
+      "id": "389a2e6f7a27",
+      "title": "¿Tienes eSIM? Lo que debes saber sobre el registro de tu línea telefónica con CURP en México",
+      "link": "https://expansion.mx/empresas/2026/08/14/debo-registrarme-si-tengo-esim-vinculacion-lineas",
+      "image": "https://cdn-3.expansion.mx/dims4/default/5936438/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa5%2Ffb%2Fb95fe71f40dfbdbabe75e6531880%2Fistock-1476027758.jpg",
+      "snippet": "Las líneas que no sean vinculadas dentro del plazo correspondiente pueden ser suspendidas, aunque utilicen una eSIM en lugar de una tarjeta SIM tradicional.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-14T19:09:28.000Z"
+    },
+    {
       "id": "641639a4c98e",
       "title": "Irán denuncia daños de billones de dólares por la contaminación petrolera en el Golfo",
       "link": "http://es.euronews.com/2026/08/14/iran-cifra-billones-danos-causados-vertidos-golfo",
@@ -1919,6 +2003,18 @@
       "isoDate": "2026-08-14T18:48:00.000Z"
     },
     {
+      "id": "9cd3a02f50ab",
+      "title": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
+      "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
+      "image": "https://cdn-3.expansion.mx/dims4/default/4aebadf/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fe4%2Fae%2Fa6e83d414126b4f85d02f15b53df%2Fcarlos-slim-polanco-3.jpeg",
+      "snippet": "Carso III, Pabellón Polanco y un nuevo hospital forman parte de la nueva etapa de expansión inmobiliaria de Slim en una de las zonas más importantes de la CDMX.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-14T18:43:31.000Z"
+    },
+    {
       "id": "f2f57bb5c8b6",
       "title": "Congo: el ébola se propaga a velocidad récord",
       "link": "https://www.dw.com/es/congo-el-ébola-se-propaga-a-velocidad-récord/a-78377015?maca=spa-rss-sp-all-1122-rdf",
@@ -1929,6 +2025,18 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-14T18:32:00.000Z"
+    },
+    {
+      "id": "611684f247d8",
+      "title": "La directora de ética de OpenAI se va en plena fuga de ejecutivos",
+      "link": "https://expansion.mx/tecnologia/2026/08/14/directora-etica-openai-se-va-fuga-ejecutivos",
+      "image": "https://cdn-3.expansion.mx/dims4/default/9571328/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2d%2F61%2Fcd9e139444ad8f5ce684a6ebf34f%2Fejecutivos-dejan-openai.jpeg",
+      "snippet": "La salida de ejecutivos de alto perfil ocurre justo cuando OpenAI se prepara para salir a la bolsa.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-08-14T18:30:34.000Z"
     },
     {
       "id": "164c523ed21e",
@@ -1965,18 +2073,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-14T18:21:09.000Z"
-    },
-    {
-      "id": "8d4138002eb0",
-      "title": "La estrella surcoreana que hace de Cha Hae-in en la serie live-action “Solo Leveling” de Netflix: quién es Han So-Hee",
-      "link": "https://elcomercio.pe/mag/fama/que-ver/solo-leveling-quien-es-han-so-hee-la-actriz-que-hace-de-cha-hae-in-en-la-serie-live-action-de-netflix-adaptacion-del-anime-de-crunchyroll-nnda-nnlt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/ZMA3IDIMIJCUFCKT7WPVXRPGQE.jpg?auth=84c8efcbf6b89f509d96575873cc0dbc7231c04b13366760fced18afdf35a3b2&smart=true&width=2400&height=1620",
-      "snippet": "Conoce a Han So-Hee, la actriz surcoreana que interpretará a Cha Hae-in en \"Solo Leveling\", la adaptación live-action de Netflix junto a Byeon Woo-seok.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-14T18:07:16.000Z"
     },
     {
       "id": "6782c1ae18af",
@@ -2109,18 +2205,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-14T16:42:28.000Z"
-    },
-    {
-      "id": "e5933595b6f9",
-      "title": "Mariúpol: ¿quién se muda a los nuevos edificios?",
-      "link": "https://www.dw.com/es/mariúpol-¿quién-se-muda-a-los-nuevos-edificios/a-78375971?maca=spa-rss-sp-all-1122-rdf",
-      "image": null,
-      "snippet": "Donde antes había viviendas en el Mariúpol ocupado, Rusia levanta ahora nuevos complejos residenciales. ¿Quién compra esos inmuebles y qué ha sido de los ucranianos que lo perdiero",
-      "source": "DW Español",
-      "sourceId": "dw",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-14T16:33:00.000Z"
     },
     {
       "id": "cfcdc45579d1",
@@ -2421,30 +2505,6 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-08-14T12:03:46.000Z"
-    },
-    {
-      "id": "6a3f945de7df",
-      "title": "Cifra clara",
-      "link": "https://elcomercio.pe/economia/opinion/cifra-clara-por-estuardo-ortiz-opinion-jetsmart-aeropuerto-jorge-chavez-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/6HPSP6YRTZFVTIXXK4Q5HFTQJA.jpg?auth=14bff202e4fa269b958161201b75301cd29c5017f8359ba590e65adf662f2deb&smart=true&width=6720&height=4480",
-      "snippet": "“Un cambio de gobierno es también la oportunidad de revisar políticas públicas a la luz de la evidencia disponible. En un contexto internacional cada vez más exigente, fortalecer l",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-14T12:00:00.000Z"
-    },
-    {
-      "id": "43ad3b01eafd",
-      "title": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "image": "https://cdn-3.expansion.mx/dims4/default/606a7de/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8e%2F93%2F6d1832a64dd28bb0f11366b28f67%2F1-electricidad-201909181358044-mg-2040.jpeg",
-      "snippet": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-14T11:55:27.000Z"
     },
     {
       "id": "f8dc96d2b80b",
@@ -2807,18 +2867,6 @@
       "isoDate": "2026-08-14T06:41:50.000Z"
     },
     {
-      "id": "da68502cd4cf",
-      "title": "Rosa Bueno fue anunciada como nueva presidenta de Capitalismo Consciente Perú",
-      "link": "https://elcomercio.pe/economia/peru/rosa-bueno-fue-anunciada-como-nueva-presidenta-de-capitalismo-consciente-peru-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/FOLRQPDBPVC43JOKQSYF2WRREM.jpg?auth=37ea2ee96461099fa0656984c9fe522f2cfd5c8dd7e708c32582d5be354cc99a&smart=true&width=1200&height=799",
-      "snippet": "",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-14T04:59:44.000Z"
-    },
-    {
       "id": "1bf803207e6b",
       "title": "Un conductor daña Pampa del Leoncito, joya natural del norte argentino",
       "link": "https://elpais.com/argentina/2026-08-14/un-conductor-dana-pampa-del-leoncito-joya-natural-del-norte-argentino.html",
@@ -2927,30 +2975,6 @@
       "isoDate": "2026-08-14T03:30:01.000Z"
     },
     {
-      "id": "0a100ca2166f",
-      "title": "¿Quién es el dueño del Palacio de los Deportes, sede del examen de control que aplica la UNAM?",
-      "link": "https://expansion.mx/tendencias/2026/08/13/quien-es-dueno-palacio-deportes-sede-examen-control-unam",
-      "image": "https://cdn-3.expansion.mx/dims4/default/c996dff/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F2a%2F2a%2Fe6fab6c8477f83aaed8a0498dae4%2F3-palacio-deportes-1053947-gp-cdmx-f1-impreso.jpeg",
-      "snippet": "El Palacio de los Deportes es conocido por ser uno de los recintos deportivos y culturales más importantes de la CDMX, aunque en esta ocasión vivirá una nueva historia.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-14T01:14:55.000Z"
-    },
-    {
-      "id": "f36cc63c73dc",
-      "title": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
-      "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
-      "image": "https://cdn-3.expansion.mx/dims4/default/6b29e39/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fee%2Ff8%2Ffa305f4d499b8d378f9012b79d47%2Fdiseno-sin-titulo.png",
-      "snippet": "Las familias Achar, Arango y Aramburuzabala dejaron de controlar Comex, Aurrera y Grupo Modelo, pero utilizaron el capital de esas operaciones para mantener su actividad empresaria",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-14T00:51:01.000Z"
-    },
-    {
       "id": "8588e846998f",
       "title": "Las ejecuciones de 3 hombres en un mismo día que reflejan el aumento del uso de la pena de muerte en EE.UU.",
       "link": "https://www.bbc.com/mundo/articles/c77g5zk52pxo?at_medium=RSS&at_campaign=rss",
@@ -2961,30 +2985,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-14T00:40:47.000Z"
-    },
-    {
-      "id": "c86ef5e06efa",
-      "title": "BCR mantiene la tasa de interés de referencia en 4,25%",
-      "link": "https://elcomercio.pe/economia/peru/bcrp-mantiene-la-tasa-de-interes-de-referencia-en-425-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/MITU6RNVNJGBPPHMGGGX3UUMFA.jpg?auth=0102509e015392a70a1c6e500ba5c98760e8a1dca4696e1b2e5c7ed415c7ce4f&smart=true&width=1200&height=800",
-      "snippet": "",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-08-14T00:23:09.000Z"
-    },
-    {
-      "id": "b873c29a1f0c",
-      "title": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
-      "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
-      "image": "https://cdn-3.expansion.mx/dims4/default/2d8dd9a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fd6%2Fae%2F36e8a56b4caebd14f5709d96038e%2F2-pemex-1074474-sheinbaum-refineria-de-salina-cruz-web.jpeg",
-      "snippet": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CF",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-08-14T00:05:17.000Z"
     },
     {
       "id": "1c0677764b0b",
