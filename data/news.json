@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-08-16T08:24:05.365Z",
-  "count": 257,
+  "updatedAt": "2026-08-16T08:31:05.113Z",
+  "count": 243,
   "sources": [
     {
       "id": "20minutos",
@@ -63,12 +63,6 @@
       "countryLabel": "Colombia"
     },
     {
-      "id": "euronews",
-      "name": "Euronews Español",
-      "country": "INT",
-      "countryLabel": "Internacional"
-    },
-    {
       "id": "expansion",
       "name": "Expansión",
       "country": "MX",
@@ -119,16 +113,52 @@
   ],
   "items": [
     {
-      "id": "fd09a3a2152b",
-      "title": "¿Pierde Trump la confianza de sus aliados del Golfo? Arabia Saudí paga el precio más alto",
-      "link": "http://es.euronews.com/2026/08/16/pierde-trump-la-confianza-de-sus-aliados-del-golfo-arabia-saudi-paga-el-precio-mas-alto",
-      "image": null,
-      "snippet": "Un responsable del Golfo afirmó que el desencanto con Washington está en su punto más alto desde los primeros ataques a Irán en febrero, y que Trump inició la guerra, mientras los ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T08:18:45.000Z"
+      "id": "f688f6db8f45",
+      "title": "Baleado en Concepción del Uruguay: el hombre continúa en terapia intensiva y se sumó una causa por drogas",
+      "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/baleado-en-concepcion-del-uruguay-el-hombre-continua-en-terapia-intensiva-y-se-sumo-una-causa-por-drogas/",
+      "image": "https://www.infobae.com/resizer/v2/2IDTS53MOZCXVLGM4INQUG4PNU.png?auth=659a7f7da8fea203240ef39f9e2a850588f515739365e88a40bc9558d24cb32c&smart=true&width=1194&height=895",
+      "snippet": "El hombre, de 45 años, permanece internado en el hospital Justo José de Urquiza. Además, realizaron un allanamiento en el domicilio de la víctima que derivó en el secuestro de drog",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-16T08:25:48.000Z"
+    },
+    {
+      "id": "f89db54459b8",
+      "title": "Procesaron a una funcionaria de La Plata por presuntamente comprar cuentas y usarlas para lavar $27 mil millones",
+      "link": "https://www.infobae.com/sociedad/policiales/2026/08/16/procesaron-a-una-funcionaria-de-la-plata-por-presuntamente-comprar-cuentas-y-usarlas-para-lavar-27-mil-millones/",
+      "image": "https://www.infobae.com/resizer/v2/WRJ32DIN4VBTPIEEOTSC3PAK3M.png?auth=fbb793f5c0d8aeca1e2750399290dffecb6aa5618f731f4413c6b128f924c741&smart=true&width=1408&height=768",
+      "snippet": "Se trata de una empleada judicial que fue acusada de haber liderado una red de estafas y lavado de dinero. Sospechan que habría utilizado información pública para captar a sus víct",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-16T08:21:41.000Z"
+    },
+    {
+      "id": "e4508af5d5ff",
+      "title": "El Parque Natural Cabo de Gata ya registra más denuncias de turismo sin permiso que en todo 2025",
+      "link": "https://www.infobae.com/espana/2026/08/16/el-parque-natural-cabo-de-gata-ya-registra-mas-denuncias-de-turismo-sin-permiso-que-en-todo-2025/",
+      "image": "https://www.infobae.com/resizer/v2/YNZCM223ABCC7N2LHCBMW7TEXI.jpg?auth=b9adde35f7ed576f403ad2b00c9db7a97ac4d25b581569d2cb1c128eea2eb263&smart=true&width=1920&height=1440",
+      "snippet": "La Junta de Andalucía ha aumentado los controles por la proliferación de actividades turísticas sin la debida autorización",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-16T08:21:02.000Z"
+    },
+    {
+      "id": "cb1e70abb173",
+      "title": "Llegada del fenómeno El Niño: Santa Fe avanza con obras hídricas ante posibles lluvias intensas",
+      "link": "https://www.infobae.com/sociedad/2026/08/16/llegada-del-fenomeno-el-nino-santa-fe-avanza-con-obras-hidricas-ante-posibles-lluvias-intensas/",
+      "image": "https://www.infobae.com/resizer/v2/N2BEGADDKJAVFB3PV34UXGW2C4.png?auth=5806d51aebf688a5737fbe17e1c408ccccc5c537f0b14c608ab260eb0c843d93&smart=true&width=934&height=533",
+      "snippet": "Con una inversión superior a los $5.800 millones, la provincia acelera la limpieza de canales y obras de defensa urbana en medio de pronósticos que anticipan un fenómeno de El Niño",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-08-16T08:20:28.000Z"
     },
     {
       "id": "1fdad3675a79",
@@ -251,42 +281,6 @@
       "isoDate": "2026-08-16T08:15:47.000Z"
     },
     {
-      "id": "49eac7426697",
-      "title": "Roban de un museo siciliano obras del maestro renancentista Antonello de Messina",
-      "link": "https://www.infobae.com/america/agencias/2026/08/16/roban-de-un-museo-siciliano-obras-del-maestro-renancentista-antonello-de-messina/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-16T08:15:35.000Z"
-    },
-    {
-      "id": "7b5487f54eed",
-      "title": "Jueces rechazan \"denegaciones en masa\" de solicitudes de asilo y recuerdan que se tienen que estudiar \"caso a caso\"",
-      "link": "https://www.infobae.com/espana/agencias/2026/08/16/jueces-rechazan-denegaciones-en-masa-de-solicitudes-de-asilo-y-recuerdan-que-se-tienen-que-estudiar-caso-a-caso/",
-      "image": "https://www.infobae.com/resizer/v2/BCELN4I2JBGJ3M4XRIYNX4QZXQ.jpg?auth=14f7326760c7e4133477fba6d523c6ef2bc0c5da3653a4e73b7977d69b8f2e7d&smart=true&width=1920&height=1280",
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-16T08:15:21.000Z"
-    },
-    {
-      "id": "081a14d92c59",
-      "title": "Delegación de Hamás aborda en El Cairo la aplicación del plan de Trump para Gaza",
-      "link": "https://www.infobae.com/america/agencias/2026/08/16/delegacion-de-hamas-aborda-en-el-cairo-la-aplicacion-del-plan-de-trump-para-gaza/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-16T08:15:19.000Z"
-    },
-    {
       "id": "5060b51c9aa0",
       "title": "Créditos hipotecarios: el Gobierno busca la forma de activar la financiación para la compra de propiedades",
       "link": "https://www.lanacion.com.ar/propiedades/casas-y-departamentos/creditos-hipotecarios-el-gobierno-busca-la-forma-de-activar-la-financiacion-para-la-compra-de-nid16082026/",
@@ -335,30 +329,6 @@
       "isoDate": "2026-08-16T08:07:42.000Z"
     },
     {
-      "id": "87544a2a0b99",
-      "title": "Una DANA deja en España granizo, tormentas y lluvias torrenciales de hasta 186 litros por metro cuadrado",
-      "link": "http://es.euronews.com/my-europe/2026/08/16/una-dana-deja-granizo-tormentas-y-lluvias-de-hasta-186-litros-en-espana",
-      "image": null,
-      "snippet": "Una vaguada atlántica ha traído lluvias, tormentas y rachas de viento a la práctica totalidad de España este sábado, tras semanas de calor extremo. Castellón ha registrado hasta 18",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T08:05:55.000Z"
-    },
-    {
-      "id": "af8d41832ad4",
-      "title": "La Aemet prevé un cambio de tiempo: vuelve el calor extremo sin que las lluvias y tormentas con granizo se despidan de estas regiones",
-      "link": "https://www.infobae.com/espana/2026/08/16/la-aemet-preve-un-cambio-de-tiempo-vuelve-el-calor-extremo-sin-que-las-lluvias-y-tormentas-con-granizo-se-despidan-de-estas-regiones/",
-      "image": "https://www.infobae.com/resizer/v2/RHRMMMVYHVAZPIBLAXAILZWSVI.jpg?auth=c7efec695aa68168a9c8c0a8d62a1797df0f9e93eaf3ea71143f896dd39e5c10&smart=true&width=1920&height=1310",
-      "snippet": "La próxima semana empieza con una subida del mercurio, que podrá volver a bajar el miércoles con la llegada, de nuevo, de inestabilidad a la atmósfera",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-08-16T08:04:55.000Z"
-    },
-    {
       "id": "b732c81e618d",
       "title": "Tragedia en Manzanedo de Valdueza: «El año pasado tuvimos que escapar del fuego y ahora esto. Es horrible»",
       "link": "https://www.abc.es/espana/castilla-leon/tragedia-manzanedo-valdueza-ano-pasado-escapar-fuego-20260816094541-nt.html",
@@ -381,18 +351,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-16T08:01:58.000Z"
-    },
-    {
-      "id": "1fd11ef5fd29",
-      "title": "Grand Prix de Lima 2026: Nuevos campeones brillan en el día dos",
-      "link": "http://es.euronews.com/2026/08/16/grand-prix-de-lima-2026-nuevos-campeones-brillan-en-el-dia-dos",
-      "image": null,
-      "snippet": "La segunda jornada en Lima dejó nuevas victorias históricas. Seiko Watanabe, Vlad Mitru y Dena Pohl conquistaron su primer oro en el World Judo Tour, mientras David Lima subió a lo",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T08:00:11.000Z"
     },
     {
       "id": "34ff60327a74",
@@ -443,30 +401,6 @@
       "isoDate": "2026-08-16T07:43:36.000Z"
     },
     {
-      "id": "f3b297e9bcfb",
-      "title": "El Gobierno remite el caso de Finlay Tarling a \"autoridades competentes\"",
-      "link": "http://es.euronews.com/2026/08/16/el-gobierno-remite-el-caso-de-finlay-tarling-a-autoridades-competentes",
-      "image": null,
-      "snippet": "En respuesta a las preguntas enviadas por 'Euronews', la ministra de Deporte, Juventud y Cultura no aclaró si piensa interpelar a la Federación Portuguesa de Ciclismo por la muerte",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T07:40:27.000Z"
-    },
-    {
-      "id": "89a3141da6c9",
-      "title": "El agua y el barro sepultan una bodega en León: dos mujeres mueren y dos bebés resultan heridos",
-      "link": "http://es.euronews.com/my-europe/2026/08/16/el-agua-y-el-barro-sepultan-una-bodega-en-leon-dos-mujeres-mueren-y-dos-bebes-resultan-her",
-      "image": null,
-      "snippet": "Una riada y un desprendimiento de tierra provocados por una tromba de agua han dejado dos mujeres fallecidas y dos menores heridos en Manzanedo de Valdueza, en la comarca leonesa d",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T07:29:30.000Z"
-    },
-    {
       "id": "474664b19813",
       "title": "Valentina, 26 años, vive en Finlandia: “Aquí es muy común comer carne de reno, aunque sea un animal muy representativo. Yo no la he probado porque soy vegetariana, pero dicen que está muy buena”",
       "link": "https://www.clarin.com/internacional/valentina-26-anos-vive-finlandia-comun-comer-carne-reno-animal-representativo-probado-vegetariana-dicen-buena_0_zYR7nlhaBI.html",
@@ -513,18 +447,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-16T07:18:20.000Z"
-    },
-    {
-      "id": "a967a63ddee9",
-      "title": "Un trágico accidente de autobús en Hungría deja, al menos, 12 muertos",
-      "link": "http://es.euronews.com/2026/08/16/un-tragico-accidente-de-autobus-en-hungria-deja-al-menos-12-muertos",
-      "image": null,
-      "snippet": "El presidente del Gobierno polaco también informó sobre la catástrofe. El accidente de autobús se ha cobrado la vida de al menos 12 personas y viajaban 47 personas más.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T07:06:26.000Z"
     },
     {
       "id": "864369b102f9",
@@ -657,18 +579,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-16T06:54:28.000Z"
-    },
-    {
-      "id": "6b14ee609e64",
-      "title": "Dos F-18 españoles de la OTAN derriban un dron sobre Rumanía cerca de la frontera con Moldavia",
-      "link": "http://es.euronews.com/my-europe/2026/08/16/dos-f-18-espanoles-de-la-otan-derriban-un-dron-sobre-rumania-cerca-de-la-frontera-con-mold",
-      "image": null,
-      "snippet": "Dos cazas F-18 españoles desplegados en Rumanía dentro de la misión de la OTAN interceptaron y destruyeron este domingo un dron no identificado que había entrado en el espacio aére",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T06:44:15.000Z"
     },
     {
       "id": "4929afe9955e",
@@ -921,18 +831,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-16T06:11:04.000Z"
-    },
-    {
-      "id": "05da21a3126c",
-      "title": "La Prangerlinde de Großpörthen, un árbol de 900 años con una historia escalofriante",
-      "link": "http://es.euronews.com/cultura/2026/08/16/la-prangerlinde-de-grossporthen-arbol-de-900-anos-y-historia-escalofriante",
-      "image": null,
-      "snippet": "Tiene hasta 900 años, mide casi diez metros y en su tronco cuelga aún un viejo grillete para el cuello. La Prangerlinde de Großpörthen, en Sajonia-Anhalt, es un singular monumento ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T06:10:34.000Z"
     },
     {
       "id": "c7d684a9b629",
@@ -1223,30 +1121,6 @@
       "isoDate": "2026-08-16T05:20:00.000Z"
     },
     {
-      "id": "8e375bb6533b",
-      "title": "Descubrir Andorra, los mejores planes en el microestado más allá de esquí y compras",
-      "link": "http://es.euronews.com/viajes/2026/08/16/descubrir-andorra-los-mejores-planes-en-el-microestado-mas-alla-de-esqui-y-compras",
-      "image": null,
-      "snippet": "La capital más alta del continente, Andorra la Vella reúne edificios históricos, esculturas llamativas y el mayor balneario termal del sur de Europa.",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T05:00:40.000Z"
-    },
-    {
-      "id": "0a06e77f6b64",
-      "title": "Últimas noticias | 16 agosto 2026 - Mañana",
-      "link": "http://es.euronews.com/video/2026/08/16/ultimas-noticias-16-agosto-2026-manana",
-      "image": null,
-      "snippet": "Ponte al día con las noticias más importantes de Europa y el mundo este 16 agosto 2026: noticias de última hora, internacional, negocios, entretenimiento, política, cultura, viajes",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T05:00:08.000Z"
-    },
-    {
       "id": "7d92b6f8a35b",
       "title": "La cara oculta del éxito del Ozempic: su peligroso efecto sobre la piel",
       "link": "https://www.20minutos.es/salud/cara-oculta-exito-ozempic-su-peligroso-efecto-sobre-piel_7017263_0.html",
@@ -1406,7 +1280,7 @@
       "id": "1f6f5db7aff0",
       "title": "Las propuestas del sector para la crisis de la vivienda: construir más, agilizar trámites y proteger al inquilino",
       "link": "https://www.lavanguardia.com/economia/20260816/11614456/construir-mas-agilizar-tramites-proteger-inquilino.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a80a26a6c957.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a80a26a6c957.r_d.1350-1607-0.jpeg",
       "snippet": "Expertos y agentes del sector señalan que las soluciones de futuro pasan por aumentar la oferta",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
@@ -1420,18 +1294,6 @@
       "link": "https://www.lavanguardia.com/politica/20260816/11614412/ayuso-pierde-armadura-polemicas-presidenta-comunidad-madrid-atico.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/08/15/6a808ab5cde8d.jpeg",
       "snippet": "Siete años después de su toma de posesión, algo se ha quebrado en el fenómeno de la presidenta madrileña",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-16T04:00:00.000Z"
-    },
-    {
-      "id": "7c41c5e3c58d",
-      "title": "¿Crece más la ultraderecha en el mundo rural?",
-      "link": "https://www.lavanguardia.com/politica/20260816/11575458/crece-mas-ultraderecha-mundo-rural.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2025/12/19/6945490f07f6b.jpeg",
-      "snippet": "El nacional populismo explota los temores del campo, aunque podría cosechar más votos en el catalán que en el español",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -1643,18 +1505,6 @@
       "isoDate": "2026-08-16T03:00:00.000Z"
     },
     {
-      "id": "eedd47ccb5e1",
-      "title": "Las 10 reglas que pueden salvar la vida de los niños en el mar y la piscina",
-      "link": "http://es.euronews.com/salud/2026/08/16/las-10-reglas-que-pueden-salvar-la-vida-de-los-ninos-en-el-mar-y-la-piscina",
-      "image": null,
-      "snippet": "Médicos y Cruz Roja ofrecen consejos para una natación segura en playas y piscinas",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T03:00:00.000Z"
-    },
-    {
       "id": "5e9ed9d8da66",
       "title": "Por qué no se han podido encontrar los restos de García Lorca 90 años después de su ejecución en la Guerra Civil española",
       "link": "https://www.bbc.com/mundo/articles/c78gxlj1e55o?at_medium=RSS&at_campaign=rss",
@@ -1833,18 +1683,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-08-16T01:07:27.000Z"
-    },
-    {
-      "id": "09d15cc43b05",
-      "title": "Bruselas da luz verde a otros 42.000 millones de euros del fondo de recuperación para Polonia",
-      "link": "http://es.euronews.com/my-europe/2026/08/16/bruselas-da-luz-verde-a-otros-42000-millones-de-euros-del-fondo-de-recuperacion-para-polon",
-      "image": null,
-      "snippet": "La Comisión Europea aprueba la quinta solicitud de Varsovia, que eleva al 76,85% los fondos desembolsados, pero el país afronta una carrera contrarreloj para completar el plan ante",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-16T01:00:04.000Z"
     },
     {
       "id": "33a5dc57f8b6",
@@ -2063,18 +1901,6 @@
       "isoDate": "2026-08-15T23:02:57.000Z"
     },
     {
-      "id": "87098dd63c53",
-      "title": "El Palio de Siena por dentro: \"Se nace en una 'contrada' y solo se sale con la muerte\"",
-      "link": "https://www.elmundo.es/cultura/2026/08/16/6a7f16d0fc6c835a2f8b4571.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/14/17867143593029.jpg",
-      "snippet": "La carrera de caballos que se celebra este domingo en Italia es la más alocada y salvaje que se pueda ver Leer",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-08-15T23:02:56.000Z"
-    },
-    {
       "id": "ef5498d1b5d0",
       "title": "Sube a 72 la cifra de muertos por naufragio en Zimbabue",
       "link": "https://www.dw.com/es/sube-a-72-la-cifra-de-muertos-por-naufragio-en-zimbabue/a-78385753?maca=spa-rss-sp-all-1122-rdf",
@@ -2123,6 +1949,18 @@
       "isoDate": "2026-08-15T22:17:42.000Z"
     },
     {
+      "id": "82854ec574c6",
+      "title": "Los vestidos largos de Zara que llevarán las mujeres elegantes en las noches de agosto y septiembre",
+      "link": "https://www.elmundo.es/yodona/moda/2026/08/16/6a79902afdddffe01b8b4584.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/08/10/17863509588955.jpg",
+      "snippet": "Las últimas noches de verano, las de agosto y septiembre, se merecen un vestido largo como los que tiene Zara en su colección. Son los que llevarán las mujeres más elegantes que sa",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-15T22:16:38.000Z"
+    },
+    {
       "id": "83ef8b8179af",
       "title": "Djokovic cae ante el argentino Thiago Tirante en Cincinnati",
       "link": "https://www.elnacional.com/2026/08/djokovic-cae-ante-el-argentino-thiago-tirante-en-cincinnati/",
@@ -2157,18 +1995,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-15T21:50:58.000Z"
-    },
-    {
-      "id": "dcb2c3dc4ce2",
-      "title": "Las 'babosas españolas' invaden Rusia: una plaga amenaza las cosechas y los jardines",
-      "link": "http://es.euronews.com/2026/08/15/las-babosas-espanolas-invaden-rusia-una-plaga-amenaza-las-cosechas-y-los-jardines",
-      "image": null,
-      "snippet": "Rusia registra una invasión récord de 'babosas españolas' de 15-20 cm en varias regiones, especialmente Moscú, San Petersburgo y sus alrededores, que transmiten enfermedades y arra",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-15T21:50:54.000Z"
     },
     {
       "id": "0c574100ccf9",
@@ -2409,18 +2235,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-08-15T20:08:52.000Z"
-    },
-    {
-      "id": "62ddae0a53e2",
-      "title": "Inauguran en una aldea polaca la mayor estatua de la Virgen María de Europa",
-      "link": "http://es.euronews.com/video/2026/08/15/inauguran-en-una-aldea-polaca-la-mayor-estatua-de-la-virgen-maria-de-europa",
-      "image": null,
-      "snippet": "En una pequeña aldea polaca se ha inaugurado una estatua de la Virgen María de 55,6 metros, en una ceremonia con misa, música tradicional y helicópteros que esparcieron pétalos de ",
-      "source": "Euronews Español",
-      "sourceId": "euronews",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-08-15T20:00:45.000Z"
     },
     {
       "id": "69948224cbb5",
@@ -2805,6 +2619,18 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-08-15T04:05:29.000Z"
+    },
+    {
+      "id": "4de159d797e7",
+      "title": "La lucha contra las megabandas latinas que revolucionan el crimen para desestabilizar",
+      "link": "https://www.lavanguardia.com/politica/20260815/11614447/lucha-grandes-bandas-latinas-grupos-transnacionales.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/08/15/6a809c6a3d9d3.r_d.873-381-0.jpeg",
+      "snippet": "Un grupo de la Policía Nacional persigue grupos transnacionales como Tren de Aragua, Mara Salvatrucha o Primeiro Comando da Capital, capaces de penetrar en el tejido político, econ",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-08-15T04:00:00.000Z"
     },
     {
       "id": "1c363bd29f68",
