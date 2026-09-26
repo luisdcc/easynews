@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T18:44:52.323Z",
+  "updatedAt": "2026-09-26T19:34:42.758Z",
   "count": 257,
   "sources": [
     {
@@ -119,28 +119,340 @@
   ],
   "items": [
     {
-      "id": "36c2910d84d9",
-      "title": "Franco Colapinto, sin filtro: \"Estoy a años luz de cualquier comparación con Leo Messi\"",
-      "link": "https://www.clarin.com/deportes/franco-colapinto-filtro-anos-luz-cualquier-comparacion-leo-messi_0_h8HW4qqLCG.html",
-      "image": "https://www.clarin.com/img/2026/09/10/Kzg-UpOnO_1200x630__1.jpg",
-      "snippet": "El piloto de Alpine repasó su maduración tras cumplir dos años de su debut en Monza y destacó su experiencia reciente de competir en Madrid. Asimismo, recordó la incertidumbre de f",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-30T09:05:00.000Z"
-    },
-    {
-      "id": "81d96b449c46",
-      "title": "Las exigentes condiciones que pidió la Selección Española durante su visita a Puebla antes de conquistar el Mundial 2026",
-      "link": "https://www.infobae.com/mexico/deportes/2026/09/26/las-exigentes-condiciones-que-pidio-la-seleccion-espanola-durante-su-visita-a-puebla-antes-de-conquistar-el-mundial-2026/",
-      "image": "https://www.infobae.com/resizer/v2/QOSCFBZPLJBUHASVJMAT66KJ2I.JPEG?auth=8316af9c6afed047a8fa4ec4280d93cc28148644034c5ce198ca0e8a51588467&smart=true&width=1024&height=576",
-      "snippet": "El equipo español cuidó cada detalle de su estancia en México previo a su participación en el torneo internacional",
+      "id": "19327f3cbd36",
+      "title": "Panamá supera los 8,000 casos de dengue tras sumar 495 en una semana",
+      "link": "https://www.infobae.com/panama/2026/09/26/panama-supera-los-8000-casos-de-dengue-tras-sumar-495-en-una-semana/",
+      "image": "https://www.infobae.com/resizer/v2/CVKVV4SW2JEOPIL5V76CDOVNKQ.png?auth=76446986f17a8d8520b04112c6b529d2f020ce9f525fd0556e6ca1dfc242b9ec&smart=true&width=1536&height=1024",
+      "snippet": "El país mantiene una reducción de 27.3% frente a 2025, pero aumentaron las hospitalizaciones y se registró una nueva defunción asociada a la enfermedad.",
       "source": "Infobae",
       "sourceId": "infobae",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:41:23.000Z"
+      "isoDate": "2026-09-26T19:32:35.000Z"
+    },
+    {
+      "id": "5457391eb4cc",
+      "title": "Con un golazo de Di María, Rosario Central le iguala a Estudiantes la final de la Supercopa Internacional",
+      "link": "https://www.infobae.com/deportes/2026/09/26/rosario-central-y-estudiantes-de-la-plata-se-enfrentaran-por-la-supercopa-internacional-hora-tv-y-formaciones/",
+      "image": "https://www.infobae.com/resizer/v2/WW52UMGRZRBV5EUHF6BAOGUO4E.jpg?auth=d668e85de07570932e6fee793f97c9a25d576fcd75e2f4845f1e1e1695e53811&smart=true&width=2361&height=1328",
+      "snippet": "El Canalla y el Pincha se miden en el estadio Madre de Ciudades por un nuevo título. Televisan Disney+ Premium y DSports",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:32:31.000Z"
+    },
+    {
+      "id": "936880a58244",
+      "title": "Inglaterra-España, en directo: Anthony Gordon pone el empate en una contra liderada por Bellingham",
+      "link": "https://www.infobae.com/espana/deportes/2026/09/26/espana-inglaterra-en-directo-ultima-hora-del-estreno-de-la-roja-en-la-nations-league-con-las-dos-estrellas/",
+      "image": "https://www.infobae.com/resizer/v2/UFY6W2HWVVFIHOABGHQLIEMRAY.JPG?auth=b5f30e53402288e0b17cf0f1fc39cf5aaef1dae0f5ffa37033afb691b9655d2f&smart=true&width=2182&height=1556",
+      "snippet": "La selección de Luis de la Fuente estrena la corona del fútbol mundial en Wembley",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:32:22.000Z"
+    },
+    {
+      "id": "34d9b7e7fd12",
+      "title": "Sindicato de Inquilinas llama a acampar en Sol al acabar la manifestación por la vivienda",
+      "link": "https://www.infobae.com/espana/agencias/2026/09/26/sindicato-de-inquilinas-llama-a-acampar-en-sol-al-acabar-la-manifestacion-por-la-vivienda/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:32:15.000Z"
+    },
+    {
+      "id": "1d286dccd0b4",
+      "title": "Inglaterra - España en directo | Gordon y Kane le dan la vuelta al partido",
+      "link": "https://elpais.com/deportes/futbol/2026-09-26/inglaterra-espana-en-directo-el-partido-de-la-uefa-nations-league-en-vivo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/TTIQEIDBABJELHQQNQANII4NHI.jpg?auth=30d541f93c73476a62ed9abeacbfacf52717f5334a277a7fbfd8b222089a9516",
+      "snippet": "Lamine Yamal adelantó al combinado dirigido por Luis de la Fuente en el minuto 2 | Eric García se cae del once por molestias en la rodilla y Pubill lo sustituye en el lateral derec",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:32:13.000Z"
+    },
+    {
+      "id": "fa24400f78ab",
+      "title": "Suman más de 400 feminicidios en México durante 2026: casos repuntan en municipios de Sinaloa",
+      "link": "https://www.infobae.com/mexico/2026/09/26/suman-mas-de-400-feminicidios-en-mexico-durante-2026-casos-repuntan-en-municipios-de-sinaloa/",
+      "image": "https://www.infobae.com/resizer/v2/VZTOKO5W4NHRRCEKPLB2IF3YEA.png?auth=03fb0dc1de44e22edde082aadcaf7c80139bde71436f639420a2b3acc490bd2d&smart=true&width=2752&height=1536",
+      "snippet": "Tres municipios del mismo estado se posicionaron entre los cuatro con más casos",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:32:07.000Z"
+    },
+    {
+      "id": "b6d47b233c1b",
+      "title": "Qué hacer ante una crisis de ansiedad: el método que recomienda un psicólogo",
+      "link": "https://www.elnacional.com/2026/09/que-hacer-ante-una-crisis-de-ansiedad-el-metodo-que-recomienda-un-psicologo/",
+      "image": null,
+      "snippet": "En muchas ocasiones, el problema no es tanto el síntoma como el miedo a que aparezca. El temor a experimentar sensaciones desagradables puede hacer que la persona empiece a anticip",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-09-26T19:32:00.000Z"
+    },
+    {
+      "id": "ba1d3219257d",
+      "title": "Miles de personas protestan por el desahucio de Maricarmen en el centro de Madrid",
+      "link": "https://www.infobae.com/espana/agencias/2026/09/26/miles-de-personas-protestan-por-el-desahucio-de-maricarmen-en-el-centro-de-madrid/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:58.000Z"
+    },
+    {
+      "id": "5fc3c16a9b0e",
+      "title": "El Ministerio Público prepara estrategia para elecciones de 2027 en Guatemala e investigará posibles aportes del narcotráfico a campañas",
+      "link": "https://www.infobae.com/guatemala/2026/09/26/el-ministerio-publico-prepara-estrategia-para-elecciones-de-2027-en-guatemala-e-investigara-posibles-aportes-del-narcotrafico-a-campanas/",
+      "image": "https://www.infobae.com/resizer/v2/DL6JCIVHVRE6HAOFXVIRG25IIM.png?auth=6ce5bc7e8aa4c84a3f0fb7cc88cd0a1256c61f617448d5dd389d02ea5b531c14&smart=true&width=1536&height=1024",
+      "snippet": "Las fiscalías municipales reforzarán turnos y formación para atender denuncias electorales antes de los comicios de 2027. El plan surge tras fallas en procesos previos, cuando ofic",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:47.000Z"
+    },
+    {
+      "id": "a176a7bc0721",
+      "title": "EN VIVO | Bloqueos, accidentes y manifestaciones HOY 26 de septiembre: marcha por los 43 normalistas provoca cortes viales",
+      "link": "https://www.infobae.com/mexico/2026/09/26/en-vivo-bloqueos-en-carreteras-accidentes-y-manifestaciones-hoy-sabado-26-de-septiembre/",
+      "image": "https://www.infobae.com/resizer/v2/PHW62GZPRRHYLGHVXFZEKWWCJU.jpg?auth=0f96830b6b4f937ced567d3979a2ee1b4535f2462deb64a41795e4c1f76d964a&smart=true&width=1920&height=1365",
+      "snippet": "Mantente informado en tiempo real sobre el acontecer en el Valle de México",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:43.000Z"
+    },
+    {
+      "id": "707bce31e152",
+      "title": "Los directores de 'Naza' esperan que el Premio de San Sebastián amplié la voz de Gaza",
+      "link": "https://www.infobae.com/espana/agencias/2026/09/26/los-directores-de-naza-esperan-que-el-premio-de-san-sebastian-amplie-la-voz-de-gaza/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:42.000Z"
+    },
+    {
+      "id": "a9692e7859a9",
+      "title": "Los Javis recogen el premio del público en San Sebastián: \"¡Viva el cine español!\"",
+      "link": "https://www.infobae.com/espana/agencias/2026/09/26/los-javis-recogen-el-premio-del-publico-en-san-sebastian-viva-el-cine-espanol/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:26.000Z"
+    },
+    {
+      "id": "1f546e223065",
+      "title": "El huracán Nolo amenaza con fuertes vientos e inundaciones mortales en Hawái",
+      "link": "https://www.infobae.com/estados-unidos/2026/09/26/el-huracan-nolo-amenaza-con-fuertes-vientos-e-inundaciones-mortales-en-hawai/",
+      "image": "https://www.infobae.com/resizer/v2/TE6IS7ERBVFXPASVOWGWIN2R74.JPG?auth=39eb4fa74c0bf4470df6579199ff4bb084626e189ff94e9d08f07cf1215b44cf&smart=true&width=1920&height=1080",
+      "snippet": "El ciclón permanece casi inmóvil al sur de Isla Grande, mientras las autoridades activan refugios y asistencia federal ante lluvias de hasta 406 milímetros",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:18.000Z"
+    },
+    {
+      "id": "1723b1df6be4",
+      "title": "Triplex de la Once sorteo 5: Resultados de hoy 26 septiembre",
+      "link": "https://www.infobae.com/espana/2026/09/26/triplex-de-la-once-sorteo-5-resultados-de-hoy-26-septiembre/",
+      "image": "https://www.infobae.com/resizer/v2/MD4AYR437JHUZJ4UDXSNC7SWOQ.jpg?auth=9373ada40c7889ac1110ad60d61ff114d610a3b3b30cb27ace0b1bcc93c7aead&smart=true&width=1920&height=1080",
+      "snippet": "Como cada sábado, aquí están los números ganadores del sorteo dado a conocer por Juegos Once",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:09.000Z"
+    },
+    {
+      "id": "13a63975c0a2",
+      "title": "La argentina 'La ilusión de un verano sin fin', Premio Horizontes Latinos en San Sebastián",
+      "link": "https://www.infobae.com/america/agencias/2026/09/26/la-argentina-la-ilusion-de-un-verano-sin-fin-premio-horizontes-latinos-en-san-sebastian/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:08.000Z"
+    },
+    {
+      "id": "ccd53c7dc90e",
+      "title": "Detenidos dos inmigrantes en Ceuta por tratar de agredir sexualmente a una menor marroquí",
+      "link": "https://www.infobae.com/espana/agencias/2026/09/26/detenidos-dos-inmigrantes-en-ceuta-por-tratar-de-agredir-sexualmente-a-una-menor-marroqui/",
+      "image": "https://www.infobae.com/resizer/v2/OWB6Y6IJXZFWVBDZWVR27JP6JM.jpg?auth=7d1782de0e0e2263bac108b1e255fcf0b7510ca06e329b6b5ea673c6d1bceeb2&smart=true&width=1920&height=1280",
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:31:04.000Z"
+    },
+    {
+      "id": "312f684435cf",
+      "title": "Lavrov exige la liberación de Maduro, el fin del bloqueo a Cuba y un Estado para Palestina",
+      "link": "https://elcomercio.pe/mundo/eeuu/sergei-lavrov-exige-la-liberacion-de-nicolas-maduro-el-fin-del-bloqueo-a-cuba-y-un-estado-para-palestina-venezuela-rusia-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/WNG43SI6FBAPHAW4EFKRBAGM7M.jpg?auth=bb3910d6eeeac3e5378bcf2ded1cc1c16bda086b0f63c627cd6018a7d1f5236e&smart=true&width=1200&height=801",
+      "snippet": "El ministro de Exteriores ruso, Sergei Lavrov, demandó este sábado la “pronta liberación” de Nicolás Maduro, y el levantamiento del bloqueo a Cuba, y proclamó que ha llegado el mom",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:30:36.000Z"
+    },
+    {
+      "id": "29afab8f66e8",
+      "title": "¡Hay remontada! España 1-2 Inglaterra EN VIVO HOY por la UEFA Nations League",
+      "link": "https://elcomercio.pe/deporte-total/espana/donde-ver-espana-vs-inglaterra-en-vivo-gratis-hoy-por-uefa-nations-league-a-que-hora-juega-espana-y-canales-tv-que-transmiten-partido-online-streaming-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/OMUYFWTTZFFDDBPVVOM3U5WUCU.png?auth=87c07d6809bbc1458240b9938790742c77fd1bf0f1e234b27f67df847a9b0282&smart=true&width=1600&height=900",
+      "snippet": "Primer tiempo. Sigue EN VIVO el partido entre España vs. Inglaterra por la fecha 1 de la UEFA Nations League.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:30:33.000Z"
+    },
+    {
+      "id": "c4f054c3425b",
+      "title": "⚽ RTVE Play y TVE La 1 EN DIRECTO | Seguir ahora partido España — Inglaterra online gratis por Nations League 2026",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/rtve-play-y-tve-la-1-en-directo-donde-ver-partido-espana-inglaterra-online-gratis-por-nations-league-2026-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/KJRN5IAE5ZCTBJAFX6VAEL7E4I.png?auth=2e5339e43ccd60e57823fac270c6715bdd400f3e8497d2b4c97d7383a139dde4&smart=true&width=3600&height=2430",
+      "snippet": "Siga en directo el partido España vs. Inglaterra por la Nations League 2026. Entérese de cómo ver la transmisión por televisión en La 1 de TVE y la señal online gratuita en RTVE Pl",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:30:20.000Z"
+    },
+    {
+      "id": "1d3a5436b50b",
+      "title": "Perú vs. Estados Unidos EN VIVO ONLINE: alineaciones, a qué hora juegan y dónde ver transmisión del amistoso",
+      "link": "https://elcomercio.pe/deporte-total/seleccion/video-ver-peru-vs-estados-unidos-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-por-internet-via-futbol-libre-tv-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/BJ3BOO76ONHPXEZM4IGOR6VEBM.jpg?auth=8fdc4ef158ee69d51220193ab23a4ea55734d3e4fb73879a81ec43bfebf8d0b9&smart=true&width=1638&height=920",
+      "snippet": "Perú vs. Estados Unidos EN VIVO: revisa los horarios, canales de TV y dónde ver ONLINE el partido amistoso desde el Inter&Co Stadium en Orlando, Florida, Estados Unidos.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:29:17.000Z"
+    },
+    {
+      "id": "c3975c7c511b",
+      "title": "¿A qué hora juega Perú-Estados Unidos HOY: dónde y cómo ver transmisión EN VIVO y ONLINE?",
+      "link": "https://elcomercio.pe/deporte-total/seleccion/a-que-hora-juega-peru-vs-estados-unidos-hoy-y-canales-para-ver-partido-amistoso-de-la-seleccion-peruana-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/5I6GYAJOCZCAVBP43FZDHFCMWI.jpg?auth=93b8490576ebb0128d5654b1ebac9f9286ec9ccf66584960196265af87eca713&smart=true&width=1600&height=900",
+      "snippet": "Conoce los horarios del partido entre Perú vs. Estados Unidos hoy, sábado 26 de septiembre por partido amistoso desde el Inter&Co Stadium en Orlando, Florida, Estados Unidos.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:29:06.000Z"
+    },
+    {
+      "id": "f700d2e8ef70",
+      "title": "¿En dónde transmiten partido de Perú vs. Estados Unidos EN VIVO y canal TV ONLINE para ver amistoso?",
+      "link": "https://elcomercio.pe/deporte-total/seleccion/donde-ver-peru-vs-estados-unidos-en-vivo-gratis-hoy-canales-tv-online-transmision-partido-amistoso-de-la-seleccion-peruana-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/QQ3S4DMDANA2PMLDYC6T2IOZUE.jpg?auth=2662cdfa9c59dd3cb65edc6f7cc9f574a3e2ca0ad7ec6fef6ba9bd032da032ab&smart=true&width=1080&height=665",
+      "snippet": "Conoce los canales TV que transmite el partido entre Perú vs. Estados Unidos EN VIVO, este sábado 26 de septiembre por amistoso FIFA.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:29:03.000Z"
+    },
+    {
+      "id": "2ac2d369ff69",
+      "title": "⭕ ESPN EN VIVO GRATIS | Señal del partido Inglaterra vs. España vía Fútbol TV y Disney Plus online",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/espn-en-vivo-gratis-donde-ver-inglaterra-vs-espana-via-futbol-tv-y-disney-plus-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/HBDZC7BIQNBXBLPLGOUF7OM4YY.jpg?auth=6cd5210c23370ba8f7e7ee5985a97ed3826871a6a61f01d4243a9b55590720e5&smart=true&width=2400&height=1620",
+      "snippet": "Mira la transmisión de ESPN para seguir EN VIVO y EN DIRECTO el partido Inglaterra vs. España por la Liga de Naciones de la UEFA en Wembley.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:28:55.000Z"
+    },
+    {
+      "id": "f8a3df068dbb",
+      "title": "📺 Canal TV GRATIS para ver transmisión Inglaterra vs. España EN VIVO AHORA por UEFA Nations League 2026",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-juega-y-que-canal-transmite-inglaterra-vs-espana-en-vivo-hoy-por-uefa-nations-league-2026-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/3GAX5JY52JBMPI4KKRUBI73IJM.jpg?auth=41a08369edf4be24ed51f6c64f68fa8ff7bd9ab11d97edece94c738cac82698a&smart=true&width=2400&height=1620",
+      "snippet": "Revisa los horarios y canales para ver Inglaterra vs. España EN VIVO y EN DIRECTO, este sábado 26 de septiembre, por la Jornada 1 de la UEFA Nations League 2026-27.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:28:23.000Z"
+    },
+    {
+      "id": "66439ac6eca6",
+      "title": "América TV EN VIVO ONLINE - Partido amistos de Perú vs. Estados Unidos | Señal Canal 4",
+      "link": "https://elcomercio.pe/deporte-total/seleccion/video-america-tv-futbol-libre-peru-vs-estados-unidos-hoy-online-por-partido-amistoso-via-america-tv-go-canal-4-atv-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/P5EHUXPZK5HJZG7HBGV37NEDMQ.jpg?auth=2ba1d5625ed548fafa0e3d2311278ca4fd02d8818ee00cf590779bce70aac6ae&smart=true&width=1638&height=947",
+      "snippet": "Transmisión de América TV y América TV GO EN VIVO en Perú para ver el partido de Perú vs Estados Unidos por amistoso FIFA desde el Inter&Co Stadium en Orlando, Florida, Estados Uni",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:27:27.000Z"
+    },
+    {
+      "id": "788bfc3e1a0a",
+      "title": "Una jugada, un gol: en su primer ataque, Estudiantes encuentra el 1-0 gracias a Alexis Castro",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/estudiantes-vs-rosario-central-en-vivo-por-la-supercopa-internacional-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/SPU24TTCARBVZPKYBEFYULV2AM.jpg?auth=2486dca6c65566018dc91905e57434b218df043ed6289c3073bb9d369b5c4140&smart=true&width=878&height=568",
+      "snippet": "Juegan en el estadio Madre de Ciudades, en Santiago del Estero",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:27:26.000Z"
+    },
+    {
+      "id": "5dc092c27ca7",
+      "title": "Así va la selección peruana: alineación de Perú vs. Estados Unidos HOY en Orlando",
+      "link": "https://elcomercio.pe/deporte-total/seleccion/alineacion-de-peru-hoy-vs-estados-unidos-por-partido-amistoso-formacion-de-la-seleccion-peruana-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/UNG4DC7ETNE2FMHZCPFBHAIA3E.jpg?auth=d7ef0a004c67acb62602ef20eb0c01164d1184a7bee9382141054e31cf20dc5a&smart=true&width=1638&height=964",
+      "snippet": "Revisa la alineación de la selección peruana para enfrentar a Estados Unidos por el partido amistoso de fecha FIFA en el Inter&Co Stadium en Orlando, Florida.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:27:24.000Z"
+    },
+    {
+      "id": "d2f1b1ff034b",
+      "title": "LA 1 HD EN VIVO Y ONLINE - Resultado España 1-1 Inglaterra HOY",
+      "link": "https://elcomercio.pe/deporte-total/espana/video-la-1-rtve-en-vivo-online-futbol-libre-tv-ver-espana-inglaterra-hoy-gratis-via-rtve-play-dazn-movistar-plus-tve-la-1-por-uefa-nations-league-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/EE6WN43JKRCSBEWULPZLEOL3MU.png?auth=e2ccaab19574e022d70b42f5dd4e6d25a103d744c838efb4e634e607be8a1a1d&smart=true&width=1600&height=900",
+      "snippet": "VER GRATIS La 1 RTVE EN DIRECTO por TV Abierta: España vs. Inglaterra por la fecha 1 del Grupo C de la UEFA Nations League desde Wembley Stadium.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-26T19:26:39.000Z"
     },
     {
       "id": "ca00347e1a31",
@@ -152,115 +464,391 @@
       "sourceId": "elcomercio",
       "country": "PE",
       "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:41:17.000Z"
+      "isoDate": "2026-09-26T19:25:52.000Z"
     },
     {
-      "id": "aa54441714ef",
-      "title": "Colombia vs. Italia Mundial Femenino Sub-20 en vivo: con un parcial 1-1 ambas selecciones irian a los penales para buscar el tercer puesto del campeonato",
-      "link": "https://www.infobae.com/colombia/2026/09/26/colombia-vs-italia-mundial-femenino-sub-20-en-vivo-las-cafeteras-disputaran-la-medalla-de-bronce-del-campeonato-en-polonia/",
-      "image": "https://www.infobae.com/resizer/v2/HFAO63OMAZCAXPVB5LAIY5EERE.jpg?auth=da482709e8862c6ec96956e9bcfb1a2c12df1947adb00a0c466849b47f19e13e&smart=true&width=5108&height=3399",
-      "snippet": "El partido por el tercer puesto se disputará el sábado 26 de septiembre de 2026 en el Estadio Municipal LKS Lodz. El encuentro definirá cuál de los dos seleccionados regresará a ca",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:41:05.000Z"
+      "id": "291297acd66b",
+      "title": "León XIV ofició una misa gigante en los Campos Elíseos de París",
+      "link": "https://www.elnacional.com/2026/09/leon-xiv-oficia-una-misa-gigante-en-los-campos-eliseos-de-paris/",
+      "image": null,
+      "snippet": "El fervor por el líder espiritual de 1.400 millones de católicos en el mundo se vio de nuevo este sábado, cuando recorrió a bordo de su papamóvil los Campos Elíseos, mientras el pú",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-09-26T19:25:45.000Z"
     },
     {
-      "id": "7b75f52548b5",
-      "title": "Inglaterra-España, en directo: última hora del estreno de La Roja en la Nations League con las dos estrellas",
-      "link": "https://www.infobae.com/espana/deportes/2026/09/26/espana-inglaterra-en-directo-ultima-hora-del-estreno-de-la-roja-en-la-nations-league-con-las-dos-estrellas/",
-      "image": "https://www.infobae.com/resizer/v2/LU2L2LBSO5CCXELP2EAXREEJWM?auth=c4737b6cc54a6b040e3d8bf0dfd0d1659e16e14ae8db1b0777166a8e042da3ad&smart=true&width=5000&height=2813",
-      "snippet": "La selección de Luis de la Fuente estrena la corona del fútbol mundial en Wembley",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:40:08.000Z"
+      "id": "e7b269eb218f",
+      "title": "La manifestación por la vivienda desemboca en una gran acampada en Sol",
+      "link": "https://www.elmundo.es/espana/2026/09/26/6ab7e24ce9cf4a567e8b4573.html",
+      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
+      "snippet": "Miles de personas llenan las calles de Madrid como muestra de apoyo a la mujer de 87 años desahuciada. \"El de Maricarmen puede parecer un caso más, pero es un hasta aquí\", opinan l",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:25:06.000Z"
     },
     {
-      "id": "67ef61fb125b",
-      "title": "Temblor en Venezuela hoy, sábado 26 de septiembre: epicentro y magnitud del último sismo",
-      "link": "https://elcomercio.pe/respuestas/venezuela/temblor-en-venezuela-hoy-en-vivo-ultimo-sismo-24-25-26-de-septiembre-2026-registrado-por-el-funvisis-cual-fue-la-magnitud-epicentro-y-hora-proteccion-civil-caracas-la-guaira-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/QPE3QHDLPBAIXP4FQ4YMFK5NVI.jpeg?auth=973948d9a713337bdf759b5ee3ae59e60676c38801433e05c176e70a6cda34f9&smart=true&width=1200&height=700",
-      "snippet": "Temblor en Venezuela HOY EN VIVO: último sismo de agosto, lugar del epicentro y magnitud según el Fundación Venezolana de Investigaciones Sismológicas (FUNVISIS).",
+      "id": "4906ff666514",
+      "title": "Dos detenidos en la playa ceutí del Trampolín por una agresión sexual contra una menor",
+      "link": "https://elpais.com/espana/2026-09-26/dos-detenidos-en-la-playa-ceuti-del-trampolin-por-una-agresion-sexual-contra-una-menor.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/SEQC4VY3TNBLLBVJIY2RAYIFTI.JPG?auth=c7ea9394fe432398ee27f8d1b581760fd3ae43c46938bd0c24caf9e59169ca4e",
+      "snippet": "La víctima tuvo que ser reanimada por los agentes de policía desplazados hasta el asentamiento",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:24:57.000Z"
+    },
+    {
+      "id": "d66dabfd5d42",
+      "title": "La Kábala del sábado 26 de setiembre: conoce cuál es el pozo y a qué hora inicia el sorteo",
+      "link": "https://elcomercio.pe/respuestas/loterias/kabala-ultimo-sorteo-en-vivo-hoy-sabado-26-de-septiembre-ver-resultados-numeros-y-jugada-ganadora-pozo-buenazo-la-tinka-chau-chamba-intralot-tinkanet-loteria-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/JIVETQTRZZAV3O7ME3VVSYNZZQ.png?auth=2a603b0cdf35e0e6093001b04a2751bddb8f9a66074fc18fb774e35d53a450f3&smart=true&width=1200&height=700",
+      "snippet": "Kábala EN VIVO: Conoce aquí los resultados de la Kábala del sábado 26 de setiembre, que tiene un pozo acumulado de S/985,603. Además, puedes seguir el sorteo de Chau Chamba.",
       "source": "El Comercio",
       "sourceId": "elcomercio",
       "country": "PE",
       "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:39:44.000Z"
+      "isoDate": "2026-09-26T19:24:25.000Z"
     },
     {
-      "id": "81f6cf18ab2e",
-      "title": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas de oro, plata y bronce tienen Perú y las demás delegaciones",
-      "link": "https://elcomercio.pe/respuestas/deportes/medallero-de-los-juegos-suramericanos-santa-fe-2026-cuantas-medallas-de-oro-plata-y-bronce-tienen-peru-y-las-demas-delegaciones-tdpe-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/2WIPA4J62VB4JGQKABQ2JHKZ6Q.png?auth=c13c5bf2e81b75a247578cff734a4b8c60dcded0cf434d169e6e56c664076757&smart=true&width=1400&height=800",
-      "snippet": "Medallero de los Juegos Suramericanos Santa Fe 2026: cuántas medallas de oro, plata y bronce tienen Perú y las demás delegaciones",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:39:11.000Z"
+      "id": "3c22ad02fa72",
+      "title": "Manifestación contra los desahucios, en directo | Decenas de miles de manifestantes recorren Madrid en protesta por la crisis de la vivienda: “Nos quedamos sin casa”",
+      "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/5MTZCSL27VFP3DMHPXVCLLTVFM.JPG?auth=54c6ef630275a18ed69fb124443c314d52572ae3ecff7aa2c3ed574abe264370",
+      "snippet": "El Sindicato de Inquilinas afirma durante la lectura del manifiesto que algunas personas han acampado en la Puerta del Sol | La marcha por los alquileres y los desahucios va desde ",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:24:00.000Z"
     },
     {
-      "id": "ead487057706",
-      "title": "Arabia Saudita condenó ante la ONU la “injustificable agresión iraní” contra los países del Golfo",
-      "link": "https://www.infobae.com/america/mundo/2026/09/26/arabia-saudita-condeno-ante-la-onu-la-injustificable-agresion-irani-contra-los-paises-del-golfo/",
-      "image": "https://www.infobae.com/resizer/v2/UZGEA654CRDLRCKFUFLAY5ARPU.JPG?auth=4e8293725090a62143aacdf74469528db33e13fbb8e6cb87d82bbe322e122e85&smart=true&width=4000&height=2666",
-      "snippet": "El ministro de Exteriores, Faisal bin Farhan, advirtió que las amenazas sobre las rutas marítimas comprometen la economía global y pidió una respuesta coordinada para proteger las ",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "17e12271fce2",
+      "title": "Inspiradísima Puerta del Príncipe de Pablo Aguado, rey de la cadencia en Sevilla",
+      "link": "https://www.elmundo.es/cultura/toros/2026/09/26/6ab819ade85ece62278b457c.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/26/17904500690303.jpg",
+      "snippet": "El torero sevillano vuelve a conquistar la gloria de la Maestranza, siete años después de aquella esférica tarde de 2019, con un lote de Jandilla de ensueño Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:21:20.000Z"
+    },
+    {
+      "id": "8f7393009ba6",
+      "title": "El gobernador de Neuquén cruzó a Prat Gay por decir que Vaca Muerta “no derrama” en la provincia",
+      "link": "https://www.lanacion.com.ar/economia/el-gobernador-de-neuquen-cruzo-a-prat-gay-por-decir-que-vaca-muerta-no-derrama-en-la-provincia-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/J5NBTJ6XINBYNOQFN36GXKADXA.png?auth=9ec4382a5026719a01e3a52598f1db642b729c2c4db11bf2ceb9ebd4f09d2fdf&smart=true&width=2000&height=1333",
+      "snippet": "Rolando Figueroa invitó al exministro de Economía a recorrer junto a él el territorio patagónico y defendió que allí “se ha logrado lo que muchos en el país no hicieron cuando tuvi",
+      "source": "La Nación",
+      "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:38:35.000Z"
+      "isoDate": "2026-09-26T19:20:49.000Z"
     },
     {
-      "id": "0de6bb3f8d10",
-      "title": "Agentes de seguridad privada expulsan a balazos a periodistas del semanario Hildebrandt en sus trece",
-      "link": "https://www.infobae.com/peru/2026/09/26/agentes-de-seguridad-privada-expulsan-a-balazos-a-periodistas-del-semanario-hildebrandt-en-sus-trece/",
-      "image": "https://www.infobae.com/resizer/v2/J5R7ZF73LNAKNP2HYZRXAII3OQ.jpg?auth=af7c000c4afa23056d6c718f758f56c446d86e0221269fbfd5a8b55fb3769279&smart=true&width=1920&height=1080",
-      "snippet": "El Instituto Prensa y Sociedad condenó la agresión contra Adrián Sarria y César Zamalloa, quienes investigaban daños atribuidos a la minería ilegal cerca del cementerio de Chauchil",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "ebe8ee04f943",
+      "title": "¿Qué puesto ocupa América Latina en la carrera de la IA?",
+      "link": "https://www.france24.com/es/programas/econom%C3%ADa/20260926-qu%C3%A9-puesto-ocupa-am%C3%A9rica-latina-en-la-carrera-de-la-ia",
+      "image": "https://s.france24.com/media/display/10d4318e-b981-11f1-b2f4-91cf9f3cd539/w:1024/p:16x9/AP23187175127326.jpg",
+      "snippet": "Mientras las superpotencias dan pasos agigantados con la inteligencia artificial, América Latina y el Caribe busca un puesto en esta carrera que algunos líderes han renombrado como",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-09-26T19:18:55.000Z"
+    },
+    {
+      "id": "0b4d2dce9967",
+      "title": "Ocasión fallada por Ferran después de una gran jugada",
+      "link": "https://www.abc.es/deportes/futbol/inglaterra-espana-directo-resultado-ganador-goles-partido-20260926201606-di.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/26/nations-j1-inglaterra-espana_20260925112700-Ri64GSunh3GhthEDfruzaVM-1200x840@diario_abc.jpg",
+      "snippet": "",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:18:29.000Z"
+    },
+    {
+      "id": "5fc5b14de766",
+      "title": "Manifestación contra el desahucio de Maricarmen y en protesta por la crisis de la vivienda, en imágenes",
+      "link": "https://www.abc.es/espana/madrid/manifestacion-desahucio-maricarmen-protesta-crisis-vivienda-imagenes-20260926194423-ga.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/26/WhatsApp%20Image%202026-09-26%20at%2019.25.39-RI8DVRsgyR1yqVZlX4KrphP-1200x840@diario_abc.jpeg",
+      "snippet": "Miles de personas marcharon este sábado por las calles de Madrid para protestar contra el desahucio de Maricarmen del inmueble en el que había vivido casi toda su vida y para recla",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T19:17:08.000Z"
+    },
+    {
+      "id": "2a1bedb8d9a3",
+      "title": "Lavrov exigió en la ONU la liberación de Maduro y el fin del bloqueo a Cuba",
+      "link": "https://www.elnacional.com/2026/09/lavrov-exigio-en-la-onu-la-liberacion-de-maduro-y-el-fin-del-bloqueo-a-cuba/",
+      "image": null,
+      "snippet": "El ministro de Exteriores ruso aseguró que lo ocurrido el 3 de enero en Caracas supone \"una violación de cualquier norma, incluido las normas de la moral\". The post Lavrov exigió e",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-09-26T19:12:15.000Z"
+    },
+    {
+      "id": "4d30e4f687b8",
+      "title": "Grave denuncia de una vecina contra el actor Esteban Pérez: “Me estoy enterando en este momento”",
+      "link": "https://www.lanacion.com.ar/espectaculos/grave-denuncia-de-una-vecina-contra-el-actor-esteban-perez-me-estoy-enterando-en-este-momento-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/3DEG4V3U5VHFXMRZ65AC3DS2QE.jpg?auth=ad35594cf75ed57c0eec20fcf7822033db2ff6f3cd1f65a15611b456c4367394&smart=true&width=6000&height=4000",
+      "snippet": "El actor habría recibido una denuncia judicial por acoso y hostigamiento; su reacción en vivo",
+      "source": "La Nación",
+      "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:38:35.000Z"
+      "isoDate": "2026-09-26T19:06:51.000Z"
     },
     {
-      "id": "2021a005f55a",
-      "title": "Loto Plus del sábado 26 de septiembre: de cuánto es el pozo estimado del sorteo 3921",
-      "link": "https://elcomercio.pe/respuestas/argentina/loto-plus-en-vivo-hoy-sorteo-3921-del-sabado-26-de-septiembre-controlar-carton-y-resultados-loteria-de-argentina-tradicional-match-desquite-sale-o-sale-lbposting-ar-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/H7TEMBC7A5EGVO4KJBQCSKGXTY.png?auth=2838d4e2f61c2784c15989998a53ab5bed83828d3da46bc8bd4d930944d7fe0d&smart=true&width=1200&height=700",
-      "snippet": "Loto Plus EN VIVO: mira los resultados y números del sorteo del sábado 26 de septiembre, que tiene un pozo de $25′615.000.000.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:38:09.000Z"
+      "id": "505d86564b1b",
+      "title": "Trump confirma que habló con Delcy Rodríguez sobre elecciones en Venezuela durante reunión en Nueva York",
+      "link": "https://www.latercera.com/mundo/noticia/trump-confirma-que-hablo-con-delcy-rodriguez-sobre-elecciones-en-venezuela-durante-reunion-en-nueva-york/",
+      "image": "https://www.latercera.com/resizer/v2/KVJB577JUND27NGXS3LPQF7GBI.jpg?auth=ba5e3a2a21ad90a14e709394a3e91008697417ffe62e8621b092f59a593af6ac&smart=true&width=2940&height=1970",
+      "snippet": "El presidente de Estados Unidos señaló que la cuestión electoral fue abordada durante el encuentro que sostuvo el martes con la presidenta encargada de Venezuela, en el marco de la",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-09-26T19:06:05.000Z"
     },
     {
-      "id": "de07c5b76920",
-      "title": "Rosa Blanca pidió suspender de forma anticipada la sanción máxima a los exintegrantes de las Farc: “Esta farsa hay que acabarla rápido”",
-      "link": "https://www.infobae.com/colombia/2026/09/26/rosa-blanca-pidio-suspender-de-forma-anticipada-la-sancion-maxima-a-los-exintegrantes-de-las-farc-esta-farsa-hay-que-acabarla-rapido/",
-      "image": "https://www.infobae.com/resizer/v2/JU3JO5GNHNBZXGTFC23OEJI3WY.png?auth=0d50efd85d1649b30a64e29813e86062e610f968b6de9a3b38cc9824eb8763e1&smart=true&width=1920&height=1080",
-      "snippet": "La propuesta de la agrupación de víctimas de reclutamiento forzado y violencia sexual busca que no se destinen más recursos y esquemas de seguridad que reciben los comparecientes e",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "dc6dc2ee3636",
+      "title": "Hinchas de Estudiantes increparon a Darío Herrera en la previa de la final con Rosario Central: “¡Tomatela!“",
+      "link": "https://www.lanacion.com.ar/deportes/hinchas-de-estudiantes-increparon-a-dario-herrera-en-la-previa-de-la-final-con-rosario-central-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ONIKPYSQ2BD5LI6MY25UMJ4RZ4.png?auth=02211c45ad7c87f22a86c71ae16669456a39809c57176d34eaca3b44c539bd55&smart=true&width=614&height=490",
+      "snippet": "Los fanáticos del ‘Pincha’ mantuvieron una acalorada discusión con uno de los asistentes en el hotel donde se alojó el cuerpo arbitral",
+      "source": "La Nación",
+      "sourceId": "lanacion",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:37:53.000Z"
+      "isoDate": "2026-09-26T19:05:49.000Z"
     },
     {
-      "id": "61ec813974ab",
-      "title": "Precio del dólar hoy, sábado 26 de setiembre: ¿cuál es el tipo de cambio del día?",
-      "link": "https://elcomercio.pe/economia/mercados/precio-del-dolar-en-peru-a-cuanto-esta-el-dolar-este-sabado-26-de-setiembre-tipo-de-cambio-tasa-cotizacion-compra-y-venta-segun-bcrp-dolares-a-soles-sbs-ocona-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/L74JBUDZKVGU5M4LNZ625WQMF4.jpg?auth=db822b6152acbf62f978d6421c75bbfad46cfcead07fa13a49d874fdab5bd9c6&smart=true&width=1200&height=700",
-      "snippet": "Precio del dólar hoy EN VIVO: cotización en compra y venta del dólar en el Perú en la jornada de hoy, sábado 26 de setiembre. Revisa los movimientos de la moneda estadounidense en ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:37:36.000Z"
+      "id": "0c0b3ad526c3",
+      "title": "Fusiones, alianzas, educación para adultos: cómo deberá ser la escuela que sobrevivirá al desplome de la matrícula",
+      "link": "https://www.lanacion.com.ar/sociedad/fusiones-alianzas-educacion-para-adultos-como-debera-ser-la-escuela-que-sobrevivara-al-desplome-de-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/Q4KATIRE4RG5LGQ3WODOOKP5DI.jpg?auth=e14f9bf75e3bed1f3bc63f12de0eca59ddb223b7bef8ce27f4af5d65f73265d3&smart=true&width=2000&height=1333",
+      "snippet": "En el Congreso Nacional de Educación se trazó un diagnóstico de situación y se plantearon desafíos urgentes para evitar los cierres especialmente de las instituciones privadas",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:03:45.000Z"
+    },
+    {
+      "id": "be239c4ce85a",
+      "title": "Inglaterra vs España, EN VIVO, por la Nations League 2026: cómo va, resultado y minuto a minuto del partido",
+      "link": "https://www.clarin.com/deportes/inglaterra-vs-espana-vivo-nations-league-2026-va-resultado-minuto-minuto-partido_0_WpabStypxJ.html",
+      "image": "https://www.clarin.com/img/2026/09/26/xR0-wFe3D_1200x630__1.jpg",
+      "snippet": "El conjunto inglés recibe al campeón del mundo en Wembley, en el arranque de la competición europea. Transmiten ESPN y Disney+.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:02:32.000Z"
+    },
+    {
+      "id": "86cc8c7ff3b3",
+      "title": "Un Milei místico que necesita un milagro",
+      "link": "https://www.lanacion.com.ar/opinion/un-milei-mistico-que-necesita-un-milagro-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YJD56ZT5UNCRJDJDKK4GD6HFPM.JPG?auth=29481278f74ab08a9c3ccf711047fbb9a028d1ea9a9990a155d5f6f3a6a8b233&smart=true&width=2000&height=1334",
+      "snippet": "",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T19:00:00.000Z"
+    },
+    {
+      "id": "699084c9f38f",
+      "title": "Entrevista a Sergio Ziliotto tras el decreto de Milei que le saca las regalías a La Pampa: \"La causa de los ríos nos une, no hay grieta\"",
+      "link": "https://www.clarin.com/politica/entrevista-sergio-ziliotto-decreto-milei-saca-regalias-pampa-causa-rios-une-grieta_0_sEWkpnziE1.html",
+      "image": "https://www.clarin.com/img/2024/04/05/tVYcAzNTS_1200x630__1.jpg",
+      "snippet": "El gobernador pampeano insiste con el acuerdo sobre el 50% de las regalías que en 1992 firmaron las provincias con Nación, aprobaron las legislaturas y homologó la Corte. Dura crít",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:58:33.000Z"
+    },
+    {
+      "id": "628a70f95396",
+      "title": "¿Es posible fabricar toallas en la Argentina?: la historia de tres amigos que van contra la corriente",
+      "link": "https://www.clarin.com/economia/posible-fabricar-toallas-argentina-historia-amigos-van-corriente_0_liatuAEnaV.html",
+      "image": "https://www.clarin.com/img/2026/09/26/ngvieHG_7_1200x630__1.jpg",
+      "snippet": "Pese a la oferta importada apostaron a nueva maquinaria, productos de alta gama y se juegan en licitaciones hoteleras. La coreana Cosco, con intereses en el litio argentino, con pr",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:58:30.000Z"
+    },
+    {
+      "id": "333e2b957bbe",
+      "title": "Ministros de Exteriores de Rusia y Alemania se reúnen en la ONU",
+      "link": "https://www.dw.com/es/ministros-de-exteriores-de-rusia-y-alemania-se-reúnen-en-la-onu/a-79445859?maca=spa-rss-sp-all-1122-rdf",
+      "image": null,
+      "snippet": "El titular alemán, Johann Wadephul, dijo a su par ruso que Berlín seguirá respaldando a Ucrania e instó a Moscú a “abandonar su peligrosa senda de escalada”.",
+      "source": "DW Español",
+      "sourceId": "dw",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-09-26T18:58:00.000Z"
+    },
+    {
+      "id": "66524e24a1a0",
+      "title": "Entrevista a Alfredo Cornejo sobre el decreto de Milei por las regalías y el conflicto por el Atuel: \"La Pampa quiere tener una malvinización del conflicto con Mendoza\"",
+      "link": "https://www.clarin.com/politica/entrevista-alfredo-cornejo-decreto-milei-regalias-conflicto-atuel-pampa-quiere-tener-malvinizacion-conflicto-mendoza_0_qUuYrwt8FQ.html",
+      "image": "https://www.clarin.com/img/2024/01/18/PljRSAgLg_1200x630__1.jpg",
+      "snippet": "El gobernador radical defiende la decisión del Presidente que le quita el 50% de las regalías de la represa Los Nihuiles, que se repartían con La Pampa desde 1973. Además, insiste ",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:57:47.000Z"
+    },
+    {
+      "id": "fb1a8eb1533a",
+      "title": "Un productor agropecuario fue condenado a cinco años de prisión por un choque en el que murió toda una familia",
+      "link": "https://www.lanacion.com.ar/seguridad/un-productor-agropecuario-fue-condenado-a-cinco-anos-de-prision-por-un-choque-en-el-que-murio-toda-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/BTBQFDPMBNALBFXFXVFV52VQZ4.jpeg?auth=7462ffa055be5967fc0c0ba7745bf4bcf0243cc58ed13dbb63c07bdd3abd93c3&smart=true&width=960&height=720",
+      "snippet": "El tribunal de Dolores resolvió la sentencia de Eduardo Owen Cavanagh por la mortal colisión registrada en febrero de 2022, en la ruta 29",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:57:01.000Z"
+    },
+    {
+      "id": "f697bf90d074",
+      "title": "El drama de las familias para salvar vidas en el Hospital Central de Valera",
+      "link": "https://www.elnacional.com/2026/09/el-drama-de-las-familias-para-salvar-vidas-en-el-hospital-central-de-valera/",
+      "image": null,
+      "snippet": "Dos realidades opuestas conviven alrededor del principal centro asistencial del estado Trujillo. Por un lado, las declaraciones oficiales que garantizan un sistema público abasteci",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-09-26T18:57:00.000Z"
+    },
+    {
+      "id": "9ae4d6d20dd6",
+      "title": "Humo negro y vapor: la centenaria locomotora “39 Grande” evocó la llegada del primer tren a Mar del Plata hace 140 años",
+      "link": "https://www.lanacion.com.ar/sociedad/humo-negro-y-vapor-la-centenaria-locomotora-39-grande-evoco-la-llegada-del-primer-tren-a-mar-del-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/25LGP3JD6ZA77BAJSBRFWNTADQ.jpg?auth=ff1eb3df7a9e5e1093c3585ff1b827f80189c45c694ab2cf37918be34f0e4db9&smart=true&width=6324&height=4181",
+      "snippet": "Un grupo de apasionados por el ferrocarril la rescataron del olvido y la restauraron pieza por pieza",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:56:18.000Z"
+    },
+    {
+      "id": "c8c7bd5dc285",
+      "title": "El Papa León XIV reivindica la «civilización del amor» con una misa multitudinaria en el corazón de París",
+      "link": "https://www.abc.es/internacional/papa-leon-xiv-pide-honrar-dignidad-gran-20260926171400-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/26/papa-leon-xiv-paris-RydJy0NeS3oAubvQOhXaxjI-1200x840@diario_abc.jpg",
+      "snippet": "«Habrá un Ave María en pleno centro de París, en el corazón de un país donde el ateísmo resulta central. Me parece algo impresionante». Antony Poujol, que trabaja a sus 39 años com",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T18:55:45.000Z"
+    },
+    {
+      "id": "a461f67be36a",
+      "title": "Qué se sabe de la salud de Daniel Osvaldo, internado en terapia intensiva por una infección en un pulmón",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/que-se-sabe-de-la-salud-de-daniel-osvaldo-internado-en-terapia-intensiva-por-una-infeccion-en-un-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/I5CE4KVUCZDCXG7VCCDO2U6WB4.jpg?auth=0ae5d9330830d3f52541ebeff0b96a477320d40a4ef8d8a67ef5b31b2d86d4dd&smart=true&width=2000&height=1333",
+      "snippet": "El exfutbolista fue trasladado de urgencia al hospital de Lavallol en estado grave; deberá someterse a una biopsia para conocer el carácter de la lesión",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:54:38.000Z"
+    },
+    {
+      "id": "c6306b10189e",
+      "title": "Contexto internacional desfavorable y malas noticias locales: por qué el riesgo país subió por encima de los 600 puntos",
+      "link": "https://www.lanacion.com.ar/economia/contexto-internacional-desfavorable-y-malas-noticias-locales-por-que-el-riesgo-pais-subio-por-encima-nid26092026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/KUWLGIAD35BB5EHCRTRXR3EDBE.JPG?auth=5e4e21a7285e09908c9d7a5d5a5ec1426f5a99cc1138848f575759ebff1098fd&smart=true&width=7862&height=5241",
+      "snippet": "En la última semana, el indicador elaborado por JP Morgan escaló 85 unidades hasta niveles que no registraba desde abril; el impacto de la situación global y el incremento de tasas",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:52:04.000Z"
+    },
+    {
+      "id": "4bea37ce72e2",
+      "title": "La manifestación en apoyo a Maricarmen, en imágenes",
+      "link": "https://www.lavanguardia.com/vida/20260926/11644630/manifestacion-apoyo-maricarmen-imagenes.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab8071273579.jpeg",
+      "snippet": "Miles de personas han protestado este sábado en el centro de Madrid por el desahucio de Maricarmen, la inquilina de 87 años desalojada de la casa donde residía desde hacía 71 años",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T18:48:56.000Z"
+    },
+    {
+      "id": "9bfb6123475f",
+      "title": "Plataforma Unitaria asegura que solo 33 presos políticos han sido excarcelados desde agosto",
+      "link": "https://www.elnacional.com/2026/09/plataforma-unitaria-exige-liberaciones-masivas-y-detalla-que-solo-van-33-presos-politicos-excarcelados-desde-agosto/",
+      "image": null,
+      "snippet": "La coalición opositora señaló que para lograr la libertad de todos, se necesita voluntad política. The post Plataforma Unitaria asegura que solo 33 presos políticos han sido excarc",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-09-26T18:45:10.000Z"
+    },
+    {
+      "id": "afc3940c7b62",
+      "title": "Clamor en Madrid contra los desahucios y por medidas para la vivienda",
+      "link": "https://www.lavanguardia.com/politica/20260926/11644613/clamor-multitudinario-madrid-exigir-prohibicion-desahucios-medidas-proteger-vivienda.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7fefecef23.r_d.2996-2322-0.jpeg",
+      "snippet": "Miles de ciudadanos recorren el centro de la ciudad bajo el lema 'Ni una Maricarmen más' y reclaman que el decreto se apruebe este próximo martes",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T18:41:18.000Z"
+    },
+    {
+      "id": "3d82bdb127e6",
+      "title": "Inteligencia artificial fuera de control: revelan que agentes autónomos interfirieron en dos ministerios de Estados Unidos y en la Bolsa",
+      "link": "https://www.clarin.com/mundo/inteligencia-artificial-control-revelan-agentes-autonomos-interfirieron-ministerios-estados-unidos-bolsa_0_79AHk8RmyT.html",
+      "image": "https://www.clarin.com/img/2026/09/26/T3IBVGzOK_1200x630__1.jpg",
+      "snippet": "Son instrumentos de OpenAI, que intentaron hackear los Departamentos de Educación y Comercio y la Comisión de Valores. La empresa no supo hasta hace poco que su tecnología había in",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:41:00.000Z"
+    },
+    {
+      "id": "c2f031e6d7a9",
+      "title": "Asesinaron a un hombre en el sur de Cali y ya fue identificado: quedó muerto en su camioneta y la comunidad casi lincha a uno de los dos sicarios",
+      "link": "https://www.eltiempo.com/colombia/cali/asesinaron-a-un-hombre-en-el-sur-de-cali-y-ya-fue-identificado-quedo-muerto-en-su-camioneta-y-la-comunidad-casi-lincha-a-uno-de-los-dos-sicarios-3589195",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/11/25/619fb8823359d.r_d.641-439-0.jpeg",
+      "snippet": "El presunto delincuente fue capturado, luego de que la población por poco lo lincha tras el crimen en la autopista Simón Bolívar con carrera 86.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-09-26T18:40:25.000Z"
     },
     {
       "id": "ac1fe2e807eb",
@@ -275,64 +863,16 @@
       "isoDate": "2026-09-26T18:37:00.000Z"
     },
     {
-      "id": "24d24c177ae9",
-      "title": "La advertencia de Flavio Briatore sobre las “medidas” a tomar con Franco Colapinto que generó especulaciones tras su choque con Pierre Gasly",
-      "link": "https://www.infobae.com/deportes/2026/09/26/la-advertencia-de-flavio-briatore-sobre-las-medidas-a-tomar-con-franco-colapinto-que-genero-especulaciones-tras-su-choque-con-pierre-gasly/",
-      "image": "https://www.infobae.com/resizer/v2/XQORNKAWURAVLDX2JBUQ2BBPNM.png?auth=e78b2cfdddc58dedd1284c85c02c671ebc7445532589d17961791f7de005f4c4&smart=true&width=1920&height=1080",
-      "snippet": "Un medio inglés analizó cuáles podrían ser los efectos por el exceso del argentino en Bakú. La respuesta de Alpine",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "e5a3b25c900a",
+      "title": "Quiniela de Córdoba: resultado del sorteo de la Matutina de hoy, sábado 26 de septiembre",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-matutina-hoy-sabado-26-septiembre_0_ABbR6bdTMX.html",
+      "image": "https://www.clarin.com/img/2020/09/07/CNlsanAY3_1200x630__1.jpg",
+      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:35:56.000Z"
-    },
-    {
-      "id": "c2f031e6d7a9",
-      "title": "Asesinaron a un hombre en el sur de Cali y ya fue identificado: quedó muerto en su camioneta y la comunidad casi lincha a uno de los dos sicarios",
-      "link": "https://www.eltiempo.com/colombia/cali/asesinaron-a-un-hombre-en-el-sur-de-cali-y-ya-fue-identificado-quedo-muerto-en-su-camioneta-y-la-comunidad-casi-lincha-a-uno-de-los-dos-sicarios-3589195",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/11/25/619fb8823359d.r_d.641-439-0.jpeg",
-      "snippet": "El presunto delincuente fue capturado, luego de que la población por poco lo lincha tras el crimen en la autopista Simón Bolívar con carrera 86.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-09-26T18:35:36.000Z"
-    },
-    {
-      "id": "9130276e9e85",
-      "title": "Mundial de Ciclismo Montreal 2026: hora y dónde ver la prueba de ruta a Nairo Quintana y a los colombianos en competencia",
-      "link": "https://www.infobae.com/colombia/deportes/2026/09/26/mundial-de-ciclismo-montreal-2026-hora-y-donde-ver-la-prueba-de-ruta-a-nairo-quintana-y-a-los-colombianos-en-competencia/",
-      "image": "https://www.infobae.com/resizer/v2/2GBCWVAFABDRJBJIFVLHRBZHVY.png?auth=1829bd816375c417d893f18e9ed773e1f39a65d0a081f658521f09b9556ead12&smart=true&width=1389&height=861",
-      "snippet": "La prueba masculina de fondo reúne a 184 participantes en Canadá y abre con un sector plano antes de llevar al pelotón hacia un trazado urbano de doce giros exigentes",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:35:27.000Z"
-    },
-    {
-      "id": "bb8ca443432c",
-      "title": "VER, Croacia-República Checa EN VIVO con Luka Modric: transmisión ONLINE por UEFA Nations League",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/video-futbol-libre-tv-croacia-vs-republica-checa-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-online-por-uefa-nations-league-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/4ODSR6UZ2RAPXGX4KNCV6H4HWY.png?auth=c92c3e2aeaf2f2935a5403046dd3e716a6bcd128b40de6400ed48b9a63aada54&smart=true&width=1600&height=900",
-      "snippet": "EN VIVO: Sigue la transmisión del partido de Croacia vs República Checa GRATIS HOY, por la primera fecha de la UEFA Nations League desde el Fortuna Arena de Praga.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:35:24.000Z"
-    },
-    {
-      "id": "5938dd8c96c8",
-      "title": "Los grupos armados ilegales colombianos que hacen presencia en Ecuador: los Comandos de la Frontera de ‘Araña’ y las disidencias de ‘Iván Mordisco’",
-      "link": "https://www.infobae.com/colombia/2026/09/26/los-grupos-armados-ilegales-colombiano-que-hacen-presencia-en-ecuador-los-comandos-de-la-frontera-de-arana-y-las-disidencias-de-ivan-mordisco/",
-      "image": "https://www.infobae.com/resizer/v2/WU3DL6W3V5G4BOPOD65ZGWTNME.png?auth=c6ce3f695ce3a04a35eeeaa9576f06880b467dae096eb4a60f867aceb75e037d&smart=true&width=1890&height=1063",
-      "snippet": "Nariño y Putumayo son los departamentos por los que se han establecido corredores estratégicos con un solo fin: enviar millonarios cargamentos de droga a poderosas redes criminales",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:34:33.000Z"
+      "isoDate": "2026-09-26T18:36:43.000Z"
     },
     {
       "id": "1247e78bdd43",
@@ -347,78 +887,6 @@
       "isoDate": "2026-09-26T18:34:32.000Z"
     },
     {
-      "id": "e71b541ae587",
-      "title": "Cuál es el mejor momento del día para ir al supermercado y evitar compras de más",
-      "link": "https://www.infobae.com/salud/ciencia/2026/09/26/cual-es-el-mejor-momento-del-dia-para-ir-al-supermercado-y-evitar-compras-de-mas/",
-      "image": "https://www.infobae.com/resizer/v2/ZVA3T2KVE5G63FGUR7DJOHB3UQ.png?auth=abf8af264d5b78c1b7958824fd093a53a2141e28305432835ce553d1bc1759bf&smart=true&width=2752&height=1536",
-      "snippet": "Un trabajo que analizó millones de transacciones vinculó las primeras horas diurnas con elecciones más repetidas, patrón capaz de limitar agregados imprevistos dentro del carrito",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:34:05.000Z"
-    },
-    {
-      "id": "c38d72fc1fc7",
-      "title": "VER LA 1 HD EN VIVO Y ONLINE - Partido, España-Inglaterra HOY | Transmisión GRATIS",
-      "link": "https://elcomercio.pe/deporte-total/espana/video-la-1-rtve-en-vivo-online-futbol-libre-tv-ver-espana-inglaterra-hoy-gratis-via-rtve-play-dazn-movistar-plus-tve-la-1-por-uefa-nations-league-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/EE6WN43JKRCSBEWULPZLEOL3MU.png?auth=e2ccaab19574e022d70b42f5dd4e6d25a103d744c838efb4e634e607be8a1a1d&smart=true&width=1600&height=900",
-      "snippet": "VER GRATIS La 1 RTVE EN DIRECTO por TV Abierta: España vs. Inglaterra por la fecha 1 del Grupo C de la UEFA Nations League desde Wembley Stadium.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:34:02.000Z"
-    },
-    {
-      "id": "0c0b3ad526c3",
-      "title": "Fusiones, alianzas, educación para adultos: cómo deberá ser la escuela que sobrevivirá al desplome de la matrícula",
-      "link": "https://www.lanacion.com.ar/sociedad/fusiones-alianzas-educacion-para-adultos-como-debera-ser-la-escuela-que-sobrevivara-al-desplome-de-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/Q4KATIRE4RG5LGQ3WODOOKP5DI.jpg?auth=e14f9bf75e3bed1f3bc63f12de0eca59ddb223b7bef8ce27f4af5d65f73265d3&smart=true&width=2000&height=1333",
-      "snippet": "En el Congreso Nacional de Educación se trazó un diagnóstico de situación y se plantearon desafíos urgentes para evitar los cierres especialmente de las instituciones privadas",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:33:30.000Z"
-    },
-    {
-      "id": "00d641678856",
-      "title": "Fiscalía pide autorización para formalizar investigación contra María Caruajulca por ocultar proceso penal",
-      "link": "https://www.infobae.com/peru/2026/09/26/fiscalia-pide-autorizacion-para-formalizar-investigacion-contra-maria-caruajulca-por-ocultar-proceso-penal/",
-      "image": "https://www.infobae.com/resizer/v2/S2265PC4KZFF7B2E4627PJUHY4.jpg?auth=44e9394c9abffb2e06d2dd1236319c07b65d7e5fb50033d2a54e06cc0f1678a7&smart=true&width=1920&height=1080",
-      "snippet": "Juan Carlos Villena solicito a Tomás Gálvez aprobar el ejercicio de la acción penal contra la procuradora general del Estado por presunta aceptación ilegal del cargo y omisión de c",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:33:17.000Z"
-    },
-    {
-      "id": "343b63ad0f51",
-      "title": "EN VIVO | Seguridad, narcotráfico y crimen en México hoy 26 de septiembre: Anabel Hernández cuestiona a Sheinbaum por no tocar a Rocha Moya",
-      "link": "https://www.infobae.com/mexico/2026/09/26/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-26-de-septiembre-operativo-otomi-deja-89-detenidos-en-edomex/",
-      "image": "https://www.infobae.com/resizer/v2/64DYGUL2FZEUBBH42HZYTKQBEA.png?auth=50bd16c05adfa7eb1f46e16546b52e9624113cc7147360f5a7bd24803569e180&smart=true&width=1408&height=768",
-      "snippet": "Sigue lo más relevante de estos temas en Infobae México en tiempo real",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:33:08.000Z"
-    },
-    {
-      "id": "44866ceff7ae",
-      "title": "Robó tornillos y accesorios de un parque fotovoltaico y recibió 12 años de prisión en Cuba",
-      "link": "https://www.infobae.com/cuba/2026/09/26/robo-tornillos-y-accesorios-de-un-parque-fotovoltaico-y-recibio-12-anos-de-prision-en-cuba/",
-      "image": "https://www.infobae.com/resizer/v2/QQLKYVJLZRCOJIXL4BYSJ6TVXA.png?auth=17ec581b82cac69736bbec088c612692f921f5e8bc929c1d166208e0b7fac4df&smart=true&width=2752&height=1536",
-      "snippet": "Un tribunal de Pinar del Río condenó al hombre en el marco de una ofensiva que acumuló más de 460 investigaciones por presunto sabotaje eléctrico entre 2025 y 2026 en Cuba",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:33:06.000Z"
-    },
-    {
       "id": "04a7589d7420",
       "title": "Los ministros de Exteriores de Rusia y Alemania se reúnen en la ONU a la sombra de la guerra en Ucrania",
       "link": "https://www.france24.com/es/europa/20260926-los-ministros-de-exteriores-de-rusia-y-alemania-se-re%C3%BAnen-en-la-onu-a-la-sombra-de-la-guerra-en-ucrania",
@@ -429,18 +897,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-09-26T18:32:59.000Z"
-    },
-    {
-      "id": "72ed4be0582b",
-      "title": "Perú vs. Estados Unidos EN VIVO: hora, TV gratis y cómo ver la transmisión del amistoso Online",
-      "link": "https://elcomercio.pe/deporte-total/seleccion/video-peru-vs-estados-unidos-en-vivo-gratis-hoy-horarios-canales-tv-y-donde-ver-partido-por-internet-via-futbol-libre-tv-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/BJ3BOO76ONHPXEZM4IGOR6VEBM.jpg?auth=8fdc4ef158ee69d51220193ab23a4ea55734d3e4fb73879a81ec43bfebf8d0b9&smart=true&width=1638&height=920",
-      "snippet": "Perú vs. Estados Unidos EN VIVO: revisa los horarios, canales de TV y dónde ver ONLINE el partido amistoso desde el Inter&Co Stadium en Orlando, Florida, Estados Unidos.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:32:44.000Z"
     },
     {
       "id": "034e103b9788",
@@ -455,18 +911,6 @@
       "isoDate": "2026-09-26T18:32:41.000Z"
     },
     {
-      "id": "788a762c9eb9",
-      "title": "¿Dónde ver el partido España-Inglaterra EN VIVO ONLINE y a qué hora juegan HOY por la UEFA Nations League?",
-      "link": "https://elcomercio.pe/deporte-total/espana/donde-ver-espana-vs-inglaterra-en-vivo-gratis-hoy-por-uefa-nations-league-a-que-hora-juega-espana-y-canales-tv-que-transmiten-partido-online-streaming-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/OMUYFWTTZFFDDBPVVOM3U5WUCU.png?auth=87c07d6809bbc1458240b9938790742c77fd1bf0f1e234b27f67df847a9b0282&smart=true&width=1600&height=900",
-      "snippet": "EN VIVO: Sigue el partido entre España vs. Inglaterra este sábado 26 de septiembre por la fecha 1 de la UEFA Nations League.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:32:26.000Z"
-    },
-    {
       "id": "21aaf7bf921a",
       "title": "Sin su gran nombre y tras el mejor Mundial de su historia: zoom a Canadá, el primer examinador de la Roja de Córdova",
       "link": "https://www.latercera.com/el-deportivo/noticia/sin-su-gran-nombre-y-tras-el-mejor-mundial-de-su-historia-zoom-a-canada-el-primer-examinador-de-la-roja-de-cordova/",
@@ -479,100 +923,28 @@
       "isoDate": "2026-09-26T18:32:24.000Z"
     },
     {
-      "id": "78559ef2e252",
-      "title": "Ya son dos los gazatíes muertos en ataques israelíes a la Franja",
-      "link": "https://www.infobae.com/america/agencias/2026/09/26/ya-son-dos-los-gazaties-muertos-en-ataques-israelies-a-la-franja/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
+      "id": "8058c486254c",
+      "title": "Quiniela de la Provincia: resultado del sorteo de la Matutina de hoy, sábado 26 de septiembre",
+      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-provincia-resultado-sorteo-matutina-hoy-sabado-26-septiembre_0_yvHSvY5J7W.html",
+      "image": "https://www.clarin.com/img/2020/06/25/QWj8idQPo_1200x630__1.jpg",
+      "snippet": "Conocé qué números salieron hoy a la cabeza y todo lo que necesitás saber. A cruzar los dedos.",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:31:31.000Z"
+      "isoDate": "2026-09-26T18:26:32.000Z"
     },
     {
-      "id": "831302577531",
-      "title": "Perú vs. Estados Unidos HOY: a qué hora juegan y dónde ver partido Online",
-      "link": "https://elcomercio.pe/deporte-total/seleccion/peru-vs-estados-unidos-en-vivo-hoy-por-partido-amistoso-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/735KG5ZZTVFHXBFTDT3CZ63ERU.jpg?auth=2cf019853db615a8893e5e70fd93b2d69da2507b9d7bd16db4c752636db73e2e&smart=true&width=1080&height=588",
-      "snippet": "Perú vs. Estados Unidos EN VIVO desde el Inter&Co Stadium por partido amistoso. Sigue la transmisión minuto a minuto en El Comercio.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:30:17.000Z"
-    },
-    {
-      "id": "3c22ad02fa72",
-      "title": "Manifestación contra los desahucios, en directo | Decenas de miles de manifestantes recorren Madrid en protesta por la crisis de la vivienda: “Nos quedamos sin casa”",
-      "link": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/5MTZCSL27VFP3DMHPXVCLLTVFM.JPG?auth=54c6ef630275a18ed69fb124443c314d52572ae3ecff7aa2c3ed574abe264370",
-      "snippet": "Maricarmen anima desde el hospital a acudir | La marcha por los alquileres y los desahucios irá desde la Puerta del Sol hacia el Congreso bajo el lema “Ni una Maricarmen más”",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T18:30:10.000Z"
-    },
-    {
-      "id": "72a71dbe4de3",
-      "title": "Nadie de la Sub 20 medalla de bronce en Odesur es titular ni suma 90’ en la Liga 1: ¿Se puede salvar el fútbol peruano sin jóvenes en la cancha?",
-      "link": "https://elcomercio.pe/deporte-total/seleccion/seleccion-peruana-nadie-de-la-sub-20-medalla-de-bronce-en-odesur-es-titular-ni-suma-90-en-la-liga-1-se-puede-salvar-el-futbol-peruano-sin-jovenes-en-la-cancha-apuesplan-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/UT5AJ2QABRDDDDKBPYPX3OJRFE.jpg?auth=680c1e7177f496764f097ebfafb8e40947471280ebfb045c39161e84c58beb05&smart=true&width=1200&height=800",
-      "snippet": "Nadie de la Sub 20 medalla de bronce en Odesur es titular ni suma 90’ en la Liga 1: ¿Se puede salvar el fútbol peruano sin jóvenes en la cancha?",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:30:00.000Z"
-    },
-    {
-      "id": "dc6dc2ee3636",
-      "title": "Hinchas de Estudiantes increparon a Darío Herrera en la previa de la final con Rosario Central: “¡Tomatela!“",
-      "link": "https://www.lanacion.com.ar/deportes/hinchas-de-estudiantes-increparon-a-dario-herrera-en-la-previa-de-la-final-con-rosario-central-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/ONIKPYSQ2BD5LI6MY25UMJ4RZ4.png?auth=02211c45ad7c87f22a86c71ae16669456a39809c57176d34eaca3b44c539bd55&smart=true&width=614&height=490",
-      "snippet": "Los fanáticos del ‘Pincha’ mantuvieron una acalorada discusión con uno de los asistentes en el hotel donde se alojó el cuerpo arbitral",
-      "source": "La Nación",
-      "sourceId": "lanacion",
+      "id": "eb15239aad8c",
+      "title": "El secretario de Defensa británico dijo que están listos para defender las islas Malvinas por la fuerza",
+      "link": "https://www.clarin.com/politica/secretario-defensa-britanico-dijo-listos-defender-islas-malvinas-fuerza_0_2fDIk1HgXa.html",
+      "image": "https://www.clarin.com/img/2026/09/26/5L7GFwu_H_1200x630__1.jpg",
+      "snippet": "En una extensa entrevista, Wes Streeting se refirió a los conflictos que enfrenta el Reino Unido y respondió sobre la escalada de las últimas semanas. \"Ellos no tienen la capacidad",
+      "source": "Clarín",
+      "sourceId": "clarin",
       "country": "AR",
       "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:29:55.000Z"
-    },
-    {
-      "id": "1ee1c6a0ea1a",
-      "title": "¡Puntazo en la Laver Cup! Tien venció a Cobolli tras un brutal peloteo de 34 golpes | VIDEO",
-      "link": "https://elcomercio.pe/deporte-total/tenis/video-puntazo-en-la-laver-cup-learner-tien-vencio-a-flavio-cobolli-tras-un-brutal-peloteo-de-34-golpes-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/DWXNPBT55NCKRLKWB7PMM7XEM4.png?auth=2dc13675ba8ed41c4b20699c838f335bb738ae7e0ec18b5394e7a97bf471d388&smart=true&width=1600&height=900",
-      "snippet": "El tenista estadounidense le dio un triunfo vital al Team World tras cerrar el partido con un intercambio de alta intensidad que dejó sin respuestas al italiano.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:28:13.000Z"
-    },
-    {
-      "id": "4f0827fa52dd",
-      "title": "Temblor en Perú hoy, sábado 26 de septiembre: cuál fue el epicentro según reporte IGP",
-      "link": "https://elcomercio.pe/respuestas/temblor-hoy-en-peru-en-vivo-magnitud-y-epicentro-de-los-ultimos-sismos-de-septiembre-segun-reporte-igp-instituto-geofisico-del-peru-lima-callao-ica-arequipa-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/7MKEBHVCV5GIREG5GVJ5BLXTIM.png?auth=b26b14865b063a217843f4ccd6b4527f1df7515b6e80d8d8a46ea2d435f4eedb&smart=true&width=1200&height=700",
-      "snippet": "Temblor en Perú EN VIVO: cuál fue el epicentro y magnitud del último sismo reportado HOY por el Instituto Geofísico del Perú (IGP).",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:27:20.000Z"
-    },
-    {
-      "id": "4a559e2df518",
-      "title": "Temblor en Chile hoy, sábado 26 de septiembre: cuál el fue epicentro según reporte CSN",
-      "link": "https://elcomercio.pe/respuestas/chile/temblor-hoy-en-chile-en-vivo-magnitud-y-epicentro-de-los-ultimos-sismos-de-septiembre-segun-reporte-csn-centro-sismologico-nacional-santiago-socaire-atacama-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/WWI5T7HEMVAFPHNBZVVQBOUWB4.png?auth=78131b5890404c53392e2660cab1c13bf31cde23c5e6b7f75fa7e32acf37b196&smart=true&width=1200&height=700",
-      "snippet": "Temblor en Chile EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Centro Sismológico Nacional (CSN).",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-09-26T18:27:17.000Z"
+      "isoDate": "2026-09-26T18:24:53.000Z"
     },
     {
       "id": "053327d9e529",
@@ -587,6 +959,18 @@
       "isoDate": "2026-09-26T18:24:39.000Z"
     },
     {
+      "id": "e4ae6b7c7dd6",
+      "title": "Gracias a un celular oculto detienen a una madre que le daba un poderoso sedante a su pequeño hijo internado",
+      "link": "https://www.clarin.com/policiales/gracias-celular-oculto-detienen-madre-daba-poderoso-sedante-pequeno-hijo-internado_0_QYp2L1K4Co.html",
+      "image": "https://www.clarin.com/img/2026/09/26/dhwxdp7PO_1200x630__1.jpg",
+      "snippet": "El hecho fue descubierto en una clínica de Quilmes y se investiga si la mujer padece el síndrome de Münchhausen. A raíz de las sustancias que la sospechosa le suministraba durante ",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:21:53.000Z"
+    },
+    {
       "id": "dd29e5060e45",
       "title": "Trump cree que habrá un acuerdo con Cuba y no será \"necesaria\" una intervención militar",
       "link": "https://www.elnacional.com/2026/09/trump-cree-que-habra-un-acuerdo-con-cuba-y-no-sera-necesaria-una-intervencion-militar/",
@@ -599,18 +983,6 @@
       "isoDate": "2026-09-26T18:21:06.000Z"
     },
     {
-      "id": "5fc5b14de766",
-      "title": "Manifestación contra el desahucio de Maricarmen y en protesta por la crisis de la vivienda, en imágenes",
-      "link": "https://www.abc.es/espana/madrid/manifestacion-desahucio-maricarmen-protesta-crisis-vivienda-imagenes-20260926194423-ga.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/09/26/WhatsApp%20Image%202026-09-26%20at%2019.25.39-RI8DVRsgyR1yqVZlX4KrphP-1200x840@diario_abc.jpeg",
-      "snippet": "Miles de personas marcharon este sábado por las calles de Madrid para protestar contra el desahucio de Maricarmen del inmueble en el que había vivido casi toda su vida y para recla",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T18:20:50.000Z"
-    },
-    {
       "id": "183b4e3c53a7",
       "title": "Murió el menor que ingresó armado a un colegio de Medellín y realizó varios disparos: estuvo dos semanas hospitalizado",
       "link": "https://www.eltiempo.com/colombia/medellin/murio-el-menor-que-ingreso-armado-a-un-colegio-de-medellin-y-realizo-varios-disparos-estuvo-dos-semanas-hospitalizado-3589190",
@@ -621,18 +993,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-09-26T18:19:59.000Z"
-    },
-    {
-      "id": "35852c467487",
-      "title": "De la Fuente renueva el ataque: Nico y Ferran, titulares ante Inglaterra",
-      "link": "https://www.abc.es/deportes/futbol/inglaterra-espana-directo-resultado-ganador-goles-partido-20260926201606-di.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/09/26/nations-j1-inglaterra-espana_20260925112700-Ri64GSunh3GhthEDfruzaVM-1200x840@diario_abc.jpg",
-      "snippet": "",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T18:19:39.000Z"
     },
     {
       "id": "874f46f8a18b",
@@ -683,18 +1043,6 @@
       "isoDate": "2026-09-26T18:16:33.000Z"
     },
     {
-      "id": "a461f67be36a",
-      "title": "Qué se sabe de la salud de Daniel Osvaldo, internado en terapia intensiva por una infección en un pulmón",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/que-se-sabe-de-la-salud-de-daniel-osvaldo-internado-en-terapia-intensiva-por-una-infeccion-en-un-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/I5CE4KVUCZDCXG7VCCDO2U6WB4.jpg?auth=0ae5d9330830d3f52541ebeff0b96a477320d40a4ef8d8a67ef5b31b2d86d4dd&smart=true&width=2000&height=1333",
-      "snippet": "El exfutbolista fue trasladado de urgencia al hospital en estado grave; deberá someterse a una biopsia para conocer el carácter de la lesión",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:16:14.000Z"
-    },
-    {
       "id": "05f182e17028",
       "title": "Ucrania activa la 'Operación Vivaldi': sorprende lanzando robots terrestres tras las líneas enemigas y causa 3.000 bajas rusas",
       "link": "https://www.20minutos.es/internacional/ucrania-activa-operacion-vivaldi-sorprende-lanzando-robots-tras-lineas-enemigas-causa-bajas-rusas_7041751_0.html",
@@ -705,6 +1053,30 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-09-26T18:14:21.000Z"
+    },
+    {
+      "id": "17545487397d",
+      "title": "Putin inicia la batalla final para tratar de adueñarse del Donbás: \"Rusia ataca a los civiles con tácticas terroristas\"",
+      "link": "https://www.elmundo.es/internacional/2026/09/25/6ab55762e9cf4a57488b4577.html",
+      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/25/17903479934235.jpg",
+      "snippet": "Moscú acentúa la presión sobre la llamada 'Fortaleza' del este de Ucrania con un asalto masivo de drones y bombas devastadoras, en medio de un entorno distópico donde se 'cazan' UA",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T18:14:20.000Z"
+    },
+    {
+      "id": "f1070dfbe1a6",
+      "title": "En 1929, Alaska trasladó 8 crías de alce de Roosevelt a la isla Afognak para obtener carne y para la caza; la manada llegó a superar los 1400 ejemplares y ahora se gestiona mediante cacerías anuales limitadas",
+      "link": "https://www.clarin.com/estados-unidos/1929-alaska-traslado-8-crias-alce-roosevelt-isla-afognak-obtener-carne-caza-manada-llego-superar-1400-ejemplares-ahora-gestiona-mediante-cacerias-anuales-limitadas_0_erlFB3WBzD.html",
+      "image": "https://www.clarin.com/img/2026/09/03/NxHo_Srfx_1200x630__1.jpg",
+      "snippet": "La recuperación de la manada permite la caza de las hembras, aunque de manera restringida. La especie ha sido amenazada por falta de alimentos, inviernos muy rigurosos y, por supue",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-09-26T18:14:18.000Z"
     },
     {
       "id": "99d14b8a43c8",
@@ -731,54 +1103,6 @@
       "isoDate": "2026-09-26T18:14:00.000Z"
     },
     {
-      "id": "e109552579ee",
-      "title": "La Policía reanima a una menor tras sufrir una violación en el asentamiento del Trampolín",
-      "link": "https://www.lavanguardia.com/vida/20260926/11644623/policia-reanima-menor-sufrir-violacion-asentamiento-trampolin.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab80a808d58b.jpeg",
-      "snippet": "Dos hombres de 42 y 21 años, de nacionalidad marroquí, han sido detenidos como sospechosos de la agresión sexual",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T18:12:06.000Z"
-    },
-    {
-      "id": "2187e0341a5d",
-      "title": "La irónica reacción de Ángel de Brito luego de que Javier Milei lo bloqueara en redes: \"Para los que me acusan de libertario\"",
-      "link": "https://www.clarin.com/fama/ironica-reaccion-angel-brito-luego-javier-milei-bloqueara-redes-acusan-libertario_0_dCLJnN3xjl.html",
-      "image": "https://www.clarin.com/img/2026/09/26/6V5HVk5qd_1200x630__1.jpg",
-      "snippet": "El conductor de LAM reveló que el presidente restringió las interacciones con su cuenta de X. Mostró que Cristina Fernández de Kirchner también lo tiene bloqueado.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:11:27.000Z"
-    },
-    {
-      "id": "b8c937cbd989",
-      "title": "La emotiva carta de Jimena Barón a su hijo Momo tras la internación de Daniel Osvaldo: \"Siempre voy a ser tu pista de aterrizaje\"",
-      "link": "https://www.clarin.com/fama/emotiva-carta-jimena-baron-hijo-momo-internacion-daniel-osvaldo-siempre-voy-pista-aterrizaje_0_U13yipkdC0.html",
-      "image": "https://www.clarin.com/img/2026/09/26/Iw4LKWB7p_1200x630__1.jpg",
-      "snippet": "La actriz se sinceró sobre cómo fue criar y acompañar al adolescente durante estos 13 años. Ocurrió horas después de que el exfutbolista fuera hospitalizado por un derrame pleural.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:10:26.000Z"
-    },
-    {
-      "id": "329273f40953",
-      "title": "Ocho vacas cayeron por un acantilado y quedaron atrapadas entre las rocas: así fue el operativo para rescatarlas",
-      "link": "https://www.clarin.com/internacional/vacas-cayeron-acantilado-quedaron-atrapadas-rocas-operativo-rescatarlas_0_ld4I00D7My.html",
-      "image": "https://www.clarin.com/img/2026/09/26/-PtFIJhMl_1200x630__1.jpg",
-      "snippet": "Ocho vacas quedaron atrapadas entre las rocas tras caer por un acantilado. Un operativo conjunto permitió rescatarlas y llevarlas de regreso a tierra firme.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:09:41.000Z"
-    },
-    {
       "id": "fc02050bbdf8",
       "title": "Presidente Abelardo De La Espriella ordena 'vigilar de inmediato' la Universidad de Pamplona: 'Hay denuncias sobre manejos contractuales'",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-ordena-vigilar-de-inmediato-la-universidad-de-pamplona-hay-denuncias-sobre-manejos-contractuales-3589192",
@@ -789,18 +1113,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-09-26T18:08:30.000Z"
-    },
-    {
-      "id": "3d62d5560fa8",
-      "title": "El lento y cruel final del hombre “más radioactivo” del mundo: terminó llorando sangre y pidiendo clemencia",
-      "link": "https://www.lanacion.com.ar/el-mundo/el-lento-y-cruel-final-del-hombre-mas-radioactivo-del-mundo-termino-llorando-sangre-y-pidiendo-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EUNWIQBRB5BJHHVK5HYXP2QVBU.jpg?auth=8fd48f3afdc6f28b463e7af3cb4bbee3bed1df7a136021e8b6d126a8c995faa1&smart=true&width=1365&height=910",
-      "snippet": "Trabajó en una planta nuclear japonesa, donde un tragedia marcó su vida; la ciencia lo catalogó como el ser humano que mayor carga radioactiva que se absorbió en la historia",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:07:00.000Z"
     },
     {
       "id": "2fe2cf278905",
@@ -815,18 +1127,6 @@
       "isoDate": "2026-09-26T18:05:09.000Z"
     },
     {
-      "id": "9b2d095e0565",
-      "title": "Ellen Langer, psicóloga de Harvard: \"Los acontecimientos no causan estrés, lo que lo causa es nuestra forma de verlos\"",
-      "link": "https://www.clarin.com/estados-unidos/ellen-langer-psicologa-harvard-acontecimientos-causan-estres-causa-forma-verlos_0_dPIvF0OOjv.html",
-      "image": "https://www.clarin.com/img/2026/09/15/rSzo4YsSS_1200x630__1.jpg",
-      "snippet": "Una mirada diferente sobre aquello que sucede todos los días puede modificar mucho más de lo que parece.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:04:18.000Z"
-    },
-    {
       "id": "0a3d5ba1932f",
       "title": "Perú refuerza la vacunación contra el sarampión tras la primera muerte en décadas",
       "link": "https://www.france24.com/es/salud/20260926-per%C3%BA-refuerza-la-vacunaci%C3%B3n-contra-el-sarampi%C3%B3n-tras-la-primera-muerte-en-d%C3%A9cadas",
@@ -839,28 +1139,16 @@
       "isoDate": "2026-09-26T18:02:48.000Z"
     },
     {
-      "id": "44be49628713",
-      "title": "Real Madrid confirmó la lesión de Kylian Mbappé tras la preocupante salida del francés ante Turquía",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/real-madrid-confirmo-la-lesion-de-kylian-mbappe-tras-la-preocupante-salida-del-frances-ante-turquia-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SUIO223WMFEPZNONUF3PK3GKZI.jpg?auth=897f528c18240df1a4fdb04df22b1514d340f527b57eff9fdc5016aaa5625cae&smart=true&width=2000&height=1333",
-      "snippet": "Los estudios detectaron una hiperextensión en la rodilla izquierda; el club no estableció plazos para su regreso",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:02:48.000Z"
-    },
-    {
-      "id": "ed7a0b292424",
-      "title": "Jorge Tartaglione, médico, sobre el descanso: “Cuando dormís mucha siesta, tenés un poco de mal humor”",
-      "link": "https://www.lanacion.com.ar/sociedad/jorge-tartaglione-medico-sobre-el-descanso-cuando-dormis-mucha-siesta-tenes-un-poco-de-mal-humor-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/JC344SGR2NFDBMSJ5QHN6UHVRY.jpg?auth=82ef00faf3946671f1a1f909c81aeb03add043857a8c91f9a2adff976e4bf5b2&smart=true&width=5644&height=3768",
-      "snippet": "El cardiólogo explicó en LN+ que la caída en el estado de alerta a mitad del día responde a un patrón biológico ancestral; advirtió sobre los riesgos de extender el descanso más de",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T18:00:00.000Z"
+      "id": "f14fddee59e7",
+      "title": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
+      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
+      "image": "https://cdn-3.expansion.mx/dims4/default/8a9bc1d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2F2f%2Fbabe9d0845bc9d7c1a6e6c99922a%2Fmexico-envejecimiento-pensiones-adultos-mayores-2027.png",
+      "snippet": "En el país, uno de cada seis hogares ya recibe una pensión, mientras el gasto público pensionario alcanzaría 2.5 billones de pesos en 2027.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-09-26T18:01:38.000Z"
     },
     {
       "id": "19cf0f7ac87a",
@@ -875,6 +1163,18 @@
       "isoDate": "2026-09-26T17:59:09.000Z"
     },
     {
+      "id": "06142f6949cc",
+      "title": "Trump rechaza el plan iraní para reabrir el estrecho de Ormuz",
+      "link": "https://expansion.mx/mundo/2026/09/26/trump-rechaza-plan-irani-para-reabrir-el-estrecho-de-ormuz",
+      "image": "https://cdn-3.expansion.mx/dims4/default/15b88c0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fbd%2F1d%2F44a5b5814117bfe2aead04e39fd8%2Fafp-20260926-c9fb9t4-v1-midres-uspoliticstrump.jpg",
+      "snippet": "La propuesta de Teherán consistía en, una vez que se aprobara el acuerdo, reabrir el estrecho de Ormuz en un plazo de siete días.",
+      "source": "Expansión",
+      "sourceId": "expansion",
+      "country": "MX",
+      "countryLabel": "México",
+      "isoDate": "2026-09-26T17:58:16.000Z"
+    },
+    {
       "id": "874de14a6cb1",
       "title": "La Roja sufre una baja a horas del duelo ante Canadá",
       "link": "https://www.latercera.com/el-deportivo/noticia/la-roja-sufre-una-baja-a-horas-del-duelo-ante-canada/",
@@ -885,66 +1185,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-09-26T17:56:57.000Z"
-    },
-    {
-      "id": "b8b071347cd5",
-      "title": "Una abogada y narradora participó de una maratón de relatos en Marrakech que se extendió durante 80 horas y 32 minutos",
-      "link": "https://www.lanacion.com.ar/conversaciones-de-domingo/una-abogada-y-narradora-participo-de-una-maraton-de-relatos-en-marrakech-que-se-extendio-durante-80-nid27092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/EFXLVRGD2FFWFFOLDYCRPAI5AU.jpg?auth=d8fe5f212f06a2b3a67ab28ff24240d85a06d69a7ed4d3e1a8659dfd9fa2add7&smart=true&width=1200&height=1600",
-      "snippet": "Graciela Joaquín vive en Lomas de Zamora y fue la única representante latinoamericana en el Festival Internacional de Narración Oral de Marrakech",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:56:49.000Z"
-    },
-    {
-      "id": "0af7c47efc03",
-      "title": "Con emoción y una locomotora a vapor centenaria, Mar del Plata celebró los 140 años de la llegada del tren",
-      "link": "https://www.clarin.com/sociedad/emocion-locomotora-vapor-centenaria-mar-plata-celebro-140-anos-llegada-tren_0_oN5O1vxrna.html",
-      "image": "https://www.clarin.com/img/2026/09/26/sMLEBWyFn_1200x630__1.jpg",
-      "snippet": "La formación Vulcan Foundry Nº 3925, conocida como \"La Grande 39\", arribó este sábado a la vieja estación Sud. Esta mole de hierro y acero, de origen británico, realizó varias para",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:51:59.000Z"
-    },
-    {
-      "id": "7c0d85bdf11c",
-      "title": "Se confirmó la lesión de Mbappé: qué tiene y cuánto tiempo estará sin jugar",
-      "link": "https://www.clarin.com/deportes/confirmo-lesion-mbappe-tiempo-jugar_0_E31D6YVnfc.html",
-      "image": "https://www.clarin.com/img/2026/09/26/HBfvbRZ56_1200x630__1.jpg",
-      "snippet": "El delantero sufrió una lesión en la rodilla izquierda tras convertir el gol del triunfo de Francia por 1-0 sobre Turquía. El parte médico del Real Madrid indica una \"hiperextensió",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:51:33.000Z"
-    },
-    {
-      "id": "e3096140bb23",
-      "title": "Nació en la Argentina, su padre murió cuando tenía 4 meses y ahora es uno de los artistas más queridos en Colombia",
-      "link": "https://www.lanacion.com.ar/estados-unidos/famosos/nacio-en-la-argentina-su-padre-murio-cuando-tenia-4-meses-y-ahora-es-uno-de-los-artistas-mas-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HEDTPHQXIRHODKUMPRJTCOCTVY.jpg?auth=4426cd6154fc2b4a4a57960667595a74e724e45eded6079aa11c7754ae37d303&smart=true&width=2000&height=1333",
-      "snippet": "Conoce la historia de Miguel Varoni, nacido en Argentina, desde la muerte de su padre cuando era un bebé hasta su éxito en la televisión colombiana.",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:50:00.000Z"
-    },
-    {
-      "id": "4c8ebdd7a7d0",
-      "title": "Daniel Osvaldo fue internado de urgencia tras sufrir un derrame pleural: permanece en terapia intensiva",
-      "link": "https://www.lanacion.com.ar/deportes/futbol/daniel-osvaldo-fue-internado-de-urgencia-tras-sufrir-un-derrame-pleural-permanece-en-terapia-nid25092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/YKEOUTBGHVD55CFE7OEDM3ERAU.jpg?auth=445c75229e91770467f45fc880fbf398a689d2690af5c7bb4f31598a3410f157&smart=true&width=2000&height=1333",
-      "snippet": "El exfutbolista ingresó en grave estado al hospital de Lavallol este jueves a la noche luego de días de un dolor agudo en el pecho; su diagnóstico es reservado",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:49:24.000Z"
     },
     {
       "id": "0ebbca03896d",
@@ -959,40 +1199,16 @@
       "isoDate": "2026-09-26T17:49:13.000Z"
     },
     {
-      "id": "4f9d59a72ea1",
-      "title": "El sentido mensaje de Jimena Barón para su hijo Momo tras la internación de Daniel Osvaldo",
-      "link": "https://www.lanacion.com.ar/espectaculos/el-sentido-mensaje-de-jimena-baron-para-su-hijo-momo-tras-la-internacion-de-daniel-osvaldo-por-nid26092026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/LQTJU7BHUFHN7IWEI4623Y4NUY.png?auth=83215c5671334fb33313abb824275071dcc117b8416c81e73d0fdfe6268704aa&smart=true&width=2000&height=1333",
-      "snippet": "Horas después de que se hiciera público el delicado estado de salud del exfutbolista, la cantante le dedicó unas profundas palabras al adolescente tras el cierre de una importante ",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:47:52.000Z"
-    },
-    {
       "id": "2e0f5f1b2725",
       "title": "En vivo: Cobreloa recibe a Santiago Wanderers en un duelo clave por el ascenso",
       "link": "https://www.latercera.com/el-deportivo/noticia/en-vivo-cobreloa-recibe-a-santiago-wanderers-en-un-duelo-clave-por-el-ascenso/",
-      "image": "https://www.latercera.com/resizer/v2/B7RALOLCAVFHTEZB3YR7KECSMI.jpg?auth=cab24155b03d78a67e4b2ce16e7765d36b16644aecd25b1dbc560560144f42f8&smart=true&width=3477&height=2319",
+      "image": "https://www.latercera.com/resizer/v2/BTDRNQTYVNEG5I7VVD2AW734X4.jpg?auth=58c34533b3e7c434dcc3cd4691ef8121169497bce022cfbd3a314aba812448e7&smart=true&width=3353&height=2235",
       "snippet": "Loínos y caturros se enfrentan por la cima de la Primera B.",
       "source": "La Tercera",
       "sourceId": "latercera",
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-09-26T17:47:32.000Z"
-    },
-    {
-      "id": "14bfd59313d9",
-      "title": "Qué dijo Flavio Briatore tras el error de Franco Colapinto que le hizo perder los puntos a Alpine: \"Fue muy pobre\"",
-      "link": "https://www.clarin.com/deportes/dijo-flavio-briatore-error-franco-colapinto-hizo-perder-puntos-alpine-pobre_0_ejODjyDCbJ.html",
-      "image": "https://www.clarin.com/img/2026/09/24/MtIBS8q98_1200x630__1.jpg",
-      "snippet": "El jefe de Alpine cuestionó al argentino por el choque que dejó fuera de carrera a los dos autos del equipo y a Lando Norris. Remarcó que Colapinto frenó demasiado tarde y calificó",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:41:36.000Z"
     },
     {
       "id": "da3586cd4b3c",
@@ -1005,18 +1221,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-09-26T17:39:57.000Z"
-    },
-    {
-      "id": "463ad183a3d6",
-      "title": "Una estudiante de octavo grado dejó a 200 hormigas cosechadoras rojas tres horas para explorar un laberinto lleno de hojas, rocas y mandarinas artificiales, luego cambió los puntos de referencia y observó cómo los insectos cambiaban de lugar",
-      "link": "https://www.clarin.com/estados-unidos/estudiante-octavo-grado-dejo-200-hormigas-cosechadoras-rojas-horas-explorar-laberinto-lleno-hojas-rocas-mandarinas-artificiales-luego-cambio-puntos-referencia-observo-insectos-cambiaban-lugar_0_ee4eRvx0Ro.html",
-      "image": "https://www.clarin.com/img/2026/09/08/Uu9urKSfR_1200x630__1.jpg",
-      "snippet": "Seungah Chung estudió cómo utilizaban objetos de su entorno para aprender un recorrido dentro de un laberinto. ¿Los insectos recordaban una dirección o se guiaban principalmente po",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:38:18.000Z"
     },
     {
       "id": "9f395350f1b6",
@@ -1034,7 +1238,7 @@
       "id": "4b8a20c06d5b",
       "title": "Del conflicto en Oriente Próximo a la sequía en Panamá: los cuellos de botella que amenazan con subir los precios antes de Navidad",
       "link": "https://www.elmundo.es/economia/2026/09/26/6aad651efc6c83716b8b45a9.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/06/17/17817038752715.jpg",
+      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
       "snippet": "Las navieras comenzaban a regresar al canal de Suez cuando el repunte de la tensión elevó el riesgo sobre la ruta. El coste mundial de transportar contenedores se duplicado en un a",
       "source": "El Mundo",
       "sourceId": "elmundo",
@@ -1055,18 +1259,6 @@
       "isoDate": "2026-09-26T17:34:13.000Z"
     },
     {
-      "id": "592ceac75be8",
-      "title": "Quiniela de Córdoba: resultado del sorteo de la Vespertina de hoy, sábado 26 de septiembre",
-      "link": "https://www.clarin.com/loterias-y-quinielas/quiniela-cordoba-resultado-sorteo-vespertina-hoy-sabado-26-septiembre_0_SFHVymLJqJ.html",
-      "image": "https://www.clarin.com/img/2020/09/01/iowQBatbq_1200x630__1.jpg",
-      "snippet": "Conocé los números ganadores, cuáles salieron hoy a la cabeza y todo lo que necesitás saber.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-09-26T17:32:01.000Z"
-    },
-    {
       "id": "2a2cd655e896",
       "title": "Mbappé sufre una ''hiperextensión de la cápsula posterior de la rodilla izquierda'' y podría estar de baja sólo dos semanas",
       "link": "https://www.elmundo.es/deportes/futbol/primera-division/2026/09/26/6ab7ff5c21efa022538b45a4.html",
@@ -1079,8 +1271,8 @@
       "isoDate": "2026-09-26T17:31:12.000Z"
     },
     {
-      "id": "b6d6e75ce22e",
-      "title": "Alcaraz aprovecha las dudas de Fritz y logra el 'break' en un inicio perfecto",
+      "id": "8b1e9993119d",
+      "title": "Alcaraz, a remontar: Fritz reacciona y quiebra el servicio del español en la segunda manga",
       "link": "https://www.20minutos.es/deportes/tenis/team-europa-resto-mundo-directo-mejores-puntos-marcador-ultima-hora-partido-carlos-alcaraz-laver-cup_7041711_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/26/6ab7de35311489-57896207.png",
       "snippet": "El tenista español se medirá al estadounidense Taylor Fritz desde las 20:00 horas.",
@@ -1127,6 +1319,18 @@
       "isoDate": "2026-09-26T17:20:09.000Z"
     },
     {
+      "id": "ff07aafd630e",
+      "title": "Pequeña revolución de De la Fuente y baja de última hora de Eric García por problemas de rodilla",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260926/11644608/inglaterra-espana-nations-alineaciones.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7fe1c354f5.r_d.1447-691-0.jpeg",
+      "snippet": "Inglaterra - España, la Nations League en directo",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T17:20:08.000Z"
+    },
+    {
       "id": "baa84c734b31",
       "title": "La resonancia alivia el susto de Mbappé",
       "link": "https://www.abc.es/deportes/real-madrid/mbappe-dificil-jugar-clasico-ante-barca-20260926124824-nt.html",
@@ -1161,6 +1365,18 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-09-26T17:12:54.000Z"
+    },
+    {
+      "id": "b474b497aaf2",
+      "title": "Inglaterra - España | Lamine adelanta a la selección en el primer minuto (0-1)",
+      "link": "https://www.lavanguardia.com/deportes/futbol/20260926/11644438/inglaterra-espana-posibles-alineaciones-horario-partido-previa-nations-league-directo.html",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab8189948312.r_d.974-539-0.jpeg",
+      "snippet": "",
+      "source": "La Vanguardia",
+      "sourceId": "lavanguardia",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-09-26T17:12:26.000Z"
     },
     {
       "id": "db232fe2676d",
@@ -1439,18 +1655,6 @@
       "isoDate": "2026-09-26T16:05:51.000Z"
     },
     {
-      "id": "8901ae6039cb",
-      "title": "Kast destaca caída de 93% en ingresos irregulares y pide reconsiderar rechazo a reforma de detención de migrantes",
-      "link": "https://www.latercera.com/politica/noticia/kast-destaca-caida-de-93-en-ingresos-irregulares-y-pide-reconsiderar-rechazo-a-reforma-de-detencion-de-migrantes/",
-      "image": "https://www.latercera.com/resizer/v2/PKK75JDJJRFA5DSJTHVT6B6ZYA.jpg?auth=6ef61d3974802dbc38d7387317a583803016aa2ed752c3ef5412d55ad6d2af5b&smart=true&width=3408&height=2272",
-      "snippet": "“Los que votaron en contra o se abstuvieron en el proyecto para extender los plazos de detención hacen mucho más difícil nuestra tarea. Frente a la inmigración ilegal necesitamos u",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-09-26T16:03:48.000Z"
-    },
-    {
       "id": "3f4a9bdb6055",
       "title": "Últimas noticias | 26 septiembre 2026 - Tarde",
       "link": "https://es.euronews.com/video/2026/09/26/ultimas-noticias-26-septiembre-2026-tarde",
@@ -1497,18 +1701,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-09-26T15:52:37.000Z"
-    },
-    {
-      "id": "c8c7bd5dc285",
-      "title": "El Papa León XIV reivindica la «civilización del amor» con una misa multitudinaria en el corazón de París",
-      "link": "https://www.abc.es/internacional/papa-leon-xiv-pide-honrar-dignidad-gran-20260926171400-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/09/26/papa-leon-xiv-paris-RydJy0NeS3oAubvQOhXaxjI-1200x840@diario_abc.jpg",
-      "snippet": "«Habrá un Ave María en pleno centro de París, en el corazón de un país donde el ateísmo resulta central. Me parece algo impresionante». Antony Poujol, de 39 años y que trabaja como",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T15:50:51.000Z"
     },
     {
       "id": "dab860849425",
@@ -1595,10 +1787,10 @@
       "isoDate": "2026-09-26T15:33:14.000Z"
     },
     {
-      "id": "864b14931583",
-      "title": "Multitudinaria manifestación en Madrid por la vivienda y en apoyo a Maricarmen",
+      "id": "f58942107a6b",
+      "title": "Última hora de la manifestación en apoyo a Maricarmen en Madrid: sigue la protesta en contra de su desahucio, en directo",
       "link": "https://www.lavanguardia.com/politica/20260926/11644549/deshaucio-maricarmen-madrid-manifestacion-crisis-vivienda-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab807154541e.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab80e6363ca3.r_d.3118-2960-0.jpeg",
       "snippet": "Miles de personas marchan por Madrid bajo el lema “Ni una Maricarmen más” para reclamar medidas urgentes en materia de vivienda.",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
@@ -1629,30 +1821,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-09-26T15:24:10.000Z"
-    },
-    {
-      "id": "a5195a2313bb",
-      "title": "Marcha en Madrid contra los desahucios: \"Ni una Maricarmen más\"",
-      "link": "https://www.elmundo.es/espana/2026/09/26/6ab7e24ce9cf4a567e8b4573.html",
-      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
-      "snippet": "A las seis y media de la tarde comenzó en la Puerta del Sol de la capital una concentración de miles de personas como muestra de apoyo a la mujer de 87 años y de rechazo a las polí",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T15:18:42.000Z"
-    },
-    {
-      "id": "bf0b889662a8",
-      "title": "ONG Justicia, Encuentro y Perdón confirmó 29 excarcelaciones y continúa realizando labores de verificación",
-      "link": "https://www.elnacional.com/2026/09/ong-justicia-encuentro-y-perdon-confirmo-29-excarcelaciones-y-continua-realizando-las-labores-de-verificacion/",
-      "image": null,
-      "snippet": "El director presidente de la ONG Foro Penal, Alfredo Romero, confirmó también la noche de este viernes 25 de septiembre la excarcelación del preso político Frank Cabañas, quien per",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-09-26T15:13:29.000Z"
     },
     {
       "id": "9ed793c48cdf",
@@ -1703,8 +1871,8 @@
       "isoDate": "2026-09-26T15:00:44.000Z"
     },
     {
-      "id": "a647eb31e348",
-      "title": "Miles de personas en la marcha contra los desahucios que sigue avanzando hacia el Congreso: \"Ni una Maricarmen más\"",
+      "id": "008f00c8fcfe",
+      "title": "La marcha contra los desahucios coge fuerza en el Congreso y animan a un nuevo 15-M: \"Vamos a acampar en la Puerta del Sol\"",
       "link": "https://www.20minutos.es/madrid/manifestacion-contra-los-desahucios-hoy-puerta-sol-madrid-directo-ultima-hora-protesta-ni-una-maricarmen-mas_7041607_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/26/6ab80a8ebdad94-22585947.jpeg",
       "snippet": "Última hora y todas las noticias sobre la manifestación en Madrid contra los desahucios y por una vivienda digna a raíz del caso de Maricarmen.",
@@ -1725,18 +1893,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-09-26T14:59:17.000Z"
-    },
-    {
-      "id": "f34501487ec0",
-      "title": "Protestaron en Lara por los cortes eléctricos y pidieron a Trump atender la situación",
-      "link": "https://www.elnacional.com/2026/09/protestaron-en-lara-por-los-cortes-electricos-y-pidieron-a-trump-atender-la-situacion/",
-      "image": null,
-      "snippet": "Los manifestantes denunciaron interrupciones del servicio que superan las 12 horas diarias, así como fallas severas en la distribución de agua potable en la zona. The post Protesta",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-09-26T14:55:17.000Z"
     },
     {
       "id": "18e3bde790bb",
@@ -1799,18 +1955,6 @@
       "isoDate": "2026-09-26T14:39:22.000Z"
     },
     {
-      "id": "f80aa18b9c7d",
-      "title": "Trump aseguró que habló con Delcy Rodríguez sobre elecciones durante reunión en Nueva York",
-      "link": "https://www.elnacional.com/2026/09/trump-aseguro-que-hablo-con-delcy-rodriguez-sobre-elecciones-en-venezuela-durante-reunion-en-nueva-york/",
-      "image": null,
-      "snippet": "Trump y Rodríguez se reunieron por primera vez el pasado martes en Nueva York, con motivo de la Asamblea General de la ONU. El encuentro, inédito, selló la alianza entre Washington",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-09-26T14:36:16.000Z"
-    },
-    {
       "id": "2250be7b5c89",
       "title": "Trump rechaza una propuesta iraní para reabrir Ormuz y mantiene abierta la puerta a nuevos bombardeos",
       "link": "https://www.france24.com/es/medio-oriente/20260926-trump-rechaza-una-propuesta-iran%C3%AD-para-reabrir-ormuz-y-mantiene-abierta-la-puerta-a-nuevos-bombardeos",
@@ -1847,18 +1991,6 @@
       "isoDate": "2026-09-26T14:23:20.000Z"
     },
     {
-      "id": "54f7035050e4",
-      "title": "Rick Scott señaló que Delcy Rodríguez debe cooperar con EE UU mientras se trabaja en una verdadera transición",
-      "link": "https://www.elnacional.com/2026/09/rick-scott-senalo-que-delcy-rodriguez-debe-cooperar-con-ee-uu-mientras-se-trabaja-en-una-verdadera-transicion/",
-      "image": null,
-      "snippet": "Las declaraciones se producen días después de que la portavoz en español del Departamento de Estado, Natalia Molano, descartara que la reunión entre Donald Trump y Rodríguez otorgu",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-09-26T14:21:51.000Z"
-    },
-    {
       "id": "ef541b561723",
       "title": "En vivo: el Team Chile busca superar su marca histórica en unos Juegos Suramericanos",
       "link": "https://www.latercera.com/el-deportivo/noticia/en-vivo-el-team-chile-busca-superar-su-marca-historica-en-unos-juegos-suramericanos/",
@@ -1869,18 +2001,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-09-26T14:13:17.000Z"
-    },
-    {
-      "id": "13cde1f3deab",
-      "title": "Silvana Dragone: “Del estudio tras los terremotos saldrán lineamientos para actualizar las normas sísmicas de Venezuela”",
-      "link": "https://www.elnacional.com/2026/09/silvana-dragone-del-estudio-tras-los-terremotos-saldran-lineamientos-para-actualizar-las-normas-sismicas-de-venezuela/",
-      "image": null,
-      "snippet": "El planteamiento es que las autoridades venezolanas deberán actualizar las normas existentes a partir de las nuevas evidencias obtenidas por el equipo de Miyamoto y de los riesgos ",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-09-26T14:11:22.000Z"
     },
     {
       "id": "3637e8eb59cc",
@@ -1907,18 +2027,6 @@
       "isoDate": "2026-09-26T14:01:41.000Z"
     },
     {
-      "id": "7e4243a49304",
-      "title": "Wilmer Esteve Roldán Solano: \"León XIV es hijo de un país de migrantes, como es EE. UU.\"",
-      "link": "https://www.france24.com/es/video/20260926-wilmer-esteve-rold%C3%A1n-solano-le%C3%B3n-xiv-es-hijo-de-un-pa%C3%ADs-de-migrantes-como-es-ee-uu",
-      "image": "https://s.france24.com/media/display/f6b329da-b9ae-11f1-a7a9-91cf9f3cd539/w:1024/p:16x9/ES-20260926-072145-072506-CS.jpg",
-      "snippet": "En su visita a Francia, en varias ocasiones, el papa León XIV ha dado un fuerte mensaje de apoyo a los migrantes, contrastando con la tendencia de ultra derecha que atraviesa Europ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-09-26T13:59:05.000Z"
-    },
-    {
       "id": "b630d0230aeb",
       "title": "Quién fue Francisco Morazán y por qué Bukele mandó ahora trasladar sus restos a un nuevo mausoleo",
       "link": "https://www.bbc.com/mundo/articles/cq98609xx5p6o?at_medium=RSS&at_campaign=rss",
@@ -1929,30 +2037,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-09-26T13:32:34.000Z"
-    },
-    {
-      "id": "87a6be9fab37",
-      "title": "La tormenta invernal ‘nor’easter’ azota la costa este de Estados Unidos con fuertes vientos, lluvias torrenciales e inundaciones",
-      "link": "https://elpais.com/us/2026-09-26/la-tormenta-invernal-noreaster-azota-la-costa-este-de-estados-unidos-con-fuertes-vientos-lluvias-torrenciales-e-inundaciones.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/WH2L4HAMDRN2DHCQXLJKUFNWSI.jpg?auth=0c03d099864f94a8b180be758f65b50d689d12cddb8e5959196eb55e4afeff6b",
-      "snippet": "Nueva York y Nueva Jersey han declarado el estado de emergencia. Se espera que en las próximas horas afecte a Boston. Cientos de vuelos suspendidos y conciertos cancelados",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T13:26:40.000Z"
-    },
-    {
-      "id": "7633a0eca4e6",
-      "title": "El papa León XIV reúne a 800.000 personas en la misa de París",
-      "link": "https://www.lavanguardia.com/internacional/20260926/11644520/papa-reune-600-000-personas-misa-paris.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab7c16abc796.jpeg",
-      "snippet": "León XIV anima a Francia a “renovarse” como nación a partir de sus raíces cristianas",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T13:26:25.000Z"
     },
     {
       "id": "498de96f6b57",
@@ -2001,18 +2085,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-09-26T13:14:44.000Z"
-    },
-    {
-      "id": "075459453906",
-      "title": "Albares asegura que el Gobierno “no parará” hasta que el catalán, el gallego y el euskera sean oficiales en Europa",
-      "link": "https://www.lavanguardia.com/politica/20260926/11644514/video-albares-catalan-euskera-gallego-europa.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/09/6aa1921e85feb.r_d.2851-1386-0.jpeg",
-      "snippet": "El ministro de Asuntos Exteriores ha lanzado este mensaje alternando cuatro idiomas en un vídeo difundido en redes sociales",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T13:05:12.000Z"
     },
     {
       "id": "52fc563bc39b",
@@ -2171,8 +2243,8 @@
       "isoDate": "2026-09-26T10:48:39.000Z"
     },
     {
-      "id": "e2c4fb1b97d7",
-      "title": "El cadáver del arquitecto Josep Juanpere presentaba unas lesiones que levantaron las sospechas sobre su pareja",
+      "id": "5889052086a0",
+      "title": "El cadáver del arquitecto Josep Juanpere presentaba unas lesiones cervicales que levantaron las sospechas sobre su pareja",
       "link": "https://www.lavanguardia.com/sucesos/20260926/11644486/cadaver-arquitecto-josep-juanpere-presentaba-lesiones-cervicales-levantaron-sospechas-sobre-pareja.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab6523f3742d.r_d.1897-1131-0.jpeg",
       "snippet": "El fallecido se golpeó con un radiador tras sentirse indispuesto en Nochebuena y recibió dos puntos de sutura en la cabeza",
@@ -2181,18 +2253,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-09-26T10:42:29.000Z"
-    },
-    {
-      "id": "2cd36bbf19c2",
-      "title": "Muere a los 81 años Eduardo Rodríguez Rodway, último superviviente de Triana",
-      "link": "https://www.elmundo.es/cultura/musica/2026/09/26/6ab786ed21efa0b76f8b45b9.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/26/17904130440556.jpg",
-      "snippet": "Mantuvo una cruzada de casi tres décadas en los tribunales por el nombre del mítico grupo sevillano, considerado uno de los principales referentes del rock andaluz Leer",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T10:39:11.000Z"
     },
     {
       "id": "4823cb4afecf",
@@ -2207,8 +2267,8 @@
       "isoDate": "2026-09-26T10:25:00.000Z"
     },
     {
-      "id": "bdb456842be3",
-      "title": "España estrena la segunda estrella ante Inglaterra con Ferran y Nico en el once",
+      "id": "d14b2f9b6dc0",
+      "title": "Remonta Inglaterra en tres minutos: Cucurella no se lo puede creer y anota en propia a puerta",
       "link": "https://www.20minutos.es/deportes/futbol/inglaterra-espana-nations-league-directo-marcador-goles-ultima-hora-jornada-1_7041659_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/09/26/6ab79466e75b44-82462909.jpeg",
       "snippet": "La Roja debuta en Wembley la segunda estrella que se cosió en el pecho al salir campeona del Mundial 2026.",
@@ -2459,18 +2519,6 @@
       "isoDate": "2026-09-26T07:17:00.000Z"
     },
     {
-      "id": "17545487397d",
-      "title": "Putin inicia la batalla final para tratar de adueñarse del Donbás: \"Rusia ataca a los civiles con tácticas terroristas\"",
-      "link": "https://www.elmundo.es/internacional/2026/09/25/6ab55762e9cf4a57488b4577.html",
-      "image": "https://e00-elmundo.uecdn.es/assets/multimedia/imagenes/2026/09/25/17903479934235.jpg",
-      "snippet": "Moscú acentúa la presión sobre la llamada 'Fortaleza' del este de Ucrania con un asalto masivo de drones y bombas devastadoras, en medio de un entorno distópico donde se 'cazan' UA",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T06:51:54.000Z"
-    },
-    {
       "id": "e26905c7013c",
       "title": "Roberto Brasero avanza la llegada del tiempo otoñal: \"Habrá nubes con chubascos y bajarán las temperaturas\"",
       "link": "https://www.20minutos.es/nacional/roberto-brasero-meteorologo-avanza-llegada-tiempo-otonal-habra-nubes-con-chubascos-bajaran-las-temperaturas_7041562_0.html",
@@ -2517,30 +2565,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-09-26T04:38:00.000Z"
-    },
-    {
-      "id": "d91f5fbbe3a4",
-      "title": "Al menos 14 muertos, incluidos altos militares, en accidente aéreo en RD Congo",
-      "link": "https://www.dw.com/es/al-menos-14-muertos-incluidos-altos-militares-en-accidente-aéreo-en-rd-congo/a-79440286?maca=spa-rss-sp-all-1122-rdf",
-      "image": null,
-      "snippet": "Una avioneta que transportaba una delegación de la justicia militar se estrelló en la ciudad de Kenge, en el suroeste del país.",
-      "source": "DW Español",
-      "sourceId": "dw",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-09-26T04:08:00.000Z"
-    },
-    {
-      "id": "806ba405e3b6",
-      "title": "El Gobierno negocia contrarreloj para sellar el martes el plan antidesahucios",
-      "link": "https://www.lavanguardia.com/politica/20260926/11644097/gobierno-negocia-contrarreloj-sellar-martes-plan-antidesahucios.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/09/26/6ab794562d2b3.jpeg",
-      "snippet": "El sector socialista estudia congelar alquileres y niega a Sumar las expropiaciones",
-      "source": "La Vanguardia",
-      "sourceId": "lavanguardia",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T04:00:00.000Z"
     },
     {
       "id": "d9f782bba28d",
@@ -2632,18 +2656,6 @@
       "link": "https://elpais.com/economia/negocios/2026-09-26/la-lenta-agonia-del-alquiler-de-vivienda-en-espana-que-salio-mal.html",
       "image": "https://imagenes.elpais.com/resizer/v2/PRW2BOQUHJE5JIDSZ64JRYMMZA.jpg?auth=4da70c8df86e246c45fbe741de34bb538379e1e0ecfe7b6cf8900184e1b26d49",
       "snippet": "España impulsó durante años el arrendamiento como alternativa a la compra, pero la falta de oferta y el alza de precios han convertido el plan B en un problema",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-09-26T03:30:00.000Z"
-    },
-    {
-      "id": "ef4672b71b49",
-      "title": "‘Maxximiza’, exprímete a ti mismo: la insana obsesión por optimizarlo todo",
-      "link": "https://elpais.com/ideas/2026-09-26/maxximiza-exprimete-a-ti-mismo-la-insana-obsesion-por-optimizarlo-todo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/POP7JECIIRHHJJT7HP6IPYQQZY.jpg?auth=714b4dbe3d18018de760004af84e77e6f6401ea59d7a9b9b63d31a94d317d19a",
-      "snippet": "Una moda nacida en los foros de solteros involuntarios (‘incel’) propone mejorar hasta el mínimo detalle todo lo que hacemos, del aspecto físico al sueño. Los expertos advierten: n",
       "source": "El País",
       "sourceId": "elpais",
       "country": "ES",
@@ -2891,6 +2903,18 @@
       "isoDate": "2026-09-25T17:22:55.000Z"
     },
     {
+      "id": "c102cc8a8dc7",
+      "title": "Los cambios importantes de “The Apothecary Diaries” - Temporada 3: la dinámica de los protagonistas y más",
+      "link": "https://elcomercio.pe/mag/fama/que-ver/the-apothecary-diaries-temporada-3-los-cambios-importantes-de-los-nuevos-episodios-del-anime-nnda-nnlt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/RIAJZHUTGJDDRMYAZWO2PKX4BI.jpg?auth=bf9aa66e7e3f83f7c4a1453688362b992d30e5f79f85afa3567e889c16d5b4c3&smart=true&width=2400&height=1620",
+      "snippet": "Las interacciones de Maomao y Jinshi cambian drásticamente en la tercera temporada de \"The Apothecary Diaries\" debido a que ya viven en el palacio.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-09-25T15:58:06.000Z"
+    },
+    {
       "id": "74b4d53f548d",
       "title": "Nations League: dónde ver el Italia vs. Bélgica y todos los partidos de este viernes 25 de septiembre",
       "link": "https://expansion.mx/tendencias/2026/09/25/nations-league-italia-vs-belgica-partidos-25-septiembre",
@@ -2963,18 +2987,6 @@
       "isoDate": "2026-09-25T14:51:00.000Z"
     },
     {
-      "id": "971f81399651",
-      "title": "Volkswagen y Audi llaman a revisión a más de 2.8 millones de vehículos por fallas",
-      "link": "https://expansion.mx/empresas/2026/09/25/volkswagen-retira-2-8-millones-vehiculos-por-fallas",
-      "image": "https://cdn-3.expansion.mx/dims4/default/5e34e58/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F50%2F65%2F7b870e9f4925a0750e488f54418a%2Ffallas-autos-volkswagen.jpg",
-      "snippet": "Un vocero de la marca alemana aseguró que los dueños de los vehículos pueden acudir \"conduciendo\" a la concesionaria y allí, les proporcionarán nuevos tornillos más resistentes a l",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-09-25T13:49:21.000Z"
-    },
-    {
       "id": "bda723fc1ea5",
       "title": "Alemania aprueba rebajar el precio de los combustibles",
       "link": "https://www.dw.com/es/alemania-aprueba-rebajar-el-precio-de-los-combustibles/a-79432254?maca=spa-rss-sp-all-1122-rdf",
@@ -2997,18 +3009,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-09-25T12:14:58.000Z"
-    },
-    {
-      "id": "6b2c8336aa3d",
-      "title": "Tu vida digital cabe en WhatsApp: pasas hasta 20 horas al mes en la app y también expones tus datos",
-      "link": "https://expansion.mx/tecnologia/2026/09/25/whatsapp-20-horas-al-mes-riesgos-datos-ciberseguridad",
-      "image": "https://cdn-3.expansion.mx/dims4/default/3431bd0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F1b%2Fbe%2F89be8f8d4278ab30b65c5a067044%2Fwhatsapp-riesgos-ciberseguridad-datos-mexico.jpeg",
-      "snippet": "La aplicación de Meta concentra conversaciones, trabajo, compras y datos personales. Su uso intensivo también aumenta la importancia de proteger cuentas, sesiones y dispositivos.",
-      "source": "Expansión",
-      "sourceId": "expansion",
-      "country": "MX",
-      "countryLabel": "México",
-      "isoDate": "2026-09-25T11:55:50.000Z"
     },
     {
       "id": "0d1ca2484513",
