@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:03:09.969Z",
+  "updatedAt": "2026-10-18T20:15:16.636Z",
   "count": 256,
   "sources": [
     {
@@ -119,6 +119,882 @@
   ],
   "items": [
     {
+      "id": "676adce9087e",
+      "title": "Video: el golazo de taco de Martín Ojeda para Orlando City en la MLS",
+      "link": "https://www.lanacion.com.ar/deportes/futbol/video-el-golazo-de-taco-de-martin-ojeda-para-orlando-city-en-la-mls-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2QPYPLENUVEW7CFSDYO4DN5BCI.JPG?auth=8f7f8435f2f0f81dc8e03ae13546c37a34bdc60117cfbe4ffa7dd24002d7d1a7&smart=true&width=3000&height=2000",
+      "snippet": "El mediocampista argentino que hace xx años se desempeña en el fútbol de los Estados Unidos, se destacó con una gran definición",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:13:21.000Z"
+    },
+    {
+      "id": "3a7ea512cb1e",
+      "title": "Día de la Madre: las ventas cayeron por quinto año consecutivo pese a que 9 de cada 10 comercios ofrecieron descuentos",
+      "link": "https://www.infobae.com/economia/2026/10/18/dia-de-la-madre-las-ventas-cayeron-por-quinto-ano-consecutivo-pese-a-que-9-de-cada-10-comercios-ofrecieron-descuentos/",
+      "image": "https://www.infobae.com/resizer/v2/TM76QUY55ZCXLB5J4XEZ7XHIOA.png?auth=9f7f7041db795234d2c123b88c9da0a3a056b7536a8dd6c1dc3646e18a49ea13&smart=true&width=1536&height=1024",
+      "snippet": "Según CAME, la facturación minorista pyme retrocedió 1,4% interanual a precios constantes, con un ticket promedio de $63.197 y cuatro de los seis rubros relevados en terreno negati",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:11:53.000Z"
+    },
+    {
+      "id": "562cd3d421c1",
+      "title": "Tuti Vargas respondió a sus haters con contundente mensaje: “No tener hijos no te hace menos mujer”",
+      "link": "https://www.infobae.com/colombia/2026/10/18/tuti-vargas-respondio-a-sus-haters-con-contundente-mensaje-no-tener-hijos-no-te-hace-menos-mujer/",
+      "image": "https://www.infobae.com/resizer/v2/2I2EMC2WA5GRXFANPOBGRHC3KA.jpg?auth=31acbd42c8e05e6d60dab4b25cb50c8edbe16c08aae7da6d3d823616503c0e51&smart=true&width=1920&height=1080",
+      "snippet": "La creadora de contenido y empresaria difundió un mensaje en sus plataformas digitales para cuestionar las presiones que recibe a diario con temas relacionados a las relaciones, el",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:10:28.000Z"
+    },
+    {
+      "id": "49cc96842063",
+      "title": "Nuevos disturbios en Italia: saqueos, destrozos y enfrentamientos con la Policía en el centro de Milán",
+      "link": "https://www.lanacion.com.ar/el-mundo/nuevos-disturbios-en-italia-saqueos-destrozos-y-enfrentamientos-con-la-policia-en-el-centro-de-milan-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2ANKSNDKIRFNXEPKAXQF3Z5WOU.jpg?auth=72e34f4a2fb5224ec26d843cf4fb42e5fda68bc96347d5b101aeb5208ea8edb5&smart=true&width=1200&height=800",
+      "snippet": "Uno de los focos más graves se registró en la vía Torino, donde alrededor de mil jóvenes volcaron cestos de basura y destrozaron el mobiliario de los bares, además de dañar motos y",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:10:26.000Z"
+    },
+    {
+      "id": "db1ae07f5a3f",
+      "title": "Sheinbaum insiste en “quitar la bucroracia” del sistema de salud para acabar con el desabasto de medicamentos",
+      "link": "https://www.infobae.com/mexico/2026/10/18/sheinbaum-insiste-en-quitar-la-bucroracia-del-sistema-de-salud-para-acabar-con-el-desabasto-de-medicamentos/",
+      "image": "https://www.infobae.com/resizer/v2/MDAYRHSQ5BGFPIFJE7KQ6MG4HU.jpg?auth=a5db63bb0c5a38658a9b61fe3496c615355d177433718ded7ed64f63a14be94d&smart=true&width=2848&height=1504",
+      "snippet": "La mandataria afirmó que las protestas deben llevarse de manera pacífica",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:10:05.000Z"
+    },
+    {
+      "id": "8dc087d0f51b",
+      "title": "Puente Piedra: incendio en fábrica de plásticos moviliza a más de 20 unidades de bomberos",
+      "link": "https://elcomercio.pe/lima/puente-piedra-incendio-en-fabrica-de-plasticos-moviliza-a-mas-de-20-unidades-de-bomberos-ultimas-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/A3NBII4FYJFEBJOT3APNAEYAFU.jpg?auth=c3127b8beb0499a908e54a17b0d1da65caf527e94da1eba756eab77a54f4c4a2&smart=true&width=1200&height=800",
+      "snippet": "Un incendio afecta este domingo una fábrica de plásticos ubicada en la calle Los Cerezos, en la zona de La Ensenada, en el distrito de Puente Piedra. La emergencia moviliza a más d",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:10:01.000Z"
+    },
+    {
+      "id": "7f7e132a365d",
+      "title": "Macron habló por TV tras los saqueos y disturbios en Francia: “Nada justifica la violencia”",
+      "link": "https://www.lanacion.com.ar/el-mundo/macron-hablara-por-tv-tras-los-saqueos-y-disturbios-en-francia-al-menos-1800-detenidos-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/FWENEDSJDVDXHIXK4F4YOLXG5U.JPG?auth=93feb82978a68719b2f6342c12319cf3c667fb413af1f6ddc2425aa5e57a8a57&smart=true&width=3771&height=2514",
+      "snippet": "El presidente francés se dirigió al país luego de masivas protestas en reclamo por los altos costos de vida; apuntó a “radicales de la extrema izquierda”",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:09:12.000Z"
+    },
+    {
+      "id": "69680f5ccaf8",
+      "title": "VER LIGA 1 MAX EN VIVO - Mirar, Universitario vs. Alianza Atlético por Liga 1",
+      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/video-liga-1-max-en-vivo-gratis-futbol-libre-tv-universitario-vs-alianza-atletico-hoy-por-internet-via-liga-1-play-dgo-por-torneo-clausura-liga-1-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/Z5AOJKR66BDZ7MU2YHQEGYAB6E.jpeg?auth=326e379f2837085cfe45a6d2bada980ca723f601c5473b8101e436dc1d2b609d&smart=true&width=1280&height=854",
+      "snippet": "Transmisión oficial de Liga 1 Max EN VIVO: ver partido de Universitario vs. Alianza Atlético ONLINE por la fecha 12 del Torneo Clausura de la Liga 1 desde el estadio Mansiche.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:09:01.000Z"
+    },
+    {
+      "id": "72ccab3e383e",
+      "title": "Universitario vs. Alianza Atlético en vivo: minuto a minuto del partido por Liga 1",
+      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-alianza-atletico-en-vivo-online-gratis-por-torneo-clausura-de-la-liga-1-lbposting-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/X3HT3ILQ7REY5KGOU6DBAFIDM4.jpeg?auth=c965b9afdd3a2cec698960fe0988be5795ab890d6fc4e8429e6b263c8fc5f158&smart=true&width=1280&height=854",
+      "snippet": "Sigue la transmisión del partido de Universitario vs. Alianza Atlético en vivo online por la fecha 12 del Torneo Clausura de la Liga 1.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:08:31.000Z"
+    },
+    {
+      "id": "4a6270d9f910",
+      "title": "¿En qué canales televisan Universitario vs. Alianza Atlético EN VIVO y a qué hora inicia el partido por la Liga 1?",
+      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/donde-ver-universitario-vs-alianza-atletico-en-vivo-gratis-hoy-por-torneo-clausura-a-que-hora-juega-la-u-y-en-que-canales-transmiten-online-partido-por-liga-1-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/BU3IPCFAJBEWXB7UOLFYFVDY7Y.jpeg?auth=5619129090ddab4d7dda125d324998cb97c93f3659da3109abd7aa740a9b2101&smart=true&width=1280&height=853",
+      "snippet": "Revisa qué canales pasan el partido de Universitario vs. Alianza Atlético y los horarios para ver el compromiso por la fecha 12 del Torneo Clausura de la Liga 1.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:08:02.000Z"
+    },
+    {
+      "id": "7a7a776f6275",
+      "title": "Atlético Bucaramanga vs. América de Cali - en vivo HOY: titulares confirmadas para el partido que puede clasificar a los ‘Diablos Rojos’ a las finales de la Liga",
+      "link": "https://www.infobae.com/colombia/deportes/2026/10/18/atletico-bucaramanga-vs-america-de-cali-en-vivo-hoy-siga-aqui-el-partido-que-puede-clasificar-a-los-diablos-rojos-a-las-finales-de-la-liga-betplay/",
+      "image": "https://www.infobae.com/resizer/v2/S7YIBSUEWVB5NC3DNXC63CV6KE.png?auth=9dec5087e0675a566b05cef8c2b2e60869f48018ec51660950a581988138d97b&smart=true&width=592&height=321",
+      "snippet": "El equipo Leopardo quiere extender su liderato, en casa y ante el líder del campeonato en el encuentro que abre la jornada dominical de la fecha 15 en el fútbol colombiano",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:07:54.000Z"
+    },
+    {
+      "id": "37b150d78965",
+      "title": "¡Apareció ‘Kiki’! Mbappé marcó el 2-0 de Real Madrid vs Sevilla por LaLiga | VIDEO",
+      "link": "https://elcomercio.pe/deporte-total/espana/video-gol-de-kylian-mbappe-hoy-con-real-madrid-vs-sevilla-por-laliga-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/DNPP67NQHRDPNAXZ3XGGXQPRVY.png?auth=55c6d90b6fc2671c1929b7f15c415cd89ca83790437fc021365c6347eb5bd2c8&smart=true&width=1875&height=1062",
+      "snippet": "Kylian Mbappé abrió el marcador a favor de Real Madrid vs Sevilla por LaLiga en el Santiago Bernabéu. Mira el gol de ‘Kiki’.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:07:48.000Z"
+    },
+    {
+      "id": "c09eb16e06ca",
+      "title": "Encontraron a la adolescente desaparecida que había activado las alertas Sofía, en Argentina, y Amber, en Uruguay",
+      "link": "https://www.infobae.com/sociedad/2026/10/18/activan-el-alerta-sofia-por-la-desaparicion-de-una-adolescente-de-15-anos-en-entre-rios/",
+      "image": "https://www.infobae.com/resizer/v2/4FCBOTOI6JA4FD3UB7EO47UOMY.gif?auth=b73995e22374b356628c73bccb12d89bfb7677130a243e2e6608f60758003cb0&smart=true&width=765&height=506",
+      "snippet": "El Ministerio del Interior de Uruguay informó que la chica, residente en Paysandú, fue hallada en territorio argentino en buen estado de salud. Había sido vista por última vez el v",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:07:35.000Z"
+    },
+    {
+      "id": "58333359e6e0",
+      "title": "Huracán Trudy continúa en categoría 2 y Frente frío no. 2 ocasiona fuertes lluvias: el clima en México hoy domingo 18 de octubre",
+      "link": "https://www.infobae.com/mexico/2026/10/18/huracan-trudy-continua-en-categoria-2-y-frente-frio-no-2-ocasiona-fuertes-lluvias-el-clima-en-mexico-hoy-domingo-18-de-octubre/",
+      "image": "https://www.infobae.com/resizer/v2/NAS6X3AV55FGNNSXSQ7TFYX63U.png?auth=162bdf01b6b7f508718e4bef94036753485d5e4673db747f1f41060b4d212776&smart=true&width=1672&height=941",
+      "snippet": "El sureste enfrentará precipitaciones extraordinarias, mientras Jalisco mantendrá efectos de Trudy; además, habrá evento de Norte, oleaje elevado y descenso térmico",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:07:11.000Z"
+    },
+    {
+      "id": "1cedb11bae13",
+      "title": "⚪ Movistar Plus EN DIRECTO | Transmisión ahora para ver Real Madrid — Sevilla EN VIVO por TV online",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/movistar-plus-en-directo-donde-televisa-real-madrid-sevilla-por-futbol-tv-y-movistar-laliga-tv-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/J4XA2BIZ3ZE3HNCDE36C6LVMJM.jpg?auth=37e82deaa58e66343fb06491b4144cddc70719f1184e8df25ea00631986726e8&smart=true&width=2400&height=1620",
+      "snippet": "Sigue la transmisión de Movistar Plus EN DIRECTO el partido Real Madrid vs. Sevilla hoy por la jornada 9 de LaLiga desde el Estadio Santiago Bernabéu.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:07:06.000Z"
+    },
+    {
+      "id": "f56858167b2d",
+      "title": "🔴 SKY Sports EN VIVO | Canal que transmite Real Madrid vs. Sevilla GRATIS por TV online",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/sky-sports-en-vivo-gratis-donde-ver-partido-real-madrid-vs-sevilla-por-futbol-tv-y-sky-plus-hd-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/HSSAMI7OS5HC5CVYEA4BBXI4VY.jpg?auth=704a5df2b9d25f26cde0096da34a32cae19d455cba36020b19915fda14740ce3&smart=true&width=2400&height=1620",
+      "snippet": "Sigue la transmisión de SKY Sports para ver EN VIVO y GRATIS el partido Real Madrid vs. Sevilla hoy por la jornada 9 de LaLiga desde el Estadio Santiago Bernabéu.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:07:01.000Z"
+    },
+    {
+      "id": "a012255a5001",
+      "title": "⭕ ESPN EN VIVO GRATIS | Transmisión del partido Real Madrid vs. Sevilla por Fútbol TV y Disney Plus Online",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/espn-en-vivo-gratis-donde-ver-partido-real-madrid-vs-sevilla-por-futbol-tv-y-disney-plus-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/BT3ZM4PHZVEN5LLI24SDERV6KE.jpg?auth=4dad962498e71d6f2297aa82e45d55bbe99765672d323eb217a7fc19e395d8f8&smart=true&width=2400&height=1620",
+      "snippet": "Mira ESPN EN VIVO y sigue el partido Real Madrid vs. Sevilla EN DIRECTO, desde el Santiago Bernabéu, este domingo 18 de octubre, encuentro válido por la Jornada 9 de LaLiga.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:06:56.000Z"
+    },
+    {
+      "id": "08196b2c680b",
+      "title": "📡 Dónde VER ahora señal Real Madrid — Sevilla EN VIVO EN DIRECTO por LaLiga 2026 | Transmisión partido",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/donde-ver-real-madrid-sevilla-en-vivo-en-directo-por-laliga-2026-horarios-y-canales-tv-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/PBBL2NU5J5C7BLAKNAH7WQTONI.png?auth=67e0492c3651d9066d30211faf7d2e20a8587c361689cb07187b3b6c0ceee4ba&smart=true&width=3600&height=2430",
+      "snippet": "Conozca las señales de televisión y plataformas online que transmiten en vivo el partido Real Madrid vs. Sevilla por LaLiga 2026. Horarios confirmados y guía de canales por país.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:06:51.000Z"
+    },
+    {
+      "id": "b3144c3b3dae",
+      "title": "Jorge Arreaza confirmó que su hijo resultó herido en un accidente de tránsito en Miranda",
+      "link": "https://www.elnacional.com/2026/10/jorge-arreaza-confirmo-que-su-hijo-resulto-herido-en-un-accidente-de-transito-en-miranda/",
+      "image": null,
+      "snippet": "El siniestro se registró durante la tarde del sábado en la vía Tacarigua-La Laguna, en Río Chico, municipio Páez de la subregión Barlovento. Según los reportes preliminares, la cam",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T20:06:51.000Z"
+    },
+    {
+      "id": "070a66a28e00",
+      "title": "📺 Canales TV para ver transmisión Real Madrid vs. Sevilla EN VIVO AHORA por LaLiga 2026 en México y EE.UU.",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-juega-y-que-canal-transmite-real-madrid-vs-sevilla-en-vivo-hoy-por-laliga-2026-en-mexico-y-eeuu-canales-tv-online-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/NLYYFVOLSZGIXF5HJ4NXUPU6PI.jpg?auth=1bb51c5e1742ca125d9f0c6d59e8e573f5768efb27f561cbaec3fbe92ae69f55&smart=true&width=2400&height=1620",
+      "snippet": "Real Madrid y Sevilla medirán fuerzas por LaLiga 2026. Para que mires el partido EN VIVO y EN DIRECTO, lee esta nota.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:06:45.000Z"
+    },
+    {
+      "id": "dcfc56c73077",
+      "title": "Los Zetas y los kaibiles, a dos décadas de una conexión criminal documentada entre México y Guatemala",
+      "link": "https://www.infobae.com/mexico/2026/10/18/los-zetas-y-los-kaibiles-dos-decadas-de-una-conexion-criminal-documentada-entre-mexico-y-guatemala/",
+      "image": "https://www.infobae.com/resizer/v2/CTVO62WKLVEIXP3E4Z7QXJWYZQ.jpg?auth=999c08be77bc3d731b536225818657e25b34d0d8d4a34f6e499237c7d28f27f6&smart=true&width=1920&height=1376",
+      "snippet": "Fundado por desertores de una unidad de élite del Ejército mexicano, el grupo recurrió a exintegrantes de las fuerzas especiales guatemaltecas para entrenar sicarios, según reporte",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:05:33.000Z"
+    },
+    {
+      "id": "0f51d34ed441",
+      "title": "Chaku andino: Nueva raza de perro peruano es presentada de manera oficial en el Circuito Mágico del Agua",
+      "link": "https://www.infobae.com/peru/2026/10/18/chaku-andino-nueva-raza-de-perro-peruano-es-presentada-de-manera-oficial-en-el-circuito-magico-del-agua/",
+      "image": "https://www.infobae.com/resizer/v2/YFMRNIJVBJDJPMYHAPXR2ZDUPE.png?auth=eab3a60bc15a3b3cd2d3b5e3df07483f3a590a01ebc20eefa3f77a92b8ccbd83&smart=true&width=1920&height=1080",
+      "snippet": "La presentación oficial incluirá evaluaciones, exhibiciones, registros y concursos caninos en el Circuito Mágico del Agua",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:04:51.000Z"
+    },
+    {
+      "id": "413e049ffa4a",
+      "title": "Estados Unidos quiere regular los robotaxis: Waymo, Tesla y más deberán tener monitoreos humanos y límites",
+      "link": "https://www.infobae.com/tecno/2026/10/18/estados-unidos-quiere-regular-los-robotaxis-waymo-tesla-y-mas-deberan-tener-monitoreos-humanos-y-limites/",
+      "image": "https://www.infobae.com/resizer/v2/XPQFT2DQPBEJFKJUCZ3OLIO2UY.JPG?auth=ce7e8958e508a5668a9b2669da7b11a000f541dbdb37494d722d91908a00182e&smart=true&width=4000&height=2667",
+      "snippet": "Ciudades y estados de Estados Unidos avanzan con leyes propias para frenar o condicionar la circulación de robotaxis",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:03:12.000Z"
+    },
+    {
+      "id": "b4b77633ebfb",
+      "title": "EN VIVO| Seguridad, narcotráfico y crimen en México hoy 18 de octubre: exfiscal de Chihuahua tendrá su primera audiencia este domingo",
+      "link": "https://www.infobae.com/mexico/2026/10/18/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-18-de-octubre-exfiscal-de-chihuahua-tendra-su-primera-audiencia-este-domingo/",
+      "image": "https://www.infobae.com/resizer/v2/N3JXPNPGIQ4UEFDGTMTSQRKBHA.jpg?auth=dfb1a18fea9e2e9d371a8919d2a176892abc7dffe4e50089b5da2a801cc9113a&smart=true&width=800&height=533",
+      "snippet": "Sigue las noticias más importantes sobre los acontecimientos violentos que ocurren en el país con Infobae México",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:02:15.000Z"
+    },
+    {
+      "id": "a6de388540cb",
+      "title": "EN VIVO | Clima CDMX y resto de México hoy domingo 18 de octubre: seguirán las lluvias en el sur y el frío en la capital",
+      "link": "https://www.infobae.com/mexico/2026/10/18/en-vivo-clima-cdmx-y-resto-de-mexico-hoy-domingo-18-de-octubre/",
+      "image": "https://www.infobae.com/resizer/v2/NILG73BZYZDJXIL2Y64BALAFYY.jpg?auth=c535325b1c709f2871f07706a3887295e97fb6128cb19d7b19b144c50f67022f&smart=true&width=1920&height=1080",
+      "snippet": "Consulta en tiempo real actualizaciones, alertas, noticias y reportes sobre las condiciones meteorológicas en el país",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:02:07.000Z"
+    },
+    {
+      "id": "588ae094ae1c",
+      "title": "El penal con el que Independiente le empató a Racing, bajo la lupa: qué dice el reglamento",
+      "link": "https://www.infobae.com/deportes/2026/10/18/el-penal-con-el-que-independiente-le-empato-a-racing-bajo-la-lupa-que-dice-el-reglamento/",
+      "image": "https://www.infobae.com/resizer/v2/2BUCE2AQF5GEZMVKVGAGYIUK2Y.webp?auth=1918e72fb2410f56a4854842933605d9b5c76de9b01ff7e6d2594519caafd376&smart=true&width=1200&height=675",
+      "snippet": "Maxi Meza recibió un golpe de Gonzalo Escudero dentro del área y Facundo Tello sancionó de forma inmediata",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:01:48.000Z"
+    },
+    {
+      "id": "1ad4189f5ad2",
+      "title": "La Generalitat Valenciana avisa del riesgo de desbordamiento de cauces y barrancos",
+      "link": "https://www.infobae.com/espana/agencias/2026/10/18/la-generalitat-valenciana-avisa-del-riesgo-de-desbordamiento-de-cauces-y-barrancos/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:01:33.000Z"
+    },
+    {
+      "id": "7bfbae9a5134",
+      "title": "La UAB desautoriza el acto de Vito Quiles, que no tiene permiso para entrar al recinto",
+      "link": "https://www.infobae.com/espana/agencias/2026/10/18/la-uab-desautoriza-el-acto-de-vito-quiles-que-no-tiene-permiso-para-entrar-al-recinto/",
+      "image": null,
+      "snippet": "",
+      "source": "Infobae",
+      "sourceId": "infobae",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T20:01:17.000Z"
+    },
+    {
+      "id": "16c82a245f47",
+      "title": "¿A qué hora inicia y por dónde ver el desfile del Victoria’s Secret Fashion Show 2026 EN VIVO hoy? Horarios y canales VSFS",
+      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/a-que-hora-empieza-y-en-que-canal-transmite-el-desfile-del-victorias-secret-fashion-show-2026-en-vivo-hoy-horarios-y-canales-vsfs-nnda-nnrt-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/C7CHWOHX2JHSFCOXEQFLNJQCKY.jpg?auth=6360c091f9a4cc19ddf48a5a2e6f4a5d0d495fb17d5c3a770e13900ff8319d67&smart=true&width=2400&height=1620",
+      "snippet": "Revisa a qué hora empieza y dónde ver EN VIVO el desfile del Victoria’s Secret Fashion Show 2026 que se realizará hoy 18 de octubre domingo en Los Ángeles.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T20:00:00.000Z"
+    },
+    {
+      "id": "5977624af77e",
+      "title": "Real Madrid - Sevilla en directo | Comienza la segunda mitad",
+      "link": "https://elpais.com/deportes/futbol/2026-10-18/real-madrid-sevilla-en-directo-el-partido-de-la-liga-en-vivo.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/PIVPHJQEJJEGXDVDIIM5PREERI.jpg?auth=f8d1bf21ef3ee9161ac20c7a32d6fa4a0a903fa66bd1f6f6cb69f038a6d91a04",
+      "snippet": "Arda Güler, que vuelve al equipo titular, adelantó al conjunto blanco con un gran golpeo desde la frontal del área y Mbappé amplió la ventaja con una genialidad",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:56:32.000Z"
+    },
+    {
+      "id": "ce8863a2e05b",
+      "title": "Movistar PLUS EN VIVO GRATIS - cómo va el partido de Real Madrid-Sevilla por LaLiga",
+      "link": "https://elcomercio.pe/deporte-total/espana/video-movistar-plus-en-vivo-gratis-ver-real-madrid-vs-sevilla-hoy-online-en-directo-por-laliga-tv-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/3GYE2R3ILNHB3HIVVC455W3VFI.jpg?auth=b0f2f8bf46f10882b92158b689f08f7669d43245ce247fc87112ed33c07c4e97&smart=true&width=5463&height=3642",
+      "snippet": "Transmisión oficial Movistar Plus EN VIVO GRATIS: Real Madrid vs. Sevilla ONLINE por la fecha 9 de LaLiga desde el estadio Santiago Bernabéu.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T19:56:05.000Z"
+    },
+    {
+      "id": "12957fabcf7f",
+      "title": "ESPN EN VIVO GRATIS - cómo va el partido de Real Madrid-Sevilla por LaLiga",
+      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/video-espn-en-vivo-gratis-ver-real-madrid-vs-sevilla-hoy-online-por-laliga-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/XFLMDXT7ERECTF2BJT2CHKGANM.jpg?auth=51202acb3a775c28279682acef405856c4d6f5bdfce9eb505a1fd4da30f9a9ba&smart=true&width=4500&height=3000",
+      "snippet": "Transmisión oficial ESPN EN VIVO GRATIS: Real Madrid vs. Sevilla ONLINE por la fecha 9 de LaLiga desde el estadio Santiago Bernabéu.",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T19:56:02.000Z"
+    },
+    {
+      "id": "8bae400176e0",
+      "title": "Real Madrid 2-0 Sevilla: ver transmisión del partido por LaLiga 2026",
+      "link": "https://elcomercio.pe/deporte-total/espana/donde-ver-real-madrid-vs-sevilla-en-vivo-gratis-por-laliga-a-que-hora-juega-el-madrid-hoy-y-en-que-canales-tv-en-directo-televisan-partido-online-noticia/",
+      "image": "https://elcomercio.pe/resizer/v2/G25TQIT3ORFZBNTND4VVBZ2Z7E.jpg?auth=aea448054030ca5afdd2333b14ace57ce3cc2221d23f3c5bf64937c5d3c0a401&smart=true&width=3500&height=2266",
+      "snippet": "Consulta los canales de TV y plataformas online para ver el partido entre Real Madrid vs. Sevilla el domingo 18 de octubre por la fecha 9 de LaLiga desde el estadio Santiago Bernab",
+      "source": "El Comercio",
+      "sourceId": "elcomercio",
+      "country": "PE",
+      "countryLabel": "Perú",
+      "isoDate": "2026-10-18T19:56:00.000Z"
+    },
+    {
+      "id": "a3f3f28a5e5e",
+      "title": "Videos | Momentos de angustia por drones cargados con explosivos en Norte de Santander: '¡Hay gente desplazándose a la cabecera y otra está atrapada!'",
+      "link": "https://www.eltiempo.com/colombia/otras-ciudades/videos-momentos-de-angustia-por-drones-cargados-con-explosivos-en-norte-de-santander-hay-gente-desplazandose-a-la-cabecera-y-otra-esta-atrapada-3594436",
+      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa3e6dcd650e.r_d.600-267-0.png",
+      "snippet": "Denuncian un nuevo éxodo masivo en las veredas de los municipios de Sardinata y Tibú, ubicados en el departamento de Norte de Santander.",
+      "source": "El Tiempo",
+      "sourceId": "eltiempo",
+      "country": "CO",
+      "countryLabel": "Colombia",
+      "isoDate": "2026-10-18T19:54:08.000Z"
+    },
+    {
+      "id": "493331364c0d",
+      "title": "Tercer incendio de caseta de transformadores dejó sin electricidad a vecinos y comerciantes en Valencia",
+      "link": "https://www.elnacional.com/2026/10/tercer-incendio-de-caseta-de-transformadores-dejo-sin-electricidad-a-vecinos-y-comerciantes-en-valencia/",
+      "image": null,
+      "snippet": "Los vecinos señalan que el exceso de carga habría provocado el sobrecalentamiento de la infraestructura y exigen soluciones permanentes para evitar nuevas fallas en el servicio. Th",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:53:05.000Z"
+    },
+    {
+      "id": "191cade1008f",
+      "title": "Zelenski advierte que sería un “error histórico” que EE.UU. apoye a Rusia",
+      "link": "https://www.latercera.com/mundo/noticia/zelenski-advierte-que-seria-un-error-historico-que-eeuu-apoye-a-rusia/",
+      "image": "https://www.latercera.com/resizer/v2/B3X2TGHAANAVRGFFBPFE3BLTMQ.jpeg?auth=d117917223adf951e6f07b61ebd4d779eb643d0358d5eebaa49bc453a23387e2&smart=true&width=3000&height=2000",
+      "snippet": "“Queremos confiar en él y espero que cambie sus decisiones”, sostuvo el mandatario ucraniano sobre a Trump.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:51:54.000Z"
+    },
+    {
+      "id": "6316d151cab2",
+      "title": "Lula y Flávio Bolsonaro se enfrentan en su primer debate con el balotaje de Brasil a una semana",
+      "link": "https://www.latercera.com/mundo/noticia/lula-y-flavio-bolsonaro-se-enfrentan-en-su-primer-debate-con-el-balotaje-de-brasil-a-una-semana/",
+      "image": "https://www.latercera.com/resizer/v2/RVNA4CDTCRABPEUSTDGESEV4Z4.jpg?auth=af7a2f724a8bd4c798f8db08c6fc07b9d110c92be3eb5c838339d63f602dd0e3&smart=true&width=2154&height=1200",
+      "snippet": "El presidente brasileño y el senador opositor protagonizarán este domingo su primer cara a cara televisado, tras una primera vuelta que favoreció a Bolsonaro. Los últimos sondeos m",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:51:21.000Z"
+    },
+    {
+      "id": "797795c28a45",
+      "title": "Hijo de Jorge Arreaza resultó herido en accidente de tránsito en el que murió un militar",
+      "link": "https://www.elnacional.com/2026/10/reportan-que-nieto-de-hugo-chavez-resulto-herido-en-un-accidente-donde-murio-un-militar/",
+      "image": null,
+      "snippet": "Además de Jorge Arreaza Chávez, otras cinco personas resultaron lesionadas en el hecho, todas recibieron atención médica. The post Hijo de Jorge Arreaza resultó herido en accidente",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:50:35.000Z"
+    },
+    {
+      "id": "065d176b2c1d",
+      "title": "Macron: \"No debemos confundir las demandas legítimas con la violencia\"",
+      "link": "https://www.france24.com/es/francia/20261018-macron-no-debemos-confundir-las-demandas-leg%C3%ADtimas-con-la-violencia",
+      "image": "https://s.france24.com/media/display/dc14b0ea-cb1e-11f1-b98f-6313a763b466/w:1024/p:16x9/MACRON-18-10-2026-18-28-ING16-frame-137183.jpeg",
+      "snippet": "El presidente francés, Emmanuel Macron, condenó los saqueos y los ataques contra edificios públicos en un discurso transmitido en directo este domingo a las 20:00 horas, hora local",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-10-18T19:50:23.000Z"
+    },
+    {
+      "id": "513f7e45425b",
+      "title": "El Barça y De Burgos ahogan al Betis",
+      "link": "https://www.abc.es/deportes/futbol/barca-burgos-ahogan-betis-20261017203801-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/17/yamalgol-RtebAKB31ptQWQfasrSZyeI-1200x840@diario_abc.jpg",
+      "snippet": "El Barça viajó a Sevilla para jugar contra el que siempre ha sido el segundo equipo de Cataluña: primero por la gran cantidad de andaluces en mi tierra y segundo por la enorme simp",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:46:50.000Z"
+    },
+    {
+      "id": "1fbf375dadd7",
+      "title": "En vivo: Colo Colo se mide ante Santa Fe de Colombia en la segunda fecha de la Copa Libertadores Femenina",
+      "link": "https://www.latercera.com/el-deportivo/noticia/en-vivo-colo-colo-se-mide-ante-santa-fe-de-colombia-en-la-segunda-fecha-de-la-copa-libertadores-femenina/",
+      "image": "https://www.latercera.com/resizer/v2/GDOY34XYAZBUZO732GSH45Y7CA.jpg?auth=fe97b54cb2a080b04bbe0bc291de4471dc6d4efcf9c4f7484914b3e401efbcb3&smart=true&width=1200&height=800",
+      "snippet": "Tras caer en el debut contra Corinthians, las albas se enfrentan al conjunto cafetalero con la obligación de ganar.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:46:33.000Z"
+    },
+    {
+      "id": "4eb4c14f71b4",
+      "title": "Pasó de Independiente a Racing, fue campeón en 2001 y hoy vive una realidad lejos del fútbol: “Era otra vida”",
+      "link": "https://www.lanacion.com.ar/deportes/paso-de-independiente-a-racing-fue-campeon-en-2001-y-hoy-vive-una-realidad-lejos-del-futbol-era-otra-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/72FUVEJKAJEBJOLGL7JPCDKZQU.jpg?auth=d57f6f800ac216e63da39a1f97cadc3760632fac0413571ecce5e2cacf1efcfc&smart=true&width=2000&height=1333",
+      "snippet": "Martín Vitali recordó su paso polémico por los clubes de Avellaneda, el título histórico bajo el mando de Reinaldo Merlo y su presente alejado de las canchas, entre el sector inmob",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:45:07.000Z"
+    },
+    {
+      "id": "13d1066dd1b9",
+      "title": "Alcalde Alessandri destaca trabajos preventivos en Lo Barnechea ante nuevo sistema frontal",
+      "link": "https://www.latercera.com/nacional/noticia/alcalde-alessandri-destaca-trabajos-preventivos-en-lo-barnechea-ante-nuevo-sistema-frontal/",
+      "image": "https://www.latercera.com/resizer/v2/OEHDG5GG3ZC5ZEDRNTR4MLNTDM.jpg?auth=39d47fff0cbfccb58a1f5b325e4a4746e8326612b77151338ea82abd73be0eb4&smart=true&width=1200&height=800",
+      "snippet": "La comuna está incluida en la Alerta Roja por riesgo de remociones en masa decretada para sectores de cordillera y precordillera de la Región Metropolitana.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:45:06.000Z"
+    },
+    {
+      "id": "68f1c04fc8fe",
+      "title": "Cindy Crawford habló por primera vez tras la muerte de su hijo Presley Gerber: “Hasta que nos volvamos a encontrar”",
+      "link": "https://www.lanacion.com.ar/espectaculos/cindy-crawford-hablo-por-primera-vez-tras-la-muerte-de-su-hijo-presley-gerber-hasta-que-nos-volvamos-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2UUZC3VWE5CJPDNMCLOXF2SYOY.jpg?auth=1d40fee83cccaddbcf152920e4c2fd1fec0a2678c16cc88ecb60a10fcc6c8d35&smart=true&width=2000&height=1333",
+      "snippet": "La supermodelo rompió su silencio tras el fallecimiento de su primogénito; agradeció el apoyo recibido durante este periodo de luto",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:43:19.000Z"
+    },
+    {
+      "id": "b0a2699de4be",
+      "title": "Koundé y Eric García serán bajas del Barcelona para el duelo de Champions contra el PSG",
+      "link": "https://www.elnacional.com/2026/10/kounde-y-eric-garcia-seran-bajas-del-barcelona-para-el-duelo-de-champions-contra-el-psg/",
+      "image": null,
+      "snippet": "Los defensas del FC Barcelona Jules Koundé y Eric García se perderán por lesión el choque contra el Paris Saint-Germain del martes en la Liga de Campeones de Europa, anunció este d",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:42:39.000Z"
+    },
+    {
+      "id": "23e0071759ca",
+      "title": "Mbappé consigue el segundo gol en una obra de arte",
+      "link": "https://www.abc.es/deportes/real-madrid/real-madrid-sevilla-directo-resultado-goles-partido-20261018204534-di.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/18/diom-R98rVpfsFlRz8h7dbg84X4O-1200x840@diario_abc.jpg",
+      "snippet": "",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:42:36.000Z"
+    },
+    {
+      "id": "79ed340ab2fa",
+      "title": "Sexto día consecutivo de protestas contra el gobierno de Albania",
+      "link": "https://www.elnacional.com/2026/10/sexto-dia-consecutivo-de-protestas-contra-el-gobierno-de-albania/",
+      "image": null,
+      "snippet": "Tres personas fueron hospitalizadas este domingo en Tirana, entre ellas, un periodista y un menor de 15 años de edad. The post Sexto día consecutivo de protestas contra el gobierno",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:42:25.000Z"
+    },
+    {
+      "id": "dbdf81a9769a",
+      "title": "Los comerciantes galos tras las violentas protestas: «Lo he perdido todo, mis sueños estaban dentro de esta tienda»",
+      "link": "https://www.abc.es/internacional/comerciantes-franceses-tras-violentas-protestas-perdido-suenos-20261018213834-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/18/comercios-saqueos-paris-RoYYU1fMcVdczJRnd4YhL6N-1200x840@diario_abc.jpg",
+      "snippet": "Estaba sentado en el suelo con los ojos llorosos y con el posado triste al lado de trozos de cristal y delante de su comercio. El comerciante bengalí Robiul Hassan , de 22 años, se",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:38:34.000Z"
+    },
+    {
+      "id": "f59cbcf0cb2b",
+      "title": "Oficial y confirmado: el nuevo alivio automático de multas del IRS que entra en vigor el 1° de enero de 2027",
+      "link": "https://www.lanacion.com.ar/estados-unidos/oficial-y-confirmado-el-nuevo-alivio-automatico-de-multas-del-irs-que-entra-en-vigor-el-1-de-enero-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/EUG4B7Y27NHUBL4ZHI56QPPX5A.jpg?auth=ce74be67978d8adadadf3c30fc679e8a1d8fc0a33a32fd1d8e298c10a8d66b86&smart=true&width=2000&height=1331",
+      "snippet": "Conoce cómo funciona el alivio automático de multas del IRS desde 2027, qué contribuyentes pueden acceder y cuáles son las sanciones que cubre.",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:35:00.000Z"
+    },
+    {
+      "id": "68f3174ef144",
+      "title": "Recuerdos de infancia y emotivos mensajes de Cindy Crawford y Kaia Gerber tras las muerte de Presley",
+      "link": "https://www.lanacion.com.ar/espectaculos/personajes/recuerdos-de-infancia-y-emotivos-mensajes-de-cindy-crawford-y-kaia-gerber-tras-las-muerte-de-presley-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/F3A7RT2QQZA7VCP33N62BBTQ3E.JPG?auth=c8162788a6dc1c43c7a4d32532b5fec2f8c1da409fb0c4ac768093ec259dec75&smart=true&width=1539&height=1026",
+      "snippet": "La supermodelo compartió un mensaje firmado por toda la familia, mientras que su hija publicó una extensa carta en la que recordó su infancia junto a su hermano y expresó el dolor ",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:34:43.000Z"
+    },
+    {
+      "id": "0b20eea410cf",
+      "title": "Italia se contagia de las protestas estudiantiles en Francia",
+      "link": "https://elpais.com/internacional/2026-10-18/italia-se-contagia-de-las-protestas-estudiantiles-en-francia.html",
+      "image": "https://imagenes.elpais.com/resizer/v2/Y7QWT3QCVNAALHME34PWQE5ZTY.jpg?auth=81b53e95d46cd60bb820579614ec3cfa6b8ec194275c39fde25e77280c0637a2",
+      "snippet": "Las movilizaciones por la educación derivan en violentos choques con la policía y saqueos de tiendas en Milán, Turín y Bolonia y causan cientos de detenidos, la mayoría menores",
+      "source": "El País",
+      "sourceId": "elpais",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:34:29.000Z"
+    },
+    {
+      "id": "d3bf1520d4b3",
+      "title": "El relato de la hija de Fernando Confessore sobre la muerte de su papá: “Mientras te asistían, yo tenía la fe en que ibas a volver”",
+      "link": "https://www.lanacion.com.ar/espectaculos/el-relato-de-la-hija-de-fernando-confessore-sobre-la-muerte-de-su-papa-mientras-te-asistian-yo-tenia-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/YSYZNOBHZBC5FEOP5WH4VXD34I.jpg?auth=f20e3f1b9e40967a530a4cd79299ac0c89ce5c13470bf431ed1a68038d636206&smart=true&width=2000&height=1333",
+      "snippet": "La joven publicó una carta en sus redes sociales que impactó a quienes admiraban a su padre y lo seguían desde las emisiones televisivas; el texto completo",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:33:08.000Z"
+    },
+    {
+      "id": "78eddaecc03a",
+      "title": "Edmundo González llamó a la unidad para impulsar elecciones que permitan un cambio definitivo en Venezuela",
+      "link": "https://www.elnacional.com/2026/10/edmundo-gonzalez-llamo-a-la-unidad-para-impulsar-elecciones-que-permitan-un-cambio-definitivo-en-venezuela/",
+      "image": null,
+      "snippet": "Según el dirigente, el documento de la PUD refleja la voluntad de los venezolanos de vivir en democracia y supone un compromiso para avanzar de forma coordinada hacia una transform",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:31:52.000Z"
+    },
+    {
+      "id": "89b8bb9fcabb",
+      "title": "La Generalitat alerta del riesgo de desbordamiento de ríos y barrancos y se suspenden las clases para 87.000 alumnos",
+      "link": "https://www.elmundo.es/comunidad-valenciana/2026/10/18/6ad4adf2fc6c8311138b4583.html",
+      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
+      "snippet": "La Safor es la comarca más afectada por la dana, con 226 l/m2 en Real de Gandía y 230 en Rafelcofer Leer",
+      "source": "El Mundo",
+      "sourceId": "elmundo",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:31:13.000Z"
+    },
+    {
+      "id": "7408661e27ac",
+      "title": "La población de una especie de pingüinos cayó a menos de la mitad y encendió alarmas entre científicos",
+      "link": "https://www.lanacion.com.ar/sociedad/la-poblacion-de-una-especie-de-pinguinos-cayo-a-menos-de-la-mitad-y-encendio-alarmas-entre-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/ZHY2UZ2N4ZDT3OXD6IMBZGDFNM.jpg?auth=19bab12901b8679989489e00457e55fd21d696611b368c1a36fb66c4b246e147&smart=true&width=800&height=450",
+      "snippet": "Un estudio del British Antarctic Survey detectó una dramática merma de estos animales en la isla Zavodovski entre 2011 y 2025; la cadena de eventos detrás de esta crisis",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:30:00.000Z"
+    },
+    {
+      "id": "d097df0aefb8",
+      "title": "La DANA no da tregua y deja una víctima mortal y más de 1.000 incidencias: alertas y clases suspendidas mañana",
+      "link": "https://www.20minutos.es/nacional/dana-no-da-tregua-deja-una-victima-mortal-mas-1-000-incidencias-nuevas-alertas-clases-suspendidas-este-lunes_7050202_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad4e0657740b9-00405148.jpeg",
+      "snippet": "La mujer fallecida fue arrastrada el sábado por una corriente de agua en la localidad barcelonesa de Cabrera de Mar. Tras un amplio dispositivo de búsqueda, los equipos de emergenc",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:25:47.000Z"
+    },
+    {
+      "id": "00484fdd77e4",
+      "title": "Macri hizo de DJ y cantó en la fiesta de 15 de Antonia: las fotos del festejo de la hija menor del ex presidente",
+      "link": "https://www.clarin.com/politica/macri-hizo-dj-canto-fiesta-15-antonia-fotos-festejo-hija-menor-ex-presidente_0_neVvKLcc4w.html",
+      "image": "https://www.clarin.com/img/2026/10/18/a_VUFFHnm_1200x630__1.jpg",
+      "snippet": "El ex presidente publicó un álbum con imágenes posando y bailando junto a la cumpleañera. Se lo vio animando el festejo desde la bandeja de música y arriba del escenario.",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:25:03.000Z"
+    },
+    {
+      "id": "ef44da8cfb51",
+      "title": "Más de 120.000 desplazados por la intensificación de los combates en Taiz",
+      "link": "https://www.france24.com/es/video/20261018-m%C3%A1s-de-120-000-desplazados-por-la-intensificaci%C3%B3n-de-los-combates-en-taiz",
+      "image": "https://s.france24.com/media/display/053728aa-cb28-11f1-a5bf-d1d2c32ebb87/w:1024/p:16x9/ES-20261018-124017-124156-CS.jpg",
+      "snippet": "La ciudad de Taiz se está convirtiendo en el frente más importante de la guerra civil de Yemen. La batalla entre los combatientes hutíes, aliados de Irán, y las fuerzas gubernament",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-10-18T19:24:15.000Z"
+    },
+    {
+      "id": "2b339834b3c2",
+      "title": "Francia amanece entre calles y tiendas destrozadas tras la jornada de protestas del 17 de octubre",
+      "link": "https://www.france24.com/es/video/20261018-francia-amanece-entre-calles-y-tiendas-destrozadas-tras-la-jornada-de-protestas-del-17-de-octubre",
+      "image": "https://s.france24.com/media/display/cadf5a12-cb25-11f1-b2f9-2d1c143cdef3/w:1024/p:16x9/ES-20261018-123201-123352-CS.jpg",
+      "snippet": "Al día siguiente de las manifestaciones que en varias ciudades terminaron en escenas de caos, los franceses amanecieron en medio de calles y tiendas destrozadas. Civiles y servicio",
+      "source": "France 24 Español",
+      "sourceId": "france24",
+      "country": "INT",
+      "countryLabel": "Internacional",
+      "isoDate": "2026-10-18T19:23:32.000Z"
+    },
+    {
+      "id": "513d05628e65",
+      "title": "Macron anuncia la «prohibición de reuniones» y la aplicación de «las medidas necesarias» por los disturbios en Francia",
+      "link": "https://www.abc.es/internacional/macron-anuncia-prohibicion-reuniones-aplicacion-medidas-necesarias-20261018202921-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/18/1518955767-kLS-U302302294290uaG-1200x840@diario_abc.jpg",
+      "snippet": "El presidente francés, Emmanuel Macron , reprochó este domingo a los servicios de inteligencia galos que no anticiparan las protestas multitudinarias y los numerosos disturbios del",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:23:31.000Z"
+    },
+    {
+      "id": "aad491fe9d78",
+      "title": "Cataratas del Iguazú: cómo les impacta el fenómeno del Niño y lo que hay que saber antes de ir",
+      "link": "https://www.clarin.com/sociedad/cataratas-iguazu-impacta-fenomeno-nino-saber-ir_0_pC6Xtp52nS.html",
+      "image": "https://www.clarin.com/img/2026/10/17/ZVVeI_oFw_1200x630__1.jpg",
+      "snippet": "Esta temporada, el caudal de río Iguazú está en niveles inusuales y se decidió cerrar la Garganta del Diablo. La situación se monitorea cada día y por eso se pueden ver limitados l",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:22:27.000Z"
+    },
+    {
+      "id": "71587c581360",
+      "title": "Fallece hombre baleado en plena vía pública en Temuco: tenía antecedentes policiales",
+      "link": "https://www.latercera.com/nacional/noticia/fallece-hombre-baleado-en-plena-via-publica-en-temuco-tenia-antecedentes-policiales/",
+      "image": "https://www.latercera.com/resizer/v2/ZKSKZLTXRJBOVED5G6NVTABZYM.png?auth=8f025986e6e7bcd72ecda3494a93c27eaa0ad8fbcf2bd6d04dcf3d7b90944483&smart=true&width=1426&height=878",
+      "snippet": "Desde Fiscalía informaron que la víctima, un hombre de 34 años, registraba antecedentes policiales por receptación, tenencia y porte de arma de fuego y microtráfico de drogas.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:19:59.000Z"
+    },
+    {
+      "id": "f6221d1efc02",
+      "title": "Cáncer de mama y cuello uterino concentran el 70% de los diagnósticos oncológicos en mujeres venezolanas",
+      "link": "https://www.elnacional.com/2026/10/cancer-de-mama-y-cuello-uterino-concentran-el-70-de-los-diagnosticos-oncologicos-en-mujeres-venezolanas/",
+      "image": null,
+      "snippet": "La Sociedad Anticancerosa de Venezuela (SAV), en alianza con el Centro de Estadística y Matemática Aplicada (CEMA) de la Universidad Simón Bolívar (USB), estima 85.503 casos nuevos",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:19:18.000Z"
+    },
+    {
+      "id": "fbb5c43e4f7d",
+      "title": "Valentín Yan: un duro relato que reinstala el foco en la violencia intrafamiliar y el desafío de escuchar a las víctimas",
+      "link": "https://www.lanacion.com.ar/sociedad/valentin-yan-un-duro-relato-que-reinstala-el-foco-en-la-violencia-intrafamiliar-y-el-desafio-de-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/AEDA4MQ36NETFA52XE3JKQGMV4.jpg?auth=ea056e05e4a43ab13eb64ba82401d5dc446ba438386429ad2db9058c7a26d80c&smart=true&width=840&height=623",
+      "snippet": "Según una encuesta nacional, durante la crianza el 35,4% de los chicos argentinos recibieron castigos físicos y el 6,6%, de castigos físicos severos",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:18:17.000Z"
+    },
+    {
+      "id": "3091927df0c2",
+      "title": "Trump respaldó a Netanyahu de cara a las elecciones en Israel y advirtió sobre la amenaza iraní",
+      "link": "https://www.lanacion.com.ar/el-mundo/trump-respaldo-a-netanyahu-de-cara-a-las-elecciones-en-israel-y-advirtio-sobre-la-amenaza-irani-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/WEGLUT2O6ZAGRBW3A3P77ZXUDY.jpg?auth=aeeadbc678895d8716884ca1e4859ab3f8784072e04dde02fce02e5cbe8d9dcd&smart=true&width=3000&height=2112",
+      "snippet": "Cuando faltan dos semanas para los comicios, el presidente estadounidense expresó su “apoyo pleno y total” a su aliado, que enfrenta una contienda reñida tras las guerras en Gaza e",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:13:49.000Z"
+    },
+    {
+      "id": "4af102d750b9",
+      "title": "Macron acusa de la violencia a la extrema izquierda, apoya a la Policía y comerciantes e insta a prohibir \"ciertas reuniones\"",
+      "link": "https://www.20minutos.es/internacional/macron-acusa-violencia-extrema-izquierda-apoya-policia-comerciantes-anuncia-que-se-podran-prohibir-ciertas-reuniones-francia_7050235_0.html",
+      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad51787645897-08987213.jpeg",
+      "snippet": "El presidente francés ha reconocido la legitimidad de las manifestaciones y ha pedido no mezclar \"la protesta pacífica con saqueadores y alborotadores\".",
+      "source": "20minutos",
+      "sourceId": "20minutos",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T19:10:33.000Z"
+    },
+    {
+      "id": "18bfb3f4e98a",
+      "title": "Macron culpa de protestas a “grupúsculos de extrema izquierda” y “delincuentes” y anuncia una unidad de crisis",
+      "link": "https://www.latercera.com/mundo/noticia/macron-culpa-de-protestas-a-grupusculos-de-extrema-izquierda-y-delincuentes-y-anuncia-una-unidad-de-crisis/",
+      "image": "https://www.latercera.com/resizer/v2/7W45DLZKDZB2NL3Q7NHUENZZV4.jpeg?auth=06cab2e8817158c44c7970517675b49a7610e743b8194d54ccc48448ff8187e9&smart=true&width=1145&height=716",
+      "snippet": "El presidente francés, quien instó a distinguir entre los autores de los destrozos y los manifestantes que acudieron para expresar sus “reivindicaciones legítimas”, advirtió que \"q",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:09:52.000Z"
+    },
+    {
+      "id": "830b8833c229",
+      "title": "Un mes sin energía eléctrica cumplieron 15 familias en Mérida tras la avería de un transformador",
+      "link": "https://www.elnacional.com/2026/10/un-mes-sin-energia-electrica-cumplieron-15-familias-en-merida-tras-la-averia-de-un-transformador/",
+      "image": null,
+      "snippet": "Los vecinos gestionaron solicitudes ante diversos organismos públicos a la espera de la asignación de nuevos equipos por parte de Corpoelec. The post Un mes sin energía eléctrica c",
+      "source": "El Nacional",
+      "sourceId": "elnacional",
+      "country": "VE",
+      "countryLabel": "Venezuela",
+      "isoDate": "2026-10-18T19:05:56.000Z"
+    },
+    {
+      "id": "dd7821a79e67",
+      "title": "Hombre en situación de calle muere apuñalado tras riña en Quilpué: presunto agresor fue formalizado por homicidio",
+      "link": "https://www.latercera.com/nacional/noticia/hombre-en-situacion-de-calle-muere-apunalado-tras-rina-en-quilpue-presunto-agresor-fue-formalizado-por-homicidio/",
+      "image": "https://www.latercera.com/resizer/v2/4TVCXIICXZGMHBFHWCQTMD4BCM.jpg?auth=da42a06cc74b067f418ba462a7ff34ec1ca23875cedce959cc5e1f4013048190&smart=true&width=4000&height=2667",
+      "snippet": "La víctima recibió varias heridas cortopunzantes en el tórax y abdomen durante una discusión ocurrida la noche del sábado. Pese a ser trasladada a un hospital, falleció minutos des",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T19:03:31.000Z"
+    },
+    {
+      "id": "52bde11dfa4d",
+      "title": "Sara Carbonero dedica a Isabel Jiménez una emotiva declaración de amistad: \"Mi compañera de vida y de aventuras todos estos años. Mi mejor copiloto, nuestra mujer todoterreno que va contagiando alegría por donde pasa\"",
+      "link": "https://www.clarin.com/internacional/sara-carbonero-dedica-isabel-jimenez-emotiva-declaracion-amistad-companera-vida-aventuras-anos-mejor-copiloto-mujer-todoterreno-va-contagiando-alegria-pasa_0_617GKV5vJ5.html",
+      "image": "https://www.clarin.com/img/2026/10/18/3mLOXxLeq_1200x630__1.jpg",
+      "snippet": "Casi veinte años de amistad, una firma de moda compartida y una inauguración en Valencia: Sara Carbonero aprovecha el éxito para agradecer en público a la persona que lleva a su la",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:02:04.000Z"
+    },
+    {
+      "id": "dd64c9d09ec4",
+      "title": "Fernando Espinoza reavivó la interna de los árbitros en AFA y cargó contra Federico Beligoy: \"No tengo mucha relación con mi jefe\"",
+      "link": "https://www.clarin.com/deportes/fernando-espinoza-reavivo-interna-arbitros-afa-cargo-federico-beligoy-mucha-relacion-jefe_0_9wHcK4otgv.html",
+      "image": "https://www.clarin.com/img/2021/07/20/NLfkuISMpF_1200x630__1.jpg",
+      "snippet": "El mendocino habló en la previa de volver a dirigir en la Primera Nacional y reveló que fue un pedido de él. Hace dos meses quedó en el centro de la polémica por un sorteo en el qu",
+      "source": "Clarín",
+      "sourceId": "clarin",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:01:52.000Z"
+    },
+    {
+      "id": "d8db49779386",
+      "title": "El pensamiento de Platón sobre la existencia: “Vamos en busca de un saber que no vamos a alcanzar”",
+      "link": "https://www.lanacion.com.ar/lnmas/el-pensamiento-de-platon-sobre-la-existencia-vamos-en-busca-de-un-saber-que-no-vamos-a-alcanzar-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/2G5IN6WBSBC2LF2L5MDO2HCHYY.JPG?auth=4c834fe5020ec8316b30eede199fb28063b93addd54a69f125a3eb8675a8b22d&smart=true&width=2000&height=1310",
+      "snippet": "En una entrevista exlusiva para LA NACION, el filósofo argentino Darío Sztajnszrajber profundizó en la definición de la filosofía y en el concepto de “sentirse realizado”",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:00:00.000Z"
+    },
+    {
+      "id": "3fa6f6f51c35",
+      "title": "Según la psicología, los hijos preferidos existen (y no está mal)",
+      "link": "https://www.lanacion.com.ar/sociedad/segun-la-psicologia-los-hijos-preferidos-existen-y-no-esta-mal-nid18102026/",
+      "image": "https://resizer.glanacion.com/resizer/v2/X7RNDY2Z4FGXXEPVSK32RR4VJ4.jpg?auth=2939362c58ecbedb9e222ffb429babcfdf071ff2a99aed62bed59f40cda27372&smart=true&width=2000&height=1333",
+      "snippet": "En los estudios de LN+, la especialista Deborah Bellota sostuvo que “los niños también pueden tener un padre favorito”; la importancia de fomentar los espacios de intimidad y diálo",
+      "source": "La Nación",
+      "sourceId": "lanacion",
+      "country": "AR",
+      "countryLabel": "Argentina",
+      "isoDate": "2026-10-18T19:00:00.000Z"
+    },
+    {
       "id": "504bc7133c45",
       "title": "Bancada UDI pide a Fiscalía no perseverar en causa contra ex alto mando de Carabineros y reevaluar otras 378 investigaciones",
       "link": "https://www.latercera.com/politica/noticia/bancada-udi-pide-a-fiscalia-no-perseverar-en-causa-contra-ex-alto-mando-de-carabineros-y-reevaluar-otras-378-investigaciones/",
@@ -129,30 +1005,6 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-10-18T18:59:58.000Z"
-    },
-    {
-      "id": "ac97871418aa",
-      "title": "Sporting Cristal ganó 4 - 2 a Comerciantes Unidos y es líder del Torneo Clausura 2026",
-      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/sporting-cristal-vs-comerciantes-unidos-en-vivo-gratis-hoy-horarios-y-canales-para-ver-partido-por-torneo-clausura-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/MFDJK6F22VH6RD3VC3R7POBTEI.png?auth=91218aaef9a83e948e28c57a3a842e46208d77d148f15b7c3eee471b2c613e1e&smart=true&width=1200&height=700",
-      "snippet": "",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:59:22.000Z"
-    },
-    {
-      "id": "194dc52c6830",
-      "title": "Macron condena los disturbios en Francia: “Nada los justifica, nada los excusa”",
-      "link": "https://elcomercio.pe/mundo/europa/emmanuel-macron-condena-los-disturbios-en-francia-nada-los-justifica-nada-los-excusa-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/OOIJXZB4O5BUBP4XNTRRRCLKI4.jpg?auth=15ae173d8cca678b1f7314901e8e44f88cdb72d59ac070c1113c114a6f007977&smart=true&width=5540&height=3693",
-      "snippet": "El presidente de Francia condenó los saqueos e incendios registrados durante las protestas contra el encarecimiento de la vida, atribuyó la violencia a grupos de extrema izquierda ",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:59:00.000Z"
     },
     {
       "id": "05085dbe27a8",
@@ -167,35 +1019,11 @@
       "isoDate": "2026-10-18T18:59:00.000Z"
     },
     {
-      "id": "1e5e72e309d1",
-      "title": "Macron prometió hacer rendir cuentas a quienes “intentaron derrocar la República” durante las violentas protestas en Francia",
-      "link": "https://www.infobae.com/america/mundo/2026/10/18/macron-prometio-hacer-rendir-cuentas-a-quienes-intentaron-derrocar-la-republica-durante-las-violentas-protestas-en-francia/",
-      "image": "https://www.infobae.com/resizer/v2/TTZYU2JOYVHWJG6B7OP5Z3C7HQ.JPG?auth=d19cf9e7ffec17d0d8e402d2466a9acc736730b627d1b5409f53fb83ab63dec4&smart=true&width=7380&height=4921",
-      "snippet": "Durante un discurso ante la nación, el presidente francés condenó los hechos de violencia perpetrados por “elementos insurrectos de grupos radicales de extrema izquierda, a los que",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:57:46.000Z"
-    },
-    {
-      "id": "0862a6cd33eb",
-      "title": "Racing se impone sobre Independiente en el Cilindro en una nueva edición del clásico de Avellaneda",
-      "link": "https://www.infobae.com/deportes/2026/10/18/racing-e-independiente-se-enfrentaran-en-el-cilindro-en-una-nueva-edicion-del-clasico-de-avellaneda-hora-tv-y-formaciones/",
-      "image": "https://www.infobae.com/resizer/v2/BCYB5IGQLNC3RCUVYKFS5ZH3FI.JPG?auth=d760bd16b091209da04e900c9af5475305e5cc73a3abdcbbfd679d9c45f34fdc&smart=true&width=2819&height=1586",
-      "snippet": "Tanto la Academia como el Rojo arriban al encuentro por la fecha 13 del Torneo Clausura con la obligación de ganar para revertir su adverso presente. Transmiten ESPN Premium y TNT ",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:57:35.000Z"
-    },
-    {
       "id": "6f6e020196f5",
       "title": "El orgullo de los Cóndores M20 tras el título planetario: “Para Chile Rugby, es un triunfo que nos va a visibilizar más”",
       "link": "https://www.latercera.com/el-deportivo/noticia/el-orgullo-de-los-condores-m20-tras-el-titulo-planetario-para-chile-rugby-es-un-triunfo-que-nos-va-a-visibilizar-mas/",
       "image": "https://www.latercera.com/resizer/v2/A56KPSCQAVBALN6FMGT56DLSAI.jpg?auth=379cb8debc5371a6805b33995a8f60fc012c17254d48f175f5e724051d469a25&smart=true&width=2048&height=1366",
-      "snippet": "Diversos integrantes del quince nacional expresaron su alegría por la conquista del World Rugby U20. Para la mayoría, sirve como un proceso para potenciar la disciplina en el país.",
+      "snippet": "Diversos integrantes del quince nacional expresaron su alegría por la conquista del World Rugby U20 Challenger. Para la mayoría, sirve como un proceso para potenciar la disciplina ",
       "source": "La Tercera",
       "sourceId": "latercera",
       "country": "CL",
@@ -203,106 +1031,10 @@
       "isoDate": "2026-10-18T18:56:48.000Z"
     },
     {
-      "id": "9077b3a4af26",
-      "title": "Procesión del Señor de los Milagros EN VIVO HOY: recorrido y ubicación de la imagen del Cristo Moreno este domingo 18 de octubre",
-      "link": "https://www.infobae.com/peru/2026/10/18/procesion-del-senor-de-los-milagros-en-vivo-hoy-segundo-recorrido-y-ubicacion-de-la-imagen-del-cristo-moreno-por-las-calles-del-centro-de-lima/",
-      "image": "https://www.infobae.com/resizer/v2/EYQ7RZWMAJE5HE4NH3V3U65ZWY.png?auth=f8cab78b7f508c8ad124d91e0df4bb799d851c8b4c680e9d91e42be15ec344f0&smart=true&width=1141&height=616",
-      "snippet": "El itinerario contempla el paso por los alrededores de las principales instituciones públicas de Lima y un homenaje del Congreso de la República en las inmediaciones de la plaza Bo",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:56:37.000Z"
-    },
-    {
-      "id": "af71e3180b0a",
-      "title": "Martín Guzmán aconsejó a los brasileños votar por Lula en vez de seguir el “experimento fracasado” de Milei",
-      "link": "https://www.infobae.com/economia/2026/10/18/martin-guzman-aconsejo-a-los-brasilenos-votar-por-lula-en-vez-de-seguir-el-experimento-fracasado-de-milei/",
-      "image": "https://www.infobae.com/resizer/v2/B4KGK6WP37EKS36UXNHHGMZENM.jpg?auth=7d7349db918dd0a64b8b2555ff25287a88f4c114645438ca17499ca988ed7b17&smart=true&width=4055&height=2973",
-      "snippet": "En una nota en un portal internacional que firmó junto a Joseph Stiglitz y una directora de la Open Society de George Soros, afirma que la gestión mileísta invoca un “mito nostálgi",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:55:37.000Z"
-    },
-    {
-      "id": "4c1416041ce6",
-      "title": "Beca Rita Cetina 2026: cómo verificar que mi CURP esté certificada y pasos para crear la Llave Mx, requisitos necesarios para registrarse",
-      "link": "https://www.infobae.com/mexico/2026/10/18/beca-rita-cetina-2026-como-verificar-que-mi-curp-este-certificada-y-pasos-para-crear-la-llave-mx-requisitos-necesarios-para-registrarse/",
-      "image": "https://www.infobae.com/resizer/v2/LGFLB5RWTZHWLHAGBYLZ7X6VK4.jpg?auth=205fd1cd08d5f2486daba6db572f5f7da978831683ed1772c5fd85346b2a06d0&smart=true&width=1920&height=1080",
-      "snippet": "La plataforma para inscribirse al programa estará abierta del 26 de octubre al 6 de noviembre",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:55:31.000Z"
-    },
-    {
-      "id": "b4b77633ebfb",
-      "title": "EN VIVO| Seguridad, narcotráfico y crimen en México hoy 18 de octubre: exfiscal de Chihuahua tendrá su primera audiencia este domingo",
-      "link": "https://www.infobae.com/mexico/2026/10/18/en-vivo-seguridad-narcotrafico-y-crimen-en-mexico-hoy-18-de-octubre-exfiscal-de-chihuahua-tendra-su-primera-audiencia-este-domingo/",
-      "image": "https://www.infobae.com/resizer/v2/N3JXPNPGIQ4UEFDGTMTSQRKBHA.jpg?auth=dfb1a18fea9e2e9d371a8919d2a176892abc7dffe4e50089b5da2a801cc9113a&smart=true&width=800&height=533",
-      "snippet": "Sigue las noticias más importantes sobre los acontecimientos violentos que ocurren en el país con Infobae México",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:55:11.000Z"
-    },
-    {
-      "id": "8a53842fe9fa",
-      "title": "La historia de la línea 148: la travesía familiar que empezó en Misiones y trajo de vuelta a “El Halcón” al conurbano",
-      "link": "https://www.infobae.com/tendencias/2026/10/18/la-historia-de-la-linea-148-la-travesia-familiar-que-empezo-en-misiones-y-trajo-de-vuelta-a-el-halcon-al-conurbano/",
-      "image": "https://www.infobae.com/resizer/v2/RMGLNECTYRCJBKRDPBI5INW2UU.jpg?auth=30a257d9793c325f4ea7dc19843275cbdb724e644e726971ac8089cdf1504684&smart=true&width=1364&height=851",
-      "snippet": "Tras cuatro meses, seis ramales restablecieron sus trayectos desde Constitución hacia Avellaneda, Quilmes, Sarandí junto con Florencio Varela. La reactivación se vincula con un pro",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:55:11.000Z"
-    },
-    {
-      "id": "ce5b0fe8e02d",
-      "title": "Un subcampeón del mundo con la Selección visitó a Emiliano Martínez tras su cirugía de mandíbula: su emotivo mensaje",
-      "link": "https://www.infobae.com/deportes/2026/10/18/un-subcampeon-del-mundo-con-la-seleccion-visito-a-emiliano-martinez-tras-su-cirugia-de-mandibula-su-emotivo-mensaje/",
-      "image": "https://www.infobae.com/resizer/v2/KASXZI6FJFE5JDVRDIJB62FIBE.jpg?auth=806ea40a30d1034dcc5552533bb34fe1641b3cc3e26276f8487f29cae2840ffd&smart=true&width=1920&height=1080",
-      "snippet": "Federico Fernández se acercó a saludar al arquero en la clínica y le brindó su apoyo",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:54:54.000Z"
-    },
-    {
-      "id": "513d05628e65",
-      "title": "Macron anuncia la «prohibición de reuniones» y la aplicación de «las medidas necesarias» por los disturbios en Francia",
-      "link": "https://www.abc.es/internacional/macron-anuncia-prohibicion-reuniones-aplicacion-medidas-necesarias-20261018202921-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/internacional/2026/10/18/1518955767-kLS-U302302294290uaG-1200x840@diario_abc.jpg",
-      "snippet": "Mientras Francia arde a manos de los estudiantes, que protestan a lo largo y ancho del país desde hace un mes, el presidente galo, Emmanuel Macron, ha anunciado este domingo que lo",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T18:53:33.000Z"
-    },
-    {
-      "id": "b5b1aa1786f5",
-      "title": "Resultados ONPE 2026: ¿Cómo va el conteo de actas y quién va ganando?",
-      "link": "https://elcomercio.pe/elecciones/resultados-onpe-elecciones-regionales-y-municipales-2026-en-vivo-conteo-oficial-para-saber-quien-gana-las-elecciones-de-alcaldes-y-gobernadores-en-el-peru-erm-2026-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/RHFI27SGRVAYHJ3OM3KENSF23U.jpg?auth=8a004544e344e88470ecefe3205c417f5c922ba7b80bde45ada734b947b3b96f&smart=true&width=1200&height=675",
-      "snippet": "",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:53:22.000Z"
-    },
-    {
       "id": "e88edcd8f4bd",
       "title": "Macron acusa a la “extrema izquierda” de inflamar la calle",
       "link": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/VVQ4QRIY2JMDRGEHCC2MW3HJ5A.jpg?auth=b9016d71e9e6d8db81afa2cc71b8850489f449354229c375d1fbd0b5fa3a3b23",
+      "image": null,
       "snippet": "El presidente francés desvincula a los estudiantes de la violencia y el vandalismo, pero asegura que “quienes hayan intentado derribar la República tendrán que responder por sus ac",
       "source": "El País",
       "sourceId": "elpais",
@@ -321,126 +1053,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-10-18T18:53:00.000Z"
-    },
-    {
-      "id": "130fcfe6532e",
-      "title": "Universitario vs. Alianza Atlético en vivo: hora, canal TV y dónde mirar partido por Liga 1",
-      "link": "https://elcomercio.pe/deporte-total/futbol-peruano/universitario-vs-alianza-atletico-en-vivo-online-gratis-por-torneo-clausura-de-la-liga-1-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/X3HT3ILQ7REY5KGOU6DBAFIDM4.jpeg?auth=c965b9afdd3a2cec698960fe0988be5795ab890d6fc4e8429e6b263c8fc5f158&smart=true&width=1280&height=854",
-      "snippet": "Sigue la transmisión del partido de Universitario vs. Alianza Atlético en vivo online por la fecha 12 del Torneo Clausura de la Liga 1.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:51:38.000Z"
-    },
-    {
-      "id": "b0ab2f23a855",
-      "title": "Tabla de posiciones de la Liga 1 Perú 2026 HOY: así van los equipos en la fecha 12 del Torneo Clausura y Acumulada",
-      "link": "https://www.infobae.com/peru/deportes/2026/10/17/tabla-de-posiciones-liga-1-peru-2026-en-vivo-hoy-partidos-fecha-12-torneo-clausura-acumulada-alianza-lima-universitario-sporting-cristal-melgar-sport-boys/",
-      "image": "https://www.infobae.com/resizer/v2/DB2BQ7REGNECDKJCECDWSWPAYU.png?auth=7e980373cb378caef4c68a39bf56b7c3ec78311bcc8b4e346ab8430d768fcb4b&smart=true&width=1920&height=1080",
-      "snippet": "Sporting Cristal volvió a tomar el liderato tras imponerse 4-2 ante Comerciantes Unidos. Revisa cómo se mueve la clasificación con los resultados de la duodécima jornada",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:51:29.000Z"
-    },
-    {
-      "id": "c6fc5e46ad79",
-      "title": "Ver Movistar PLUS EN VIVO y EN DIRECTO - mira por televisión, Real Madrid-Sevilla por LaLiga",
-      "link": "https://elcomercio.pe/deporte-total/espana/video-movistar-plus-en-vivo-gratis-ver-real-madrid-vs-sevilla-hoy-online-en-directo-por-laliga-tv-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/3GYE2R3ILNHB3HIVVC455W3VFI.jpg?auth=b0f2f8bf46f10882b92158b689f08f7669d43245ce247fc87112ed33c07c4e97&smart=true&width=5463&height=3642",
-      "snippet": "Transmisión oficial Movistar Plus EN VIVO GRATIS: Real Madrid vs. Sevilla ONLINE por la fecha 9 de LaLiga desde el estadio Santiago Bernabéu.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:51:15.000Z"
-    },
-    {
-      "id": "16fa4a91fa39",
-      "title": "Ver ESPN EN VIVO y EN DIRECTO - mira por televisión, Real Madrid-Sevilla por LaLiga",
-      "link": "https://elcomercio.pe/deporte-total/futbol-mundial/video-espn-en-vivo-gratis-ver-real-madrid-vs-sevilla-hoy-online-por-laliga-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/XFLMDXT7ERECTF2BJT2CHKGANM.jpg?auth=51202acb3a775c28279682acef405856c4d6f5bdfce9eb505a1fd4da30f9a9ba&smart=true&width=4500&height=3000",
-      "snippet": "Transmisión oficial ESPN EN VIVO GRATIS: Real Madrid vs. Sevilla ONLINE por la fecha 9 de LaLiga desde el estadio Santiago Bernabéu.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:51:12.000Z"
-    },
-    {
-      "id": "6e9266df4051",
-      "title": "¿Dónde ver TV ONLINE, Real Madrid-Sevilla: canales de televisión para mirar LaLiga, EN DIRECTO?",
-      "link": "https://elcomercio.pe/deporte-total/espana/donde-ver-real-madrid-vs-sevilla-en-vivo-gratis-por-laliga-a-que-hora-juega-el-madrid-hoy-y-en-que-canales-tv-en-directo-televisan-partido-online-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/G25TQIT3ORFZBNTND4VVBZ2Z7E.jpg?auth=aea448054030ca5afdd2333b14ace57ce3cc2221d23f3c5bf64937c5d3c0a401&smart=true&width=3500&height=2266",
-      "snippet": "Consulta los canales de TV y plataformas online para ver el partido entre Real Madrid vs. Sevilla el domingo 18 de octubre por la fecha 9 de LaLiga desde el estadio Santiago Bernab",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:51:10.000Z"
-    },
-    {
-      "id": "29f2f792d383",
-      "title": "La confesión del Kily González sobre el próximo gran objetivo al que apunta Messi: “Le gustan los desafíos y sé que lo va a lograr”",
-      "link": "https://www.infobae.com/deportes/2026/10/18/la-confesion-del-kily-gonzalez-sobre-el-proximo-gran-objetivo-al-que-apunta-messi-le-gustan-los-desafios-y-se-que-lo-va-a-lograr/",
-      "image": "https://www.infobae.com/resizer/v2/TULS6KXX7FBZRLOPE4XCPVBIMQ.jpg?auth=b0630d444972c92d97ad2238d3f34bcdda31cf900104e4137313670cae1aac9e&smart=true&width=3528&height=1984",
-      "snippet": "El entrenador del Inter Miami llenó de elogios al astro rosarino tras la victoria 3-1 ante el Atlanta United",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:50:56.000Z"
-    },
-    {
-      "id": "f27d72d17ded",
-      "title": "Jorge Nieto dice que se reunió con el Ejecutivo: “Aprobemos los 20 puntos y hágannos llegar como proyecto de ley los otros 7”",
-      "link": "https://elcomercio.pe/politica/gobierno/jorge-nieto-dice-que-se-reunio-con-el-ejecutivo-aprobemos-los-20-puntos-y-hagannos-llegar-como-proyecto-de-ley-los-otros-7-puntos-que-consideran-imprescindibles-ultimas-apuesplan-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/IJWUUDUHPFBG3ON3SOUSTUKT6M.jpg?auth=61ef5b8932cae7f15ff3417a696a8a8d7bed4afde3652769baf6955f4e74eb91&smart=true&width=1200&height=800",
-      "snippet": "Jorge Nieto, líder del Partido del Buen Gobierno, reveló que sostuvo una reunión con “altos niveles del Ejecutivo”, para presentar una propuesta que permita destrabar las discrepan",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:50:25.000Z"
-    },
-    {
-      "id": "68f1c04fc8fe",
-      "title": "Cindy Crawford habló por primera vez tras la muerte de su hijo Presley Gerber: “Hasta que nos volvamos a encontrar”",
-      "link": "https://www.lanacion.com.ar/espectaculos/cindy-crawford-hablo-por-primera-vez-tras-la-muerte-de-su-hijo-presley-gerber-hasta-que-nos-volvamos-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/2UUZC3VWE5CJPDNMCLOXF2SYOY.jpg?auth=1d40fee83cccaddbcf152920e4c2fd1fec0a2678c16cc88ecb60a10fcc6c8d35&smart=true&width=2000&height=1333",
-      "snippet": "La supermodelo rompió su silencio tras el fallecimiento de su primogénito; agradeció el apoyo recibido durante este periodo de luto",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:50:20.000Z"
-    },
-    {
-      "id": "7f7e132a365d",
-      "title": "Macron habló por TV tras los saqueos y disturbios en Francia: “Nada justifica la violencia”",
-      "link": "https://www.lanacion.com.ar/el-mundo/macron-hablara-por-tv-tras-los-saqueos-y-disturbios-en-francia-al-menos-1800-detenidos-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/FWENEDSJDVDXHIXK4F4YOLXG5U.JPG?auth=93feb82978a68719b2f6342c12319cf3c667fb413af1f6ddc2425aa5e57a8a57&smart=true&width=3771&height=2514",
-      "snippet": "El presidente francés se dirigió al país luego de masivas protestas en reclamo por los altos costos de vida; apuntó a “radicales de la extrema izquierda”",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:49:54.000Z"
-    },
-    {
-      "id": "0b999dcd184f",
-      "title": "Fede Vigevani en CDMX: fecha, lugar y precio de los boletos para su próximo show",
-      "link": "https://www.infobae.com/mexico/2026/10/18/fede-vigevani-en-cdmx-fecha-lugar-y-precio-de-los-boletos-para-su-proximo-show/",
-      "image": "https://www.infobae.com/resizer/v2/KMENNEEVVNGJPITJ7U5U37NZMQ.png?auth=e66b67df6cc157a4bc63f98c6348401bfbde553789f316185a36d84005889f44&smart=true&width=2752&height=1536",
-      "snippet": "El creador de contenido regresará a uno de los escenarios más emblemáticos de la capital con un espectáculo que forma parte de su recorrido por México",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:49:03.000Z"
     },
     {
       "id": "c89bb4a78247",
@@ -467,18 +1079,6 @@
       "isoDate": "2026-10-18T18:48:07.000Z"
     },
     {
-      "id": "d8e07eb8d126",
-      "title": "¿Dónde ver el Victoria’s Secret Fashion Show 2026 EN VIVO GRATIS hoy en Los Ángeles, California?",
-      "link": "https://elcomercio.pe/mag/usa/en-vivo-us/donde-ver-el-victorias-secret-fashion-show-2026-en-vivo-gratis-hoy-en-los-angeles-california-transmision-online-nnda-nnrt-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/OBK7LUCZNNE7XO3H3GOXHEGSEM.jpg?auth=57ab861f0c2ad01877ab2ef1b7127e1cc63601a70f1020f1be0863da8174df79&smart=true&width=2400&height=1620",
-      "snippet": "Consulta dónde ver el desfile del Victoria's Secret Fashion Show 2026 EN VIVO GRATIS, este domingo 18 de octubre, evento que se realizará desde Los Angeles, California.",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:48:06.000Z"
-    },
-    {
       "id": "42e2f50456ca",
       "title": "Cómo usar una sartén de acero inoxidable",
       "link": "https://www.abc.es/recetasderechupete/como-usar-una-sarten-de-acero-inoxidable-sin-que-se-pegue-temperatura-aceite-y-errores-que-evitar/176636/",
@@ -489,18 +1089,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T18:48:02.000Z"
-    },
-    {
-      "id": "bdcd6f445c94",
-      "title": "El Niño cambiará el invierno en Estados Unidos: menos nieve en Nueva York, Chicago y Boston y más riesgo de inundaciones en California",
-      "link": "https://www.infobae.com/estados-unidos/2026/10/18/el-nino-cambiara-el-invierno-en-estados-unidos-menos-nieve-en-nueva-york-chicago-y-boston-y-mas-riesgo-de-inundaciones-en-california/",
-      "image": "https://www.infobae.com/resizer/v2/YY44Z5X5HKSQHX5W7JINZW3T7Y.jpg?auth=78ca9761c40a6f29e33a1b54ed2a294744e4ae3806b1029d39156b2111bee9f0&smart=true&width=5683&height=3789",
-      "snippet": "La NOAA prevé temperaturas superiores a la media, precipitaciones abundantes en el oeste y una reducción de las nevadas en varias zonas urbanas del norte",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:47:56.000Z"
     },
     {
       "id": "ba6c798e01c9",
@@ -515,30 +1103,6 @@
       "isoDate": "2026-10-18T18:47:51.000Z"
     },
     {
-      "id": "d3b453e7b1bc",
-      "title": "Mauricio Macri mostró fotos de los 15 de Antonia: el vestido bordado, el baile y los detalles de la fiesta",
-      "link": "https://www.lanacion.com.ar/politica/mauricio-macri-mostro-fotos-de-los-15-de-antonia-el-vestido-bordado-el-baile-y-los-detalles-de-la-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/DWHSQOKBBNBH7G7UWE2CAKFVFY.png?auth=7cf2b98df1a9255953e19566f61454235e13d720c2477dc327423cafb24bcb30&smart=true&width=746&height=504",
-      "snippet": "El expresidente compartió postales de la celebración, en la que bailó, se subió a la tarima del festejo y hasta tomó el micrófono; “Qué felicidad acompañarte”, escribió",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:47:33.000Z"
-    },
-    {
-      "id": "a30fdea14d08",
-      "title": "Exjugador de Millonarios aseguró que los hinchas lo odiaban por ir a jugar con su selección: así le respondieron",
-      "link": "https://www.infobae.com/colombia/deportes/2026/10/18/exjugador-de-millonarios-aseguro-que-los-hinchas-lo-odiaban-por-ir-a-jugar-con-su-seleccion-asi-le-respondieron/",
-      "image": "https://www.infobae.com/resizer/v2/OKS5ZLXJ65B2VPOJ5QLAQUDO4E.jpg?auth=1ee59aee833a502eff38db8c0fb13c670b59d1bd90c2f00b4cf847a1e534a4fb&smart=true&width=1397&height=862",
-      "snippet": "Juan Pablo Vargas generó debate al asegurar que en su carrera muchas veces priorizó representar a Costa Rica por encima de sus partidos con el club colombiano",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:47:22.000Z"
-    },
-    {
       "id": "ab90559c9fcf",
       "title": "Nuggets marineros de pescado y arroz",
       "link": "https://www.abc.es/recetasderechupete/nuggets-marineros-de-pescado-y-arroz/176764/",
@@ -549,42 +1113,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T18:47:19.000Z"
-    },
-    {
-      "id": "3d274b4e6529",
-      "title": "Ocho muertos en las carreteras, la mitad de ellos motoristas, en este fin de semana",
-      "link": "https://www.infobae.com/espana/agencias/2026/10/18/ocho-muertos-en-las-carreteras-la-mitad-de-ellos-motoristas-en-este-fin-de-semana/",
-      "image": null,
-      "snippet": "",
-      "source": "Infobae",
-      "sourceId": "infobae",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:47:07.000Z"
-    },
-    {
-      "id": "aeaeee940d0d",
-      "title": "Procesión del Señor de los Milagros HOY, EN VIVO: últimas noticias del segundo recorrido del 18 de octubre",
-      "link": "https://elcomercio.pe/lima/sucesos/senor-de-los-milagros-procesion-en-vivo-hoy-segundo-y-tercer-recorrido-de-la-sagrada-imagen-rutas-cristo-morado-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/LPVZZCAQVFAPLH26RJHFPKNY3E.png?auth=b7170770b8fef6ea089617f5f88d927328a17f6fd6143c6840c0ce8fbea3eaf3&smart=true&width=980&height=528",
-      "snippet": "",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:46:51.000Z"
-    },
-    {
-      "id": "48f9d794b11d",
-      "title": "Temblor en Chile hoy, domingo 18 de octubre: epicentro, hora y magnitud según el CSN",
-      "link": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-y-ultimos-sismos-segun-el-csn-del-17-y-18-de-octubre-de-2026-centro-sismologico-nacional-santiago-socaire-atacama-lbposting-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/A4BFHD6ZRBAVXKFJGB33YYHHUA.jpeg?auth=44306189a2652848013d9118bf3a657d6d7e6e59585330ab45fc8b1f8cc40dc8&smart=true&width=1200&height=700",
-      "snippet": "Temblor en Chile EN VIVO: cuál fue el epicentro y magnitud del último evento sísmico reportado HOY por el Centro Sismológico Nacional (CSN).",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:45:16.000Z"
     },
     {
       "id": "abe61d71aa99",
@@ -599,42 +1127,6 @@
       "isoDate": "2026-10-18T18:45:00.000Z"
     },
     {
-      "id": "5c3001b1d960",
-      "title": "Así fue el intento fallido por acabar con la crisis del agua en el mundo: llevaron un iceberg de 2 toneladas desde Alaska hasta Iowa",
-      "link": "https://elcomercio.pe/respuestas/como/asi-fue-el-intento-fallido-por-acabar-con-la-crisis-del-agua-en-el-mundo-llevaron-un-iceberg-de-2-toneladas-desde-alaska-hasta-iowa-tdpe-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/QQ2YB3JWTNAFHND4GNGLTQRNTE.png?auth=41e53348ad5886907443bf4b98d706d19068bf3c1107f3a837a66872ece62b42&smart=true&width=1400&height=800",
-      "snippet": "Así fue el intento fallido por acabar con la crisis del agua en el mundo: llevaron un iceberg de 2 toneladas desde Alaska hasta Iowa",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:44:58.000Z"
-    },
-    {
-      "id": "1fdfd6e314c8",
-      "title": "Psiquiatra Carl Jung sobre la felicidad: conocerse a uno mismo es saber qué nos mueve por dentro, para saber quienes ve de puertas para afuera",
-      "link": "https://elcomercio.pe/respuestas/que/psiquiatra-carl-jung-sobre-la-felicidad-conocerse-a-uno-mismo-es-saber-que-nos-mueve-por-dentro-para-saber-quienes-ve-de-puertas-para-afuera-tdpe-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/IXBBOIFZPFGQDPXKFCKH3UKI5M.png?auth=6b3323b49064edc14fa48fd2564b2bfbe0660cb102383be30b0450cdf61f3260&smart=true&width=1400&height=800",
-      "snippet": "Psiquiatra Carl Jung sobre la felicidad: conocerse a uno mismo es saber qué nos mueve por dentro, para saber quienes ve de puertas para afuera",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:44:56.000Z"
-    },
-    {
-      "id": "ec3460eeebb7",
-      "title": "Experto en educación canina: “Lo importante es que hay un marco de lectura en el que tú sabes cuándo tu perro está bien y tú sabes cómo hacer o inducir que tu perro está bien”",
-      "link": "https://elcomercio.pe/respuestas/que/experto-en-educacion-canina-lo-importante-es-que-hay-un-marco-de-lectura-en-el-que-tu-sabes-cuando-tu-perro-esta-bien-y-tu-sabes-como-hacer-o-inducir-que-tu-perro-esta-bien-tdpe-noticia/",
-      "image": "https://elcomercio.pe/resizer/v2/O7OPZFMXKZHSDLDPACS6BKUIEY.png?auth=ddcb5c7e81389cdd55afae33bc8727941c8d6813ed9086aa3fca996452ec9f47&smart=true&width=1400&height=800",
-      "snippet": "Experto en educación canina: “Lo importante es que hay un marco de lectura en el que tú sabes cuándo tu perro está bien y tú sabes cómo hacer o inducir que tu perro está bien”",
-      "source": "El Comercio",
-      "sourceId": "elcomercio",
-      "country": "PE",
-      "countryLabel": "Perú",
-      "isoDate": "2026-10-18T18:44:54.000Z"
-    },
-    {
       "id": "b7eda02edf0d",
       "title": "Grasa, hinchazón o diástasis: qué explica el cambio de abdomen en la menopausia",
       "link": "https://www.elnacional.com/2026/10/grasa-hinchazon-o-diastasis-que-explica-el-cambio-de-abdomen-en-la-menopausia/",
@@ -645,18 +1137,6 @@
       "country": "VE",
       "countryLabel": "Venezuela",
       "isoDate": "2026-10-18T18:43:00.000Z"
-    },
-    {
-      "id": "6f0f2b17ee8c",
-      "title": "Ante la mejoría de Mirtha Legrand, Martín Llaryora propuso celebrar sus 100 años en el estadio Kempes",
-      "link": "https://www.lanacion.com.ar/politica/ante-la-mejoria-de-mirtha-legrand-martin-llaryora-propuso-celebrar-sus-100-anos-en-el-estadio-kempes-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HTR5YT5WYJBGNKP47A2IYSNNXY.png?auth=a125862bf243f16fbe87da6ca6482bc7f50cafbfce5be85d4298dfbd8c50efcb&smart=true&width=2000&height=1333",
-      "snippet": "El gobernador de Córdoba habló de la posibilidad de homenajear a la conductora por su próximo cumpleaños",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:42:55.000Z"
     },
     {
       "id": "c58830908f9e",
@@ -743,18 +1223,6 @@
       "isoDate": "2026-10-18T18:36:03.000Z"
     },
     {
-      "id": "51d826ae1de9",
-      "title": "¿Hoy hay Fórmula 1? Todos los detalles de la recta final del calendario",
-      "link": "https://www.lanacion.com.ar/deportes/automovilismo/hoy-hay-formula-1-todos-los-detalles-de-la-recta-final-del-calendario-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/VKUAKV4C3RBDTF32WOUTQN3JCA.jpg?auth=086703253c5c7949d2944dbba311d2105116dbfa44f2c375b1b8d90d4c3a0e8b&smart=true&width=4153&height=2769",
-      "snippet": "La temporada 2026 continuará con el Gran Premio de Estados Unidos, que será la primera de las últimas seis carreras de la temporada",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:33:27.000Z"
-    },
-    {
       "id": "3a8288a34eb6",
       "title": "El barítono alemán Matthias Goerne tuvo su tarde primaveral en el Teatro Colón interpretando \"Viaje de invierno\"",
       "link": "https://www.clarin.com/espectaculos/baritono-aleman-matthias-goerne-tarde-primaveral-teatro-colon-interpretando-viaje-invierno_0_VtgIIRORFx.html",
@@ -777,6 +1245,18 @@
       "country": "CL",
       "countryLabel": "Chile",
       "isoDate": "2026-10-18T18:30:26.000Z"
+    },
+    {
+      "id": "a55bf9cbf736",
+      "title": "Aldabonazo de Duarte Fernandes en tarde de intensidad creciente",
+      "link": "https://www.abc.es/cultura/toros/aldabonazo-duarte-fernandes-tarde-intensidad-creciente-20261018202911-nt.html",
+      "image": "https://s1.abcstatics.com/abc/www/multimedia/cultura/2026/10/18/b43d67a9-8672-4a8c-bc4b-3c4cf708e696%20(1)-Rj08EEvvkcRWMANi7YvCrEJ-1200x840@diario_abc.JPG",
+      "snippet": "A la hora en punto de comenzar la corrida , en los medios un tractor con un rastrillo, y a esperar. Con la plaza sin la cubierta, se volvió a tiempos pretéritos con un día de agua ",
+      "source": "ABC",
+      "sourceId": "abc",
+      "country": "ES",
+      "countryLabel": "España",
+      "isoDate": "2026-10-18T18:29:39.000Z"
     },
     {
       "id": "b197d88283f6",
@@ -806,8 +1286,8 @@
       "id": "f2ff96c6f4e4",
       "title": "Protestas y disturbios en Francia: \"Quienes destruyeron deben pagar, quienes saquearon deben indemnizar\", dijo el presidente Emmanuel Macron",
       "link": "https://www.clarin.com/mundo/protestas-disturbios-francia-destruyeron-deben-pagar-saquearon-deben-indemnizar-dijo-presidente-emmanuel-macron_0_CvegREl3XM.html",
-      "image": "https://www.clarin.com/img/2026/10/18/6Di6ypEzT_1200x630__1.jpg",
-      "snippet": "Desde el Palacio del Elíseo, el presidente hizo un llamamiento a \"los partidos políticos, las organizaciones profesionales y sindicales para que condenen sin ambigüedad\" la violenc",
+      "image": "https://www.clarin.com/img/2026/10/18/aAhjszw1E_1200x630__1.jpg",
+      "snippet": "Desde el Palacio del Elíseo, denunció a \"elementos facciosos de extrema izquierda\" y expresó su apoyo a las fuerzas del orden y a los comerciantes. El sábado, manifestantes y vánda",
       "source": "Clarín",
       "sourceId": "clarin",
       "country": "AR",
@@ -837,18 +1317,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-10-18T18:20:00.000Z"
-    },
-    {
-      "id": "fbb5c43e4f7d",
-      "title": "Valentín Yan: un duro relato que reinstala el foco en la violencia intrafamiliar y el desafío de escuchar a las víctimas",
-      "link": "https://www.lanacion.com.ar/sociedad/valentin-yan-un-duro-relato-que-reinstala-el-foco-en-la-violencia-intrafamiliar-y-el-desafio-de-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/5RFLG7OWQJC3VBKW44W2QEYM6M.jpg?auth=1984d31837dfd1fb767142e1fd47e880e706e76bdd89158afb75ea555f14cf7c&smart=true&width=2000&height=1507",
-      "snippet": "Según una encuesta nacional, durante la crianza el 35,4% de los chicos argentinos recibieron castigos físicos y el 6,6%, de castigos físicos severos",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:19:55.000Z"
     },
     {
       "id": "9e46e0e60630",
@@ -885,54 +1353,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-10-18T18:16:03.000Z"
-    },
-    {
-      "id": "c35debb67381",
-      "title": "El homenaje menos pensado para Messi: bautizaron a un descubrimiento científico con su nombre",
-      "link": "https://www.lanacion.com.ar/ciencia/el-homenaje-menos-pensado-para-messi-bautizaron-a-un-descubrimiento-cientifico-con-su-nombre-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/IEEQLO2WNRARVHNTUYDETLO5HM.jpg?auth=74d4743ca24eb1ef8d8c7e3aa96b66400e76787051e3ebc11d194d78b0afac9f&smart=true&width=2000&height=1333",
-      "snippet": "Un equipo de investigadores halló una especie vegetal inédita en la cordillera peruana; sus colores albicelestes motivaron un reconocimiento único al excapitán argentino",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:15:51.000Z"
-    },
-    {
-      "id": "3137e1f37c12",
-      "title": "Real Madrid - Sevilla en directo | Endrick estrena titularidad, Valverde ocupa el lateral y Güler vuelve al once",
-      "link": "https://elpais.com/deportes/futbol/2026-10-18/real-madrid-sevilla-en-directo-el-partido-de-la-liga-en-vivo.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/AUKYJD2J4RJR3H6O52TLNLJR3Y.jpg?auth=240d465a8f0fe788225e9aa9050daa0566d4af031cf7269170554d62ba8a5832",
-      "snippet": "Los blancos reciben al equipo andaluz en el primero de los cuatro partidos que Vinicius tiene que cumplir sanción",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T18:14:25.000Z"
-    },
-    {
-      "id": "d38c049abb95",
-      "title": "Chavismo hace segunda elección de proyectos con Delcy Rodríguez como presidenta",
-      "link": "https://www.elnacional.com/2026/10/chavismo-hace-segunda-eleccion-de-proyectos-con-delcy-rodriguez-como-presidenta/",
-      "image": null,
-      "snippet": "En estas votaciones, hay 37.200 proyectos postulados, distribuidos entre 5.418 circuitos comunales del territorio. Las personas escogerán entre el mantenimiento y reparación de asc",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T18:14:02.000Z"
-    },
-    {
-      "id": "18c8d6772143",
-      "title": "Así funciona la red de Metro este domingo 18 de octubre: Línea 1 presenta servicio parcial",
-      "link": "https://www.latercera.com/servicios/noticia/asi-funciona-la-red-de-metro-este-domingo-18-de-octubre-toda-la-red-disponible/",
-      "image": "https://www.latercera.com/resizer/v2/WCDNL2RSFVA3FDOKRK7FZ45G74.jpg?auth=fd15da43f5b6bef2f1fde319b1a923d25ac78328d7cd30f2efe5c4c1bda0ff0e&smart=true&width=900&height=600",
-      "snippet": "Revisa el estado de las líneas del servicio de transporte de la Región Metropolitana y las recomendaciones que hace.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T18:12:29.000Z"
     },
     {
       "id": "04ec2e795bcf",
@@ -983,18 +1403,6 @@
       "isoDate": "2026-10-18T18:03:00.000Z"
     },
     {
-      "id": "7cfc0f7c5822",
-      "title": "Fiscal Orellana recalca reparos sobre el presupuesto para la Supraterritorial: “Es como un gran paréntesis”",
-      "link": "https://www.latercera.com/nacional/noticia/fiscal-orellana-recalca-reparos-sobre-el-presupuesto-para-la-supraterritorial-es-como-un-gran-parentesis/",
-      "image": "https://www.latercera.com/resizer/v2/JVNNWLOBM5EPTBFT4ZH3QM5KUI.jpeg?auth=c509a348c584ac3ee795b7813b826b3d141ebf52636cb646d9b704d8bc3c8910&smart=true&width=2400&height=1600",
-      "snippet": "Es grave y naturalmente tiene consecuencias la operación de la Fiscalía Superterritorial”, advirtió el persecutor.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T18:02:09.000Z"
-    },
-    {
       "id": "3df30bc749cb",
       "title": "Una árbitra de fútbol murió al chocar en moto contra un poste cuando iba a dirigir un partido",
       "link": "https://www.clarin.com/sociedad/arbitra-futbol-murio-poste-moto-iba-dirigir-partido_0_TJsKvIoWIH.html",
@@ -1005,18 +1413,6 @@
       "country": "AR",
       "countryLabel": "Argentina",
       "isoDate": "2026-10-18T18:01:59.000Z"
-    },
-    {
-      "id": "9e496afa48d4",
-      "title": "Una SUV que se vende en el país logró la máxima calificación en seguridad",
-      "link": "https://www.lanacion.com.ar/autos/una-suv-que-se-vende-en-el-pais-logro-la-maxima-calificacion-en-seguridad-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TWAANRAK4VD7LJYYBTMPPKGA2M.jpg?auth=2f76ae9c238d7103fb348441de1ed2b9aeaac09f713721907d2d5a884be14676&smart=true&width=800&height=533",
-      "snippet": "Se trata del nuevo Nissan Kicks, que tras ser sometido a una prueba de auditoría sobre su versión fabricada en Brasil, revalidó la nota máxima obtenida previamente por la variante ",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:01:00.000Z"
     },
     {
       "id": "331cd7ccd43a",
@@ -1031,66 +1427,6 @@
       "isoDate": "2026-10-18T18:00:52.000Z"
     },
     {
-      "id": "a29cbf563f67",
-      "title": "Fuerte tormenta provoca inundaciones y deja una mujer muerta en España",
-      "link": "https://www.elnacional.com/2026/10/fuerte-tormenta-provoca-inundaciones-y-deja-una-mujer-muerta-en-espana/",
-      "image": null,
-      "snippet": "Según los científicos, el cambio climático provocado por la actividad humana está intensificando las tormentas mediterráneas que suelen afectar al este del país en otoño, cuando el",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T18:00:05.000Z"
-    },
-    {
-      "id": "2351779f46a9",
-      "title": "Andrés Hatum, experto en negocios de Di Tella: “Llegar a los 50 años no representa el final de la carrera”",
-      "link": "https://www.lanacion.com.ar/lnmas/andres-hatum-experto-en-negocios-de-di-tella-llegar-a-los-50-anos-no-representa-el-final-de-la-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/H2QP4K65XFDVNIAADFAEJAQCGM.JPG?auth=7bb1e24f00b6951152a788174035808415d2f0cc8b0f49749fc87c7ed0c8821d&smart=true&width=3073&height=2049",
-      "snippet": "El especialista sostuvo que la experiencia, la resiliencia y la red de contactos representan activos valiosos para iniciar una nueva etapa profesional; cuáles son los tres pasos qu",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T18:00:00.000Z"
-    },
-    {
-      "id": "9069d78e0d3f",
-      "title": "Oficial y confirmado | Estados Unidos alerta a los inmigrantes con Green Card sobre los delitos que llevan a la deportación",
-      "link": "https://www.clarin.com/estados-unidos/oficial-confirmado-estados-unidos-alerta-inmigrantes-green-card-delitos-llevan-deportacion_0_EBv6EKWFmV.html",
-      "image": "https://www.clarin.com/img/2025/07/29/geBbP8Rhb_1200x630__1.jpg",
-      "snippet": "La residencia permanente otorga derechos, pero también crea obligaciones. Diversas situaciones podrían derivar en un juicio y la expulsión del país.",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:58:03.000Z"
-    },
-    {
-      "id": "a88c7f497fa5",
-      "title": "Juan Alberto Mateyko apuntó contra Julieta Prandi en el cumpleaños de Emanuel Ortega: “Así no”",
-      "link": "https://www.lanacion.com.ar/espectaculos/juan-alberto-mateyko-apunto-contra-julieta-prandi-en-el-cumpleanos-de-emanuel-ortega-asi-no-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/SFDAHWGAJZBX5KRNJJTV7NXARM.jpg?auth=c08f9c9ba8b4cc22c8e5dfbc4036ff6fca64a5858861bcf26e9ea1d5c3f25dd9&smart=true&width=2000&height=1333",
-      "snippet": "El locutor se metió en la interna de la expareja y envió un duro mensaje a la modelo; aseguró que el hijo de Palito Ortega estaría atravesando un “momento triste”",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:56:04.000Z"
-    },
-    {
-      "id": "611d79cb44fc",
-      "title": "Carmona advierte que demandas pendientes del 18-O pueden ser una “olla a presión” y rechaza “provocaciones” del oficialismo",
-      "link": "https://www.latercera.com/politica/noticia/carmona-advierte-que-demandas-pendientes-del-18-o-pueden-ser-una-olla-a-presion-y-rechaza-provocaciones-del-oficialismo/",
-      "image": "https://www.latercera.com/resizer/v2/TT77W57ADBF5DE5D25P6FOO7OU.jpg?auth=7eb3e94707b2d4fc352aabe21e8d496618887dd9fd4c7fcb5acd7c651e331ea8&smart=true&width=5762&height=3841",
-      "snippet": "“No damos lugar, no aceptamos lo que considero yo una provocación a ver si el Partido Comunista reacciona y se hace cargo de calificaciones que en forma intencionada hace un sector",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T17:54:33.000Z"
-    },
-    {
       "id": "bd4eae5689a9",
       "title": "La dana obliga a suspender clases en Mallorca, Eivissa y Formentera y moviliza a la UME",
       "link": "https://www.lavanguardia.com/vida/20261018/11662117/dana-obliga-suspender-clases-mallorca-eivissa-formentera-moviliza-ume.html",
@@ -1101,42 +1437,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T17:52:51.000Z"
-    },
-    {
-      "id": "a991e29981a8",
-      "title": "Plataforma Unitaria plantea una transición basada en negociación y elecciones libres",
-      "link": "https://www.elnacional.com/2026/10/la-oposicion-venezolana-plantea-una-transicion-basada-en-negociacion-y-elecciones-libres/",
-      "image": null,
-      "snippet": "En estos acuerdos, la coalición opositora también exigió la libertad plena de los presos políticos, que son 322 según la ONG Foro Penal. The post Plataforma Unitaria plantea una tr",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T17:51:51.000Z"
-    },
-    {
-      "id": "68ea8c527333",
-      "title": "México acusa de traición a exfiscal detenido por operativo con la CIA",
-      "link": "https://www.clarin.com/estados-unidos/mexico-acusa-de-traicion-a-exfiscal-detenido-por-operativo-con-la-cia_0_uAvkb7fhaF.html",
-      "image": "https://www.clarin.com/img/2026/09/03/SdD3Jbupq_1200x630__1.jpg",
-      "snippet": "La fiscalía mexicana acusa al exfiscal de traición por un operativo antidrogas con agentes extranjeros, desatando tensiones diplomáticas. El gobierno exige el retiro de agentes no ",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:50:12.000Z"
-    },
-    {
-      "id": "8d662d0786a8",
-      "title": "Los hermanos chilenos que enseñan a encargarle trabajo a la inteligencia artificial",
-      "link": "https://www.latercera.com/tecnologia/noticia/hermanos-chilenos-imperio-agentico-inteligencia-artificial/",
-      "image": "https://www.latercera.com/resizer/v2/LQLL634GTJG4PDEVPTCV362JZQ.jpeg?auth=2e5a9e4eb0cff39f0ddec0608a9a1bcd8ea959295f0d1ea29133e335a282933d&smart=true&width=4160&height=4160",
-      "snippet": "Benjamín y Max Cordero crearon Imperio Agéntico, una comunidad en español con cerca de 3.800 miembros. Enseñan a usar agentes de inteligencia artificial para responder consultas, a",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T17:50:05.000Z"
     },
     {
       "id": "ffc6561a2c40",
@@ -1163,54 +1463,6 @@
       "isoDate": "2026-10-18T17:42:44.000Z"
     },
     {
-      "id": "fcfa57492246",
-      "title": "De la maternidad en soledad al “éxito rotundo”: el conmovedor posteo de Jimena Barón junto a sus hijos",
-      "link": "https://www.lanacion.com.ar/espectaculos/de-la-maternidad-en-soledad-al-exito-rotundo-el-conmovedor-posteo-de-jimena-baron-junto-a-sus-hijos-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/HLZK2KOSJBANFMWJONCPQC63IY.png?auth=a5932a4f1eadc518f3e412d4e0a34264d58a0d9ca477208f6ecc9a1eb297a4dc&smart=true&width=2000&height=1333",
-      "snippet": "La actriz celebró el Día de la Madre en las redes sociales con un álbum inédito de fotos y una profunda reflexión; el posteo también de Tuma Palleiro, su pareja",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:36:41.000Z"
-    },
-    {
-      "id": "857c56d5eb23",
-      "title": "Belgrano vs River, EN VIVO: a qué hora juegan, formaciones y cómo ver el partido por el Torneo Clausura 2026",
-      "link": "https://www.clarin.com/deportes/belgrano-vs-river-vivo-hora-juegan-formaciones-ver-partido-torneo-clausura-2026_0_7r9h91hpZa.html",
-      "image": "https://www.clarin.com/img/2026/10/18/bT81At71n_1200x630__1.jpg",
-      "snippet": "El Millonario vuelve a Córdoba para enfrentar al Pirata, que le ganó la final del Torneo Apertura hace algunos meses. Es un cruce clave por la clasificación al Playoffs. Seguí el m",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:32:03.000Z"
-    },
-    {
-      "id": "8feb68b8ed4a",
-      "title": "Arsenal sufre más de la cuenta para vencer a Nottingham Forest y seguir como escolta en la Premier League",
-      "link": "https://www.latercera.com/el-deportivo/noticia/arsenal-sufre-mas-de-la-cuenta-para-vencer-a-nottingham-forest-y-seguir-como-escolta-en-la-premier-league/",
-      "image": "https://www.latercera.com/resizer/v2/QX35O5RRMRD4TA2FRFFWEZP55Q.jpg?auth=92bfeada8c5b0f8283b4e28288c85d98bd6881d0003dba65ba802ef02f752f47&smart=true&width=976&height=549",
-      "snippet": "En un partido áspero, los Gunners recién consiguieron sacar adelante la tarea sobre el final con un gol de Noni Madueke. Se pusieron a tres puntos del líder Manchester City, que es",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T17:31:04.000Z"
-    },
-    {
-      "id": "2ef09d9c0d58",
-      "title": "Trump otorga su apoyo formal al “primer ministro guerrero” Netanyahu para las elecciones israelíes",
-      "link": "https://www.latercera.com/mundo/noticia/trump-otorga-su-apoyo-formal-al-primer-ministro-guerrero-netanyahu-para-las-elecciones-israelies/",
-      "image": "https://www.latercera.com/resizer/v2/NYBGSMGIFND2ZEKDPGNM3LNXME.jpg?auth=a47d94a2ac0fd18e077de8c702ee9bb9254842c34660ec2a319327cfe48a6c0a&smart=true&width=1900&height=1070",
-      "snippet": "A través de un mensaje en redes sociales Trump ha destacado que Netanyahu ha sido “fuerte, valiente y brillante” incluso “ante la oposición dentro del propio Israel”.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T17:30:56.000Z"
-    },
-    {
       "id": "982e6f32f854",
       "title": "Roban una camiseta y un brazalete de colección firmados por Messi durante los salvajes saqueos de Francia",
       "link": "https://www.abc.es/deportes/futbol/roban-camiseta-brazalete-coleccion-firmados-messi-salvajes-20261018193045-nt.html",
@@ -1221,18 +1473,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T17:30:45.000Z"
-    },
-    {
-      "id": "7f6485e6d980",
-      "title": "Luego de meses de silencio, Donald Trump respaldó a Benjamin Netanyahu en busca de su reelección",
-      "link": "https://www.clarin.com/mundo/luego-meses-silencio-donald-trump-respaldo-benjamin-netanyahu-busca-reeleccion_0_vxXkQ7faLr.html",
-      "image": "https://www.clarin.com/img/2026/10/18/K83K8B_B5_1200x630__1.jpg",
-      "snippet": "En su mensaje, el jefe de Estado norteamericano advirtió que podría abstenerse de actuar contra el régimen iraní si la oposición gana los comicios. El primer ministro israelí agrad",
-      "source": "Clarín",
-      "sourceId": "clarin",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:30:03.000Z"
     },
     {
       "id": "0065525980ff",
@@ -1257,30 +1497,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T17:25:29.000Z"
-    },
-    {
-      "id": "24b26faee76c",
-      "title": "Trabajaron toda su vida para la Revolución y hoy sobreviven con 5 dólares: el crudo rostro de una Cuba que se apaga",
-      "link": "https://www.elnacional.com/2026/10/trabajaron-toda-su-vida-para-la-revolucion-y-hoy-sobreviven-con-5-dolares-el-crudo-rostro-de-una-cuba-que-se-apaga/",
-      "image": null,
-      "snippet": "Adultos mayores que dedicaron su vida a la Revolución sobreviven con pensiones de entre 5 y 7 dólares, comedores religiosos y apagones. The post Trabajaron toda su vida para la Rev",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T17:24:01.000Z"
-    },
-    {
-      "id": "657530c7108f",
-      "title": "Los Pumas: puesto por puesto, el semáforo de la selección argentina de rugby a un año del Mundial",
-      "link": "https://www.lanacion.com.ar/deportes/rugby/los-pumas-puesto-por-puesto-el-semaforo-de-la-seleccion-argentina-de-rugby-a-un-ano-del-mundial-nid18102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/TXK5X47YUJEFFFORV7YCFTDTYI.jpg?auth=fda9d9216f8bed0f4b1df6a2a74789bafd5a2393f10ede17d6803f9a11094f14&smart=true&width=2000&height=1333",
-      "snippet": "Tras dos años y medio de ensayos del ciclo de Contepomi, las posiciones bien ocupadas, las que necesitan más y las inquietantes",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:17:40.000Z"
     },
     {
       "id": "88d92ee2a74a",
@@ -1331,30 +1547,6 @@
       "isoDate": "2026-10-18T17:11:43.000Z"
     },
     {
-      "id": "6e8cdcb9b064",
-      "title": "París registra nuevos enfrentamientos y saqueos tras la multitudinaria jornada de protestas",
-      "link": "https://www.elnacional.com/2026/10/paris-registra-nuevos-enfrentamientos-y-saqueos-tras-la-multitudinaria-jornada-de-protestas/",
-      "image": null,
-      "snippet": "El caos del sábado, calificado de \"sin precedentes\" por las autoridades, aumentó la presión sobre el presidente de centroderecha Emmanuel Macron. The post París registra nuevos enf",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T17:11:00.000Z"
-    },
-    {
-      "id": "deb2f487ef32",
-      "title": "Harrison Ford donó más de 150 hectáreas de su rancho en Wyoming para salvar el hábitat de los ciervos y frenar la especulación inmobiliaria",
-      "link": "https://www.lanacion.com.ar/espectaculos/harrison-ford-dono-mas-de-150-hectareas-de-su-rancho-en-wyoming-para-salvar-el-habitat-de-los-nid17102026/",
-      "image": "https://resizer.glanacion.com/resizer/v2/OB4E5GOTX5AMPGZV335XF4W2M4.jpg?auth=9905085a0be61f382d7199b74dcf2908199481f7034d026ed7ef3dea77a3d89b&smart=true&width=2000&height=1333",
-      "snippet": "El actor de Hollywood protegió de forma permanente casi la mitad de sus tierras en Jackson Hole para resguardar especies autóctonas y evitar la urbanización del terreno",
-      "source": "La Nación",
-      "sourceId": "lanacion",
-      "country": "AR",
-      "countryLabel": "Argentina",
-      "isoDate": "2026-10-18T17:09:48.000Z"
-    },
-    {
       "id": "7cd800779da4",
       "title": "Suspenden las clases en Mallorca, Ibiza y Formentera durante el lunes por el temporal 'Adam'",
       "link": "https://www.elmundo.es/baleares/2026/10/18/6ad4fb72fdddffe4538b45ab.html",
@@ -1377,42 +1569,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-10-18T17:05:17.000Z"
-    },
-    {
-      "id": "779124e7d5e1",
-      "title": "Netanyahu agradece a Trump su apoyo de cara a las elecciones en Israel",
-      "link": "https://www.elnacional.com/2026/10/netanyahu-agradece-a-trump-su-apoyo-de-cara-a-las-elecciones-en-israel/",
-      "image": null,
-      "snippet": "\"Gracias, señor presidente Trump, por su inmenso apoyo y por nuestro trabajo conjunto\", escribió Netanyahu en la red social X. The post Netanyahu agradece a Trump su apoyo de cara ",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T16:58:46.000Z"
-    },
-    {
-      "id": "90cf98784089",
-      "title": "De Charlize Theron con transparencias a Kim Kardashian con un Balenciaga histórico: todos los ‘looks’ de Academy Museum Gala",
-      "link": "https://elpais.com/smoda/famosos/2026-10-18/de-elle-fanning-en-tonos-pastel-a-charlize-theron-con-transparencias-y-kim-kardashian-con-un-balenciaga-historico-todos-los-looks-de-academy-museum-gala.html",
-      "image": "https://imagenes.elpais.com/resizer/v2/YDLHDPWBTBALRJ7327KHUOEY44.jpg?auth=c65032658dcf1ecfc277a4f0bcdde676984ae7bfa5e3b447b12a4e697618804a",
-      "snippet": "Los Ángeles acogió anoche la sexta edición de este evento, que recauda fondos para las exposiciones, proyecciones y programas educativos del Academy Museum. Charlize Theron, John C",
-      "source": "El País",
-      "sourceId": "elpais",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T16:58:39.000Z"
-    },
-    {
-      "id": "e32ecb46d384",
-      "title": "Localizaron muerto al cantante venezolano Gus Ormo en una piscina en Florida",
-      "link": "https://www.elnacional.com/2026/10/localizaron-muerto-al-cantante-venezolano-gus-ormo-en-una-piscina-de-florida/",
-      "image": null,
-      "snippet": "Al parecer, el cuerpo se encontraba atado por una cuerda extendida hasta la parte superior de la terraza de la vivienda. The post Localizaron muerto al cantante venezolano Gus Ormo",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T16:46:47.000Z"
     },
     {
       "id": "deab529d464d",
@@ -1439,18 +1595,6 @@
       "isoDate": "2026-10-18T16:42:48.000Z"
     },
     {
-      "id": "fa62d161fd8d",
-      "title": "18-O: incidentes en manifestaciones en el centro de Santiago provocan desvíos de tránsito y cierre de estaciones del Metro",
-      "link": "https://www.latercera.com/nacional/noticia/18-o-incidentes-en-manifestaciones-en-el-centro-de-santiago-provocan-desvios-de-transito-y-cierre-de-estaciones-del-metro/",
-      "image": "https://www.latercera.com/resizer/v2/APLQOWSVJJFFZDLMXHCYCXICCM.jpeg?auth=56ad7cf5f479ce25b37c8f205f89d7c09eca06e0aa048bf7e999ff27ef88e3c7&smart=true&width=5426&height=3617",
-      "snippet": "\"Disturbios en el exterior\" provocaron el cierre de las estaciones Santa Lucía y Universidad Católica del Metro de Santiago.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T16:37:18.000Z"
-    },
-    {
       "id": "82c0233946ad",
       "title": "Marine Le Pen carga contra \"el poder macronista agotado\"",
       "link": "https://es.euronews.com/2026/10/18/marine-le-pen-alerta-de-una-amenaza-para-la-democracia-y-carga-contra-un-poder-macronista",
@@ -1475,18 +1619,6 @@
       "isoDate": "2026-10-18T16:31:48.000Z"
     },
     {
-      "id": "dae4055e0b57",
-      "title": "Michi Matheus y Hugo Martín, reyes de la escalada urbana en Torrejón",
-      "link": "https://www.abc.es/deportes/michi-matheus-hugo-martin-reyes-escalada-urbana-20261018183045-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/18/0234523-RGvcHnZDqghrLbm6pO48MBL-1200x840@diario_abc.jpg",
-      "snippet": "El invierno cayó de golpe sobre Torrejón, pero ni la lluvia ni el viento restaron espectacularidad a las finales de la primera edición del Urban Climbing Comunidad de Madrid Torrej",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T16:30:46.000Z"
-    },
-    {
       "id": "85db19bc7d66",
       "title": "'Estoy enterado de negocios de su marido y no lo voy a permitir': duro careo de presidente De La Espriella a Representante y Gobernadora de San Andrés",
       "link": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-enterado-de-negocios-de-su-marido-y-no-lo-voy-a-permitir-duro-careo-de-presidente-de-la-espriella-a-representante-y-gobernadora-de-san-andres-3594412",
@@ -1497,18 +1629,6 @@
       "country": "CO",
       "countryLabel": "Colombia",
       "isoDate": "2026-10-18T16:24:18.000Z"
-    },
-    {
-      "id": "a297a92933e9",
-      "title": "Sacerdote murió en plena misa transmitida en vivo en Ecuador: una enorme cruz de madera se desplomó sobre él ante los feligreses",
-      "link": "https://www.elnacional.com/2026/10/sacerdote-murio-en-plena-misa-catolica-transmitida-en-vivo-en-ecuador/",
-      "image": null,
-      "snippet": "De acuerdo con los hechos, una gran cruz de madera que se encontraba en el centro del altar principal detrás del sacerdote se desplomó de manera intempestiva sobre el cuerpo del re",
-      "source": "El Nacional",
-      "sourceId": "elnacional",
-      "country": "VE",
-      "countryLabel": "Venezuela",
-      "isoDate": "2026-10-18T16:23:55.000Z"
     },
     {
       "id": "7f7f4aba25e8",
@@ -1523,20 +1643,8 @@
       "isoDate": "2026-10-18T16:15:11.000Z"
     },
     {
-      "id": "5d6995546b78",
-      "title": "La periodista Helena Condis, pareja de Juanma Castaño, operada de urgencia: \"Mi vida corría peligro\"",
-      "link": "https://www.20minutos.es/gente/periodista-helena-condis-pareja-juanma-castano-operada-urgencia-mi-vida-corria-peligro-he-llorado-mucho_7050210_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/06/17/6a3258256d3cd9-44781587.jpeg",
-      "snippet": "La periodista de COPE pone en valor a las personas que forman parte de su vida.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T16:11:57.000Z"
-    },
-    {
-      "id": "05e240db4761",
-      "title": "Macron acusa de la violencia a la extrema izquierda, apoya a la Policía y comerciantes y anuncia que se podrán prohibir \"ciertas reuniones\" en Francia",
+      "id": "601c741d513d",
+      "title": "Los disturbios continúan en las calles de París y otras ciudades: un millar de agentes heridos y 2400 detenidos en toda Francia",
       "link": "https://www.20minutos.es/internacional/protestas-francia-disturbios-directo-choques-entre-policia-manifestantes-paris-otras-ciudades-antes-que-macron-hable-un-mensaje-nacion_7050208_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad4ecc750da41-15709848.jpeg",
       "snippet": "Última hora y todas las noticias de las multitudinarias protestas que han desembocado en violentos disturbios en París y otras ciudades de Francia.",
@@ -1581,18 +1689,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-10-18T15:57:50.000Z"
-    },
-    {
-      "id": "348f4714d6f8",
-      "title": "La Generalitat envía otro Es-Alert por las fuertes lluvias que superan los 200 litros en diversos puntos de Valencia",
-      "link": "https://www.elmundo.es/comunidad-valenciana/2026/10/18/6ad4adf2fc6c8311138b4583.html",
-      "image": "https://secure-uk.imrworldwide.com/cgi-bin/m?cid=es-widgetueditorial&amp;cg=rss-elmundo&amp;ci=es-widgetueditorial&amp;si=http://www.elmundo.es/rss/index.xml",
-      "snippet": "La Safor es la comarca más afectada por la dana, con 226 l/m2 en Real de Gandía y 230 en Rafelcofer Leer",
-      "source": "El Mundo",
-      "sourceId": "elmundo",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T15:55:22.000Z"
     },
     {
       "id": "93f11949e354",
@@ -1655,16 +1751,16 @@
       "isoDate": "2026-10-18T15:40:07.000Z"
     },
     {
-      "id": "c9575283a08a",
-      "title": "El Papa reza el Ángelus en San Pedro tras su operación y afirma que retomará gradualmente su actividad",
-      "link": "https://www.abc.es/sociedad/papa-reza-angelus-san-pedro-tras-operacion-20261018122013-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/sociedad/2026/10/18/1518940332-RX79HQ2fb8konzjbstsmt7K-1200x840@diario_abc.jpg",
-      "snippet": "El Papa León XIV ha asegurado durante el Ángelus que retomará «gradualmente» su actividad. En sus primeras palabras en público tras la operación se le ha escuchado con voz enérgica",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T15:37:51.000Z"
+      "id": "8b640fb287c1",
+      "title": "MOP se despliega en Quebrada Honda de Las Condes: “Estamos abocados a disminuir el riesgo”",
+      "link": "https://www.latercera.com/nacional/noticia/mop-se-despliega-en-quebrada-honda-de-las-condes-estamos-abocados-a-disminuir-el-riesgo/",
+      "image": "https://www.latercera.com/resizer/v2/KOY3PZFVAVCFRID2HGJOX462GY.jpeg?auth=0a069679eaef6e6a610476eb2748460386eb6790c2bb2c9cc82676c3df8208ca&smart=true&width=5472&height=3648",
+      "snippet": "El director general de Obras Públicas remarcó que se ha intensificado la limpieza de fosos, alcantarillas, cunetas y cauces para encauzar las aguas.",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-18T15:33:37.000Z"
     },
     {
       "id": "73b49241ef87",
@@ -1691,18 +1787,6 @@
       "isoDate": "2026-10-18T15:23:08.000Z"
     },
     {
-      "id": "0218e481d1eb",
-      "title": "Varios municipios de Valencia y Alicante suspenden las clases este lunes 19 de octubre por la alerta de lluvias",
-      "link": "https://www.20minutos.es/comunidad-valenciana/varios-municipios-valencia-alicante-suspenden-las-clases-este-lunes-19-octubre-por-alerta-lluvias_7050198_0.html",
-      "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad4dfe19bb9c1-34961706.jpeg",
-      "snippet": "Han informado de la suspensión como medida preventiva ante el aviso de precipitaciones intensas y tormentas en esas zonas.",
-      "source": "20minutos",
-      "sourceId": "20minutos",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T15:17:34.000Z"
-    },
-    {
       "id": "f6cdba21c548",
       "title": "La mujer fallecida por el temporal había ido con su marido e hija a ver baloncesto y fue arrastrada por la riera a la salida",
       "link": "https://www.20minutos.es/cataluna/mujer-fallecida-por-temporal-habia-ido-con-su-marido-hija-ver-baloncesto-fue-arrastrada-por-riera-salida_7050185_0.html",
@@ -1725,18 +1809,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T15:08:40.000Z"
-    },
-    {
-      "id": "b23ce3affe17",
-      "title": "Terapias a caballo para personas con diversidad funcional: «Esto nos ha dado la vida»",
-      "link": "https://www.abc.es/espana/madrid/terapias-caballo-mejorar-dia-dia-personas-dado-20261001010716-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/espana/2026/10/01/clase-R1tWZ2g9XpQiIqDSZ1qDBjO-1200x840@diario_abc.jpg",
-      "snippet": "La emoción de Nacho al llegar a las instalaciones de la asociación Al Paso se percibe antes incluso de que comience la sesión. Tiene 19 años y lleva más de doce acudiendo a esta as",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T14:59:02.000Z"
     },
     {
       "id": "f369baf2b4b7",
@@ -1835,18 +1907,6 @@
       "isoDate": "2026-10-18T14:32:34.000Z"
     },
     {
-      "id": "d350963ddb85",
-      "title": "Davidovich puede con todo: resiste a un gran Jódar y levanta en Shanghái su primer Masters 1.000",
-      "link": "https://www.abc.es/deportes/tenis/davidovich-puede-resiste-gran-jodar-levanta-shanghai-20261018131722-nt.html",
-      "image": "https://s1.abcstatics.com/abc/www/multimedia/deportes/2026/10/18/davidovich-reuters-trofeo-RPWuUZ7N6b11Y1OfSMWBYBO-1200x840@diario_abc.JPG",
-      "snippet": "Pasa el tenis nacional español masculino de no haber podido nunca levantar el trofeo del Masters 1.000 de Shanghái a tener un enorme campeón, Alejandro Davidovich , y un enorme fin",
-      "source": "ABC",
-      "sourceId": "abc",
-      "country": "ES",
-      "countryLabel": "España",
-      "isoDate": "2026-10-18T14:23:56.000Z"
-    },
-    {
       "id": "e7c94c6b02bc",
       "title": "Primera muerte por el paso de Adam: Ibiza, Formentera, Mallorca y parte de Valencia y Alicante cancelan clases",
       "link": "https://es.euronews.com/2026/10/18/el-litorial-sur-de-valencia-en-vilo-por-adam-la-dana-podria-dejar-acumulados-de-300-mm-en-",
@@ -1893,18 +1953,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-10-18T13:30:00.000Z"
-    },
-    {
-      "id": "40c613c45a89",
-      "title": "Alejandro Davidovich Fokina le remonta a Rafael Jódar y se transforma en el primer español en ganar el Masters de Shanghái",
-      "link": "https://www.latercera.com/el-deportivo/noticia/alejandro-davidovich-fokina-le-remonta-a-rafael-jodar-y-se-transforma-en-el-primer-espanol-en-ganar-el-masters-de-shanghai/",
-      "image": "https://www.latercera.com/resizer/v2/IVGYFLGAI5BDNHJSQTVBQ5JTK4.jpg?auth=cf2b10ee84dba1c297527f4118280d3abd601a1f6f2956a2a04fa2ebd05e3fd7&smart=true&width=1920&height=1080",
-      "snippet": "El malagueño se impuso por 1-6, 7-6(5) y 6-4 para conseguir su tercera corona de la temporada, y una inédita para el tenis español.",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T13:20:02.000Z"
     },
     {
       "id": "4f74987aa7e8",
@@ -1970,7 +2018,7 @@
       "id": "88cf2966b721",
       "title": "Temporal en Catalunya, Valencia y Baleares, última hora en directo | Alerta roja por lluvias, clases suspendidas y 19 comarcas catalanas en riesgo",
       "link": "https://www.lavanguardia.com/vida/20261018/11661863/lluvias-torrenciales-temporal-dana-catalunya-valencia-baleares-ultima-hora-hoy-en-directo.html",
-      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/18/6ad4a34401d25.jpeg",
+      "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/18/6ad526d431540.jpeg",
       "snippet": "Adif suspende la circulación ferroviaria en varios tramos de la Comunitat Valenciana y Protección Civil envía nuevos mensajes Es-Alert a Mallorca, Ibiza y Formentera ante el riesgo",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
@@ -1989,18 +2037,6 @@
       "country": "INT",
       "countryLabel": "Internacional",
       "isoDate": "2026-10-18T12:38:13.000Z"
-    },
-    {
-      "id": "65adea67801f",
-      "title": "Así se modernizó el 'clan del Golfo': capturan en Urabá a cabecilla que usaba internet Starlink para coordinar extorsiones",
-      "link": "https://www.eltiempo.com/colombia/medellin/asi-se-modernizo-el-clan-del-golfo-capturan-en-uraba-a-cabecilla-que-usaba-internet-starlink-para-coordinar-extorsiones-3594388",
-      "image": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/18/6ad4b81cd258b.jpeg",
-      "snippet": "En un operativo de la Fuerza Pública fue neutralizado alias Eliécer, líder de la subestructura 'Carlos Vásquez' en zona rural de Carepa.",
-      "source": "El Tiempo",
-      "sourceId": "eltiempo",
-      "country": "CO",
-      "countryLabel": "Colombia",
-      "isoDate": "2026-10-18T12:26:45.000Z"
     },
     {
       "id": "ea466ca9042d",
@@ -2049,18 +2085,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T12:07:55.000Z"
-    },
-    {
-      "id": "2d401b2a7541",
-      "title": "En directo: Macron condena la violencia y anuncia una unidad de crisis para apoyar a los afectados",
-      "link": "https://www.france24.com/es/francia/20261018-en-directo-unos-1-500-comerciantes-afectados-por-los-disturbios-en-francia-seg%C3%BAn-la-federaci%C3%B3n-del-comercio",
-      "image": "https://s.france24.com/media/display/65d6e4e8-cb23-11f1-a601-2d1c143cdef3/w:1024/p:16x9/2026-10-18T183457Z-1777343427-RC2U5OAGNYMW-RTRMADP-3-FRANCE-PROTEST.jpg",
-      "snippet": "El presidente Emmanuel Macron se dirige a los franceses este domingo tras los saqueos y destrozos registrados durante las protestas del sábado, que dejaron unos 1.500 comerciantes ",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-10-18T12:03:26.000Z"
     },
     {
       "id": "177271fe939c",
@@ -2171,18 +2195,6 @@
       "isoDate": "2026-10-18T10:24:19.000Z"
     },
     {
-      "id": "7d72d9410f33",
-      "title": "PriceSmart pone a prueba su modelo y adelanta los precios de sus membrecías: “Todo lo nuevo toma tiempo”",
-      "link": "https://www.latercera.com/pulso/noticia/pricesmart-pone-a-prueba-su-modelo-de-membrecias-es-un-desafio-porque-es-nuevo-y-todo-lo-nuevo-toma-tiempo/",
-      "image": "https://www.latercera.com/resizer/v2/4SZFWTKY5ZDPBFC5SXR2JUWGJY.jpeg?auth=717a22aea037978fb867423f79aab7e4572a800bc9d99c260dfd1925a467ee18&smart=true&width=2400&height=1600",
-      "snippet": "La firma lanzará en los próximos días los precios anuales para ser socio de la cadena de membrecía. El gerente general de PriceSmart en Chile, Juan Pablo Valdés, dirige la filial l",
-      "source": "La Tercera",
-      "sourceId": "latercera",
-      "country": "CL",
-      "countryLabel": "Chile",
-      "isoDate": "2026-10-18T10:00:00.000Z"
-    },
-    {
       "id": "5438796844a3",
       "title": "\"Un acto de violencia grave\": condenan ataque de colonos israelíes contra diplomáticos europeos en Cisjordania",
       "link": "https://www.bbc.com/mundo/articles/cq9vzdedy0wdo?at_medium=RSS&at_campaign=rss",
@@ -2195,11 +2207,11 @@
       "isoDate": "2026-10-18T09:59:17.000Z"
     },
     {
-      "id": "388761d7192e",
-      "title": "Mourinho revoluciona el once en el Bernabéu para recibir al Sevilla",
+      "id": "2f68b0278cfb",
+      "title": "Noche de golazos en el Bernabéu: Mbappé y Güler guían al Madrid con dos goles para el recuerdo",
       "link": "https://www.20minutos.es/deportes/futbol/real-madrid-sevilla-directo-ultima-hora-goles-resultado-jornada-9-laliga_7050120_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad496b0366ad3-79208471.png",
-      "snippet": "Ambos equipos se medirán este domingo 18 de octubre desde las 21:00 horas en el Santiago Bernabéu.",
+      "snippet": "Ambos equipos se medirán este domingo 18 de octubre desde las 21:00 horas en el Santiago Bernabéu. Arda Güler y Mbappé pusieron al Madrid 2-0 arriba al descanso.",
       "source": "20minutos",
       "sourceId": "20minutos",
       "country": "ES",
@@ -2235,7 +2247,7 @@
       "title": "Los disturbios vuelven a París en plena conmoción por los destrozos del sábado",
       "link": "https://www.lavanguardia.com/internacional/20261018/11661928/conmocion-francia-magnitud-destrozos-criticas-gobierno.html",
       "image": "https://www.lavanguardia.com/files/og_thumbnail/uploads/2026/10/18/6ad4a58071e7f.jpeg",
-      "snippet": "Críticas al Gobierno por no frenar la violencia y el pillaje en las ciudades francesas, con un saldo de 2.000 detenidos",
+      "snippet": "Críticas al Gobierno por no frenar la violencia y el pillaje en las ciudades francesas, con un saldo de 2.400 detenidos",
       "source": "La Vanguardia",
       "sourceId": "lavanguardia",
       "country": "ES",
@@ -2447,8 +2459,8 @@
       "isoDate": "2026-10-18T08:02:00.000Z"
     },
     {
-      "id": "4926d16684a7",
-      "title": "Manifestantes se ensañan contra pequeños comercios en la violenta jornada de protestas en París: \"¿Por qué hacéis esto?\"",
+      "id": "bab41ef4b028",
+      "title": "Así se ensañaron los manifestantes contra los pequeños comercios en la violenta jornada de protestas en Francia: \"¿Por qué hacéis esto?\"",
       "link": "https://www.20minutos.es/internacional/asi-ensanaron-manifestantes-contra-pequenos-comercios-violenta-jornada-protestas-francia_7050094_0.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad471537f77b5-15926879.jpeg",
       "snippet": "Manifestantes extremistas se cebaron no sólo con las grandes superficies, sino que no discriminaron y arrasaron también pequeñas tiendas.",
@@ -2651,18 +2663,6 @@
       "isoDate": "2026-10-18T03:30:00.000Z"
     },
     {
-      "id": "1ef5e72accc0",
-      "title": "Nuevo ataque de colonos israelíes en Cisjordania: víctimas habían parte de convoy de la UE",
-      "link": "https://www.france24.com/es/video/20261018-nuevo-ataque-de-colonos-israel%C3%ADes-en-cisjordania-v%C3%ADctimas-hab%C3%ADan-parte-de-convoy-de-la-ue",
-      "image": "https://s.france24.com/media/display/402aa9ec-caa0-11f1-a84d-d1d2c32ebb87/w:1024/p:16x9/ES-20261017-210724-210904-CS.jpg",
-      "snippet": "Colonos israelíes atacaron un convoy de diplomáticos europeos que realizaban una visita a la Cisjordania ocupada y propinaron una paliza a un alcalde francés que se encontraba allí",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-10-18T03:17:03.000Z"
-    },
-    {
       "id": "a6ffbfa9a545",
       "title": "Pensiones públicas: “petadas” desde hace 60 años",
       "link": "https://www.lavanguardia.com/economia/20261018/11661563/pensiones-publicas-petadas-60-anos.html",
@@ -2673,18 +2673,6 @@
       "country": "ES",
       "countryLabel": "España",
       "isoDate": "2026-10-18T03:00:00.000Z"
-    },
-    {
-      "id": "37e5ffcf8330",
-      "title": "¿Por qué Trump ordenó la suspensión de varias sanciones contra Rusia?",
-      "link": "https://www.france24.com/es/video/20261018-por-qu%C3%A9-trump-orden%C3%B3-la-suspensi%C3%B3n-de-varias-sanciones-contra-rusia",
-      "image": "https://s.france24.com/media/display/126f4de2-ca95-11f1-9d89-2d1c143cdef3/w:1024/p:16x9/ES-20261017-190700-191144-CS.jpg",
-      "snippet": "De cara a las midterms, el presidente de Estados Unidos, Donald Trump, firmó una orden ejecutiva que suspende de forma temporal varias sanciones que pesaban sobre Rusia alegando in",
-      "source": "France 24 Español",
-      "sourceId": "france24",
-      "country": "INT",
-      "countryLabel": "Internacional",
-      "isoDate": "2026-10-18T02:57:46.000Z"
     },
     {
       "id": "2135bbd393f5",
@@ -2721,6 +2709,18 @@
       "country": "MX",
       "countryLabel": "México",
       "isoDate": "2026-10-18T00:05:19.000Z"
+    },
+    {
+      "id": "4c9b67928e7b",
+      "title": "Un torneo de ensueño: los Cóndores juveniles arrasan con Bélgica y son campeones planetarios en el World Rugby U20 Challenger",
+      "link": "https://www.latercera.com/el-deportivo/noticia/un-torneo-de-ensueno-los-condores-juveniles-arrasan-con-belgica-y-son-campeones-planetarios-en-el-world-rugby-u20/",
+      "image": "https://www.latercera.com/resizer/v2/OEMBAPNFBVDRVKBQR7K5LP6W6E.jpg?auth=b10732d96702c7afd08ce6b2d646e757c189242c3810b3cb2d6fca65cd9aa5cc&smart=true&width=2048&height=1365",
+      "snippet": "El plantel chileno venció sin miramientos por 30-17 al conjunto europeo, en un repleto CARR del Parque Mahuida. Sumado a los aplastantes triunfos sobre Hong Kong China, Rumania y B",
+      "source": "La Tercera",
+      "sourceId": "latercera",
+      "country": "CL",
+      "countryLabel": "Chile",
+      "isoDate": "2026-10-17T23:54:13.000Z"
     },
     {
       "id": "d09a649f380a",
@@ -2855,8 +2855,8 @@
       "isoDate": "2026-10-17T16:25:00.000Z"
     },
     {
-      "id": "25d4f260547b",
-      "title": "Temporal en España: una mujer muerta en Cataluña, y máxima alerta en otras cinco Comunidades",
+      "id": "6393810c8742",
+      "title": "DANA Adam, temporal de lluvia en España, en directo | Una mujer muerta en Cataluña y máxima alerta en Comunidad Valenciana, Andalucía, Murcia, Extremadura y Baleares",
       "link": "https://www.20minutos.es/nacional/temporal-lluvia-espana-hoy-directo-comunidad-valenciana-cataluna-murcia-almeria-alerta-las-proximas-horas_7050013_6.html",
       "image": "https://imagenes.20minutos.es/files/image_1920_1080/uploads/imagenes/2026/10/18/6ad4db59276cf1-58324039.jpeg",
       "snippet": "La dana Adam ha activado las alertas en varios puntos de la Península y se espera que sus efectos duren varios días.",
